@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal de Notícias</title>
+    <!-- Carrega o Tailwind CSS para estilização rápida e responsiva -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Define a fonte padrão para o projeto */
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f3f4f6; /* Fundo cinza claro */
+        }
+    </style>
+</head>
+<body class="flex flex-col min-h-screen">
+
+    <!-- Cabeçalho do site -->
+    <header class="bg-indigo-600 text-white shadow-lg p-6">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-3xl font-bold">Portal de Notícias</h1>
+            <nav>
+                <ul class="flex space-x-4">
+                    <li><a href="#" class="hover:text-indigo-200 transition duration-300">Início</a></li>
+                    <li><a href="#" class="hover:text-indigo-200 transition duration-300">Política</a></li>
+                    <li><a href="#" class="hover:text-indigo-200 transition duration-300">Economia</a></li>
+                    <li><a href="#" class="hover:text-indigo-200 transition duration-300">Tecnologia</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Conteúdo principal das notícias -->
+    <main class="container mx-auto flex-grow p-6">
+        <h2 class="text-4xl font-extrabold text-center text-gray-800 mb-8">Últimas Notícias</h2>
+        <div id="news-container" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+            <!-- Os cartões de notícias serão inseridos aqui pelo JavaScript -->
+            <!-- Adicionado um parágrafo para exibir mensagens de status -->
+            <p id="status-message" class="text-center text-gray-500 text-xl col-span-full">Carregando notícias...</p>
+        </div>
+    </main>
+
+    <!-- Rodapé do site -->
+    <footer class="bg-gray-800 text-white p-6 mt-8">
+        <div class="container mx-auto text-center">
+            <p>&copy; 2024 Portal de Notícias. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <!-- Script JavaScript para carregar as notícias -->
+    <script>
+        // Função para renderizar as notícias na página
+        function renderNews(news) {
+            const newsContainer = document.getElementById('news-container');
+            newsContainer.innerHTML = ''; // Limpa o conteúdo anterior
+
+            // Se não houver notícias, exibe uma mensagem
+            if (news.length === 0) {
+                newsContainer.innerHTML = `<p class="text-center text-gray-500 text-xl col-span-full">Nenhuma notícia encontrada.</p>`;
+                return;
+            }
+
+            // Itera sobre o array de notícias
+            news.forEach(article => {
+                // Cria um novo elemento div para o cartão de notícia
+                const newsCard = document.createElement('div');
+                newsCard.classList.add('bg-white', 'rounded-xl', 'overflow-hidden', 'shadow-2xl', 'hover:shadow-indigo-400', 'transition-all', 'duration-300', 'transform', 'hover:-translate-y-2');
+
+                // Define a URL da imagem. Se o artigo tiver uma, usa-a. Caso contrário, usa um placeholder.
+                const imageUrl = article.image || `https://placehold.co/600x400/3b82f6/ffffff?text=${encodeURIComponent(article.fonte)}`;
+
+                // Define o conteúdo HTML interno do cartão
+                newsCard.innerHTML = `
+                    <img src="${imageUrl}" alt="Imagem da notícia" class="w-full h-48 object-cover">
+                    <div class="p-6">
+                        <h3 class="text-2xl font-bold text-gray-900 mb-2">${article.titulo}</h3>
+                        <p class="text-gray-600 mb-4">Fonte: ${article.fonte}</p>
+                        <p class="text-sm text-gray-500">${article.data}</p>
+                        <a href="${article.link}" target="_blank" class="text-indigo-600 hover:text-indigo-800 transition duration-300 font-semibold mt-4 inline-block">Leia mais...</a>
+                    </div>
+                `;
+
+                // Adiciona o cartão ao contêiner de notícias
+                newsContainer.appendChild(newsCard);
+            });
+        }
+
+        // Evento que garante que o script só será executado após o carregamento completo do DOM
+        document.addEventListener('DOMContentLoaded', () => {
+            const statusMessage = document.getElementById('status-message');
+
+            // Usa fetch() para carregar o arquivo JSON gerado pelo seu bot
+            // O caminho foi alterado para um caminho absoluto para maior compatibilidade.
+            fetch('/noticias/todas_as_noticias.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Erro ${response.status}: ${response.statusText}. Verifique se o arquivo existe e se o bot foi executado.`);
+                    }
+                    return response.json();
+                })
+                .then(data => renderNews(data))
+                .catch(error => {
+                    console.error('Erro ao carregar as notícias:', error);
+                    const newsContainer = document.getElementById('news-container');
+                    newsContainer.innerHTML = '';
+                    statusMessage.textContent = `Erro: ${error.message}`;
+                    statusMessage.classList.add('text-red-500');
+                    statusMessage.classList.remove('text-gray-500');
+                });
+        });
+    </script>
+
+</body>
+</html>

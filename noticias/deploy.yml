@@ -1,0 +1,117 @@
+name: Deploy Notícias
+
+# Executa este job toda vez que houver um push na branch main
+# e também a cada 3 horas (usando cron)
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # A cada 3 horas (03:00, 06:00, 09:00, etc.)
+    - cron: '0 */3 * * *' 
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Python bot to collect news
+        run: python coletor.py
+
+      - name: Create `index.html` (for the website)
+        run: |
+          cat > index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="pt-BR">
+          <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>Portal de Notícias</title>
+              <!-- Carrega o Tailwind CSS para estilização rápida e responsiva -->
+              <script src="https://cdn.tailwindcss.com"></script>
+              <style>
+                  body { font-family: 'Inter', sans-serif; background-color: #f3f4f6; }
+              </style>
+          </head>
+          <body class="flex flex-col min-h-screen">
+              <header class="bg-indigo-600 text-white shadow-lg p-6">
+                  <div class="container mx-auto flex justify-between items-center">
+                      <h1 class="text-3xl font-bold">Portal de Notícias</h1>
+                  </div>
+              </header>
+              <main class="container mx-auto flex-grow p-6">
+                  <h2 class="text-4xl font-extrabold text-center text-gray-800 mb-8">Últimas Notícias</h2>
+                  <div id="news-container" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+                      <p id="status-message" class="text-center text-gray-500 text-xl col-span-full">Carregando notícias...</p>
+                  </div>
+              </main>
+              <footer class="bg-gray-800 text-white p-6 mt-8">
+                  <div class="container mx-auto text-center">
+                      <p>&copy; 2024 Portal de Notícias. Todos os direitos reservados.</p>
+                  </div>
+              </footer>
+              <script>
+                  function renderNews(news) {
+                      const newsContainer = document.getElementById('news-container');
+                      newsContainer.innerHTML = '';
+                      if (news.length === 0) {
+                          newsContainer.innerHTML = `<p class="text-center text-gray-500 text-xl col-span-full">Nenhuma notícia encontrada.</p>`;
+                          return;
+                      }
+                      news.forEach(article => {
+                          const newsCard = document.createElement('div');
+                          newsCard.classList.add('bg-white', 'rounded-xl', 'overflow-hidden', 'shadow-2xl', 'hover:shadow-indigo-400', 'transition-all', 'duration-300', 'transform', 'hover:-translate-y-2');
+                          const imageUrl = article.image || `https://placehold.co/600x400/3b82f6/ffffff?text=${encodeURIComponent(article.fonte)}`;
+                          newsCard.innerHTML = `
+                              <img src="${imageUrl}" alt="Imagem da notícia" class="w-full h-48 object-cover">
+                              <div class="p-6">
+                                  <h3 class="text-2xl font-bold text-gray-900 mb-2">${article.titulo}</h3>
+                                  <p class="text-gray-600 mb-4">Fonte: ${article.fonte}</p>
+                                  <p class="text-sm text-gray-500">${article.data}</p>
+                                  <a href="${article.link}" target="_blank" class="text-indigo-600 hover:text-indigo-800 transition duration-300 font-semibold mt-4 inline-block">Leia mais...</a>
+                              </div>
+                          `;
+                          newsContainer.appendChild(newsCard);
+                      });
+                  }
+                  document.addEventListener('DOMContentLoaded', () => {
+                      const statusMessage = document.getElementById('status-message');
+                      fetch('noticias/todas_as_noticias.json')
+                          .then(response => {
+                              if (!response.ok) {
+                                  throw new Error(`Erro ${response.status}: ${response.statusText}. Verifique se o arquivo existe.`);
+                              }
+                              return response.json();
+                          })
+                          .then(data => renderNews(data))
+                          .catch(error => {
+                              console.error('Erro ao carregar as notícias:', error);
+                              const newsContainer = document.getElementById('news-container');
+                              newsContainer.innerHTML = '';
+                              statusMessage.textContent = `Erro: ${error.message}`;
+                              statusMessage.classList.add('text-red-500');
+                              statusMessage.classList.remove('text-gray-500');
+                          });
+                  });
+              </script>
+          </body>
+          </html>
+          EOF
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
