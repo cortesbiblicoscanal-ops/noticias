@@ -21,16 +21,17 @@ jobs:
         with:
           python-version: '3.x'
           
-      - name: Change to 'noticias' directory
-        run: cd noticias
-
       - name: Install dependencies
+        # Agora o comando 'cd noticias' é executado antes da instalação
+      - name: Install dependencies from 'noticias' folder
         run: |
+          cd noticias
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
       - name: Run Python bot to collect news
-        run: python coletor.py
+        # O bot também é executado a partir da pasta 'noticias'
+        run: python noticias/coletor.py
         
       - name: Create `index.html` (for the website)
         run: |
@@ -117,4 +118,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
-
