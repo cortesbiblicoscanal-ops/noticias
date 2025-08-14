@@ -307,7 +307,5 @@ if __name__ == "__main__":
     while True:
         print("Iniciando a coleta de notícias...")
         main()
-        
-        tempo_em_segundos = 3 * 60 * 60
         print(f"Coleta concluída. O bot irá pausar por 3 horas e depois rodará novamente...")
-        time.sleep(tempo_em_segundos)
+        
