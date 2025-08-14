@@ -22,8 +22,7 @@ jobs:
           python-version: '3.x'
           
       - name: Install dependencies
-        # Agora o comando 'cd noticias' é executado antes da instalação
-      - name: Install dependencies from 'noticias' folder
+        # O comando 'cd noticias' e a instalação agora estão no mesmo passo
         run: |
           cd noticias
           python -m pip install --upgrade pip
