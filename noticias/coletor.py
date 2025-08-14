@@ -304,8 +304,7 @@ def main():
     print("\nAs notícias foram salvas em 'noticias/todas_as_noticias.json'")
 
 if __name__ == "__main__":
-    while True:
-        print("Iniciando a coleta de notícias...")
-        main()
-        print(f"Coleta concluída. O bot irá pausar por 3 horas e depois rodará novamente...")
+    print("Iniciando a coleta de notícias...")
+    main()
+    print(f"Coleta concluída. O bot irá pausar por 3 horas e depois rodará novamente...")
         
