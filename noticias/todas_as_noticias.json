@@ -1,5 +1,45 @@
 [
     {
+        "titulo": "Chevrolet Onix 2026: o que ficou bom e o que precisa melhorar na nova versão do hatch; veja o teste",
+        "link": "https://g1.globo.com/carros/noticia/2025/08/17/chevrolet-onix-2026-o-que-ficou-bom-e-o-que-precisa-melhorar-na-nova-versao-do-hatch-veja-o-teste.ghtml",
+        "data": "17/08/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/7D7XP9_aGUv2YevivhlQw0ShAtA=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/y/q/OGNmAcQs6T80q0mftDvw/chevrolet-2026-onix-rs-01.jpg"
+    },
+    {
+        "titulo": "As investidoras que querem provar que empresas lideradas por mulheres dão mais lucro",
+        "link": "https://g1.globo.com/empreendedorismo/noticia/2025/08/17/as-investidoras-que-querem-provar-que-empresas-lideradas-por-mulheres-dao-mais-lucro.ghtml",
+        "data": "17/08/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Swe954R3h4zMeVaL5l9rjBIVD6s=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/17/41/13524117"
+    },
+    {
+        "titulo": "3 cidades do Brasil estão entre as 10 mais acolhedoras para viajantes LGBTQIA+, segundo plataforma",
+        "link": "https://g1.globo.com/turismo-e-viagem/noticia/2025/08/17/3-cidades-do-brasil-estao-entre-as-10-mais-acolhedoras-para-viajantes-lgbtqia-segundo-plataforma.ghtml",
+        "data": "17/08/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/10HD64ya_TqGLaWDbhPFc4yDPmk=/6240x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/F/y3NSqIT7SNv1igPjB4yQ/luizgabrielfranco-parada-pt2-35-1.jpg"
+    },
+    {
+        "titulo": "Homem segue desaparecido dois meses após enxurrada no RS",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/08/17/homem-segue-desaparecido-dois-meses-apos-enxurrada-no-rs.ghtml",
+        "data": "17/08/2025 04:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/zcSJwg7bEHDXJ1h3gUn5nIjACdA=/2400x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/J/T/iylaPgRPC1LP7BZh5F1Q/carrocasalencontra.jpg"
+    },
+    {
+        "titulo": "Eleições na Bolívia: fronteira com o Brasil é fechada em dia de disputa à presidência",
+        "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2025/08/17/eleicoes-na-bolivia-fronteira-com-o-brasil-e-fechada-em-dia-de-disputa-a-presidencia.ghtml",
+        "data": "17/08/2025 04:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/zAIC72jM7bwGw-MoYxNGWMZDgMM=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/g/d/fG1BSXTAGtPWOo1mKyBw/whatsapp-image-2022-04-28-at-11.45.45-1200x675.jpeg"
+    },
+    {
         "titulo": "Segurança e estilo: o porcelanato natural é uma solução completa",
         "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2025/08/17/seguranca-e-estilo-o-porcelanato-natural-e-uma-solucao-completa.ghtml",
         "data": "17/08/2025 03:02",
@@ -40,44 +80,52 @@
         "image": "https://s2-g1.glbimg.com/PUpMpSanZV2ZHutTGJydmWXET4Q=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/N/VHkGGvRaO94cHLbJHuyw/4-tecnologia-bms-e-auxiliar-na-garantia-de-bom-manejo-de-variedades-patenteadas-seiva-do-vale-vereda.png"
     },
     {
-        "titulo": "Em crise, Bolívia irá às urnas neste domingo para guinada à direita após 20 anos",
-        "link": "https://g1.globo.com/mundo/noticia/2025/08/17/em-crise-bolivia-ira-as-urnas-neste-domingo-para-guinada-a-direita-apos-20-anos.ghtml",
-        "data": "17/08/2025 03:00",
-        "fonte": "G1",
+        "titulo": "Família pede indenização de R$ 2,5 mi por morte de casal em parque no RS",
+        "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/familia-pede-indenizacao-de-r-25-mi-por-morte-de-casal-em-parque-no-rs/",
+        "data": "17/08/2025 06:33",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/f-Ef7r-qa4CBcX6Sscx_2fvdOOc=/4208x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/A/z5hM6vQPAV0oL7ycsBQQ/2025-08-14t013710z-258850104-rc2n6ga3k6sb-rtrmadp-3-bolivia-election-quiroga.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/Foto-49.png"
     },
     {
-        "titulo": "Candeia, politizado sambista que faria 90 anos, foi feito imortal pela força de obra que gera single, show e biografia",
-        "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2025/08/17/candeia-politizado-sambista-que-faria-90-anos-foi-feito-imortal-pela-forca-de-obra-que-gera-single-show-e-biografia.ghtml",
-        "data": "17/08/2025 03:00",
-        "fonte": "G1",
+        "titulo": "Enchente repentina deixa ao menos oito mortos no norte da China",
+        "link": "https://www.cnnbrasil.com.br/internacional/enchente-repentina-deixa-mortos-no-norte-da-china/",
+        "data": "17/08/2025 06:28",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/1SYGUa43oc2M3Bct1BFZS-z1-s8=/1404x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/X/3UKv54SACrLO3KgtTxAQ/candeiafoto.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2024binary_LYNXMPEK4U0WY-FILEDIMAGE.jpg"
     },
     {
-        "titulo": "Homem morre após cair durante escalada na Serra do Cipó",
-        "link": "https://g1.globo.com/mg/minas-gerais/noticia/2025/08/16/homem-morre-apos-cair-durante-escalada-na-serra-do-cipo.ghtml",
-        "data": "17/08/2025 02:46",
-        "fonte": "G1",
+        "titulo": "Trump diz que China não invadirá Taiwan enquanto ele for presidente",
+        "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-china-nao-invadira-taiwan-enquanto-ele-for-presidente/",
+        "data": "17/08/2025 05:13",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/-92UND9IZURk12sdOgE1wpHxMAE=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/3/L/JLqiBeQ7eysBpeAyH42w/serracipo.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/2025-02-04T201002Z_1_LYNXMPEL130TB_RTROPTP_4_CHINA-USA-TRUMP-XI.jpg"
     },
     {
-        "titulo": "PM que matou marceneiro negro com tiro na cabeça é preso em sua casa, em SP",
-        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/08/16/pm-que-matou-marceneiro-negro-com-tiro-na-cabeca-e-preso-em-sua-casa-em-sp.ghtml",
-        "data": "17/08/2025 02:05",
-        "fonte": "G1",
+        "titulo": "Lotofácil de Independência 2025 tem o maior prêmio da história",
+        "link": "https://www.cnnbrasil.com.br/economia/loterias/lotofacil-de-independencia-2025-tem-o-maior-premio-da-historia/",
+        "data": "17/08/2025 05:10",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/GjRyZ1QDseW5VETflmWebN8X8No=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/8/Q/Zgp1qYS2mUBV2P09nxrQ/fotojet-17-.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/01/marcelo-camargo.jpg"
     },
     {
-        "titulo": "Hytalo Santos: Justiça da Paraíba nega pedido de liberdade para influenciador e marido",
-        "link": "https://g1.globo.com/pb/paraiba/noticia/2025/08/16/justica-da-paraiba-nega-pedido-de-liberdade-hytalo-santos.ghtml",
-        "data": "17/08/2025 00:50",
-        "fonte": "G1",
+        "titulo": "Líderes europeus foram convidados para reunião entre Trump e Zelensky",
+        "link": "https://www.cnnbrasil.com.br/internacional/lideres-europeus-foram-convidados-para-reuniao-entre-trump-e-zelensky/",
+        "data": "17/08/2025 04:25",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/i871oZlLL-0HQT6G0OGYTaluvMY=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/o/GbafBBQW6qNBQsACbPEg/hytalo-santos.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/2025-02-25T215502Z_1_LYNXNPEL1O0TN_RTROPTP_4_UKRAINE-CRISIS-USA-MINERALS-e1740837002191.jpg"
+    },
+    {
+        "titulo": "Furacão Erin ganha força e se torna um dos mais rápidos da história",
+        "link": "https://www.cnnbrasil.com.br/internacional/furacao-erin-ganha-forca-e-se-torna-um-dos-mais-rapidos-da-historia/",
+        "data": "17/08/2025 03:51",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/tempestade-erin.jpg"
     },
     {
         "titulo": "Torcida do Athletico-PR atira sinalizadores no campo e jogo é encerrado",
@@ -112,52 +160,52 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/07/1-Frio-calor-e-chuva-veja-a-previsao-do-tempo-para-fevereiro-em-todo-Brasil-1-e1755348960477.jpg"
     },
     {
-        "titulo": "Di María abre o jogo sobre chances de Messi jogar a Copa do Mundo de 2026",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/di-maria-abre-o-jogo-sobre-chances-de-messi-jogar-a-copa-do-mundo-de-2026/",
-        "data": "17/08/2025 01:40",
-        "fonte": "CNN Brasil",
+        "titulo": "Em meio a vaias, Chimaev domina Du Plessis e conquista cinturão no UFC 319",
+        "link": "https://jovempan.com.br/esportes/jovem-pan-lance/em-meio-a-vaias-chimaev-domina-du-plessis-e-conquista-cinturao-no-ufc-319.html",
+        "data": "17/08/2025 06:30",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/Messi-Di-Maria-Argentina.webp"
+        "image": "https://jpimg.com.br/uploads/2025/08/chimaev-apos-vitoria-sobre-du-plessis-no-ufc-319-foto-divulgacao-ufc-1024x640.jpg"
     },
     {
-        "titulo": "Quem é Laufey, cantora que se tornou sensação nas redes sociais",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/quem-e-laufey-cantora-que-se-tornou-sensacao-nas-redes-sociais/",
-        "data": "17/08/2025 01:31",
-        "fonte": "CNN Brasil",
+        "titulo": "Torcida compara nocautes de Prates e Murphy no UFC 319: ‘Conseguiu roubar o bônus’",
+        "link": "https://jovempan.com.br/esportes/jovem-pan-lance/torcida-compara-nocautes-de-prates-e-murphy-no-ufc-319-conseguiu-roubar-o-bonus.html",
+        "data": "17/08/2025 06:00",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/Laufey.png"
+        "image": "https://jpimg.com.br/uploads/2025/08/lerone-murphy-apos-vitoria-no-ufc-319-foto-divulgacao-ufc-1024x640.jpg"
     },
     {
-        "titulo": "Alcaraz vence Zverev e encara Sinner na final do Cincinnati Open",
-        "link": "https://www.cnnbrasil.com.br/esportes/tenis/alcaraz-vence-zverev-e-encara-sinner-na-final-do-cincinnati-open/",
-        "data": "17/08/2025 01:06",
-        "fonte": "CNN Brasil",
+        "titulo": "Após polêmica por Kauê Furquim, Bahia provoca o Corinthians: ‘Triunfo oportunista’",
+        "link": "https://jovempan.com.br/esportes/jovem-pan-lance/apos-polemica-por-kaue-furquim-bahia-provoca-o-corinthians-triunfo-oportunista.html",
+        "data": "17/08/2025 05:30",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/Alcaraz-Cincinnati-e1755392697784.jpg"
+        "image": "https://jpimg.com.br/uploads/2025/08/bahia-provoca-o-corinthians-nas-redes-sociais-foto-reproducao.jpg"
     },
     {
-        "titulo": "Cidade de Gaza pede intervenção internacional contra deslocamento forçado",
-        "link": "https://www.cnnbrasil.com.br/internacional/cidade-de-gaza-pede-intervencao-internacional-contra-deslocamento-forcado/",
-        "data": "17/08/2025 00:51",
-        "fonte": "CNN Brasil",
+        "titulo": "Carlos Prates ‘humilha’ Neal em nocaute no primeiro round do UFC 319",
+        "link": "https://jovempan.com.br/esportes/jovem-pan-lance/carlos-prates-humilha-neal-em-nocaute-no-primeiro-round-do-ufc-319.html",
+        "data": "17/08/2025 05:00",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/07/2025-07-29T110442Z_1_LYNXMPEL6S0LG_RTROPTP_4_ISRAEL-PALESTINOS-GAZA-FOME.jpg"
+        "image": "https://jpimg.com.br/uploads/2025/08/carlos-prates-e-destaque-do-ufc-foto-reproducao-redes-sociais-1024x640.jpg"
     },
     {
-        "titulo": "Israel vai deslocar palestinos para o sul de Gaza para nova ofensiva",
-        "link": "https://www.cnnbrasil.com.br/internacional/israel-vai-deslocar-palestinos-para-o-sul-de-gaza-para-nova-ofensiva/",
-        "data": "17/08/2025 00:39",
-        "fonte": "CNN Brasil",
+        "titulo": "Carlos Prates se torna ‘pesadelo’ de rival em UFC 319 e web enlouquece",
+        "link": "https://jovempan.com.br/esportes/jovem-pan-lance/carlos-prates-se-torna-pesadelo-de-rival-em-ufc-319-e-web-enlouquece.html",
+        "data": "17/08/2025 04:30",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/07/gazaa.png"
+        "image": "https://jpimg.com.br/uploads/2025/08/carlos-prates-apos-vitoria-no-ufc-319-foto-divulgacao-ufc-1024x640.jpg"
     },
     {
-        "titulo": "Chefe de gabinete de Zelensky agradece Melania Trump por carta a Putin",
-        "link": "https://www.cnnbrasil.com.br/internacional/chefe-de-gabinete-de-zelensky-agradece-melania-trump-por-carta-a-putin/",
-        "data": "17/08/2025 00:20",
-        "fonte": "CNN Brasil",
+        "titulo": "Carlos Prates humilha norte-americano ainda no primeiro round do UFC 319",
+        "link": "https://jovempan.com.br/esportes/jovem-pan-lance/carlos-prates-humilha-norte-americano-ainda-no-primeiro-round-do-ufc-319.html",
+        "data": "17/08/2025 04:00",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/1683_83CE3CD4B07B365D-2.jpg"
+        "image": "https://jpimg.com.br/uploads/2025/08/carlos-prates-e-destaque-do-ufc-foto-reproducao-redes-sociais-1024x640.jpg"
     },
     {
         "titulo": "Após polêmica nos bastidores, Bahia provoca o Corinthians: ‘Triunfo oportunista’",
@@ -166,6 +214,14 @@
         "fonte": "Jovem Pan",
         "metodo": "RSS",
         "image": "https://jpimg.com.br/uploads/2025/08/bahia-provoca-o-corinthians-nas-redes-sociais-foto-reproducao.jpg"
+    },
+    {
+        "titulo": "Horóscopo do dia: previsão para os 12 signos em 17/08/2025",
+        "link": "https://jovempan.com.br/edicase/horoscopo-do-dia-previsao-para-os-12-signos-em-17-08-2025.html",
+        "data": "17/08/2025 03:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/08/horoscopo-do-dia-previsao-para-os-12-signos-em-17-08-2025-1024x683.jpg"
     },
     {
         "titulo": "Corinthians é derrotado pelo Bahia em Itaquera em jogo frenético",
@@ -184,60 +240,36 @@
         "image": "https://jpimg.com.br/uploads/2025/08/afp__20250817__2230515737__v1__highres__cincinnatiopen2025day10.jpg"
     },
     {
-        "titulo": "Zelensky diz que recusa da Rússia a um cessar-fogo na Ucrânia ‘complica a situação’ para alcançar a paz",
-        "link": "https://jovempan.com.br/noticias/mundo/zelensky-diz-que-recusa-da-russia-a-um-cessar-fogo-na-ucrania-complica-a-situacao-para-alcancar-a-paz.html",
-        "data": "17/08/2025 01:12",
-        "fonte": "Jovem Pan",
+        "titulo": "Em recado a Trump, Lula diz que planta comida, não ódio",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/08/em-recado-a-trump-lula-diz-que-planta-comida-nao-odio.shtml",
+        "data": "17/08/2025 06:02",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/05/8cba80dc54b39d7f2c349b94afd10f418b37288a.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/08/17/175541033868a16fa2f06e7_1755410338_3x2_lg.jpg"
     },
     {
-        "titulo": "Saiba quem era a traficante ‘Diaba Loira’, que morreu no Rio após trair facção",
-        "link": "https://jovempan.com.br/noticias/brasil/saiba-quem-era-a-traficante-diaba-loira-que-morreu-no-rio-apos-trair-faccao.html",
-        "data": "17/08/2025 00:37",
-        "fonte": "Jovem Pan",
+        "titulo": "Os Estados Unidos que conhecemos estão sumindo diante de nossos olhos",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/thomas-l-friedman/2025/08/os-estados-unidos-que-conhecemos-estao-sumindo-diante-de-nossos-olhos.shtml",
+        "data": "17/08/2025 05:00",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/08/diaba.png"
+        "image": "https://f.i.uol.com.br/fotografia/2025/08/16/175536237668a0b4481e60a_1755362376_3x2_rt.jpg"
     },
     {
-        "titulo": "São Paulo supera falha de goleiro estreante para buscar empate contra o Sport no Brasileirão",
-        "link": "https://jovempan.com.br/esportes/futebol/sao-paulo-supera-falha-de-goleiro-estreante-para-buscar-empate-contra-o-sport-no-brasileirao.html",
-        "data": "16/08/2025 23:53",
-        "fonte": "Jovem Pan",
+        "titulo": "PM que matou marceneiro em Parelheiros é preso em SP",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/08/pm-que-matou-marceneiro-em-parelheiros-e-preso-em-sp.shtml",
+        "data": "17/08/2025 04:33",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/08/mpp20250816008-1024x574.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/07/07/1751906017686bf6e143085_1751906017_3x2_xl.jpg"
     },
     {
-        "titulo": "Confira como foi a transmissão da Jovem Pan do jogo entre Corinthians x Bahia",
-        "link": "https://jovempan.com.br/esportes/futebol/corinthians-x-bahia-confira-a-transmissao-da-jovem-pan-ao-vivo-2.html",
-        "data": "16/08/2025 23:26",
-        "fonte": "Jovem Pan",
+        "titulo": "Proteína, bets e xaveco no recreio",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/08/proteina-bets-e-xaveco-no-recreio.shtml",
+        "data": "17/08/2025 03:48",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/08/whatsapp-image-2025-08-16-at-12.36.36-1024x576.jpeg"
-    },
-    {
-        "titulo": "Trump apoia plano de Putin e defende que Ucrânia ceda territórios para o fim da guerra",
-        "link": "https://jovempan.com.br/noticias/mundo/trump-apoia-plano-territorial-de-putin-e-defende-que-ucrania-ceda-territorios-para-o-fim-da-guerra.html",
-        "data": "16/08/2025 23:02",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/08/afp__20250815__2230343284__v1__highres__uspresidenttrumpandrussianpresidentputinmeet.jpg"
-    },
-    {
-        "titulo": "COP30 volta atrás na decisão de proibir restaurantes de servirem açaí, tacacá e maniçoba",
-        "link": "https://jovempan.com.br/noticias/sustentabilidade/cop30-volta-atras-na-decisao-de-proibir-restaurantes-de-servirem-acai-tacaca-e-manicoba.html",
-        "data": "16/08/2025 22:44",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/08/2149871580.jpg"
-    },
-    {
-        "titulo": "Justiça de São Paulo mantém Hytalo Santos e Euro presos após audiência de custódia",
-        "link": "https://jovempan.com.br/entretenimento/justica-de-sao-paulo-mantem-hytalo-santos-e-euro-presos-apos-audiencia-de-custodia.html",
-        "data": "16/08/2025 22:12",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/08/hytalo-marido-1024x567.png"
+        "image": "https://f.i.uol.com.br/fotografia/2025/08/15/1755265648689f3a70d1222_1755265648_3x2_lg.jpg"
     },
     {
         "titulo": "O xadrez de alto risco de Eduardo Bolsonaro",
@@ -286,38 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2025/07/11/175225132568713bbd7518c_1752251325_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Lilia Guerra relata acusação de furto na Flip e qualifica episódio como inacreditável",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2025/08/lilia-guerra-relata-acusacao-de-furto-na-flip-e-qualifica-episodio-como-inacreditavel.shtml",
-        "data": "17/08/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/07/31/1753997865688be229caa58_1753997865_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Há muito Brasil renuncia às vantagens do comércio global",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/08/ha-muito-brasil-renuncia-as-vantagens-do-comercio-global.shtml",
-        "data": "17/08/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/08/16/175538875768a11b55e6812_1755388757_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Processo de Bolsonaro entra na pauta em 48h, e cúpula da PM espera julgamento há 100 dias",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/08/processo-de-bolsonaro-entra-na-pauta-em-48h-e-cupula-da-pm-espera-julgamento-ha-100-dias.shtml",
-        "data": "17/08/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/06/10/1749583023684884afe8a21_1749583023_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Eleição boliviana à sombra de Morales",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/08/eleicao-boliviana-a-sombra-de-morales.shtml",
-        "data": "17/08/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/08/16/175538915068a11cdecb804_1755389150_3x2_rt.jpg"
     },
     {
         "titulo": "Zelensky diz que recusa russa a um cessar-fogo \"complica a situação\"",
@@ -402,23 +402,23 @@
     {
         "titulo": "São Paulo supera falha de goleiro estreante para buscar empate contra o Sport",
         "link": "https://www.terra.com.br/esportes/sao-paulo/sao-paulo-supera-falha-de-goleiro-estreante-para-buscar-empate-contra-o-sport-no-brasileirao,1550d32724532a4149496ab65dd502b8fn2vnz55.html",
-        "data": "17/08/2025 03:50",
+        "data": "17/08/2025 06:57",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
     },
     {
-        "titulo": "Justiça mantém prisão preventiva de Hytalo Santos e marido",
-        "link": "https://www.terra.com.br/noticias/brasil/policia/justica-mantem-prisao-preventiva-de-hytalo-santos-e-marido,dbba21e935a4ed32f870e4fdc353793eopfadb0r.html",
-        "data": "17/08/2025 03:50",
+        "titulo": "Não é sobre mim, é sobre a causa, diz Felca ao comemorar repercussão de vídeo",
+        "link": "https://www.terra.com.br/noticias/nao-e-sobre-mim-e-sobre-a-causa-diz-felca-ao-comemorar-repercussao-de-video,7fe98cd4fcd73a9f42b260ce4e8618e5m6m6vp40.html",
+        "data": "17/08/2025 06:57",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/16/hytalo-vb925pz8mdt0.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/17/captura-de-tela-2025-08-16-as-23-09-21-soel5n1onlnp.png"
     },
     {
         "titulo": "Bolsonaro deixa hospital após 5 horas de exames; laudo médico aponta gastrite e esofagite",
         "link": "https://www.terra.com.br/noticias/brasil/politica/bolsonaro-deixa-hospital-apos-5-horas-de-exames-laudo-medico-aponta-gastrite-e-esofagite,42fd6333d93f29c781f8bdf6f4500e62c76nnx5s.html",
-        "data": "17/08/2025 03:50",
+        "data": "17/08/2025 06:57",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/16/186863739-szrpmuxi3ngjnezenvhnbi5754.jpg"
@@ -426,7 +426,7 @@
     {
         "titulo": "Saul Klein cita cirurgia e diz não ter 'recursos' em meio a disputa por herança",
         "link": "https://www.terra.com.br/economia/saul-klein-diz-nao-ter-recurso-e-que-e-financiado-por-socio-em-meio-a-disputa-por-heranca,af8eeac000d389ab0a7a5934c71021bapmb7zz84.html",
-        "data": "17/08/2025 03:50",
+        "data": "17/08/2025 06:57",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2022/03/25/340687926-5fec7b1dbd955.jpeg"
@@ -434,7 +434,7 @@
     {
         "titulo": "'Papai, não sou bandido', disse criança após ser atingida por bala perdida em escola",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/menino-de-7-anos-e-atingido-por-bala-perdida-em-escola-no-rio-papai-nao-sou-bandido,eb01fb53e643faf5c5b684c2afa11330htlt2b9o.html",
-        "data": "17/08/2025 03:50",
+        "data": "17/08/2025 06:57",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/16/escola-menino-baleado-1iyi9noh60eaq.png"
@@ -442,7 +442,7 @@
     {
         "titulo": "Trump defende que Ucrânia ceda territórios: 'Rússia é uma potência, eles não'",
         "link": "https://www.terra.com.br/noticias/mundo/trump-defende-que-ucrania-ceda-territorios-para-o-fim-da-guerra-a-russia-e-uma-potencia-eles-nao,7d8b2f038260e79bd4d7260245443ed54vsb5poy.html",
-        "data": "17/08/2025 03:50",
+        "data": "17/08/2025 06:57",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/16/trump-e-putin-1jym2r02arxh5.jpg"
@@ -450,23 +450,23 @@
     {
         "titulo": "Michelle chama Lula de 'cachaceiro' e ironiza vistos cancelados: \"Vai para o Beto Carrero\"",
         "link": "https://www.terra.com.br/noticias/michelle-bolsonaro-chama-lula-de-cachaceiro-e-ironiza-vistos-americanos-cancelados-vai-para-o-beto-carrero,b040ef30a7ca277200088e89435df7d6l0jo4go7.html",
-        "data": "17/08/2025 03:50",
+        "data": "17/08/2025 06:57",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/16/michelle-1-veyo03v9asf6.jpg"
     },
     {
-        "titulo": "Idosa é encontrada por filho em matagal após 3 dias desaparecida em Bertioga",
-        "link": "https://www.terra.com.br/noticias/brasil/policia/idosa-e-encontrada-por-filho-em-matagal-apos-3-dias-desaparecida-em-bertioga-sp,e946ba0b1865eb5a92a4692628347ea84vol5bup.html",
-        "data": "17/08/2025 03:50",
+        "titulo": "PM que matou marceneiro com tiro na cabeça é preso preventivamente",
+        "link": "https://www.terra.com.br/noticias/brasil/cidades/pm-que-matou-marceneiro-com-tiro-na-cabeca-e-preso-preventivamente,8648959858606dd582af7bc2e7809b10paevjkc7.html",
+        "data": "17/08/2025 06:57",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/16/angelabertioga-1h7x1bsqyhs2q.png"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/07/12/screenshot-2025-07-12t114531-235-skyesi7gn78i.png"
     },
     {
         "titulo": "São Paulo vence Ferroviária nos pênaltis e avança à semifinal",
         "link": "https://www.terra.com.br/esportes/futebol/futebol-feminino/sao-paulo-vence-ferroviaria-nos-penaltis-e-avanca-a-semi-do-brasileirao-feminino,b5d3464c3c0b6d73f98bde70b5818ffe3gojis0q.html",
-        "data": "17/08/2025 03:50",
+        "data": "17/08/2025 06:57",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/16/5e647526-t4w7jkil9cva.JPG"
@@ -474,7 +474,7 @@
     {
         "titulo": "Haaland e Reijnders comandam goleada do City sobre o Wolverhampton",
         "link": "https://www.terra.com.br/esportes/futebol/internacional/haaland-e-reijnders-comandam-goleada-do-city-sobre-o-wolverhampton,497af11510b1a96efc0c6263d12e1cc1m6f27m8q.html",
-        "data": "17/08/2025 03:50",
+        "data": "17/08/2025 06:57",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/16/1045770010-wolverhampton-x-manchester-cityeasy-resizecom-1-610x400.jpg"
