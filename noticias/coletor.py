@@ -175,7 +175,7 @@ def capturar_rss(config, data_do_dia):
         noticias = []              
         
         if feed.entries:
-            for entry in feed.entries[:5]:
+            for entry in feed.entries[:10]:
                 data_publicacao = entry.get('published_parsed')
                 if data_publicacao:
                     # Converte a data do feed (assumida como UTC) para o fuso horário local
@@ -221,7 +221,7 @@ def capturar_web_scraping(config, **kwargs):
         noticias_elementos = soup.select(seletores["noticia_bloco"])
         
         noticias = []
-        for elemento in noticias_elementos[:5]:
+        for elemento in noticias_elementos[:10]:
             if seletores['link']:
                 link_elemento = elemento.select_one(seletores['link'])
                 titulo_elemento = elemento.select_one(seletores['titulo'])
@@ -335,3 +335,4 @@ if __name__ == "__main__":
     print("Iniciando a coleta de notícias...")
     main()
     print(f"Coleta concluída. O bot irá pausar por 3 horas e depois rodará novamente...")
+
