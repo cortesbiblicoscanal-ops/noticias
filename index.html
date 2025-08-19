@@ -98,7 +98,9 @@
         document.addEventListener('DOMContentLoaded', () => {
             const statusMessage = document.getElementById('status-message');
             const newsSourceSelector = document.getElementById('news-source');
-            fetch('noticias/todas_as_noticias.json')
+            // Adiciona um timestamp para evitar o cache do navegador
+            const cacheBuster = `?timestamp=${Date.now()}`;
+            fetch(`noticias/todas_as_noticias.json${cacheBuster}`)
                 .then(response => {
                     if (!response.ok) {
                         throw new Error(`Erro ${response.status}: ${response.statusText}. Verifique se o arquivo existe.`);
