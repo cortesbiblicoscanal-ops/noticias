@@ -9,13 +9,9 @@ on:
 
 jobs:
   build-and-deploy:
-    environment:
-      name: github-pages
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-      pages: write
-      id-token: write
+      contents: write # Permite que o workflow escreva no repositório
 
     steps:
       - name: Checkout code
@@ -77,7 +73,7 @@ jobs:
               </main>
               <footer class="bg-gray-800 text-white p-6 mt-8">
                   <div class="container mx-auto text-center">
-                      <p>&copy; 2025 Portal de Notícias. Todos os direitos reservados.</p>
+                      <p>&copy; 2024 Portal de Notícias. Todos os direitos reservados.</p>
                   </div>
               </footer>
               <script>
@@ -172,14 +168,8 @@ jobs:
           mv index.html dist/
           mv noticias dist/
       
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Deploy to GitHub Pages (Legacy Method)
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          path: ./dist
-          
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
