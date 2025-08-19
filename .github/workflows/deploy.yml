@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 */3 * * *'  # Roda a cada 3 horas
+    - cron: '0 */3 * * *'
 
 jobs:
   build-and-deploy:
@@ -21,19 +21,14 @@ jobs:
         with:
           python-version: '3.x'
           
-      - name: Install dependencies
-        # Entra na pasta do bot para instalar as dependências
+      - name: Install dependencies and run bot
         run: |
           cd noticias
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          
-      - name: Run Python bot to collect news
-        # Executa o bot coletor de notícias dentro da pasta 'noticias'
-        run: python coletor.py
+          python coletor.py
         
       - name: Create `index.html` (for the website)
-        # Este passo cria o arquivo HTML com todo o código atualizado
         run: |
           cat > index.html << 'EOF'
           <!DOCTYPE html>
