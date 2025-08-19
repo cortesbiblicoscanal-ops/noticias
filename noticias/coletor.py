@@ -31,7 +31,7 @@ CONFIGURACOES = [
             "titulo": "h2",
             "link": ""
         }
-    },   
+    },  
     {  
         "nome": "Jovem Pan", 
         "rss_url": "https://jovempan.com.br/feed", 
@@ -141,11 +141,27 @@ user_agents = [
 def get_random_user_agent():
     return random.choice(user_agents)
 
+def get_current_time_from_api(api_url="https://api-data-hora-python.onrender.com/data-hora"):
+    """
+    Chama a API de data e hora para obter a data e hora local.
+    Retorna a string de data formatada ou None em caso de erro.
+    """
+    try:
+        response = requests.get(api_url, timeout=10)
+        response.raise_for_status() # Lança um erro para códigos de status HTTP ruins
+        data = response.json()
+        return data.get('data_formatada')
+    except requests.exceptions.RequestException as e:
+        print(f"Erro ao conectar na API de data e hora: {e}")
+        return None
+
 # --- Funções de Captura ---
 
-
-def capturar_rss(config):
-    """Tenta capturar notícias via feed RSS e ajusta o fuso horário."""
+def capturar_rss(config, data_do_dia):
+    """
+    Tenta capturar notícias via feed RSS. Se a data da notícia não estiver disponível,
+    usa a data e hora fornecidas pela API.
+    """
     nome = config["nome"]
     url_rss = config["rss_url"]
     
@@ -156,10 +172,10 @@ def capturar_rss(config):
     try:
         print(f"[{nome}] Tentando usar RSS...")
         feed = feedparser.parse(url_rss)
-        noticias = []  
-                 
+        noticias = []              
+        
         if feed.entries:
-            for entry in feed.entries[:10]:
+            for entry in feed.entries[:5]:
                 data_publicacao = entry.get('published_parsed')
                 if data_publicacao:
                     # Converte a data do feed (assumida como UTC) para o fuso horário local
@@ -167,7 +183,8 @@ def capturar_rss(config):
                     data_local = data_utc.astimezone(tzlocal())
                     data_formatada = data_local.strftime("%d/%m/%Y %H:%M")
                 else:
-                    data_formatada = "Data não disponível"
+                    # Se a data não estiver no RSS, usa a data da API
+                    data_formatada = data_do_dia
 
                 noticias.append({
                     "titulo": entry.title,
@@ -182,12 +199,17 @@ def capturar_rss(config):
         print(f"[{nome}] Erro ao processar o feed RSS: {e}")
         return []
 
-def capturar_web_scraping(config):
+def capturar_web_scraping(config, **kwargs):
     """Tenta capturar notícias via Web Scraping."""
     nome = config["nome"]
     url_site = config["site_url"]
     seletores = config["seletores"]
     
+    # Obtém a data_atual da variável passada por kwargs, ou usa o fallback
+    data_atual = kwargs.get('data_atual')
+    if not data_atual:
+        data_atual = datetime.now().strftime("%d/%m/%Y %H:%M")
+
     print(f"[{nome}] Tentando usar Web Scraping...")
     try:
         headers = {'User-Agent': get_random_user_agent()}
@@ -199,7 +221,7 @@ def capturar_web_scraping(config):
         noticias_elementos = soup.select(seletores["noticia_bloco"])
         
         noticias = []
-        for elemento in noticias_elementos[:10]:
+        for elemento in noticias_elementos[:5]:
             if seletores['link']:
                 link_elemento = elemento.select_one(seletores['link'])
                 titulo_elemento = elemento.select_one(seletores['titulo'])
@@ -213,9 +235,6 @@ def capturar_web_scraping(config):
                 if not link.startswith('http'):
                     link = url_site + link
                 
-                # Para web scraping, vamos definir a data e hora locais atuais
-                data_atual = datetime.now().strftime("%d/%m/%Y %H:%M")
-
                 noticias.append({
                     "titulo": titulo,
                     "link": link,
@@ -268,12 +287,21 @@ def extrair_imagem_da_noticia(url):
 
 def main():
     todas_noticias = []
+
+    # Chama a API de data e hora apenas uma vez, no início
+    print("Obtendo data e hora da API...")
+    data_do_dia = get_current_time_from_api()
+    if not data_do_dia:
+        print("Falha ao obter data da API. Usando data e hora locais do sistema.")
+        data_do_dia = datetime.now().strftime("%d/%m/%Y %H:%M")
     
     for config in CONFIGURACOES:
-        noticias_encontradas = capturar_rss(config)
+        # Passa a data e hora obtida para as funções de captura
+        noticias_encontradas = capturar_rss(config, data_do_dia)
         
         if not noticias_encontradas:
-            noticias_encontradas = capturar_web_scraping(config)
+            # Se RSS falhar, tenta Web Scraping, passando a mesma data
+            noticias_encontradas = capturar_web_scraping(config, data_atual=data_do_dia)
             
         # Adiciona a extração da imagem para cada notícia
         for noticia in noticias_encontradas:
@@ -307,5 +335,3 @@ if __name__ == "__main__":
     print("Iniciando a coleta de notícias...")
     main()
     print(f"Coleta concluída. O bot irá pausar por 3 horas e depois rodará novamente...")
-        
-
