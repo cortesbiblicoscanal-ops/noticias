@@ -80,6 +80,38 @@
         "image": "https://s2-g1.glbimg.com/mq8HU-kuGO9UgbR0xreaaaqgrRE=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/13852603.jpg"
     },
     {
+        "titulo": "iPhone 17: o que esperar do lançamento da Apple",
+        "link": "https://www.cnnbrasil.com.br/tecnologia/iphone-17-o-que-esperar-do-lancamento-da-apple/",
+        "data": "19/08/2025 02:02",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/07/iphone-17.jpg"
+    },
+    {
+        "titulo": "GWM confirma lançamento do Wey 07 para outubro; conheça o SUV híbrido",
+        "link": "https://www.cnnbrasil.com.br/auto/gwm-confirma-lancamento-do-wey-07-para-outubro-conheca-o-suv-hibrido/",
+        "data": "19/08/2025 01:56",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/wey-07.jpeg"
+    },
+    {
+        "titulo": "Trump pressiona Rússia e Ucrânia por acordo de paz",
+        "link": "https://www.cnnbrasil.com.br/internacional/trump-pressiona-russia-e-ucrania-por-acordo-de-paz/",
+        "data": "19/08/2025 01:54",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/2025-08-18T191505Z_1_LYNXMPEL7H0VS_RTROPTP_4_UKRAINE-CRISIS-SUMMIT.jpg"
+    },
+    {
+        "titulo": "Jogadores do Cruzeiro sobem o tom e detonam arbitragem contra o Mirassol",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/jogadores-do-cruzeiro-sobem-o-tom-e-detonam-arbitragem-contra-o-mirassol/",
+        "data": "19/08/2025 01:50",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/kaio_jorge_cruzeiro_chute-e1755563880728.jpg"
+    },
+    {
         "titulo": "US Open: Laura Pigossi avança no quali; Wild e Monteiro caem",
         "link": "https://www.cnnbrasil.com.br/esportes/tenis/us-open-laura-pigossi-avanca-no-quali-wild-e-monteiro-caem/",
         "data": "19/08/2025 01:43",
@@ -126,38 +158,6 @@
         "fonte": "CNN Brasil",
         "metodo": "RSS",
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXNPEL550LH-BASEIMAGE.jpg"
-    },
-    {
-        "titulo": "Leonardo se desculpa por erros com Poliana: “Ela está perdoando até hoje”",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/leonardo-se-desculpa-por-erros-com-poliana-ela-esta-perdoando-ate-hoje/",
-        "data": "19/08/2025 01:10",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/poliana-rocha-3-1-e1739819685605.jpg"
-    },
-    {
-        "titulo": "Com golaço, Mirassol busca empate contra o Cruzeiro pelo Brasileirão",
-        "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/mirassol-busca-empate-contra-o-cruzeiro-pelo-brasileirao/",
-        "data": "19/08/2025 01:01",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/kaio_jorge_cruzeiro_chute-e1755563880728.jpg"
-    },
-    {
-        "titulo": "Palco flutuante onde Mariah Carey se apresentará já está em Belém, no Pará",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/palco-flutuante-onde-mariah-carey-se-apresentara-ja-esta-em-belem-no-para/",
-        "data": "19/08/2025 01:00",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
-    },
-    {
-        "titulo": "Waack: Trump lidera uma paz que só ele imagina",
-        "link": "https://www.cnnbrasil.com.br/internacional/waack-trump-lidera-uma-paz-que-so-ele-imagina/",
-        "data": "19/08/2025 00:59",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/BR_CNN_180825_RTR1_1200_1500_frame_252125-1.jpeg"
     },
     {
         "titulo": "Mirassol arranca empate com golaço e frusta planos do Cruzeiro de assumir vice-liderança",
@@ -240,84 +240,84 @@
         "image": "https://jpimg.com.br/uploads/2025/01/000_36t99dw.jpg"
     },
     {
-        "titulo": "Heineken é eleita a melhor marca de cerveja com e sem álcool pelos paulistanos",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/o-melhor-de-sao-paulo/2025/restaurantes-bares-e-cozinha/2025/08/heineken-e-eleita-a-melhor-marca-de-cerveja-com-e-sem-alcool-pelos-paulistanos.shtml",
-        "data": "19/08/2025 02:00",
+        "titulo": "Decisão de Dino representa mais recado político após sanções dos EUA do que impacto jurídico para Moraes",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/08/decisao-de-dino-representa-mais-recado-politico-apos-sancoes-dos-eua-do-que-impacto-juridico-para-moraes.shtml",
+        "data": "19/08/2025 02:02",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/07/24/17533929356882a727d52c0_1753392935_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2024/02/22/170863813965d7bfbbc2389_1708638139_3x2_rt.jpg"
     },
     {
-        "titulo": "Osso é escolhido o melhor restaurante de carnes de São Paulo",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/o-melhor-de-sao-paulo/2025/restaurantes-bares-e-cozinha/2025/08/osso-e-escolhido-o-melhor-restaurante-de-carnes-de-sao-paulo.shtml",
+        "titulo": "Veja 10 dicas para acertar no preparo do churrasco",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/o-melhor-de-sao-paulo/2025/restaurantes-bares-e-cozinha/2025/08/veja-10-dicas-para-acertar-no-preparo-do-churrasco.shtml",
         "data": "19/08/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/08/11/1754932558689a254e593cc_1754932558_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/08/13/1755097593689ca9f963939_1755097593_3x2_rt.jpg"
     },
     {
-        "titulo": "Conheça os melhores bares para comer de SP segundo o Datafolha",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/o-melhor-de-sao-paulo/2025/restaurantes-bares-e-cozinha/2025/08/conheca-os-melhores-bares-para-comer-de-sp-segundo-o-datafolha.shtml",
+        "titulo": "Madero e Z Deli são as melhores hamburguerias de SP na opinião dos paulistanos",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/o-melhor-de-sao-paulo/2025/restaurantes-bares-e-cozinha/2025/08/madero-e-z-deli-sao-as-melhores-hamburguerias-de-sp-na-opiniao-dos-paulistanos.shtml",
         "data": "19/08/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/08/14/1755208047689e596f24652_1755208047_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2024/06/05/171759912566607b95a992c_1717599125_3x2_rt.jpg"
     },
     {
-        "titulo": "Maus resultados na nova era Neymar levam o Santos ao mercado para evitar queda",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2025/08/maus-resultados-na-nova-era-neymar-levam-o-santos-ao-mercado-para-evitar-queda.shtml",
+        "titulo": "Diego Lozano, do Levena, é eleito o confeiteiro do ano pelo júri da Folha",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/o-melhor-de-sao-paulo/2025/restaurantes-bares-e-cozinha/2025/08/diego-lozano-do-levena-e-eleito-o-confeiteiro-do-ano-pelo-juri-da-folha.shtml",
         "data": "19/08/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/08/18/175555466768a3a36b45b7e_1755554667_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/08/13/1755089668689c8b0492bde_1755089668_3x2_rt.jpg"
     },
     {
-        "titulo": "Veterana, Isabela Raposeiras é eleita a melhor barista de São Paulo pelo júri da Folha",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/o-melhor-de-sao-paulo/2025/restaurantes-bares-e-cozinha/2025/08/veterana-isabela-raposeiras-e-eleita-a-melhor-barista-de-sao-paulo-pelo-juri-da-folha.shtml",
+        "titulo": "Baianeira é o melhor restaurante de São Paulo para quem quer descontrair",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/o-melhor-de-sao-paulo/2025/restaurantes-bares-e-cozinha/2025/08/baianeira-e-o-melhor-restaurante-de-sao-paulo-para-quem-quer-descontrair.shtml",
         "data": "19/08/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/08/12/1755010619689b563b7b540_1755010619_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/08/12/1755007609689b4a79605a6_1755007609_3x2_rt.jpg"
     },
     {
-        "titulo": "Veja lista de 15 bares para curtir música ao vivo em São Paulo",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/bares-e-noite/2025/08/veja-lista-de-15-bares-para-curtir-musica-ao-vivo-em-sao-paulo.shtml",
+        "titulo": "Conheça 14 lanchonetes para comer bons sanduíches em São Paulo",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/guloseimas/2025/08/conheca-14-lanchonetes-para-comer-bons-sanduiches-em-sao-paulo.shtml",
         "data": "19/08/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2024/07/11/1720723954669029f24f8fa_1720723954_3x2_lg.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2021/01/21/16112492426009b65adfdba_1611249242_3x2_rt.jpg"
     },
     {
-        "titulo": "Oba é o melhor hortifrúti de São Paulo segundo pesquisa Datafolha",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/o-melhor-de-sao-paulo/2025/restaurantes-bares-e-cozinha/2025/08/oba-e-o-melhor-hortifruti-de-sao-paulo-segundo-pesquisa-datafolha.shtml",
+        "titulo": "Gallo se mantém marca líder de azeite para paulistano, segundo Datafolha",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/o-melhor-de-sao-paulo/2025/restaurantes-bares-e-cozinha/2025/08/gallo-se-mantem-marca-lider-de-azeite-para-paulistano-segundo-datafolha.shtml",
         "data": "19/08/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/07/24/175338568268828ad2a124c_1753385682_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/07/25/1753482443688404cb7be90_1753482443_3x2_rt.jpg"
     },
     {
-        "titulo": "Liza é a marca de óleo de cozinha favorita dos paulistanos, segundo Datafolha",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/o-melhor-de-sao-paulo/2025/restaurantes-bares-e-cozinha/2025/08/liza-e-a-marca-de-oleo-de-cozinha-favorita-dos-paulistanos-segundo-datafolha.shtml",
+        "titulo": "Indicado para Anac foi demitido do Banco do Brasil por fraude e acusado de dano à Caixa",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/08/indicado-para-anac-foi-demitido-do-banco-do-brasil-por-fraude-e-acusado-de-dano-a-caixa.shtml",
         "data": "19/08/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/08/16/175537813868a0f1da5f263_1755378138_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/07/11/175225997068715d82cb560_1752259970_3x2_lg.jpg"
     },
     {
-        "titulo": "Castelo é a melhor marca de vinagre na opinião dos paulistanos",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/o-melhor-de-sao-paulo/2025/restaurantes-bares-e-cozinha/2025/08/castelo-e-a-melhor-marca-de-vinagre-na-opiniao-dos-paulistanos.shtml",
+        "titulo": "Aurora e Sadia se mantêm como marcas de linguiça preferidas dos paulistanos",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/o-melhor-de-sao-paulo/2025/restaurantes-bares-e-cozinha/2025/08/aurora-e-sadia-se-mantem-como-marcas-de-linguica-preferidas-dos-paulistanos.shtml",
         "data": "19/08/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/07/24/175338277468827f76217b7_1753382774_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/07/24/17533919386882a34271cad_1753391938_3x2_rt.jpg"
     },
     {
-        "titulo": "Aoyama é o restaurante japonês favorito dos paulistanos",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/o-melhor-de-sao-paulo/2025/restaurantes-bares-e-cozinha/2025/08/aoyama-e-o-restaurante-japones-favorito-dos-paulistanos.shtml",
+        "titulo": "Veja lista de 16 bares de vinho para conhecer em São Paulo",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/bares-e-noite/2025/08/veja-lista-de-16-bares-de-vinho-para-conhecer-em-sao-paulo.shtml",
         "data": "19/08/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/08/14/1755209521689e5f314d78c_1755209521_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2023/01/06/167301435463b82c52b5628_1673014354_3x2_rt.jpg"
     },
     {
         "titulo": "Ouro, alumina calcinada e café puxam alta de exportações brasileiras ao Canadá",
@@ -402,7 +402,7 @@
     {
         "titulo": "Americanos chamam Moraes de 'tóxico' e ameaça quem fizer negócio com ministro",
         "link": "https://www.terra.com.br/noticias/brasil/politica/governo-americano-chama-moraes-de-toxico-e-proibe-cidadaos-e-estrangeiros-de-manterem-negocios,1817c510289c9a68b7a86af49fd067520kbrkt3q.html",
-        "data": "19/08/2025 02:14",
+        "data": "19/08/2025 02:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/12/612499600-hbp2yiavzzhkpigzp7l2hnugra.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Lula defende regulamentação de redes: 'Sociedade estará sob ameaça'",
         "link": "https://www.terra.com.br/noticias/brasil/politica/lula-defende-regulacao-de-redes-e-diz-que-mundo-enfrenta-cenario-em-que-rivalidades-se-agravam,9fbbf1dd9ce705c7af9d1a794772ee670s2iocs6.html",
-        "data": "19/08/2025 02:14",
+        "data": "19/08/2025 02:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/54729458008_02de016493_k-1iauunyx1hws2.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Faustão recebe alta de UTI e vai para quarto de hospital, diz novo boletim médico",
         "link": "https://www.terra.com.br/vida-e-estilo/saude/faustao-recebe-alta-de-uti-e-vai-para-quarto-de-hospital-diz-novo-boletim-medico,bf4db46060f72810eb81f4a008fc48f67tt4emsx.html",
-        "data": "19/08/2025 02:14",
+        "data": "19/08/2025 02:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/08/screenshot-2025-08-07t222241-357-veym1wdg3mn7.png"
@@ -426,7 +426,7 @@
     {
         "titulo": "Tarcísio: 'Trump quer colecionar vitórias; por que não entregar algumas vitórias?'",
         "link": "https://www.terra.com.br/economia/tarcisio-sobre-tarifaco-trump-quer-colecionar-vitorias-por-que-nao-entregar-algumas-vitorias,3aba4c430270428f9efbb184bac8c30bzkwalvgy.html",
-        "data": "19/08/2025 02:14",
+        "data": "19/08/2025 02:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/captura-de-tela-2025-08-18-181401-1iev1zrwdin1u.png"
@@ -434,7 +434,7 @@
     {
         "titulo": "Moraes mantém pena de 14 anos a mulher que pichou estátua da Justiça em 8 de Janeiro",
         "link": "https://www.terra.com.br/noticias/brasil/politica/moraes-nega-apelacao-e-mantem-pena-de-14-anos-a-mulher-que-pichou-estatua-da-justica-em-8-de-janeiro,1d3a2bf73736b77008aa68cb085dd6c3x75xoupd.html",
-        "data": "19/08/2025 02:14",
+        "data": "19/08/2025 02:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/356576652-abre-perfil-brasil-2025-08-18t121135273.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Kim Jong-un declara que EUA e Coreia do Sul querem 'provocar guerra', diz agência",
         "link": "https://www.terra.com.br/noticias/mundo/kim-jong-un-declara-que-eua-e-coreia-do-sul-querem-provocar-guerra-diz-agencia,a774ec141a25978ed0237872435dbd888pgwba27.html",
-        "data": "19/08/2025 02:14",
+        "data": "19/08/2025 02:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/gettyimages-2157769927-ubgvnd65ufz8.jpg"
@@ -450,7 +450,7 @@
     {
         "titulo": "Policiais militares agridem homem dentro hospital no Rio Grande do Norte",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/policiais-militares-agridem-homem-dentro-hospital-no-rn,854b6f38a2afeb9812f577d103acb80evmsk3mmk.html",
-        "data": "19/08/2025 02:14",
+        "data": "19/08/2025 02:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/pm_rn-vbmxtblnygc7.PNG"
@@ -458,7 +458,7 @@
     {
         "titulo": "'Explosão de calor' provoca evacuação de praias na Espanha; entenda o fenômeno",
         "link": "https://www.terra.com.br/planeta/explosao-de-calor-provoca-evacuacao-de-praias-na-espanha-entenda-o-fenomeno,5c85312332317b6c21196d4080c82b70n6v49u3q.html",
-        "data": "19/08/2025 02:14",
+        "data": "19/08/2025 02:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/reventon-termico-1-1ies7vvcs1ovm.png"
@@ -466,7 +466,7 @@
     {
         "titulo": "Cruzeiro empata com Mirassol e perde vice-liderança do Brasileirão",
         "link": "https://www.terra.com.br/esportes/cruzeiro/cruzeiro-empata-com-mirassol-e-perde-vice-lideranca-do-brasileirao,e6721ce01cb6792894521e9b33ecd560cwyewq3d.html",
-        "data": "19/08/2025 02:14",
+        "data": "19/08/2025 02:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/19/866326116-547303474603d9c6e1437o-610x400.jpg"
@@ -474,7 +474,7 @@
     {
         "titulo": "Estêvão segue promovendo remédio proibido na Inglaterra mesmo após chegar ao Chelsea",
         "link": "https://www.terra.com.br/esportes/futebol/internacional/estevao-segue-promovendo-remedio-proibido-na-inglaterra-mesmo-apos-chegar-ao-chelsea,4991c684ff1aad156c81335b4d74361c05qqyjwd.html",
-        "data": "19/08/2025 02:14",
+        "data": "19/08/2025 02:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/19/gettyimages-2230654101-trtlnra8sjlf.jpg"
