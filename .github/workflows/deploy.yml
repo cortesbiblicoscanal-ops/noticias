@@ -22,15 +22,19 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install dependencies
+      - name: Install dependencies from 'noticias' folder
+        # Usa 'working-directory' para garantir que os comandos rodem na pasta 'noticias'
+        working-directory: ./noticias
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
       - name: Run Python bot to collect news
+        # Executa o bot a partir da pasta 'noticias'
+        working-directory: ./noticias
         run: python coletor.py
         
-      - name: Create index.html (for the website)
+      - name: Create `index.html` (for the website)
         run: |
           cat > index.html << 'EOF'
           <!DOCTYPE html>
@@ -41,13 +45,10 @@ jobs:
               <title>Portal de Notícias</title>
               <script src="https://cdn.tailwindcss.com"></script>
               <style>
-                  body {
-                      font-family: 'Inter', sans-serif;
-                      background-color: #f3f4f6;
-                  }
+                  body { font-family: 'Inter', sans-serif; background-color: #f3f4f6; }
               </style>
           </head>
-          <body class="flex flex-col min-h-screen pt-24">
+          <body class="flex flex-col min-h-screen">
               <header class="bg-indigo-600 text-white shadow-lg p-6 w-full fixed top-0 z-50">
                   <div class="container mx-auto flex justify-between items-center">
                       <h1 class="text-2xl sm:text-3xl font-bold">Portal de Notícias</h1>
@@ -74,7 +75,7 @@ jobs:
               </main>
               <footer class="bg-gray-800 text-white p-6 mt-8">
                   <div class="container mx-auto text-center">
-                      <p>&copy; 2025 Portal de Notícias. Todos os direitos reservados.</p>
+                      <p>&copy; 2024 Portal de Notícias. Todos os direitos reservados.</p>
                   </div>
               </footer>
               <script>
@@ -139,7 +140,7 @@ jobs:
                       fetch('noticias/todas_as_noticias.json')
                           .then(response => {
                               if (!response.ok) {
-                                  throw new Error(`Erro ${response.status}: ${response.statusText}. Verifique se o arquivo existe e se o bot foi executado.`);
+                                  throw new Error(`Erro ${response.status}: ${response.statusText}. Verifique se o arquivo existe.`);
                               }
                               return response.json();
                           })
