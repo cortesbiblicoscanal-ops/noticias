@@ -80,6 +80,30 @@
         "image": "https://s2-g1.glbimg.com/mq8HU-kuGO9UgbR0xreaaaqgrRE=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/13852603.jpg"
     },
     {
+        "titulo": "Swiatek bate Paolini e leva 1º título no WTA 1000 de Cincinnati",
+        "link": "https://www.cnnbrasil.com.br/esportes/tenis/swiatek-bate-paolini-e-leva-1o-titulo-no-wta-1000-de-cincinnati/",
+        "data": "19/08/2025 02:19",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/Iga-campea-Cincinnati-e1755569928378.jpeg"
+    },
+    {
+        "titulo": "Putin “sai ganhando” e vira a mesa para cima de Trump, diz Thiago de Aragão",
+        "link": "https://www.cnnbrasil.com.br/internacional/putin-sai-ganhando-e-vira-a-mesa-para-cima-de-trump-diz-thiago-de-aragao/",
+        "data": "19/08/2025 02:15",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2025binary_LYNXMPEL7H10Q-BASEIMAGE.jpg"
+    },
+    {
+        "titulo": "Trump sussurra a Macron: Putin “quer fazer um acordo por mim”",
+        "link": "https://www.cnnbrasil.com.br/internacional/trump-sussurra-a-macron-putin-quer-fazer-um-acordo-por-mim/",
+        "data": "19/08/2025 02:12",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/Macron-e-Trump-na-Casa-Branca.png"
+    },
+    {
         "titulo": "iPhone 17: o que esperar do lançamento da Apple",
         "link": "https://www.cnnbrasil.com.br/tecnologia/iphone-17-o-que-esperar-do-lancamento-da-apple/",
         "data": "19/08/2025 02:02",
@@ -134,30 +158,6 @@
         "fonte": "CNN Brasil",
         "metodo": "RSS",
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/paola-carosella-fogaca.jpg"
-    },
-    {
-        "titulo": "Análise: Otan e territórios devem ser debatidos com eventual fim da guerra",
-        "link": "https://www.cnnbrasil.com.br/internacional/analise-otan-e-territorios-devem-ser-debatidos-com-eventual-fim-da-guerra/",
-        "data": "19/08/2025 01:33",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/Zelensky-e-Trump.jpg"
-    },
-    {
-        "titulo": "Zé Roberto define convocadas para o Mundial Feminino de Vôlei",
-        "link": "https://www.cnnbrasil.com.br/esportes/volei/ze-roberto-define-convocadas-para-o-mundial-feminino-de-volei/",
-        "data": "19/08/2025 01:22",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/07/Ze-Roberto-e-o-treinador-da-selecao-brasileira.png"
-    },
-    {
-        "titulo": "Amcham se posiciona sobre investigação dos EUA e pede cooperação bilateral",
-        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/amcham-se-posiciona-sobre-investigacao-dos-eua-e-pede-cooperacao-bilateral/",
-        "data": "19/08/2025 01:18",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXNPEL550LH-BASEIMAGE.jpg"
     },
     {
         "titulo": "Mirassol arranca empate com golaço e frusta planos do Cruzeiro de assumir vice-liderança",
@@ -402,7 +402,7 @@
     {
         "titulo": "Americanos chamam Moraes de 'tóxico' e ameaça quem fizer negócio com ministro",
         "link": "https://www.terra.com.br/noticias/brasil/politica/governo-americano-chama-moraes-de-toxico-e-proibe-cidadaos-e-estrangeiros-de-manterem-negocios,1817c510289c9a68b7a86af49fd067520kbrkt3q.html",
-        "data": "19/08/2025 02:27",
+        "data": "19/08/2025 02:38",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/12/612499600-hbp2yiavzzhkpigzp7l2hnugra.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Lula defende regulamentação de redes: 'Sociedade estará sob ameaça'",
         "link": "https://www.terra.com.br/noticias/brasil/politica/lula-defende-regulacao-de-redes-e-diz-que-mundo-enfrenta-cenario-em-que-rivalidades-se-agravam,9fbbf1dd9ce705c7af9d1a794772ee670s2iocs6.html",
-        "data": "19/08/2025 02:27",
+        "data": "19/08/2025 02:38",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/54729458008_02de016493_k-1iauunyx1hws2.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Faustão recebe alta de UTI e vai para quarto de hospital, diz novo boletim médico",
         "link": "https://www.terra.com.br/vida-e-estilo/saude/faustao-recebe-alta-de-uti-e-vai-para-quarto-de-hospital-diz-novo-boletim-medico,bf4db46060f72810eb81f4a008fc48f67tt4emsx.html",
-        "data": "19/08/2025 02:27",
+        "data": "19/08/2025 02:38",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/08/screenshot-2025-08-07t222241-357-veym1wdg3mn7.png"
@@ -426,7 +426,7 @@
     {
         "titulo": "Tarcísio: 'Trump quer colecionar vitórias; por que não entregar algumas vitórias?'",
         "link": "https://www.terra.com.br/economia/tarcisio-sobre-tarifaco-trump-quer-colecionar-vitorias-por-que-nao-entregar-algumas-vitorias,3aba4c430270428f9efbb184bac8c30bzkwalvgy.html",
-        "data": "19/08/2025 02:27",
+        "data": "19/08/2025 02:38",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/captura-de-tela-2025-08-18-181401-1iev1zrwdin1u.png"
@@ -434,7 +434,7 @@
     {
         "titulo": "Moraes mantém pena de 14 anos a mulher que pichou estátua da Justiça em 8 de Janeiro",
         "link": "https://www.terra.com.br/noticias/brasil/politica/moraes-nega-apelacao-e-mantem-pena-de-14-anos-a-mulher-que-pichou-estatua-da-justica-em-8-de-janeiro,1d3a2bf73736b77008aa68cb085dd6c3x75xoupd.html",
-        "data": "19/08/2025 02:27",
+        "data": "19/08/2025 02:38",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/356576652-abre-perfil-brasil-2025-08-18t121135273.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Kim Jong-un declara que EUA e Coreia do Sul querem 'provocar guerra', diz agência",
         "link": "https://www.terra.com.br/noticias/mundo/kim-jong-un-declara-que-eua-e-coreia-do-sul-querem-provocar-guerra-diz-agencia,a774ec141a25978ed0237872435dbd888pgwba27.html",
-        "data": "19/08/2025 02:27",
+        "data": "19/08/2025 02:38",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/gettyimages-2157769927-ubgvnd65ufz8.jpg"
@@ -450,7 +450,7 @@
     {
         "titulo": "Policiais militares agridem homem dentro hospital no Rio Grande do Norte",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/policiais-militares-agridem-homem-dentro-hospital-no-rn,854b6f38a2afeb9812f577d103acb80evmsk3mmk.html",
-        "data": "19/08/2025 02:27",
+        "data": "19/08/2025 02:38",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/pm_rn-vbmxtblnygc7.PNG"
@@ -458,7 +458,7 @@
     {
         "titulo": "'Explosão de calor' provoca evacuação de praias na Espanha; entenda o fenômeno",
         "link": "https://www.terra.com.br/planeta/explosao-de-calor-provoca-evacuacao-de-praias-na-espanha-entenda-o-fenomeno,5c85312332317b6c21196d4080c82b70n6v49u3q.html",
-        "data": "19/08/2025 02:27",
+        "data": "19/08/2025 02:38",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/reventon-termico-1-1ies7vvcs1ovm.png"
@@ -466,7 +466,7 @@
     {
         "titulo": "Cruzeiro empata com Mirassol e perde vice-liderança do Brasileirão",
         "link": "https://www.terra.com.br/esportes/cruzeiro/cruzeiro-empata-com-mirassol-e-perde-vice-lideranca-do-brasileirao,e6721ce01cb6792894521e9b33ecd560cwyewq3d.html",
-        "data": "19/08/2025 02:27",
+        "data": "19/08/2025 02:38",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/19/866326116-547303474603d9c6e1437o-610x400.jpg"
@@ -474,7 +474,7 @@
     {
         "titulo": "Estêvão segue promovendo remédio proibido na Inglaterra mesmo após chegar ao Chelsea",
         "link": "https://www.terra.com.br/esportes/futebol/internacional/estevao-segue-promovendo-remedio-proibido-na-inglaterra-mesmo-apos-chegar-ao-chelsea,4991c684ff1aad156c81335b4d74361c05qqyjwd.html",
-        "data": "19/08/2025 02:27",
+        "data": "19/08/2025 02:38",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/19/gettyimages-2230654101-trtlnra8sjlf.jpg"
