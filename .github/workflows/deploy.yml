@@ -1,18 +1,17 @@
 name: Deploy Notícias
 
-# Executa este job toda vez que houver um push na branch main
-# e também a cada 3 horas (usando cron)
 on:
   push:
     branches:
       - main
   schedule:
-    # A cada 3 horas (03:00, 06:00, 09:00, etc.)
     - cron: '0 */3 * * *' 
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permite que o workflow escreva no repositório
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -21,15 +20,19 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
-
+          
       - name: Install dependencies
+        # Agora o comando 'cd noticias' é executado antes da instalação
+      - name: Install dependencies from 'noticias' folder
         run: |
+          cd noticias
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
+          
       - name: Run Python bot to collect news
-        run: python coletor.py
-
+        # O bot também é executado a partir da pasta 'noticias'
+        run: python noticias/coletor.py
+        
       - name: Create `index.html` (for the website)
         run: |
           cat > index.html << 'EOF'
@@ -115,3 +118,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
+
