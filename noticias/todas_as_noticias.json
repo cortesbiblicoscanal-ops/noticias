@@ -120,6 +120,14 @@
         "image": "https://jpimg.com.br/uploads/2023/11/ballots-1195057_1280.jpg"
     },
     {
+        "titulo": "Prefeitura do Rio retira jacarés de bronze do Passeio Público após tentativa de furto",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/08/prefeitura-do-rio-retira-jacares-de-bronze-do-passeio-publico-apos-tentativa-de-furto.shtml",
+        "data": "19/08/2025 06:32",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/08/11/1754948472689a6378a9b83_1754948472_3x2_rt.jpg"
+    },
+    {
         "titulo": "Projeto do governo Lula para regular big techs prevê suspensão de redes apenas por 'descumprimento generalizado'",
         "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/08/projeto-do-governo-lula-para-regular-big-techs-preve-suspensao-de-redes-apenas-por-descumprimento-generalizado.shtml",
         "data": "19/08/2025 04:00",
@@ -150,14 +158,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2025/08/18/175556850768a3d97b717d9_1755568507_3x2_lg.jpg"
-    },
-    {
-        "titulo": "Lula recebe Motta, presidente e ministro do Republicanos para almoço",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2025/08/lula-recebe-motta-presidente-e-ministro-do-republicanos-para-almoco.shtml",
-        "data": "19/08/2025 02:47",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/06/14/1749906329684d739925e86_1749906329_3x2_rt.jpg"
     },
     {
         "titulo": "PIB deve crescer 2,3% em 2025; agro lidera expansão e indústria desacelera, aponta CNI",
@@ -202,7 +202,7 @@
     {
         "titulo": "Americanos chamam Moraes de 'tóxico' e ameaça quem fizer negócio com ministro",
         "link": "https://www.terra.com.br/noticias/brasil/politica/governo-americano-chama-moraes-de-toxico-e-proibe-cidadaos-e-estrangeiros-de-manterem-negocios,1817c510289c9a68b7a86af49fd067520kbrkt3q.html",
-        "data": "19/08/2025 06:26",
+        "data": "19/08/2025 06:53",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/12/612499600-hbp2yiavzzhkpigzp7l2hnugra.jpg"
@@ -210,7 +210,7 @@
     {
         "titulo": "Lula defende regulamentação de redes: 'Sociedade estará sob ameaça'",
         "link": "https://www.terra.com.br/noticias/brasil/politica/lula-defende-regulacao-de-redes-e-diz-que-mundo-enfrenta-cenario-em-que-rivalidades-se-agravam,9fbbf1dd9ce705c7af9d1a794772ee670s2iocs6.html",
-        "data": "19/08/2025 06:26",
+        "data": "19/08/2025 06:53",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/54729458008_02de016493_k-1iauunyx1hws2.jpg"
@@ -218,7 +218,7 @@
     {
         "titulo": "Faustão recebe alta de UTI e vai para quarto de hospital, diz novo boletim médico",
         "link": "https://www.terra.com.br/vida-e-estilo/saude/faustao-recebe-alta-de-uti-e-vai-para-quarto-de-hospital-diz-novo-boletim-medico,bf4db46060f72810eb81f4a008fc48f67tt4emsx.html",
-        "data": "19/08/2025 06:26",
+        "data": "19/08/2025 06:53",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/08/screenshot-2025-08-07t222241-357-veym1wdg3mn7.png"
@@ -226,7 +226,7 @@
     {
         "titulo": "Tarcísio: 'Trump quer colecionar vitórias; por que não entregar algumas vitórias?'",
         "link": "https://www.terra.com.br/economia/tarcisio-sobre-tarifaco-trump-quer-colecionar-vitorias-por-que-nao-entregar-algumas-vitorias,3aba4c430270428f9efbb184bac8c30bzkwalvgy.html",
-        "data": "19/08/2025 06:26",
+        "data": "19/08/2025 06:53",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/captura-de-tela-2025-08-18-181401-1iev1zrwdin1u.png"
@@ -234,7 +234,7 @@
     {
         "titulo": "Kim Jong-un declara que EUA e Coreia do Sul querem 'provocar guerra', diz agência",
         "link": "https://www.terra.com.br/noticias/mundo/kim-jong-un-declara-que-eua-e-coreia-do-sul-querem-provocar-guerra-diz-agencia,a774ec141a25978ed0237872435dbd888pgwba27.html",
-        "data": "19/08/2025 06:26",
+        "data": "19/08/2025 06:53",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/gettyimages-2157769927-ubgvnd65ufz8.jpg"
