@@ -1,39 +1,4 @@
-name: Deploy Notícias
-
-on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: '0 */3 * * *'
-
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
-          
-      - name: Install dependencies and run bot
-        run: |
-          cd noticias
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          python coletor.py
-        
-      - name: Commit and Push new JSON file
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Bot: Atualização automática de notícias"
-          
-      - name: Create `index.html` (for the website)
+- name: Create `index.html` (for the website)
         run: |
           cat > index.html << 'EOF'
           <!DOCTYPE html>
