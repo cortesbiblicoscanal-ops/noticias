@@ -1,5 +1,13 @@
 [
     {
+        "titulo": "Maduro anuncia mobilização de 4,5 milhões de milicianos ante 'ameaças' dos EUA",
+        "link": "https://g1.globo.com/mundo/noticia/2025/08/19/maduro-anuncia-mobilizacao-ante-ameacas-dos-eua.ghtml",
+        "data": "19/08/2025 03:12",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/0HSLYKGHoY-PhN5enUwea0S95wI=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/98/40/13824098"
+    },
+    {
         "titulo": "Quem é Emanoel Sponton, vereador cassado por fazer 'rachadinha' em Araraquara",
         "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2025/08/19/quem-e-emanoel-sponton-vereador-cassado-por-fazer-rachadinha-em-araraquara.ghtml",
         "data": "19/08/2025 03:05",
@@ -72,12 +80,28 @@
         "image": "https://s2-g1.glbimg.com/7KlT1OhWzDOwok87nCnVHivPlTU=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/86/28/10452886"
     },
     {
-        "titulo": "Virada histórica: Foxconn, maior fabricante de iPhones, fatura mais com IA do que com smartphones pela 1ª vez",
-        "link": "https://g1.globo.com/tecnologia/noticia/2025/08/19/virada-historica-foxconn-maior-fabricante-de-iphones-fatura-mais-com-ia-do-que-com-smartphones-pela-1a-vez.ghtml",
-        "data": "19/08/2025 03:00",
-        "fonte": "G1",
+        "titulo": "Guerra na Ucrânia: veja o balanço da reunião na Casa Branca",
+        "link": "https://www.cnnbrasil.com.br/internacional/guerra-na-ucrania-veja-o-balanco-da-reuniao-na-casa-branca/",
+        "data": "19/08/2025 03:08",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/wGrxtn7a4DhQXTCYSHs9suZqhog=/4944x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/x/hL5bJqTmamPaVf3Z7tgg/2025-08-18t080216z-317172178-rc2kleaai7pn-rtrmadp-3-foxconn-server.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/BR_CNN_180825_RTR1_1200_1500_frame_250151.jpeg"
+    },
+    {
+        "titulo": "Análise: Ligação de Putin vira trunfo para Lula",
+        "link": "https://www.cnnbrasil.com.br/internacional/analise-ligacao-de-putin-vira-trunfo-para-lula/",
+        "data": "19/08/2025 02:55",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/2025-08-18T134302Z_1_LYNXMPEL7H0LX_RTROPTP_4_WW2-ANNIVERSARY-RUSSIA-BRAZIL.jpg"
+    },
+    {
+        "titulo": "CRB bate o Volta Redonda fora de casa e se mantém no top-10 da Série B",
+        "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/crb-bate-o-volta-redonda-fora-de-casa-e-se-mantem-no-top-10-da-serie-b/",
+        "data": "19/08/2025 02:52",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/danielzinho_crb-e1755570643398.jpg"
     },
     {
         "titulo": "Especialista: Decisão de Dino sobre leis estrangeiras pode afetar empresas",
@@ -134,30 +158,6 @@
         "fonte": "CNN Brasil",
         "metodo": "RSS",
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/Macron-e-Trump-na-Casa-Branca.png"
-    },
-    {
-        "titulo": "iPhone 17: o que esperar do lançamento da Apple",
-        "link": "https://www.cnnbrasil.com.br/tecnologia/iphone-17-o-que-esperar-do-lancamento-da-apple/",
-        "data": "19/08/2025 02:02",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/07/iphone-17.jpg"
-    },
-    {
-        "titulo": "GWM confirma lançamento do Wey 07 para outubro; conheça o SUV híbrido",
-        "link": "https://www.cnnbrasil.com.br/auto/gwm-confirma-lancamento-do-wey-07-para-outubro-conheca-o-suv-hibrido/",
-        "data": "19/08/2025 01:56",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/wey-07.jpeg"
-    },
-    {
-        "titulo": "Trump pressiona Rússia e Ucrânia por acordo de paz",
-        "link": "https://www.cnnbrasil.com.br/internacional/trump-pressiona-russia-e-ucrania-por-acordo-de-paz/",
-        "data": "19/08/2025 01:54",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/2025-08-18T191505Z_1_LYNXMPEL7H0VS_RTROPTP_4_UKRAINE-CRISIS-SUMMIT.jpg"
     },
     {
         "titulo": "Mulher acusada de dopar e roubar turistas ingleses em Copacabana é presa",
@@ -402,7 +402,7 @@
     {
         "titulo": "Americanos chamam Moraes de 'tóxico' e ameaça quem fizer negócio com ministro",
         "link": "https://www.terra.com.br/noticias/brasil/politica/governo-americano-chama-moraes-de-toxico-e-proibe-cidadaos-e-estrangeiros-de-manterem-negocios,1817c510289c9a68b7a86af49fd067520kbrkt3q.html",
-        "data": "19/08/2025 03:21",
+        "data": "19/08/2025 03:36",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/12/612499600-hbp2yiavzzhkpigzp7l2hnugra.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Lula defende regulamentação de redes: 'Sociedade estará sob ameaça'",
         "link": "https://www.terra.com.br/noticias/brasil/politica/lula-defende-regulacao-de-redes-e-diz-que-mundo-enfrenta-cenario-em-que-rivalidades-se-agravam,9fbbf1dd9ce705c7af9d1a794772ee670s2iocs6.html",
-        "data": "19/08/2025 03:21",
+        "data": "19/08/2025 03:36",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/54729458008_02de016493_k-1iauunyx1hws2.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Faustão recebe alta de UTI e vai para quarto de hospital, diz novo boletim médico",
         "link": "https://www.terra.com.br/vida-e-estilo/saude/faustao-recebe-alta-de-uti-e-vai-para-quarto-de-hospital-diz-novo-boletim-medico,bf4db46060f72810eb81f4a008fc48f67tt4emsx.html",
-        "data": "19/08/2025 03:21",
+        "data": "19/08/2025 03:36",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/08/screenshot-2025-08-07t222241-357-veym1wdg3mn7.png"
@@ -426,7 +426,7 @@
     {
         "titulo": "Tarcísio: 'Trump quer colecionar vitórias; por que não entregar algumas vitórias?'",
         "link": "https://www.terra.com.br/economia/tarcisio-sobre-tarifaco-trump-quer-colecionar-vitorias-por-que-nao-entregar-algumas-vitorias,3aba4c430270428f9efbb184bac8c30bzkwalvgy.html",
-        "data": "19/08/2025 03:21",
+        "data": "19/08/2025 03:36",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/captura-de-tela-2025-08-18-181401-1iev1zrwdin1u.png"
@@ -434,7 +434,7 @@
     {
         "titulo": "Kim Jong-un declara que EUA e Coreia do Sul querem 'provocar guerra', diz agência",
         "link": "https://www.terra.com.br/noticias/mundo/kim-jong-un-declara-que-eua-e-coreia-do-sul-querem-provocar-guerra-diz-agencia,a774ec141a25978ed0237872435dbd888pgwba27.html",
-        "data": "19/08/2025 03:21",
+        "data": "19/08/2025 03:36",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/gettyimages-2157769927-ubgvnd65ufz8.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Policiais militares agridem homem dentro hospital no Rio Grande do Norte",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/policiais-militares-agridem-homem-dentro-hospital-no-rn,854b6f38a2afeb9812f577d103acb80evmsk3mmk.html",
-        "data": "19/08/2025 03:21",
+        "data": "19/08/2025 03:36",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/pm_rn-vbmxtblnygc7.PNG"
@@ -450,7 +450,7 @@
     {
         "titulo": "'Explosão de calor' provoca evacuação de praias na Espanha; entenda o fenômeno",
         "link": "https://www.terra.com.br/planeta/explosao-de-calor-provoca-evacuacao-de-praias-na-espanha-entenda-o-fenomeno,5c85312332317b6c21196d4080c82b70n6v49u3q.html",
-        "data": "19/08/2025 03:21",
+        "data": "19/08/2025 03:36",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/reventon-termico-1-1ies7vvcs1ovm.png"
@@ -458,7 +458,7 @@
     {
         "titulo": "Cruzeiro empata com Mirassol e perde vice-liderança do Brasileirão",
         "link": "https://www.terra.com.br/esportes/cruzeiro/cruzeiro-empata-com-mirassol-e-perde-vice-lideranca-do-brasileirao,e6721ce01cb6792894521e9b33ecd560cwyewq3d.html",
-        "data": "19/08/2025 03:21",
+        "data": "19/08/2025 03:36",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/19/866326116-547303474603d9c6e1437o-610x400.jpg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Estêvão segue promovendo remédio proibido na Inglaterra mesmo após chegar ao Chelsea",
         "link": "https://www.terra.com.br/esportes/futebol/internacional/estevao-segue-promovendo-remedio-proibido-na-inglaterra-mesmo-apos-chegar-ao-chelsea,4991c684ff1aad156c81335b4d74361c05qqyjwd.html",
-        "data": "19/08/2025 03:21",
+        "data": "19/08/2025 03:36",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/19/gettyimages-2230654101-trtlnra8sjlf.jpg"
@@ -474,7 +474,7 @@
     {
         "titulo": "Pré-lista de Ancelotti conta com novidades de Vasco, São Paulo e Cruzeiro",
         "link": "https://www.terra.com.br/esportes/brasil/pre-lista-de-ancelotti-tem-novidades-do-brasileirao,87e83f461f7792404df65673306970b1nir1izve.html",
-        "data": "19/08/2025 03:21",
+        "data": "19/08/2025 03:36",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/18/1680202419-ph-marcos-antonio-kaio-jorge-610x400.jpg"
