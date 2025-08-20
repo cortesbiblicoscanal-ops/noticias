@@ -147,7 +147,7 @@ def get_current_time_from_api(api_url="https://api-data-hora-python.onrender.com
     Retorna a string de data formatada ou None em caso de erro.
     """
     try:
-        response = requests.get(api_url, timeout=10)
+        response = requests.get(api_url, timeout=40)
         response.raise_for_status() # Lança um erro para códigos de status HTTP ruins
         data = response.json()
         return data.get('data_formatada')
@@ -335,4 +335,5 @@ if __name__ == "__main__":
     print("Iniciando a coleta de notícias...")
     main()
     print(f"Coleta concluída. O bot irá pausar por 3 horas e depois rodará novamente...")
+
 
