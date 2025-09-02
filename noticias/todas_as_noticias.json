@@ -1,323 +1,379 @@
 [
     {
-        "titulo": "Três pessoas são presas em flagrante por furto de energia elétrica no Maranhão",
-        "link": "https://g1.globo.com/ma/maranhao/noticia/2025/09/01/tres-pessoas-sao-presas-em-flagrante-por-furto-de-energia-eletrica-no-maranhao.ghtml",
+        "titulo": "Manaus registra 3ª morte no trânsito em menos de 12h após motociclista colidir com carro que fez retorno irregular",
+        "link": "https://g1.globo.com/am/amazonas/noticia/2025/09/01/manaus-registra-3a-morte-no-transito-em-menos-de-12h-apos-motociclista-colidir-com-carro-que-fez-retorno-irregular.ghtml",
+        "data": "02/09/2025 02:38",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/WuQnLiIBJ6KuEJLw34NvtqrSrnk=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/t/r/B05UjdTXuXcenLTb0PTQ/morte-motociclista.jpeg"
+    },
+    {
+        "titulo": "Trama golpista: Supremo tem segurança reforçada para julgamento histórico",
+        "link": "https://g1.globo.com/jornal-nacional/noticia/2025/09/01/trama-golpista-supremo-tem-seguranca-reforcada-para-julgamento-historico.ghtml",
+        "data": "02/09/2025 01:18",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/FXxhvj76ba-Z2hYy90Eh6sQKI8k=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/3/zBqg6DR9m0mcL5lfTKvQ/seguranca.01-frame-3016.jpeg"
+    },
+    {
+        "titulo": "Ministro Barroso diz que julgamento dos réus da trama golpista vai ser feito com serenidade",
+        "link": "https://g1.globo.com/jornal-nacional/noticia/2025/09/01/ministro-barroso-diz-que-julgamento-dos-reus-da-trama-golpista-vai-ser-feito-com-serenidade.ghtml",
+        "data": "02/09/2025 01:12",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/sIS4uHfbpLDXv8QvGY4iH1bHCEk=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Q/x/yKQyyATPWlaLSddkrBug/barroso.01-frame-1578.jpeg"
+    },
+    {
+        "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição - TO de segunda-feira, 1º de setembro de 2025",
+        "link": "https://g1.globo.com/to/tocantins/edicao/2025/09/01/videos-jornal-anhanguera-2-edicao-to-de-segunda-feira-1-de-setembro-de-2025.ghtml",
+        "data": "02/09/2025 01:05",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "http://s2.glbimg.com/B-1L-a0u-6FJobFhJAIB6ldaPOw=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/53/19/13891953"
+    },
+    {
+        "titulo": "Duas pessoas morrem em acidente de motocicleta na Bahia",
+        "link": "https://g1.globo.com/ba/bahia/noticia/2025/09/01/acidente-de-motocicleta-na-bahia.ghtml",
+        "data": "02/09/2025 01:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/FCMPXZAfvBhbzCJU87pIrwbmCtE=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Q/s/AaKYFdShqca0rnmb4n4A/bg-vermelho-2025-09-01t215333.821.jpg"
+    },
+    {
+        "titulo": "Programa oferece cursos de formação artística em Salvador; saiba detalhes",
+        "link": "https://g1.globo.com/ba/bahia/noticia/2025/09/01/cursos-de-formacao-artistica-em-salvador.ghtml",
+        "data": "02/09/2025 00:58",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/KL7gj-5TXKtQhtCBgq0CsAK1Uko=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/x/a0DVp2RMuevHMA2RhqtQ/escola-boca-de-brasa.jpg"
+    },
+    {
+        "titulo": "Justiça argentina proíbe divulgação de áudios gravados da irmã de Milei",
+        "link": "https://g1.globo.com/mundo/noticia/2025/09/01/justica-argentina-proibe-divulgacao-de-audios-gravados-da-irma-de-milei.ghtml",
+        "data": "02/09/2025 00:57",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/JcQgFqw2ZGP4_T1izM0l_PQYgOo=/3737x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/b/G/BtuyVyQVSZG6oDUAt1BA/2025-08-27t233227z-396793113-rc2yfgafcn39-rtrmadp-3-argentina-politics-milei.jpg"
+    },
+    {
+        "titulo": "Conheça as mudanças no Jornalismo da Globo, com Bonner no Globo Repórter e Tralli no JN",
+        "link": "https://g1.globo.com/jornal-nacional/noticia/2025/09/01/conheca-as-mudancas-no-jornalismo-da-globo-com-bonner-no-globo-reporter-e-tralli-no-jn.ghtml",
+        "data": "02/09/2025 00:51",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/RofbZYwP0AGeKc7L85e8f9DQHWc=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/V/q/Vii0B3SbyYobXuV2zOaA/globo-canal-4-20250901-2000-frame-134358.jpeg"
+    },
+    {
+        "titulo": "Criminosos armados invadem a casa da mãe do prefeito de Pão de Açúcar e faz reféns durante o assalto",
+        "link": "https://g1.globo.com/al/alagoas/noticia/2025/09/01/criminosos-armados-invadem-a-casa-da-mae-do-prefeito-de-pao-de-acucar-e-faz-refens-durante-o-assalto.ghtml",
+        "data": "02/09/2025 00:47",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/0x41PdtiN9A1nh_xS7dD4Wqt7RE=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Y/W/DwRWAQSHKU32PRwL0SOw/design-sem-nome-87-.png"
+    },
+    {
+        "titulo": "Primeira mulher a presidir o TJ-BA se aposenta após 44 anos de carreira",
+        "link": "https://g1.globo.com/ba/bahia/noticia/2025/09/01/primeira-mulher-a-presidir-o-tjba-se-aposenta.ghtml",
+        "data": "02/09/2025 00:44",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/nomBn4cxgNValz_2XVJ7qGwMaIU=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/4/kXYnxBQL6SPLvcZYXbmQ/silvia-zarif.jpg"
+    },
+    {
+        "titulo": "Mulher tenta agredir Dino durante voo, diz assessoria",
+        "link": "https://www.cnnbrasil.com.br/politica/equipe-de-flavio-dino-diz-que-mulher-tentou-agredi-lo-em-voo/",
+        "data": "02/09/2025 02:53",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/54531841277_c7beebdeed_o-e1749141183555.jpg"
+    },
+    {
+        "titulo": "Chelsea pede a volta de atacante do Santos após seis meses de empréstimo",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/chelsea-pede-a-volta-de-atacante-do-santos-apos-seis-meses-de-emprestimo/",
+        "data": "02/09/2025 02:43",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/deivid_washington-e1756780299945.jpg"
+    },
+    {
+        "titulo": "Julgamento de Jair Bolsonaro: do início aos possíveis desdobramentos finais",
+        "link": "https://www.cnnbrasil.com.br/politica/julgamento-de-jair-bolsonaro-do-inicio-aos-possiveis-desdobramentos-finais/",
+        "data": "02/09/2025 02:33",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
+    },
+    {
+        "titulo": "O Grande Debate: Julgamento de Bolsonaro é vingança política ou justiça?",
+        "link": "https://www.cnnbrasil.com.br/politica/o-grande-debate-julgamento-de-bolsonaro-e-vinganca-politica-ou-justica/",
+        "data": "02/09/2025 02:30",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
+    },
+    {
+        "titulo": "US Open: Amanda Anisimova aplica “pneu” e elimina Bia Haddad nas oitavas",
+        "link": "https://www.cnnbrasil.com.br/esportes/tenis/us-open-amanda-anisimova-aplica-pneu-e-elimina-bia-haddad-nas-oitavas/",
+        "data": "02/09/2025 02:22",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/Bia-Haddad-elimina-US-Open-e1756779126588.jpg"
+    },
+    {
+        "titulo": "Dwayne Johsson marca presença no 6º dia do Festival de Veneza",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/dwayne-johsson-marca-presenca-no-6o-dia-do-festival-de-veneza/",
+        "data": "02/09/2025 02:22",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/GettyImages-2232709111.jpg"
+    },
+    {
+        "titulo": "Bélgica anuncia que reconhecerá a Palestina na Assembleia Geral da ONU",
+        "link": "https://www.cnnbrasil.com.br/internacional/belgica-anuncia-que-reconhecera-a-palestina-na-assembleia-geral-da-onu/",
+        "data": "02/09/2025 02:20",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2024binary_LYNXMPEK490L3-FILEDIMAGE.jpg"
+    },
+    {
+        "titulo": "Bolsonaro pode ficar sete anos em regime fechado, dizem juristas",
+        "link": "https://www.cnnbrasil.com.br/politica/bolsonaro-pode-ficar-sete-anos-em-regime-fechado-dizem-juristas/",
+        "data": "02/09/2025 02:19",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/Bolsonaro.webp"
+    },
+    {
+        "titulo": "Indulto ao ex-presidente fortalece presidenciáveis com bolsonaristas",
+        "link": "https://www.cnnbrasil.com.br/politica/indulto-ao-ex-presidente-fortalece-presidenciaveis-com-bolsonaristas/",
+        "data": "02/09/2025 02:14",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/07/CNN-3-1.png"
+    },
+    {
+        "titulo": "Integrantes da CPMI 8/1 articulam ida ao julgamento de Bolsonaro",
+        "link": "https://www.cnnbrasil.com.br/politica/integrantes-da-cpmi-8-1-articulam-ida-ao-julgamento-de-bolsonaro/",
+        "data": "02/09/2025 02:03",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/Jair-Bolsonaro-e1756763071602.jpg"
+    },
+    {
+        "titulo": "CPMI apura fraudes em descontos do INSS e ouve advogado que revelou esquema",
+        "link": "https://jovempan.com.br/noticias/economia/cpmi-apura-fraudes-em-descontos-do-inss-e-ouve-advogado-que-revelou-esquema.html",
+        "data": "02/09/2025 03:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/05/drf20250509014-1024x567.jpg"
+    },
+    {
+        "titulo": "Saiba que horas começa e onde assistir ao julgamento de Bolsonaro nesta terça-feira",
+        "link": "https://jovempan.com.br/noticias/politica/saiba-que-horas-comeca-e-onde-assitir-ao-julgamento-de-bolsonaro-nesta-terca-feira.html",
+        "data": "02/09/2025 02:37",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/07/age20250718026.jpg"
+    },
+    {
+        "titulo": "Bolsonaro decide não comparecer ao julgamento no STF",
+        "link": "https://jovempan.com.br/noticias/politica/bolsonaro-decide-nao-comparecer-ao-julgamento-no-stf.html",
+        "data": "02/09/2025 02:34",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/08/age20250804028.jpg"
+    },
+    {
+        "titulo": "Justiça recebe denúncia e impõe tornozeleira a mãe apontada como ‘laranja’ em esquema de R$ 1 bi",
+        "link": "https://jovempan.com.br/noticias/brasil/justica-recebe-denuncia-e-impoe-tornozeleira-a-mae-apontada-como-laranja-em-esquema-de-r-1-bi.html",
+        "data": "02/09/2025 02:19",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/09/artur-gomes-da-silva-neto.jpg"
+    },
+    {
+        "titulo": "Exército proíbe manifestações em quartéis durante julgamento de Bolsonaro",
+        "link": "https://jovempan.com.br/noticias/politica/exercito-proibe-manifestacoes-em-quarteis-durante-julgamento-de-bolsonaro.html",
+        "data": "02/09/2025 01:58",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/07/age20250718071.jpg"
+    },
+    {
+        "titulo": "William Bonner anuncia saída do Jornal Nacional; César Tralli assume apresentação",
+        "link": "https://jovempan.com.br/entretenimento/tv-e-cinema/william-bonner-anuncia-saida-do-jornal-nacional-cesar-tralli-assume-apresentacao.html",
+        "data": "02/09/2025 01:43",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/09/william-bonner-e-cesar-tralli.jpg"
+    },
+    {
+        "titulo": "Julgamento de Bolsonaro no STF começa nesta terça e terá oito sessões",
+        "link": "https://jovempan.com.br/noticias/politica/julgamento-de-bolsonaro-no-stf-comeca-nesta-terca-e-tera-oito-sessoes.html",
+        "data": "02/09/2025 01:22",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/06/54580818750_b337ea10d4_k-1.jpg"
+    },
+    {
+        "titulo": "Eduardo Bolsonaro critica candidatura de Tarcísio de Freitas ao Planalto em 2026",
+        "link": "https://jovempan.com.br/noticias/politica/eduardo-bolsonaro-critica-candidatura-de-tarcisio-de-freitas-ao-planalto-em-2026.html",
+        "data": "02/09/2025 00:54",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/01/img20240814164238900med.jpg"
+    },
+    {
+        "titulo": "De olho em 2026, Tarcísio articula anistia e vai a Brasília em dia de julgamento de Bolsonaro",
+        "link": "https://jovempan.com.br/noticias/politica/de-olho-em-2026-tarcisio-articula-anistia-e-vai-a-brasilia-em-dia-de-julgamento-de-bolsonaro.html",
+        "data": "02/09/2025 00:23",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/08/tarcisio-de-freitas-1.jpg"
+    },
+    {
+        "titulo": "Juiz condena deputado Daniel de Castro a pagar R$ 60 mil por vídeo sobre cultura afro",
+        "link": "https://jovempan.com.br/noticias/politica/juiz-condena-deputado-daniel-de-castro-a-pagar-r-60-mil-por-video-sobre-cultura-afro.html",
+        "data": "01/09/2025 23:51",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/09/sem-titulo-2.png"
+    },
+    {
+        "titulo": "Bélgica é mais um país europeu que vai reconhecer o Estado da Palestina na Assembleia-Geral da ONU",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/09/belgica-e-mais-um-pais-europeu-que-vai-reconhecer-o-estado-da-palestina-na-assembleia-geral-da-onu.shtml",
+        "data": "02/09/2025 03:07",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/02/175678203268b65dd07a44c_1756782032_3x2_rt.jpg"
+    },
+    {
+        "titulo": "NFL e TVs articulam esquema para mostrar Taylor Swift em provável vinda ao Brasil",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2025/09/nfl-e-tvs-articulam-esquema-para-mostrar-taylor-swift-em-provavel-vinda-ao-brasil.shtml",
+        "data": "02/09/2025 02:30",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2024/05/08/1715195898663bcffac05b1_1715195898_3x2_xl.jpg"
+    },
+    {
+        "titulo": "Bia Haddad é dominada por Anisimova e cai nas oitavas do US Open",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2025/09/bia-haddad-e-dominada-por-anisimova-e-cai-nas-oitavas-do-us-open.shtml",
+        "data": "02/09/2025 02:23",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/01/175677972268b654ca7f0ae_1756779722_3x2_xl.jpg"
+    },
+    {
+        "titulo": "Hospedagem solidária de cristãos pode evitar vexame na COP30?",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2025/09/hospedagem-solidaria-de-cristaos-pode-evitar-vexame-na-cop30.shtml",
+        "data": "02/09/2025 02:07",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/01/175677950568b653f1d3c48_1756779505_3x2_lg.jpg"
+    },
+    {
+        "titulo": "Bolsonaro chega a véspera de julgamento fragilizado e recebe visitas de ex-ministra e Lira",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/09/bolsonaro-chega-a-vespera-de-julgamento-fragilizado-e-recebe-visitas-de-ex-ministra-e-lira.shtml",
+        "data": "02/09/2025 02:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/01/175675314868b5ecfc4142c_1756753148_3x2_xl.jpg"
+    },
+    {
+        "titulo": "Jorge Bodanzky filma a destruição da Amazônia com maestria",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2025/09/jorge-bodanzky-filma-a-destruicao-da-amazonia-com-maestria.shtml",
+        "data": "02/09/2025 02:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/01/175675387768b5efd5aad11_1756753877_3x2_xl.jpg"
+    },
+    {
+        "titulo": "Bruno e Marrone, Maneva e Almir Sater fazem shows em São Paulo; veja agenda",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2025/09/bruno-e-marrone-maneva-e-almir-sater-fazem-shows-em-sao-paulo-veja-agenda.shtml",
+        "data": "02/09/2025 02:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/01/175676646568b621012b901_1756766465_3x2_xl.jpg"
+    },
+    {
+        "titulo": "Estas barrinhas de banana com mel e nozes são ótimas para comer ao longo do dia",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/comida/2025/09/estas-barrinhas-de-banana-com-mel-e-nozes-sao-otimas-para-comer-ao-longo-do-dia.shtml",
+        "data": "02/09/2025 02:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/01/175675673968b5fb03415ee_1756756739_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Como as previsões de furacões mudaram depois do Katrina, há 20 anos",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/09/como-as-previsoes-de-furacoes-mudaram-depois-do-katrina-ha-20-anos.shtml",
+        "data": "02/09/2025 02:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/01/175676450968b6195d155c1_1756764509_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Saiba quem são os réus do núcleo central da trama golpista e o que pesa contra cada um deles",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/09/saiba-quem-sao-os-reus-do-nucleo-central-da-trama-golpista-e-o-que-pesa-contra-cada-um-deles.shtml",
+        "data": "02/09/2025 02:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/08/31/175668050068b4d13485638_1756680500_3x2_lg.jpg"
+    },
+    {
+        "titulo": "Sorvete é recolhido em 16 estados nos EUA após risco de alergias graves",
+        "link": "https://exame.com/mundo/sorvete-e-recolhido-em-16-estados-nos-eua-apos-risco-de-alergias-graves/",
+        "data": "01/09/2025 22:13",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2024/01/GettyImages-685816670-1.jpg"
+    },
+    {
+        "titulo": "Unicamp prorroga inscrições do vestibular 2026; veja nova data",
+        "link": "https://exame.com/brasil/unicamp-prorroga-inscricoes-do-vestibular-2026-veja-nova-data/",
         "data": "01/09/2025 21:13",
-        "fonte": "G1",
+        "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/XO9jrgLCWTcxRkRyQGsD0rpRI8U=/1416x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/N/R9cWk1RN2qiAGV47HBvw/furto-energia.png"
+        "image": "https://classic.exame.com/wp-content/uploads/2020/06/size_960_16_9_entrada_unicamp.jpg"
     },
     {
-        "titulo": "Estudantes do Amapá são classificados para etapa da Olimpíada Brasileira de Informática",
-        "link": "https://g1.globo.com/ap/amapa/noticia/2025/09/01/estudantes-do-amapa-sao-classificados-para-etapa-da-olimpiada-brasileira-de-informatica.ghtml",
-        "data": "01/09/2025 21:12",
-        "fonte": "G1",
+        "titulo": "Abóbora faz Starbucks ter semana com recorde de vendas",
+        "link": "https://exame.com/invest/mercados/abobora-faz-starbucks-ter-semana-com-recorde-de-vendas/",
+        "data": "01/09/2025 21:11",
+        "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/5h2EsyveIfB3NY0m6S_Ix7wyDNw=/1400x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/v/O6YkQWRgOO3EbbR5Rptw/whatsapp-image-2025-09-01-at-18.15.40.jpeg"
+        "image": "https://classic.exame.com/wp-content/uploads/2020/03/gettyimages-1204590762-1.jpg"
     },
     {
-        "titulo": "Condenado por abusar de três alunos, professor de Serra Negra tem pena ampliada pelo TJ",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2025/09/01/condenado-por-abusar-de-tres-alunos-professor-de-serra-negra-tem-pena-ampliada-pelo-tj.ghtml",
-        "data": "01/09/2025 21:12",
-        "fonte": "G1",
+        "titulo": "Bolsonaro não vai a julgamento no STF, diz defesa",
+        "link": "https://exame.com/brasil/bolsonaro-nao-vai-a-julgamento-no-stf-diz-defesa/",
+        "data": "01/09/2025 19:40",
+        "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/__snhsCGCgKfhu8_Ui4CbvnfjyU=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/A/3O6d2jS6mVEkAds5aBSA/copia-de-apreende-passarinhos.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2025/07/GettyImages-2160316332.jpg"
     },
     {
-        "titulo": "Fiéis se mobilizam para reformar igreja do século 19 interditada em Sertânia",
-        "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2025/09/01/fieis-se-mobilizam-para-reformar-igreja-do-seculo-19-interditada-em-sertania.ghtml",
-        "data": "01/09/2025 21:04",
-        "fonte": "G1",
+        "titulo": "Reforma do setor elétrico: entenda as principais mudanças previstas",
+        "link": "https://exame.com/esferabrasil/reforma-do-setor-eletrico-entenda-as-principais-mudancas-previstas/",
+        "data": "01/09/2025 19:09",
+        "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/7JHw5S_kzV8tlKpACzaAIM8N-RI=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/Y/qXnK0BRWu82WeddFsNPg/whatsapp-image-2025-09-01-at-16.09.48.jpeg"
+        "image": "https://classic.exame.com/wp-content/uploads/2025/02/MM24_PERSPECTIVAS_.webp"
     },
     {
-        "titulo": "Municípios do Ceará têm alerta de vendaval, segundo Inmet; veja lista de cidades",
-        "link": "https://g1.globo.com/ce/ceara/noticia/2025/09/01/municipios-do-ceara-tem-alerta-de-vendaval-segundo-inmet-veja-lista-de-cidades.ghtml",
-        "data": "01/09/2025 21:02",
-        "fonte": "G1",
+        "titulo": "PIB 2025: o que esperar do desempenho do agro no 2º trimestre deste ano",
+        "link": "https://exame.com/agro/pib-2025-o-que-esperar-do-desempenho-do-agro-no-2o-trimestre-deste-ano/",
+        "data": "01/09/2025 19:08",
+        "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/RJjeuOXgIrjOKYZ40KNv2dbOdmk=/4500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/5/EB0SZzQuet27r7b2R74w/chuva.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2023/08/agroindustria.jpg"
     },
     {
-        "titulo": "Família busca por ex-vencedora de concurso de beleza do RS desaparecida há três semanas em SP",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/09/01/geologa-do-rs-desaparecida-ha-tres-semanas-em-sp.ghtml",
-        "data": "01/09/2025 21:02",
-        "fonte": "G1",
+        "titulo": "Que horas será o julgamento do Bolsonaro no STF? Veja datas e como assistir ao vivo",
+        "link": "https://exame.com/brasil/que-horas-sera-o-julgamento-do-bolsonaro-no-stf-veja-datas-e-como-assistir-ao-vivo/",
+        "data": "01/09/2025 18:36",
+        "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/2zf1ZRJ--IyZYOLJmxeLCvG5Ors=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/5/7P0iZASaesQ1fOyCNz6g/g1-1200-x-675-px-19-.png"
-    },
-    {
-        "titulo": "VÍDEO: Quatro pessoas da mesma família sobrevivem após caminhonete em que estavam ser atingida por trem no Paraná",
-        "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2025/09/01/video-caminhonete-atingida-por-trem-no-parana.ghtml",
-        "data": "01/09/2025 21:02",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/xzpDEhua45YMO3C4fUMlyyY0v18=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/m/M/KoRf5DRHujkTJnQByr8w/httpsportalnorte.com.brwp-adminpost.phppost-292629-action-edit-2025-09-01t175849.305.jpg"
-    },
-    {
-        "titulo": "Motorista de carreta que prensou carro e matou advogado nega ter dormido ao volante em depoimento à polícia",
-        "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2025/09/01/motorista-de-carreta-que-prensou-carro-e-matou-advogado-nega-ter-dormido-ao-volante-em-depoimento-a-policia.ghtml",
-        "data": "01/09/2025 21:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/bfm8DOG9UhIrlvYkh6X9run-hhQ=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/j/XKoMZXS5izTBUpaBnO7Q/foto-g1-2025-08-21t093446.673.png"
-    },
-    {
-        "titulo": "Unicamp prorroga prazo de inscrição para vestibular 2026; confira a mudança",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2025/09/01/unicamp-prorroga-prazo-de-inscricao-para-vestibular-2026-confira-a-mudanca.ghtml",
-        "data": "01/09/2025 21:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/lY3s8u1cmfh28W2g7wWOpju3X6E=/5472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/s/O/wESfuZReCUIOzSB9h4IA/vestibular-2025-unicamp-pedro-amatuzzi-fotografia-6-1-.jpg"
-    },
-    {
-        "titulo": "William Bonner se despede do 'Jornal Nacional'; Renata Vasconcellos e César Tralli formarão nova dupla",
-        "link": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2025/09/01/william-bonner-se-despede-do-jornal-nacional-renata-vasconcellos-e-cesar-tralli-formarao-nova-dupla.ghtml",
-        "data": "01/09/2025 21:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/EeJkxSg0AQzhi3ki-SojMZlh0fE=/6000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/L/bqjfm7SSKPgF10xSLzWw/20250901-institucional-jpc-053.jpg"
-    },
-    {
-        "titulo": "Veja passo a passo do julgamento de Bolsonaro e 7 réus sobre plano de golpe",
-        "link": "https://www.cnnbrasil.com.br/politica/veja-passo-a-passo-do-julgamento-de-bolsonaro-e-7-reus-sobre-plano-de-golpe/",
-        "data": "01/09/2025 21:00",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/passo-a-passo.png"
-    },
-    {
-        "titulo": "Arroyo chega a Belo Horizonte para reforçar o Cruzeiro: “Muito feliz”",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/arroyo-chega-a-belo-horizonte-para-reforcar-o-cruzeiro-muito-feliz/",
-        "data": "01/09/2025 20:59",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/keny_arroyo_cruzeiro.webp"
-    },
-    {
-        "titulo": "Liverpool anuncia Isak, maior transferência da história do futebol inglês",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/liverpool-anuncia-isak-maior-transferencia-da-historia-do-futebol-ingles/",
-        "data": "01/09/2025 20:58",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/alexander-isak-liverpool-e1756760091452.jpeg"
-    },
-    {
-        "titulo": "Dele Alli deixa clube italiano após jogar por apenas 10 minutos",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/dele-alli-deixa-clube-italiano-apos-jogar-por-apenas-10-minutos/",
-        "data": "01/09/2025 20:58",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/dele-alli-e1756760070871.jpg"
-    },
-    {
-        "titulo": "Vídeos mostram destruição causada por terremoto no Afeganistão; veja",
-        "link": "https://www.cnnbrasil.com.br/internacional/videos-mostram-destruicao-causada-pelo-terremoto-no-afeganistao-veja/",
-        "data": "01/09/2025 20:57",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/Terremoto-no-Afeganistao.jpeg"
-    },
-    {
-        "titulo": "Análise: Difícil ter novas fontes de arrecadação para compensar perda do IR",
-        "link": "https://www.cnnbrasil.com.br/politica/analise-dificil-ter-novas-fontes-de-arrecadacao-para-compensar-perda-do-ir/",
-        "data": "01/09/2025 20:55",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/02/FTA20230202053-e1741804079431.jpg"
-    },
-    {
-        "titulo": "Análise: Oitiva de Tagliaferro não tem potencial para enfraquecer Moraes",
-        "link": "https://www.cnnbrasil.com.br/politica/analise-oitiva-de-tagliaferro-nao-tem-potencial-para-enfraquecer-moraes/",
-        "data": "01/09/2025 20:51",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/08/Eduardo-Tagliaferro-Alexandre-de-Moraes-848x477-1.png"
-    },
-    {
-        "titulo": "Relator de devedor contumaz espera que Receita “recupere” R$ 30 bi por ano",
-        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/relator-de-devedor-contumaz-espera-que-receita-recupere-r-30-bi-por-ano/",
-        "data": "01/09/2025 20:50",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/04/BR_CNN_290425_STB_WW_SKYPE_02_frame_50623.jpg"
-    },
-    {
-        "titulo": "Atlético-MG: provável chegada de Anselmi reforça “cirada” de treinadores",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/atletico-mg-provavel-chegada-de-anselmi-reforca-cirada-de-treinadores/",
-        "data": "01/09/2025 20:50",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/martin-anselmi-porto-mundial-de-clubes-e1749937125743.jpg"
-    },
-    {
-        "titulo": "Pedaço de corpo é encontrado em mala dentro de guarda-volume na rodoviária",
-        "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/pedaco-de-corpo-e-encontrado-em-mala-dentro-de-guarda-volume-na-rodoviaria/",
-        "data": "01/09/2025 20:48",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/rodoviariarportoalegre.jpg"
-    },
-    {
-        "titulo": "Cantareira sinaliza alerta vermelho para a segurança hídrica",
-        "link": "https://jovempan.com.br/opiniao-jovem-pan/comentaristas/patricia-costa/cantareira-sinaliza-alerta-vermelho-para-a-seguranca-hidrica.html",
-        "data": "01/09/2025 21:26",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2017/04/2730707056-vista-da-represa-do-jaguari-parte-do-complexo-do-cantareira-4051989964-7-1024x678.jpeg"
-    },
-    {
-        "titulo": "B3 e Tesouro lançam campanha com meme ‘Nazaré Confusa’ para simplificar acesso a investimentos",
-        "link": "https://jovempan.com.br/noticias/economia/b3-e-tesouro-lancam-campanha-com-meme-nazare-confusa-para-simplificar-acesso-a-investimentos.html",
-        "data": "01/09/2025 21:24",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/09/tn220250901050.jpg"
-    },
-    {
-        "titulo": "Flávio Bolsonaro convoca ex-assessor de Moraes durante julgamento do pai no STF",
-        "link": "https://jovempan.com.br/noticias/politica/flavio-bolsonaro-convoca-ex-assessor-de-moraes-durante-julgamento-do-pai-no-stf.html",
-        "data": "01/09/2025 21:20",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/05/age20250526019.jpg"
-    },
-    {
-        "titulo": "STF permite uso de slides na defesa de Augusto Heleno no julgamento do suposto golpe de Estado",
-        "link": "https://jovempan.com.br/noticias/politica/stf-permite-uso-de-slides-na-defesa-de-augusto-heleno-no-julgamento-do-suposto-golpe-de-estado.html",
-        "data": "01/09/2025 20:56",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/06/whatsapp-image-2025-06-10-at-09.50.16-1.jpeg"
-    },
-    {
-        "titulo": "Risco de sanções dos EUA cresce com aproximação do julgamento de Bolsonaro",
-        "link": "https://jovempan.com.br/noticias/politica/risco-de-sancoes-dos-eua-cresce-com-aproximacao-do-julgamento-de-bolsonaro.html",
-        "data": "01/09/2025 20:49",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/07/age20250723005.jpg"
-    },
-    {
-        "titulo": "Confira os pontos-chave da suposta trama golpista atribuída a Jair Bolsonaro e outros réus",
-        "link": "https://jovempan.com.br/noticias/politica/confira-os-pontos-chave-da-suposta-trama-golpista-atribuida-a-jair-bolsonaro-e-outros-reus.html",
-        "data": "01/09/2025 20:46",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/08/imagem-jvp-2025-08-15t132337.383.png"
-    },
-    {
-        "titulo": "Iga Swiatek bate Ekaterina Alexandrova e avança às quartas do US Open",
-        "link": "https://jovempan.com.br/esportes/iga-swiatek-bate-ekaterina-alexandrova-e-avanca-as-quartas-do-us-open.html",
-        "data": "01/09/2025 20:24",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/09/afp__20250901__733q6t9__v1__highres__tennisusaopen.jpg"
-    },
-    {
-        "titulo": "Masp amplia horários de visitação da exposição de Monet na última semana",
-        "link": "https://jovempan.com.br/entretenimento/cultura/masp-amplia-horarios-de-visitacao-da-exposicao-de-monet-na-ultima-semana.html",
-        "data": "01/09/2025 20:13",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/09/exposicao-monet-.jpg"
-    },
-    {
-        "titulo": "Polícia revela possível plano de fuga de Hytalo Santos e marido",
-        "link": "https://jovempan.com.br/entretenimento/famosos/policia-revela-possivel-plano-de-fuga-de-hytalo-santos-e-marido.html",
-        "data": "01/09/2025 20:11",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/08/hytalo-marido-1024x567.png"
-    },
-    {
-        "titulo": "ENQUETE – OS PINGOS NOS IS – Você acredita que se Jair Bolsonaro for condenado pelo STF, os EUA podem aplicar novas sanções contra o Brasil e autoridades do país?",
-        "link": "https://jovempan.com.br/programas/os-pingos-nos-is/enquete-os-pingos-nos-is-voce-acredita-que-se-jair-bolsonaro-for-condenado-pelo-stf-os-eua-podem-aplicar-novas-sancoes-contra-o-brasil-e-autoridades-do-pais.html",
-        "data": "01/09/2025 20:00",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/07/os-pingos-nos-is-03-07-2025-1024x576.jpg"
-    },
-    {
-        "titulo": "Reino Unido, Japão e Coreia do Sul registram verão mais quente da história em 2025",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/09/reino-unido-japao-e-coreia-do-sul-registram-verao-mais-quente-da-historia-em-2025.shtml",
-        "data": "01/09/2025 21:23",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/01/175676058368b60a0744d55_1756760583_3x2_rt.jpg"
-    },
-    {
-        "titulo": "PL do devedor contumaz propõe capital mínimo para setor de combustíveis após ação contra PCC",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/09/pl-do-devedor-contumaz-propoe-capital-minimo-para-setor-de-combustiveis-apos-acao-contra-pcc.shtml",
-        "data": "01/09/2025 21:15",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/01/175676081568b60aef78797_1756760815_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Ex-homem mais tatuado do Brasil mostra evolução da remoção das tattoos do rosto",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2025/09/ex-homem-mais-tatuado-do-brasil-mostra-evolucao-da-remocao-das-tattoos-do-rosto.shtml",
-        "data": "01/09/2025 21:13",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/01/175676086568b60b21699eb_1756760865_3x2_xl.jpg"
-    },
-    {
-        "titulo": "'Tenho 59 anos, sem nenhum plano de previdência nem INSS, o que me sugere?'",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2025/09/tenho-59-anos-sem-nenhum-plano-de-previdencia-nem-inss-o-que-me-sugere.shtml",
-        "data": "01/09/2025 21:12",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2024/02/22/170862862965d79a952dc02_1708628629_3x2_rt.jpg"
-    },
-    {
-        "titulo": "William Bonner queria deixar JN desde 2020; Tralli não vai assumir cargo de editor-chefe",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2025/09/william-bonner-queria-deixar-jn-desde-2020-tralli-nao-vai-assumir-cargo-de-editor-chefe.shtml",
-        "data": "01/09/2025 21:09",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/01/175672713168b5875b17571_1756727131_3x2_xl.jpg"
-    },
-    {
-        "titulo": "Alcolumbre marca sessão semipresencial em semana que deve votar afrouxamento da Ficha Limpa",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2025/09/alcolumbre-marca-sessao-semipresencial-em-semana-que-deve-votar-afrouxamento-da-ficha-limpa.shtml",
-        "data": "01/09/2025 21:05",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/06/26/1750964393685d98a9d5425_1750964393_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Janaina Paschoal associa uso de PrEP a aumento de casos de sífilis",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2025/09/janaina-paschoal-associa-uso-de-prep-a-aumento-de-casos-de-sifilis.shtml",
-        "data": "01/09/2025 21:01",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/08/28/175642038468b0d9200ffd9_1756420384_3x2_rt.jpg"
-    },
-    {
-        "titulo": "William Bonner vai deixar o Jornal Nacional e César Tralli assumirá lugar na bancada",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2025/09/william-bonner-vai-deixar-o-jornal-nacional-e-cesar-tralli-assumira-lugar-na-bancada.shtml",
-        "data": "01/09/2025 21:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/01/175675817568b6009f31329_1756758175_3x2_rt.jpg"
-    },
-    {
-        "titulo": "ANTT adia novamente sistema que trará mais concorrência a empresas de ônibus",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2025/09/antt-adia-novamente-sistema-que-trara-mais-concorrencia-a-empresas-de-onibus.shtml",
-        "data": "01/09/2025 20:59",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2022/11/13/1668360129637127c1dc17c_1668360129_3x2_rt.jpg"
-    },
-    {
-        "titulo": "O 'empurrão' da Apple à China na corrida com os EUA pela liderança do setor tecnológico",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2025/09/o-empurrao-da-apple-a-china-na-corrida-com-os-eua-pela-lideranca-do-setor-tecnologico.shtml",
-        "data": "01/09/2025 20:55",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/01/175675968968b6068965d9e_1756759689_3x2_lg.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2025/07/54578763073-e0fb57b166-c.avif"
     },
     {
         "titulo": "BTG Pactual troca Prio (PRIO3) por Embraer (EMBR3) e mantém 10% em construção civil em setembro",
@@ -328,7 +384,7 @@
         "image": "https://classic.exame.com/wp-content/uploads/2023/02/DSC2682bx-e1705599479943.jpg"
     },
     {
-        "titulo": "William Bonner deixa Jornal Nacional após 29 anos",
+        "titulo": "William Bonner deixa bancada do ‘Jornal Nacional’ após 29 anos",
         "link": "https://exame.com/casual/william-bonner-deixa-jornal-nacional-apos-29-anos/",
         "data": "01/09/2025 18:09",
         "fonte": "Exame",
@@ -344,105 +400,49 @@
         "image": "https://classic.exame.com/wp-content/uploads/2025/08/Cristian-Borrego-Sala.jpg"
     },
     {
-        "titulo": "PIB do 2º trimestre deve mostrar desaceleração da economia; veja o que esperar",
-        "link": "https://exame.com/economia/pib-do-2o-trimestre-deve-mostrar-desaceleracao-da-economia-veja-o-que-esperar/",
-        "data": "01/09/2025 17:32",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2017/10/sd_2510.jpg"
-    },
-    {
-        "titulo": "Brasil convoca reunião de líderes do Brics para 8 de setembro em meio a tarifas de Trump",
-        "link": "https://exame.com/mundo/brasil-convoca-reuniao-de-lideres-do-brics-para-8-de-setembro-em-meio-a-tarifas-de-trump/",
-        "data": "01/09/2025 17:32",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/07/AFP__20250706__64XB69U__v1__HighRes__BrazilBricsSummitFamilyPhoto.jpg"
-    },
-    {
-        "titulo": "Ele construiu três empresas milionárias sem priorizar o lucro; o dinheiro veio depois",
-        "link": "https://exame.com/negocios/ele-construiu-tres-empresas-milionarias-sem-priorizar-o-lucro-o-dinheiro-veio-depois/",
-        "data": "01/09/2025 17:30",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2024/06/foto-pequenos-empreendedores.png"
-    },
-    {
-        "titulo": "Com feriado nos EUA, Ibovespa fecha em queda de olho em Boletim Focus",
-        "link": "https://exame.com/invest/mercados/com-feriado-nos-eua-ibovespa-abre-em-alta-de-olho-em-boletim-focus/",
-        "data": "01/09/2025 17:18",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2023/07/DSC2592bx.jpg"
-    },
-    {
-        "titulo": "Executivo tem duas palavras para quem ainda não quer aprender sobre IA",
-        "link": "https://exame.com/carreira/executivo-tem-duas-palavras-para-quem-ainda-nao-quer-aprender-sobre-ia/",
-        "data": "01/09/2025 17:16",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2022/05/Mark-Cuban.jpg"
-    },
-    {
-        "titulo": "Dólar sobe pela segunda sessão seguida com cautela sobre orçamento de 2026",
-        "link": "https://exame.com/invest/mercados/dolar-sobe-pela-segunda-sessao-seguida-com-cautela-sobre-orcamento-de-2026/",
-        "data": "01/09/2025 17:04",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/05/GettyImages-1364602946.jpg"
-    },
-    {
-        "titulo": "Sheinbaum busca 'melhores condições' comerciais com EUA enquanto negocia sobre segurança",
-        "link": "https://exame.com/mundo/sheinbaum-busca-melhores-condicoes-comerciais-com-eua-enquanto-negocia-sobre-seguranca/",
-        "data": "01/09/2025 16:52",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/02/000_36XT2CP.jpg"
-    },
-    {
         "titulo": "Após 29 anos, Bonner deixa bancada do 'Jornal Nacional', e Globo anuncia substituto",
         "link": "https://www.terra.com.br/diversao/gente/apos-29-anos-bonner-deixa-bancada-do-jornal-nacional-e-passa-bastao-para-tralli,86926367e819ac2d70fc2bbabd79887aezs2opm4.html",
-        "data": "01/09/2025 21:28",
+        "data": "02/09/2025 03:17",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/01/bonner-(1)-1hv2q23j8r3vn.png"
     },
     {
+        "titulo": "Bia Haddad leva 'pneu' e é atropelada por Anisimova nas oitavas do US Open",
+        "link": "https://www.terra.com.br/esportes/tenis/bia-haddad-leva-pneu-e-e-atropelada-por-anisimova-nas-oitavas-do-us-open,7d9a13369d96466fb66548608a04d3d38ek7ljei.html",
+        "data": "02/09/2025 03:17",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    },
+    {
+        "titulo": "MP pede para afastar ex-presidentes do Corinthians por risco à investigação em curso",
+        "link": "https://www.terra.com.br/esportes/corinthians/mp-pede-para-afastar-ex-presidentes-do-corinthians-por-risco-a-investigacao-em-curso,4495705af4d0d62552fd155328ef21e31r8qlmg0.html",
+        "data": "02/09/2025 03:17",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/01/2059338407-3x1-andres-sanchez-augusto-melo-duilio-monteiro-alves-ex-presidentes-do-corinthians-610x400.jpg"
+    },
+    {
         "titulo": "'Vigilância reforçada' e 'triunfo da democracia': imprensa internacional repercute",
         "link": "https://www.terra.com.br/noticias/brasil/politica/vigilancia-reforcada-triunfo-da-democracia-e-teste-ao-judiciario-imprensa-internacional-repercute-julgamento-de-bolsonaro,af5cf6456bb4fae8af1241d38021c02drwfdidse.html",
-        "data": "01/09/2025 21:28",
+        "data": "02/09/2025 03:17",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/01/julgamento-sksbouo6sd9t.png"
     },
     {
-        "titulo": "Eduardo afirma que Tarcísio não é o candidato esperado pelo eleitor bolsonarista",
-        "link": "https://www.terra.com.br/noticias/brasil/politica/eduardo-afirma-que-tarcisio-nao-e-o-candidato-esperado-pelo-eleitor-bolsonarista,384845b762e4fd69d0f2da7566c504d54ycb8ury.html",
-        "data": "01/09/2025 21:28",
+        "titulo": "Zé Trovão é condenado a indenizar em R$ 50 mil ex-companheira por danos morais",
+        "link": "https://www.terra.com.br/noticias/brasil/politica/ze-trovao-e-condenado-a-indenizar-em-r-50-mil-ex-companheira-por-danos-morais,1d5bfc35275ff2aeb8cb9fb7c2e20b4be0t9yocq.html",
+        "data": "02/09/2025 03:17",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/21/1753974550-lvb6vgfglvbjvh77xoa7go7lfa.jpg"
-    },
-    {
-        "titulo": "Vídeos registram momento em que terra começa a tremer no Afeganistão; veja",
-        "link": "https://www.terra.com.br/noticias/mundo/forte-terremoto-no-afeganistao-videos-registram-momento-em-que-terra-comeca-a-tremer,3fcf2b4d4f0efc777b39193ac1ae3672tl8qxeao.html",
-        "data": "01/09/2025 21:28",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/01/terremoto1-1iupxo3ktigro.JPG"
-    },
-    {
-        "titulo": "Carlinhos de Jesus chora e descreve dores na perna e rotina na cadeira de rodas",
-        "link": "https://www.terra.com.br/diversao/gente/carlinhos-de-jesus-chora-e-descreve-rotina-na-cadeira-de-rodas-como-e-que-vou-viver,43347ca12ece08a5bd8fd270ee765866j89melng.html",
-        "data": "01/09/2025 21:28",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/01/carlinhos-1iyq1ho8ltnc4.png"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/02/captura-de-tela-2025-09-01-223108-1jy5g67xdqlpd.png"
     },
     {
         "titulo": "Lamborghini apreendida com Tarso Marques tem R$ 1,3 milhão de dívidas",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/lamborghini-apreendida-com-tarso-marques-tem-r-13-milhao-de-dividas,f758ec0945c6f7ab11c6eac02f770a29zlzjqfdx.html",
-        "data": "01/09/2025 21:28",
+        "data": "02/09/2025 03:17",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/31/ex-piloto-de-formula-1-tarso-marques-e-preso-em-sp-skscutotk31h.jpg"
@@ -450,23 +450,15 @@
     {
         "titulo": "Nestlé demite CEO por relacionamento amoroso com subordinada",
         "link": "https://www.terra.com.br/economia/nestle-demite-ceo-por-relacionamento-amoroso-com-subordinada,410957e96199241016232335717a7c7ezruir0j0.html",
-        "data": "01/09/2025 21:28",
+        "data": "02/09/2025 03:17",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/01/2025-09-01t173731-730-rl8fbjwddgtg.png"
     },
     {
-        "titulo": "Menino de 12 anos fica internado após se queimar fazendo trend das redes sociais",
-        "link": "https://www.terra.com.br/noticias/mundo/menino-de-12-anos-fica-internado-apos-se-queimar-fazendo-trend-das-redes-sociais,5bd5226db31e54d8cce67c85e78f45baj2dtv7jw.html",
-        "data": "01/09/2025 21:28",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/01/caden_02-uvendz05f6u9.jpg"
-    },
-    {
         "titulo": "Fim da novela por Antony, Éderson em 'dança das cadeiras' e mais",
         "link": "https://www.terra.com.br/esportes/futebol/mercado-da-bola/fim-da-novela-por-antony-ederson-em-danca-das-cadeiras-e-mais-veja-os-destaques-do-mercado-da-bola,1d856ce0e429cc40c98dcb4c2f3fa9a5dey6oq0y.html",
-        "data": "01/09/2025 21:28",
+        "data": "02/09/2025 03:17",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/01/antony-ederson-to541cki8swz.png"
@@ -474,89 +466,97 @@
     {
         "titulo": "CEO que tomou boné de criança em jogo se manifesta: \"A vida é assim\"",
         "link": "https://www.terra.com.br/esportes/tenis/ceo-que-tomou-bone-de-crianca-em-jogo-se-manifesta-a-vida-e-assim,570bfdcc6f41e9ffa2933ceff270ae98ypsjdzap.html",
-        "data": "01/09/2025 21:28",
+        "data": "02/09/2025 03:17",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/31/whatsapp-image-2025-08-31-at-12-30-26-skplxazij2uw.jpeg"
     },
     {
-        "titulo": "Quem é o substituto de William Bonner na bancada do Jornal Nacional",
-        "link": "https://veja.abril.com.br/coluna/tela-plana/quem-e-o-substituto-de-william-bonner-na-bancada-do-jornal-nacional/",
-        "data": "01/09/2025 21:30",
-        "fonte": "Veja",
-        "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2024/09/tralli-renata.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "titulo": "Ex-jogador do Chelsea foi espancado por namorado de estrela de 'Ted Lasso'",
+        "link": "https://www.terra.com.br/diversao/gente/ex-jogador-do-chelsea-foi-espancado-por-namorado-de-estrela-de-ted-lasso-apos-ser-flagrado-na-cama-dela,c3b3c62ba7eb538bb39787fdebe32012coph7kid.html",
+        "data": "02/09/2025 03:17",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/01/2025-09-01t162351-665-s15ly75nm62h.png"
     },
     {
-        "titulo": "Zé Trovão terá que pagar R$ 50 mil à ex-esposa por dano moral",
-        "link": "https://veja.abril.com.br/coluna/maquiavel/ze-trovao-tera-que-pagar-r-50-mil-a-ex-esposa-por-dano-moral/",
-        "data": "01/09/2025 21:25",
+        "titulo": "CPMI do INSS pede ao STF prisão de acusados de fraudes",
+        "link": "https://veja.abril.com.br/politica/cpmi-do-inss-pede-ao-stf-prisao-de-acusados-de-fraudes/",
+        "data": "02/09/2025 01:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/08/img20250820194018870.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/09/54759920634_ed22945247_k.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "O dia que William Bonner chorou ao vivo na bancada do ‘Jornal Nacional’",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/o-dia-que-william-bonner-chorou-ao-vivo-na-bancada-do-jornal-nacional/",
-        "data": "01/09/2025 21:24",
+        "titulo": "Estudo testa nova técnica para tratar insuficiência cardíaca em população brasileira",
+        "link": "https://veja.abril.com.br/saude/estudo-testa-nova-tecnica-para-tratar-insuficiencia-cardiaca-em-populacao-brasileira/",
+        "data": "02/09/2025 00:02",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2022/08/globo-jornal-nacional-william-bonner-1.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-01-at-10.35.54.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Brasil vai emitir vistos eletrônicos gratuitos para participantes da COP 30",
-        "link": "https://veja.abril.com.br/brasil/brasil-vai-emitir-vistos-eletronicos-gratuitos-para-participantes-da-cop-30/",
-        "data": "01/09/2025 21:15",
+        "titulo": "The Town anuncia últimos ingressos disponíveis para o primeiro dia do evento",
+        "link": "https://veja.abril.com.br/brasil/the-town-anuncia-ultimos-ingressos-disponiveis-para-o-primeiro-dia-do-evento/",
+        "data": "01/09/2025 23:07",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2024/04/passaporte-brasileiro_mcamgo_abr_140220221818-4.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2023/09/TT23_SHOW-DE-LUZES_por-Wesley-Allen9883.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Neymar reclama do ‘trabalho’: perna machucada após jogo",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/neymar-reclama-do-trabalho-perna-machucada-apos-jogo/",
-        "data": "01/09/2025 21:12",
+        "titulo": "O que fará Lázaro Ramos na Academia do Emmy Internacional",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/o-que-fara-lazaro-ramos-na-academia-do-emmy-internacional/",
+        "data": "01/09/2025 22:57",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/09/Captura-de-tela-2025-09-01-175844.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/09/Lazaro-Ramos.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "TV Globo anuncia que William Bonner sai do ‘Jornal Nacional’",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/tv-globo-anuncia-que-william-bonner-sai-do-jornal-nacional/",
-        "data": "01/09/2025 21:07",
+        "titulo": "Como Emily Blunt protagonizou o momento fashion mais memorável em Veneza?",
+        "link": "https://veja.abril.com.br/comportamento/como-emily-blunt-protagonizou-o-momento-fashion-mais-memoravel-em-veneza/",
+        "data": "01/09/2025 22:53",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/02/assets_fotos_903_eis-os-vencedores-do-melhores-do-ano-00c2a25a1fb1.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/09/GettyImages-2232649746.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "William Bonner anuncia aposentadoria do Jornal Nacional",
-        "link": "https://veja.abril.com.br/coluna/tela-plana/william-bonner-anuncia-aposentadoria-do-jornal-nacional/",
-        "data": "01/09/2025 21:07",
+        "titulo": "O que explica a falta de homenagens de colegas para William Bonner",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/o-que-explica-a-falta-de-homenagens-de-colegas-para-william-bonner/",
+        "data": "01/09/2025 22:44",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/02/assets_fotos_903_eis-os-vencedores-do-melhores-do-ano-00c2a25a1fb1.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2022/06/assets_fotos_799_campanha-tem-plim-plim-pra-todo-mundo-celebra-as-novidades-da-tv-globo-4a82c581fccc.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "O jeito que você usa creatina pode acabar prejudicando seus dentes",
-        "link": "https://veja.abril.com.br/saude/o-jeito-que-voce-usa-creatina-pode-acabar-prejudicando-seus-dentes/",
-        "data": "01/09/2025 21:00",
+        "titulo": "Filme com Jude Law no papel de Vladimir Putin é ovacionado em Veneza",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/filme-com-jude-law-no-papel-de-vladimir-putin-e-ovacionado-em-veneza/",
+        "data": "01/09/2025 22:42",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/01/GettyImages-1791488847.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-28-at-16.10.25.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "A urgência de falar sobre HPV e câncer de colo do útero",
-        "link": "https://veja.abril.com.br/coluna/por-tras-dos-numeros/a-urgencia-de-falar-sobre-hpv-e-cancer-de-colo-do-utero/",
-        "data": "01/09/2025 21:00",
+        "titulo": "O que disse Fátima Bernardes sobre a saída de Bonner do Jornal Nacional",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/o-que-disse-fatima-bernardes-sobre-a-saida-de-bonner-do-jornal-nacional/",
+        "data": "01/09/2025 22:30",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/09/GettyImages-685029941.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-01-at-19.14.50.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Morre, aos 58 anos, presidente do Musée d’Orsay e Musée de l’Orangerie",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/morre-aos-58-anos-presidente-do-musee-dorsay-e-musee-de-lorangerie/",
-        "data": "01/09/2025 20:47",
+        "titulo": "Especialistas apontam qual será o principal impasse das negociações da COP30, em Belém",
+        "link": "https://veja.abril.com.br/brasil/especialistas-apontam-qual-sera-o-principal-impasse-das-negociacoes-da-cop30-em-belem/",
+        "data": "01/09/2025 22:28",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/09/493878794343542344152_18526467670056529_5029124610819228170_n.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2016/05/gas-carbonico-fabrica-620-original1.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+    },
+    {
+        "titulo": "CPMI do INSS pede ao STF prisão preventiva de 21 investigados",
+        "link": "https://veja.abril.com.br/coluna/radar/cpmi-do-inss-pede-ao-stf-prisao-preventiva-de-21-investigados/",
+        "data": "01/09/2025 22:23",
+        "fonte": "Veja",
+        "metodo": "RSS",
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/08/img20250820124512456.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     }
 ]
