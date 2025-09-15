@@ -1,83 +1,107 @@
 [
     {
-        "titulo": "'Meu nome é Júlia': entenda grito do público em shows da Katy Perry",
-        "link": "https://g1.globo.com/pop-arte/musica/the-town/2025/noticia/2025/09/15/meu-nome-e-julia-entenda-grito-do-publico-em-shows-da-katy-perry.ghtml",
-        "data": "15/09/2025 03:21",
+        "titulo": "Garagem, churrasqueira e R$ 200: como esse ex-açougueiro fatura R$ 300 mil com churrasco",
+        "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2025/09/15/garagem-churrasqueira-e-r-200-como-esse-ex-acougueiro-fatura-r-300-mil-com-churrasco.ghtml",
+        "data": "15/09/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/CbOSGwF2mAhGhMS37rOo5mXd6zQ=/3264x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/e/l/a1a1BnSFOYDaDwddABkQ/befunky-collage-6-.jpg"
+    },
+    {
+        "titulo": "‘Multa confirmada, ela está a caminho da sua casa’: Prefeitura de Uberaba instala placas contra descarte irregular de lixo",
+        "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2025/09/15/multa-confirmada-ela-esta-a-caminho-da-sua-casa-prefeitura-de-uberaba-instala-placas-contra-descarte-irregular-de-lixo.ghtml",
+        "data": "15/09/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/GVncIy_NTBYo-Y0-p_UtafKkBwE=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/7/jpABZlRVqoJOThAasQnw/design-sem-nome-25-.png"
+    },
+    {
+        "titulo": "Universidade de SC entre as melhores do país abre concurso com 135 vagas e salários de até R$ 7,1 mil",
+        "link": "https://g1.globo.com/sc/santa-catarina/noticia/2025/09/15/ufsc-concurso-publico-professor-135-vagas.ghtml",
+        "data": "15/09/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/uD8hAY8eqINgqZHKpOCuwda7iBc=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/52/74/13917452"
+    },
+    {
+        "titulo": "Starlink, serviço de internet de Musk, apresenta instabilidade nesta segunda",
+        "link": "https://g1.globo.com/tecnologia/noticia/2025/09/15/starlink-servico-de-internet-de-musk-instabilidade.ghtml",
+        "data": "15/09/2025 05:09",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/mNOBmJkQYgIW7TvdkTeiPhhePl0=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/22/88/13928822"
+    },
+    {
+        "titulo": "DET: mais de 80 mil empregadores serão notificados para regular o FGTS de trabalhadores domésticos",
+        "link": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2025/09/15/det-mais-de-80-mil-empregadores-serao-notificados-para-regular-o-fgts-de-trabalhadores-domesticos.ghtml",
+        "data": "15/09/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/t_dwQQZCXqSLNsBoBMfUzo_E9JM=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/1/A/QNCKH7SxAHtlBXVjVJCg/globo-canal-4-20240613-1800-frame-242014.jpeg"
+    },
+    {
+        "titulo": "UnB inaugura 'supercomputador' e prepara graduação em inteligência artificial para 2026; entenda",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2025/09/15/unb-inaugura-supercomputador-e-prepara-graduacao-em-inteligencia-artificial-para-2026-entenda.ghtml",
+        "data": "15/09/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/JSr4q_Y3I2DKyUBS9S_n0TaaGhs=/4160x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/v/g/JvuTAHQA2dC1cemPxCHw/whatsapp-image-2025-09-12-at-19.10.31.jpeg"
+    },
+    {
+        "titulo": "O que já se sabe sobre obra inédita no Brasil que vai tirar areia de dragagem para alargar praia em SC",
+        "link": "https://g1.globo.com/sc/santa-catarina/noticia/2025/09/15/o-que-se-sabe-sobre-obra-inedita-areia-dragagem-alargar-praia-sc.ghtml",
+        "data": "15/09/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Ao-0KEDj13DPXg3EAxtiCcLgbEs=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/H/1YJ3pLQT6AKYdoalf00A/whatsapp-image-2025-09-03-at-13.56.37-1-.jpeg"
+    },
+    {
+        "titulo": "The Town 2025: O que deu certo e o que deu errado na segunda edição do festival em São Paulo?",
+        "link": "https://g1.globo.com/pop-arte/musica/the-town/2025/noticia/2025/09/15/the-town-2025-o-que-deu-certo-e-o-que-deu-errado-na-estreia-do-festival-em-sao-paulo.ghtml",
+        "data": "15/09/2025 04:20",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/TgPHFX3ILyrltkArUFDPVije-yY=/3984x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/o/F/4eCvL0QHiBYzNMAoD6tA/img-4299.jpg"
+    },
+    {
+        "titulo": "The Town 2025 tem último dia com 'pop farofa', Joelma empolgante e Katy Perry acrobática e futurista",
+        "link": "https://g1.globo.com/pop-arte/musica/the-town/2025/noticia/2025/09/15/the-town-2025-tem-ultimo-dia-com-pop-farofa-joelma-empolgante-e-katy-perry-acrobatica-e-futurista.ghtml",
+        "data": "15/09/2025 04:20",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/d2VL1JXDSUEoJktvTH1q6tdI-Uo=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/L/J/Anc21ZScGIKAw6LQpkOw/katy-perry-dsc01937-fabio-tito.jpg"
+    },
+    {
+        "titulo": "Katy Perry vira ginasta em show que diverte, mas tem muita enrolação no The Town",
+        "link": "https://g1.globo.com/pop-arte/musica/the-town/2025/noticia/2025/09/15/katy-perry-vira-ginasta-em-show-que-ate-diverte-mas-tem-muita-enrolacao-no-the-town.ghtml",
+        "data": "15/09/2025 04:19",
         "fonte": "G1",
         "metodo": "RSS",
         "image": "https://s2-g1.glbimg.com/tAQpC6BKx2BFkt0SRefiwWJL040=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/1/5hM07kRJaAaZu9CMWFLw/katy-perry-dsc02007-fabio-tito.jpg"
     },
     {
-        "titulo": "Robô, Zé Gotinha e Porquinho da Paulista: os rolês aleatórios do The Town",
-        "link": "https://g1.globo.com/pop-arte/musica/the-town/2025/noticia/2025/09/15/robo-ze-gotinha-e-porquinho-da-paulista-os-roles-aleatorios-do-the-town.ghtml",
-        "data": "15/09/2025 03:15",
-        "fonte": "G1",
+        "titulo": "Brasil será território de disputa entre China e EUA, diz professor",
+        "link": "https://www.cnnbrasil.com.br/internacional/brasil-sera-territorio-de-disputa-entre-china-e-eua-diz-professor/",
+        "data": "15/09/2025 06:13",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/_J3GBAGfC-t_prmyicxUmanTLNI=/1616x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/H/uJyRBwS2mIWFtOXdBk9Q/porquinho-da-paulista-luisa-sonza-fabio-tito.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/China-EUA-Brasil.jpg"
     },
     {
-        "titulo": "‘Vale Tudo’ no The Town: relembre atores da novela que participaram do festival",
-        "link": "https://g1.globo.com/pop-arte/musica/the-town/2025/noticia/2025/09/15/vale-tudo-no-the-town-relembre-atores-da-novela-que-participaram-do-festival.ghtml",
-        "data": "15/09/2025 03:11",
-        "fonte": "G1",
+        "titulo": "Mesmo sem texto acordado, PL aposta em tramitação rápida da anistia",
+        "link": "https://www.cnnbrasil.com.br/politica/mesmo-sem-texto-acordado-pl-aposta-em-tramitacao-rapida-da-anistia/",
+        "data": "15/09/2025 06:00",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/iA-MABc9DGBpYLnvPB2Ry06s478=/1280x0/filters:format(jpeg)/https://s03.video.glbimg.com/x720/13924898.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/07/img20250611221936549.jpg"
     },
     {
-        "titulo": "The Town sexy: Luísa Sonza, Jason Derulo, Ludmilla e mais atrações que sensualizaram no festival",
-        "link": "https://g1.globo.com/pop-arte/musica/the-town/2025/noticia/2025/09/15/the-town-sexy-luisa-sonza-jason-derulo-ludmilla-e-mais-atracoes-que-sensualizaram-no-festival.ghtml",
-        "data": "15/09/2025 03:07",
-        "fonte": "G1",
+        "titulo": "“The Pitt”: web reage às vitórias da série no Emmy 2025; veja memes",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/the-pitt-web-reage-as-vitorias-da-serie-no-emmy-2025-veja-memes/",
+        "data": "15/09/2025 04:08",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/dY8hqIkD2svN93kLjwqeDojDR_A=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/2/XdTowKRjirMFUcIWZk4g/luisa-sonza-dsc00380-fabio-tito.jpg"
-    },
-    {
-        "titulo": "Montes Claros comemora mais de 1.500 empresas abertas no ano",
-        "link": "https://g1.globo.com/mg/grande-minas/especial-publicitario/pm-montes-claro/noticia/2025/09/15/montes-claros-comemora-mais-de-1500-empresas-abertas-no-ano.ghtml",
-        "data": "15/09/2025 03:03",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/kgbAw0-B_5GxFcQHupvPQg9UYc8=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/4/30DGagTty61t57udjoSw/vista-entardecer-solon-queiroz.jpeg"
-    },
-    {
-        "titulo": "Emmy 2025: 'The Pitt', 'O estúdio' e 'Adolescência' são os grandes vencedores; veja lista completa",
-        "link": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2025/09/15/emmy-2025-the-pitt-o-estudio-e-adolescencia-sao-os-grandes-vencedores-veja-lista-completa.ghtml",
-        "data": "15/09/2025 03:02",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/JgOFtwZZEuEq38NoYrMyrtQP7ok=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/A/1dAmQVQ2eVpvcWNHDnuw/owen-cooper-2.jpg"
-    },
-    {
-        "titulo": "Cuidar do coração é investir em mais saúde e qualidade de vida",
-        "link": "https://g1.globo.com/mg/zona-da-mata/especial-publicitario/acessamed/noticia/2025/09/15/cuidar-do-coracao-e-investir-em-mais-saude-e-qualidade-de-vida.ghtml",
-        "data": "15/09/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/jd3M_9P-zANrBrdiOChQVxrtMf8=/424x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/Z/hIagG8QSeBNG8ZgIMH9A/05.jpg"
-    },
-    {
-        "titulo": "Leilão de carros e motos do Governo de SP tem Blazer a preço de iPhone e Yamaha XTZ a R$ 3 mil",
-        "link": "https://g1.globo.com/carros/motos/noticia/2025/09/15/leilao-de-carros-e-motos-do-governo-de-sp.ghtml",
-        "data": "15/09/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/9dcppn3dqKkaO4BBHyP6UX5kmn8=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/o/q/ErNTJ5QkCxBcbRi8jHBQ/whatsapp-image-2025-09-12-at-14.44.10.jpeg"
-    },
-    {
-        "titulo": "Adolescente de 14 anos morre ao tentar 'surfar' em ônibus e cair do veículo",
-        "link": "https://g1.globo.com/pe/pernambuco/noticia/2025/09/15/adolescente-de-14-anos-morre-ao-tentar-surfar-em-onibus-e-cair-do-veiculo.ghtml",
-        "data": "15/09/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/kQOs1HdtsJ93Kqhj5fmwXnv3ka0=/1365x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/9/sGB2gBSNWnih1noDmaDA/acidente-onibus.jpg"
-    },
-    {
-        "titulo": "Integrantes da Primeira Turma do STF esperam julgar Eduardo Bolsonaro até o fim do ano",
-        "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2025/09/15/integrantes-da-primeira-turma-do-stf-esperam-julgar-eduardo-bolsonaro-ate-o-fim-do-ano.ghtml",
-        "data": "15/09/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/0RmyIRRBOzvc5eQC5DldhWREpSc=/3872x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/y/s/F90fRDRvAADkd81OmsPQ/age20250526018.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/noah-wyle.jpg"
     },
     {
         "titulo": "Emmy 2025: “Adolescência” e “The Pitt” são os grandes destaques da noite",
@@ -93,7 +117,7 @@
         "data": "15/09/2025 02:59",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/11/the-pitt-imagem.png"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/noah-wyle.jpg"
     },
     {
         "titulo": "Emmy 2025: saiba por que discursos vencedores estão sendo curtos",
@@ -136,28 +160,12 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/labubu.jpg"
     },
     {
-        "titulo": "Brasileirão: rodada tem quebra de jejum do Flamengo e golaço de Coutinho",
-        "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-flamengo-quebra-jejum-e-sao-paulo-vence-o-botafogo/",
-        "data": "15/09/2025 02:00",
-        "fonte": "CNN Brasil",
+        "titulo": "Horóscopo do dia: previsão para os 12 signos em 15/09/2025",
+        "link": "https://jovempan.com.br/edicase/horoscopo-do-dia-previsao-para-os-12-signos-em-15-09-2025.html",
+        "data": "15/09/2025 03:00",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/gol_arrascaeta_flamengo_juventude_brasileirao.jpg"
-    },
-    {
-        "titulo": "Coutinho faz golaço, mas Vasco vacila e cede empate ao Ceará no Brasileirão",
-        "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/coutinho-faz-golaco-mas-vasco-vacila-e-cede-empate-ao-ceara-no-brasileirao/",
-        "data": "15/09/2025 01:29",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/coutinho_ceara_vasco_brasileirao.jpg"
-    },
-    {
-        "titulo": "Emmy 2025: Owen Cooper, de “Adolescência”, é o mais jovem a vencer prêmio",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/emmy-2025-owen-cooper-de-adolescencia-e-o-mais-jovem-a-vencer-premio/",
-        "data": "15/09/2025 01:27",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/owen-cooper.jpg"
+        "image": "https://jpimg.com.br/uploads/2025/09/horoscopo-do-dia-previsao-para-os-12-signos-em-15-09-2025-1024x683.jpg"
     },
     {
         "titulo": "Defesa Civil de São Paulo prevê semana crítica para queimadas no Estado",
@@ -232,12 +240,20 @@
         "image": "https://jpimg.com.br/uploads/2025/07/afp__20250714__66qj8w2__v1__highres__belgiumeupoliticsdiplomacy.jpg"
     },
     {
-        "titulo": "Santos busca empate com o Atlético-MG e times continuam em situação dramática no Brasileirão",
-        "link": "https://jovempan.com.br/esportes/futebol/santos-busca-empate-com-o-atletico-mg-e-times-continuam-em-situacao-dramatica-no-brasileirao.html",
-        "data": "14/09/2025 21:23",
-        "fonte": "Jovem Pan",
+        "titulo": "Democratas pressionam Trump por acordo que limite a produção da China",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/09/democratas-pressionam-trump-por-acordo-que-limite-a-producao-da-china.shtml",
+        "data": "15/09/2025 04:55",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/09/agf20250914506-1024x591.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/15/175791157968c79a1bc0657_1757911579_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Katy Perry no The Town quer ser do futuro, mas vai bem quando volta ao passado",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2025/09/katy-perry-no-the-town-quer-ser-do-futuro-mas-vai-bem-quando-volta-ao-passado.shtml",
+        "data": "15/09/2025 04:44",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/15/175791130868c7990c85214_1757911308_3x2_rt.jpg"
     },
     {
         "titulo": "Gabriel Farrel, fundador da pizzaria Borda e Lenha, morre ao saltar de paraquedas",
@@ -302,22 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2025/09/12/175769089268c43c0cd5f0c_1757690892_3x2_rt.jpg"
-    },
-    {
-        "titulo": "PL não se importa com presos do 8/1 e só quer anistia para Bolsonaro, diz líder do PSB",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2025/09/pl-nao-se-importa-com-presos-do-81-e-so-quer-anistia-para-bolsonaro-diz-lider-do-psb.shtml",
-        "data": "15/09/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2023/01/19/167413940363c9570b9967d_1674139403_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Belém vive 'COP mania' com lançamentos de pratos, sorvetes e até poção 'chama gringo' inspirados na cúpula climática",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/09/belem-vive-cop-mania-com-lancamentos-de-pratos-sorvetes-e-ate-pocao-chama-gringo-inspirados-na-cupula-climatica.shtml",
-        "data": "15/09/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/03/175695386968b8fd0df21b0_1756953869_3x2_rt.jpg"
     },
     {
         "titulo": "Emmy Awards 2025: 'Adolescência' e 'O Estúdio' se destacam; veja a lista completa de vencedores",
@@ -402,7 +402,7 @@
     {
         "titulo": "Flamengo bate o Juventude e segue isolado na ponta do campeonato",
         "link": "https://www.terra.com.br/esportes/flamengo/flamengo-bate-o-juventude-e-segue-isolado-na-ponta-do-brasileirao,8c2d9ce25302b626624adacbe76ffc779k2vg4ne.html",
-        "data": "15/09/2025 03:37",
+        "data": "15/09/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/14/482456857-flaxjuvbr251easy-resizecom-610x400.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Paolla Oliveira diz que Heleninha a transformou como pessoa",
         "link": "https://www.terra.com.br/diversao/musica/the-town/paolla-oliveira-diz-que-heleninha-a-transformou-como-pessoa,e21a2f6b3ac71e8e571953476ab3357ashz200e1.html",
-        "data": "15/09/2025 03:37",
+        "data": "15/09/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/14/tais-araujo,-paolla-oliveira-e-lazaro-ramos-rhiuccnbksvo.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Goleiro do Santos recebe joelhada na testa e machucado impressiona",
         "link": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/goleiro-do-santos-recebe-joelhada-na-testa-e-machucado-impressiona,08c6ad5ab6fc0af82ebd595ef8812b70ryequfw9.html",
-        "data": "15/09/2025 03:37",
+        "data": "15/09/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/14/captura-de-tela-2025-09-14-171553-s13cvmm2ca5f.png"
@@ -426,7 +426,7 @@
     {
         "titulo": "Porquinho da Paulista usa esparadrapo no The Town após ataque: 'me senti vulnerável'",
         "link": "https://www.terra.com.br/diversao/musica/the-town/atacado-ha-uma-semana-porquinho-da-paulista-usa-esparadrapo-no-the-town-me-senti-vulneravel,e580d15dfece9a480b8d8d8a744f69303pipdtsp.html",
-        "data": "15/09/2025 03:37",
+        "data": "15/09/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/14/joelma-(68)-1hr5dk0r5vyut.jpg"
@@ -434,7 +434,7 @@
     {
         "titulo": "Junior Lima grita palavrões e condena perdão a Bolsonaro: 'Anistia é o cara'",
         "link": "https://www.terra.com.br/diversao/gente/junior-lima-grita-palavroes-e-condena-perdao-a-bolsonaro-anistia-e-o-cara,8ef8da30f1e40560d4f59046123f70360y5bzgdk.html",
-        "data": "15/09/2025 03:37",
+        "data": "15/09/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/26/screenshot-(18)-1k253oovvden7.png"
@@ -442,7 +442,7 @@
     {
         "titulo": "\"Ai Se Eu Te Pego\": Camila Cabello emociona Michel Teló com cover no The Town",
         "link": "https://billboard.com.br/?p=156006&utm_source=terra_capa&utm_medium=referral",
-        "data": "15/09/2025 03:37",
+        "data": "15/09/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": null
@@ -450,7 +450,7 @@
     {
         "titulo": "Tramell Tillman, de 'Ruptura', faz história como primeiro ator negro a vencer categoria",
         "link": "https://www.terra.com.br/diversao/entre-telas/series/emmy-2025-tramell-tillman-de-ruptura-faz-historia-como-primeiro-ator-negro-a-vencer-categoria,17dfb7852213300051ea95fb262473fdcewvgfyz.html",
-        "data": "15/09/2025 03:37",
+        "data": "15/09/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/15/gettyimages-2235462941-1ibkc4ip3eag1.jpg"
@@ -458,7 +458,7 @@
     {
         "titulo": "Nikolas Ferreira tenta caçar visto de Felipe Neto e briga com famosos",
         "link": "https://www.terra.com.br/noticias/brasil/politica/nikolas-ferreira-tenta-cacar-visto-de-felipe-neto-e-briga-com-famosos,2d0ad0864721fdfa02f69f04c6ddfa42ohylml8d.html",
-        "data": "15/09/2025 03:37",
+        "data": "15/09/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/07/24/nikolas-sem-txt-u87wji6fh6pe.jpg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Artista circense cai durante número de suspensão capilar no Rio",
         "link": "https://www.terra.com.br/artista-circense-cai-durante-numero-de-suspensao-capilar-em-miracema-rj,86856992a3f215dec3fe23af0f473534ul0c5645.html",
-        "data": "15/09/2025 03:37",
+        "data": "15/09/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/15/artista-1-1ib36p3thyezo.jpg"
@@ -474,7 +474,7 @@
     {
         "titulo": "Incêndio atinge fábrica da Nestlé no interior de SP; veja vídeo",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/incendio-atinge-fabrica-da-nestle-no-interior-de-sp-veja-video,19a9d1e2f50d721bad11b7c182fd97fbw61qaj0a.html",
-        "data": "15/09/2025 03:37",
+        "data": "15/09/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/14/2003666023-6vxxbncgwzho7pp52tken4yu3y.png"
