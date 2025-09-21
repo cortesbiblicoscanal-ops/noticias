@@ -1,11 +1,67 @@
 [
     {
+        "titulo": "Dólar mais fraco: por que Trump parece agir para desvalorizar a moeda — e qual sua estratégia",
+        "link": "https://g1.globo.com/economia/noticia/2025/09/21/dolar-mais-fraco-por-que-trump-parece-agir-para-desvalorizar-a-moeda-e-qual-sua-estrategia.ghtml",
+        "data": "21/09/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/iEW7Oj90V6UmdVOb_uJLtpZ8v7U=/5492x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/h/i/v4JHlrQQuDSG2ZNABvdA/donald-trump.jpg"
+    },
+    {
+        "titulo": "Como tarifaço dos EUA derruba exportações de madeira do RS e ameaça milhares de empregos",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/09/21/como-tarifaco-dos-eua-derruba-exportacoes-de-madeira-do-rs-e-ameaca-milhares-de-empregos.ghtml",
+        "data": "21/09/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/hrISWrIiA9JUhJcIBROQiY0-4gw=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/s/XAB3enTm2YcgoYksczaQ/setor-madeireiro-frame-1337.png"
+    },
+    {
+        "titulo": "Serenata em cemitério: família mantém há 50 anos tradição de cantar em frente a túmulo em MG",
+        "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2025/09/21/serenata-em-cemiterio-familia-mantem-ha-50-anos-tradicao-de-cantar-em-frente-a-tumulo-em-mg.ghtml",
+        "data": "21/09/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/kE3mHIUXD-3NtVowAq1eAEPnbuE=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/K/frTrpDQQ2Be9Gazet0hg/serenata-tiso-2025-3.jpg"
+    },
+    {
+        "titulo": "'Calamidade': fazendeiros dos EUA enfrentam crise após tarifaço e pedem ajuda ao governo",
+        "link": "https://g1.globo.com/economia/agronegocios/noticia/2025/09/21/calamidade-fazendeiros-dos-eua-enfrentam-crise-apos-tarifaco-e-pedem-ajuda-ao-governo.ghtml",
+        "data": "21/09/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/fBDd3-3zL4owyCXlAuA7nONupqM=/5011x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/D/fphJYdQmCure3EnMQ40w/2025-03-10t100424z-409305762-rc2ja8ahl7qp-rtrmadp-3-usa-trump-farmers-freeze.jpg"
+    },
+    {
+        "titulo": "Petrolina 130 anos: conheça cinco locais da cidade que vão te surpreender",
+        "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2025/09/21/petrolina-130-anos-conheca-cinco-locais-da-cidade-que-vao-te-surpreender.ghtml",
+        "data": "21/09/2025 04:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Z4gPEnxQHAZf5X8AxUksopEHuiw=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/V/B/V8B31fSICh6rcipYSf7Q/blank-5-grids-collage.jpg"
+    },
+    {
+        "titulo": "Fã de Ivete, jovem com TEA leva caricatura da cantora para show gratuito no Mangueirão, em Belém",
+        "link": "https://g1.globo.com/pa/para/noticia/2025/09/21/fa-de-ivete-jovem-com-tea-leva-caricatura-da-cantora-para-show-gratuito-no-mangueirao-em-belem.ghtml",
+        "data": "21/09/2025 03:51",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/E10uoVhzG4NvEwO-MOkGwE4x6Xs=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/29/77/13947729"
+    },
+    {
+        "titulo": "Público do 'Amazônia Live' faz fila para embarcar no BRT gratuito após show de Ivete no Mangueirão, em Belém",
+        "link": "https://g1.globo.com/pa/para/noticia/2025/09/21/publico-do-amazonia-live-faz-fila-para-embarcar-no-brt-gratuito-apos-show-de-ivete-no-mangueirao-em-belem.ghtml",
+        "data": "21/09/2025 03:35",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/sfEW2YnkYYMI5FlwEFUax5DKcVY=/4032x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/Z/DBthlDRvOl9U1u3ASULA/whatsapp-image-2025-09-21-at-00.20.01.jpeg"
+    },
+    {
         "titulo": "Ivete canta 'Voando pro Pará' em homenagem ao estado no 'Amazônia Live', com público de 45 mil pessoas",
         "link": "https://g1.globo.com/pa/para/noticia/2025/09/21/ivete-canta-voando-pro-para-em-homenagem-ao-estado-no-amazonia-live-com-publico-de-45-mil-pessoas.ghtml",
         "data": "21/09/2025 03:11",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/XNEGBKiov66TAGTYhGAIRxt1erc=/3520x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/U/F/e1oS7lSKKWpfJ8ZkkUFg/whatsapp-image-2025-09-21-at-00.08.56.jpeg"
+        "image": "https://s2-g1.glbimg.com/z4fCiZbeBqm9Hb_3CpksXrABveg=/4000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/M/W3p0SgTIAoT57qeGRWmw/fsf-2384.jpg"
     },
     {
         "titulo": "Aliança com o Centrão também terá efeitos negativos para o bolsonarismo, analisa Fernando Abrucio",
@@ -22,62 +78,6 @@
         "fonte": "G1",
         "metodo": "RSS",
         "image": "https://s2-g1.glbimg.com/vRqOFAKagJkU-PnsiAbNyU9DpOg=/424x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/m/UPbdb7QcKzsvDeDuTkFg/03.jpg"
-    },
-    {
-        "titulo": "Dia da Árvore: Recife é conhecido como 'Cidade dos Baobás' e tem 14 deles tombados; veja mapa e fotos",
-        "link": "https://g1.globo.com/pe/pernambuco/noticia/2025/09/21/dia-da-arvore-recife-e-conhecido-como-cidade-dos-baobas-e-tem-14-deles-tombados-veja-mapa-e-fotos.ghtml",
-        "data": "21/09/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/iC51vyGRzGYacrsEqb9IyZvmPeI=/1500x0/filters:format(jpeg)/http://s.glbimg.com/jo/g1/f/original/2016/04/09/arb_0001_31032016_foto_andrearegobarros_ok.jpg"
-    },
-    {
-        "titulo": "Câmara de Anapu, no Pará vai investigar prefeito por ocultar licitações públicas no Portal da Transparência",
-        "link": "https://g1.globo.com/pa/para/noticia/2025/09/20/camara-de-anapu-no-para-vai-investigar-prefeito-por-ocultar-licitacoes-publicas-no-portal-da-transparencia.ghtml",
-        "data": "21/09/2025 01:49",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/n05r3UXR_fHjERJXjAdVww13yPA=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/54/74/13947454"
-    },
-    {
-        "titulo": "Pesquisa de universidade brasileira descobre que cera de ouvido pode ajudar a detectar câncer",
-        "link": "https://g1.globo.com/jornal-nacional/noticia/2025/09/20/pesquisa-de-universidade-brasileira-descobre-que-cera-de-ouvido-pode-ajudar-a-detectar-cancer.ghtml",
-        "data": "21/09/2025 00:25",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/IJQQTjFigWl4gmvWl-1Gjy_IhMk=/891x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/R/BLa6AQQCWauexMl7AfAA/2009-jn-ceraouvido.jpg"
-    },
-    {
-        "titulo": "Suspeito de participar da execução do ex-delegado Ruy Ferraz se entrega em São Vicente",
-        "link": "https://g1.globo.com/jornal-nacional/noticia/2025/09/20/suspeito-de-participar-da-execucao-do-ex-delegado-ruy-ferraz-se-entrega-em-sao-vicente.ghtml",
-        "data": "21/09/2025 00:14",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/qBl1Gq3HVVelwVBbIMNL1fy7GKM=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/63/75/13947563"
-    },
-    {
-        "titulo": "Ataque cibernético afeta quatro grandes aeroportos da Europa",
-        "link": "https://g1.globo.com/jornal-nacional/noticia/2025/09/20/ataque-cibernetico-afeta-quatro-grandes-aeroportos-da-europa.ghtml",
-        "data": "21/09/2025 00:06",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/bOotf-TW43uSK-cO47vCUXIASv0=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/97/75/13947597"
-    },
-    {
-        "titulo": "Acidente entre caminhão, carros e moto deixa pelo menos sete mortos na BR-153",
-        "link": "https://g1.globo.com/go/goias/transito/noticia/2025/09/20/acidente-entre-caminhao-carros-e-moto-deixa-pelo-menos-sete-mortos-na-br-153.ghtml",
-        "data": "21/09/2025 00:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/YfgihO7ds4DYz0g7x1UDwSKyiVY=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/8/DCAb1PRLOBC1jjGzZOTw/250920-mapa-acidente-goiania.jpg"
-    },
-    {
-        "titulo": "Departamento de Guerra dos EUA impõe restrições a jornalistas",
-        "link": "https://g1.globo.com/jornal-nacional/noticia/2025/09/20/departamento-de-guerra-dos-eua-impoe-restricoes-a-jornalistas.ghtml",
-        "data": "20/09/2025 23:59",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/VA804Ih9OwIFbA6G9o9O7odrmgA=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/71/75/13947571"
     },
     {
         "titulo": "Filho de Angélica e Huck passeia com namorada e sogros no Rio; veja",
@@ -160,6 +160,14 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/alan-franco-botafogo-atletico-mg-brasileiro-e1758413436351.jpg"
     },
     {
+        "titulo": "Horóscopo do dia: previsão para os 12 signos em 21/09/2025",
+        "link": "https://jovempan.com.br/edicase/horoscopo-do-dia-previsao-para-os-12-signos-em-21-09-2025.html",
+        "data": "21/09/2025 03:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/09/horoscopo-do-dia-previsao-para-os-12-signos-em-21-09-2025-1024x683.jpg"
+    },
+    {
         "titulo": "Andreas Pereira marca dois gols, Palmeiras goleia Fortaleza por 4 a 1 e assume vice-liderança",
         "link": "https://jovempan.com.br/esportes/futebol/palmeiras/andreas-pereira-marca-dois-palmeiras-goleia-fortaleza-por-4-a-1-e-assume-vice-lideranca.html",
         "data": "21/09/2025 02:04",
@@ -232,15 +240,15 @@
         "image": "https://jpimg.com.br/uploads/2025/09/venezuela-treinamento-militar.jpg"
     },
     {
-        "titulo": "Vini Júnior se irrita com substituição e Xabi Alonso admite: ‘Podia ter esperado’",
-        "link": "https://jovempan.com.br/esportes/futebol/futebol-internacional/vini-junior-se-irrita-com-substituicao-e-xabi-alonso-admite-podia-ter-esperado.html",
-        "data": "20/09/2025 22:46",
-        "fonte": "Jovem Pan",
+        "titulo": "Ivete Sangalo canta Joelma e diz que indígenas são geniais em show pró-Amazônia em Belém",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2025/09/ivete-sangalo-canta-joelma-e-diz-que-indigenas-sao-geniais-em-show-pro-amazonia-em-belem.shtml",
+        "data": "21/09/2025 05:59",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2023/05/vinicius-junior-sofrendo-racismo-e-sendo-expulso.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/21/175843322468cf8fc86596b_1758433224_3x2_rt.jpg"
     },
     {
-        "titulo": "Invasões de veículos ameaçam segurança em ferrovias em Minas Gerais; veja",
+        "titulo": "Invasões de carros e motos ameaçam segurança em ferrovias em Minas Gerais; veja",
         "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2025/09/invasoes-de-veiculos-ameacam-seguranca-em-ferrovias-em-minas-gerais-veja.shtml",
         "data": "21/09/2025 02:57",
         "fonte": "Folha de S.Paulo",
@@ -310,14 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2025/09/19/175831352068cdbc3032d99_1758313520_3x2_xl.jpg"
-    },
-    {
-        "titulo": "Leão 14 busca caminho próprio em meio à onipresença de Francisco",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2025/09/leao-14-busca-caminho-proprio-em-meio-a-onipresenca-de-francisco.shtml",
-        "data": "21/09/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/19/175830050768cd895bca17e_1758300507_3x2_rt.jpg"
     },
     {
         "titulo": "Trump emite vaga ameaça contra Afeganistão por base aérea de Bagram",
@@ -402,7 +402,7 @@
     {
         "titulo": "Relator promete apresentar na quarta-feira relatório contra PEC da Blindagem no Senado",
         "link": "https://www.terra.com.br/noticias/brasil/politica/relator-promete-apresentar-na-quarta-feira-relatorio-contra-pec-da-blindagem-no-senado,91c39a40edecfd1426be30a9dcdefc836lxe5b53.html",
-        "data": "21/09/2025 03:36",
+        "data": "21/09/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/21/1241824395-eje6a7ejbvi5bdsmnvh3migabe.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Com um jogador a menos, Botafogo vence o Atlético e dorme no G4",
         "link": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/com-um-jogador-a-menos-botafogo-vence-o-atletico-e-dorme-no-g4-do-brasileirao,80ed21780c6adf045cfff212d6846626crvoeu85.html",
-        "data": "21/09/2025 03:36",
+        "data": "21/09/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/20/858141165-54801103945d87b234181o-610x400.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Fluminense bate o Vitória, volta a vencer no Brasileirão e se aproxima do G6",
         "link": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/fluminense-bate-o-vitoria-e-se-aproxima-do-g6-do-brasileirao,fc3df7335aee81bb9f9c36d2b46308f7zkltigme.html",
-        "data": "21/09/2025 03:36",
+        "data": "21/09/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/20/1424921305-54800699103aa87be99c8keasy-resizecom-610x400.jpg"
@@ -426,7 +426,7 @@
     {
         "titulo": "EUA exigem aprovação prévia de reportagens sobre Departamento de Guerra",
         "link": "https://www.terra.com.br/noticias/mundo/estados-unidos/eua-passam-a-exigir-aprovacao-previa-de-reportagens-sobre-o-departamento-de-guerra,747820574d949b0dfa541d066d85f4aduaz0lx8p.html",
-        "data": "21/09/2025 03:36",
+        "data": "21/09/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/07/29/gettyimages-2226748747-1k1txsdhzrdit.jpg"
@@ -434,7 +434,7 @@
     {
         "titulo": "Nunes pede rescisão do contrato com empresa após funcionário criticar Charlie Kirk",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/prefeitura-de-sp-pede-rompimento-de-contrato-com-empresa-apos-polemica-de-publicacao-sobre-morte-de-charlie-kirk,98ecc768407e1c81d22255d776af391b5gkjj0y2.html",
-        "data": "21/09/2025 03:36",
+        "data": "21/09/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/08/17/1656774305-pohza6r2gblmbmd3sydnejnxc4.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Sem citar Bolsonaro, Tarcísio defende anistia e diz não querer impunidade",
         "link": "https://www.terra.com.br/noticias/brasil/politica/sem-citar-bolsonaro-tarcisio-defende-anistia-como-pacificacao-e-diz-nao-querer-impunidade,9695038d484e0bfc87985e022a73cb1bwxqpxjux.html",
-        "data": "21/09/2025 03:36",
+        "data": "21/09/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/30/257122775-lgfmk47ib5gazmqoeqeqw7piyq.jpg"
@@ -450,7 +450,7 @@
     {
         "titulo": "Justiça decreta prisão de 7º suspeito por assassinato de ex-delegado Ruy Ferraz",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/justica-decreta-prisao-de-setimo-suspeito-por-assassinato-do-ex-delegado-ruy-ferraz,0e45ce78f3e42d93c68dc4792c1a6598cu3ftv25.html",
-        "data": "21/09/2025 03:36",
+        "data": "21/09/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/19/delegado-ruy-soq66p9w3faw.png"
@@ -458,7 +458,7 @@
     {
         "titulo": "Brasil e aliados deixam EUA de fora de evento sobre democracia em Nova York",
         "link": "https://www.terra.com.br/noticias/mundo/diferentemente-de-2024-brasil-e-aliados-deixam-eua-de-fora-de-evento-sobre-democracia-em-nova-york,6f1a758ed4dea24cea74cc6d5b5df14bezg4bkag.html",
-        "data": "21/09/2025 03:36",
+        "data": "21/09/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/07/26/gettyimages-2227020277-1iyc8k740fzhe.jpg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Alarme de incêndio dispara durante programa ao vivo da sportv; veja o vídeo",
         "link": "https://www.terra.com.br/diversao/tv/alarme-de-incendio-dispara-durante-programa-ao-vivo-da-sportv-veja-o-video,a395f1bcf2d7cbde6ee8df3e8074b35b4cnta6yh.html",
-        "data": "21/09/2025 03:36",
+        "data": "21/09/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/20/renata-mendonca-1h8207z8d6zc4.jpg"
@@ -474,7 +474,7 @@
     {
         "titulo": "Confira o grid de largada provisório para o GP do Azerbaijão 2025",
         "link": "https://www.f1mania.net/f1/f1-confira-o-grid-de-largada-provisorio-para-o-gp-do-azerbaijao-2025/?utm_source=terra_capa&utm_medium=referral",
-        "data": "21/09/2025 03:36",
+        "data": "21/09/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://www.f1mania.net/wp-content/uploads/2025/09/XPB_1372918_HiRes.jpg"
