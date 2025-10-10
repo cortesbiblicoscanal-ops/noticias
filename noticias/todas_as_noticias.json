@@ -1,83 +1,131 @@
 [
     {
-        "titulo": "Prefeitura de Montes Claros constrói quadra no Canelas",
-        "link": "https://g1.globo.com/mg/grande-minas/especial-publicitario/pm-montes-claro/noticia/2025/10/10/prefeitura-de-montes-claros-constroi-quadra-no-canelas.ghtml",
+        "titulo": "Paranaense descobre que passou 20 anos com o mesmo número de CPF que outro homem, que tem o mesmo nome e data de nascimento",
+        "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2025/10/10/paranaense-descobre-que-passou-20-anos-com-o-mesmo-numero-de-cpf-que-outro-homem-que-tem-o-mesmo-nome-e-data-de-nascimento.ghtml",
+        "data": "10/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/bEBTpWEfabto0634SlgBgr3GWIE=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/M/D/V0JI4MSYSxqC8dMV4tPw/httpsportalnorte.com.brwp-adminpost.phppost-292629-action-edit-2025-09-11t175150.288.jpg"
+    },
+    {
+        "titulo": "Folha mais fina, textura aveludada e cor: como diferenciar a 'falsa couve' da verdadeira",
+        "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2025/10/10/folha-mais-fina-textura-aveludada-e-cor-como-diferenciar-a-falsa-couve-da-verdadeira.ghtml",
+        "data": "10/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/PayNrkfhQ85is7cpU00vTPDTMJY=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/L/c/cKXUfzRtGrKHiubaseQw/design-sem-nome-49-.jpg"
+    },
+    {
+        "titulo": "Festa da Padroeira: Santuário Nacional de Aparecida ficará aberto 24 horas por dia até domingo",
+        "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/festa-da-padroeira/noticia/2025/10/10/festa-da-padroeira-santuario-nacional-de-aparecida-ficara-aberto-24-horas-por-dia-ate-domingo.ghtml",
+        "data": "10/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/noXp90Z7Qs8vc9M5LyUCnMhDRQs=/4032x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/4/J/YMzPe6RiijartGgILGfA/whatsapp-image-2024-10-12-at-16.46.26.jpeg"
+    },
+    {
+        "titulo": "'Fiquei com medo de a sensação sumir': Laís Souza sente o dedo após 11 anos e diz que toparia participar de estudo clínico",
+        "link": "https://g1.globo.com/saude/noticia/2025/10/10/fiquei-com-medo-de-a-sensacao-sumir-lais-souza-sente-o-dedo-apos-11-anos-e-diz-que-toparia-participar-de-estudo-clinico.ghtml",
+        "data": "10/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/fb6xamtsTUOZiXZQk7JD8QDM2_c=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/98/08/14000898"
+    },
+    {
+        "titulo": "Chuva em 40% dos dias em 2025: Entenda por que chove tanto em Curitiba",
+        "link": "https://g1.globo.com/pr/parana/noticia/2025/10/10/chuva-em-40percent-dos-dias-em-2025-entenda-por-que-chove-tanto-em-curitiba.ghtml",
+        "data": "10/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/-m9uvgIymsSoHEBHqiSw255M1Fc=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/J/O/IAiVAURwa2SzUxVJJrtQ/httpsportalnorte.com.brwp-adminpost.phppost-292629-action-edit-2025-10-08t193152.487.jpg"
+    },
+    {
+        "titulo": "Dia do cabelo maluco: animais vivos e cola permanente preocupam; saiba o que vai bem e o que pode dar ruim",
+        "link": "https://g1.globo.com/educacao/noticia/2025/10/10/dia-do-cabelo-maluco-animais-vivos-e-cola-permanente-preocupam-saiba-o-que-vai-bem-e-o-que-pode-dar-ruim.ghtml",
+        "data": "10/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Psn1bsnk_Ktx3okJXVf2FnUy3Gw=/2200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/M/N/pMLTPdT3AanPiLcvl9fQ/montagem-3-1-.png"
+    },
+    {
+        "titulo": "Omeprazol: por que o remédio está sendo cortado das receitas e como ele pode ser substituído com segurança",
+        "link": "https://g1.globo.com/saude/noticia/2025/10/10/omeprazol-por-que-o-remedio-esta-sendo-cortado-das-receitas-e-como-ele-pode-ser-substituido-com-seguranca.ghtml",
+        "data": "10/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/cvyfvDT4ynQBjlKp-urpIK7ESCc=/5472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/o/M/Itu000TAailLrFFdBcJw/adobestock-173414264.jpeg"
+    },
+    {
+        "titulo": "As melhores datas para tirar férias em 2026: veja como emendar feriados e ganhar até seis dias de descanso",
+        "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2025/10/10/as-melhores-datas-para-tirar-ferias-em-2026.ghtml",
+        "data": "10/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/OZRxA0suybOmtO5q1v-uIqCM9Fg=/2500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/H/Y/kiI2JHSE6JmwsaFafTcQ/necker-island-bali-hi-aerial-5.jpg"
+    },
+    {
+        "titulo": "Descoberta histórica: ruínas centenárias em Alegrete são reveladas como parte das antigas missões jesuítas no RS",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/10/10/descoberta-historica-ruinas-centenarias-em-alegrete-sao-reveladas-como-parte-das-antigas-missoes-jesuitas-no-rs.ghtml",
+        "data": "10/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/QGsUTxgIHJo_dyGccswiXqFAjMg=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/39/07/14000739"
+    },
+    {
+        "titulo": "André do Rap completa 5 anos foragido; Interpol, PF e polícia de SP checaram mais de 40 lugares à procura do traficante do PCC",
+        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/10/10/andre-do-rap-completa-5-anos-foragido-interpol-pf-e-policia-de-sp-checaram-mais-de-40-lugares-a-procura-do-traficante-do-pcc.ghtml",
+        "data": "10/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Bj_Wwi8uyhyFexcdJgXaUv0eA5g=/1280x0/filters:format(jpeg)/https://s01.video.glbimg.com/x720/8937372.jpg"
+    },
+    {
+        "titulo": "Senado rejeitou apenas 5 indicações para o STF até hoje",
+        "link": "https://www.cnnbrasil.com.br/politica/senado-rejeitou-apenas-5-indicacoes-para-o-stf-ate-hoje/",
+        "data": "10/10/2025 06:00",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/54820519697_10d21d51f1_k.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Congresso do Peru aprova destituição da presidente Dina Boluarte",
+        "link": "https://www.cnnbrasil.com.br/internacional/congresso-do-peru-aprova-destituicao-da-presidente-dina-boluarte/",
+        "data": "10/10/2025 05:13",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/03/2025-03-17T230605Z_1_LYNXMPEL2G0WI_RTROPTP_4_DAVOS-MEETING.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Nobel da Paz: entenda como funciona e a política por trás do prêmio",
+        "link": "https://www.cnnbrasil.com.br/internacional/nobel-da-paz-entenda-como-funciona-e-a-politica-por-tras-do-premio/",
+        "data": "10/10/2025 05:05",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/PREMIO-NOBEL-DA-PAZ.jpg?w=960&h=540&crop=1"
+    },
+    {
+        "titulo": "Eduardo Leite sobre 2026: Sou o único que não abraçou Lula ou Bolsonaro",
+        "link": "https://www.cnnbrasil.com.br/politica/eleicoes-2026-eduardo-leite-manutencao-pre-candidatura/",
+        "data": "10/10/2025 03:28",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/eduardo_leite_lifetime_porto_alegre-e1760066527373.jpeg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Série D: Polícia Civil investiga denúncia de manipulação em jogo decisivo",
+        "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/serie-d-policia-civil-investiga-denuncia-de-manipulacao-em-jogo-decisivo/",
+        "data": "10/10/2025 03:08",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/Inter-de-Limeira-x-Goiatuba-e1760065477421.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Messias se destaca para vaga no STF por ser evangélico, diz especialista",
+        "link": "https://www.cnnbrasil.com.br/politica/messias-se-destaca-para-vaga-no-stf-por-ser-evangelico-diz-especialista/",
         "data": "10/10/2025 03:02",
-        "fonte": "G1",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/VutMHYSed2FOCSiia0LvgkynuZg=/1237x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/y/pHs1YARQS4BdBfQYvdww/quadra-no-canelas.jpeg"
-    },
-    {
-        "titulo": "Quanto custa se hospedar nos melhores hotéis brasileiros do mundo, segundo o Guia Michelin",
-        "link": "https://g1.globo.com/turismo-e-viagem/noticia/2025/10/10/quanto-custa-se-hospedar-nos-melhores-hoteis-brasileiros-do-mundo-segundo-o-guia-michelin.ghtml",
-        "data": "10/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/2P5C_NIl2vRSa9MFZU_YKleD5BE=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/q/a5oGNIQpm7CrEq3qAgPA/fotojet-2025-10-09t144307.816.jpg"
-    },
-    {
-        "titulo": "Equatorial divulga programa Mais Energia Pará e intensifica obras em todas as regiões do estado",
-        "link": "https://g1.globo.com/pa/santarem-regiao/especial-publicitario/equatorial-energia/noticia/2025/10/10/equatorial-divulga-programa-mais-energia-para-e-intensifica-obras-em-todas-as-regioes-do-estado.ghtml",
-        "data": "10/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/c7sgfTzXPXncP_zGO6HBJ0soLos=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/3/WzjkBvRpe94xvcVTelPw/desde-2012-mais-de-14-bilhoes-ja-foram-investidos-pela-equatorial-para-melhorar-o-fornecimento-de-energia-do-estado.jpeg"
-    },
-    {
-        "titulo": "Sexta começa fria no Sul e com pancadas fortes no Sudeste; final de semana promete calor e temporais",
-        "link": "https://g1.globo.com/meio-ambiente/noticia/2025/10/10/sexta-comeca-fria-no-sul-e-com-pancadas-fortes-no-sudeste-final-de-semana-promete-calor-e-temporais.ghtml",
-        "data": "10/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/XMm983zmQMYcd3Lw4wXbBHhr_3Q=/1906x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/3/4/LGtOlOQoAGviDR4TShEA/ato20241023119.jpg"
-    },
-    {
-        "titulo": "Ana Castela, Maria Bethânia, mostra de cinema chinês, festival de botecos no MIS, 'Titanique, o Musical'; veja o que fazer em SP",
-        "link": "https://g1.globo.com/guia/guia-sp/noticia/2025/10/10/ana-castela-maria-bethania-mostra-de-cinema-chines-festival-de-botecos-no-mis-titanique-o-musical-veja-o-que-fazer-em-sp.ghtml",
-        "data": "10/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/HTwvtHTudLN31Fo_BTdwPE1TeE8=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/l/OYPTHnTcOq7kRBYqqF3A/dsc-9623.jpg"
-    },
-    {
-        "titulo": "Figure 03: robô faxineiro é eleito uma das melhores invenções do ano; veja como ele funciona",
-        "link": "https://g1.globo.com/inovacao/noticia/2025/10/10/figure-03-robo-faxineiro-e-eleito-uma-das-melhores-invencoes-do-ano-veja-como-ele-funciona.ghtml",
-        "data": "10/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
-    },
-    {
-        "titulo": "Torre Palace: carcaça de hotel de luxo no centro de Brasília será demolida e substituída por novo prédio",
-        "link": "https://g1.globo.com/df/distrito-federal/noticia/2025/10/10/torre-palace-carcaca-de-hotel-de-luxo-no-centro-de-brasilia-sera-demolida-e-substituida-por-novo-predio.ghtml",
-        "data": "10/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/aCfPDmqqTGlYNdAIgjaayWEhRCk=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/94/09/4880994"
-    },
-    {
-        "titulo": "Como são os cérebros dos 'superidosos' e qual a probabilidade de termos um como o deles?",
-        "link": "https://g1.globo.com/saude/noticia/2025/10/10/como-sao-os-cerebros-dos-superidosos-e-qual-a-probabilidade-de-termos-um-como-o-deles.ghtml",
-        "data": "10/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/W2GIzZlO0Vyf6UrIDg0kbaepLww=/1280x0/filters:format(jpeg)/https://s03.video.glbimg.com/x720/13792422.jpg"
-    },
-    {
-        "titulo": "'Bati na trave', diz brasileiro que criou teoria base para ganhadores do Nobel de física",
-        "link": "https://g1.globo.com/ciencia/noticia/2025/10/10/bati-na-trave-diz-brasileiro-que-criou-teoria-base-para-ganhadores-do-nobel-de-fisica.ghtml",
-        "data": "10/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/RcsbE2PnrdM4jv2T2y6Y1JFIHUI=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/42/10/14001042"
-    },
-    {
-        "titulo": "WePink: veja detalhes da empresa de Virginia que tem faturamento de R$ 750 milhões e é alvo de ação",
-        "link": "https://g1.globo.com/go/goias/noticia/2025/10/10/wepink-veja-detalhes-da-empresa-de-virginia-que-tem-faturamento-de-r-750-milhoes-e-e-alvo-de-acao.ghtml",
-        "data": "10/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/YPcjV5QaqjbFp0jhQmWypkjHGas=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/04/14000455"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/54506218920_4a54df7d89_o.jpg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Mapa revela limite do recuo israelense em Gaza após novo acordo",
@@ -112,52 +160,20 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/encontro-trump-netanyahu-salao-oval-e1759261155869.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Indonésia emite alerta de tsunami após terremoto nas Filipinas",
-        "link": "https://www.cnnbrasil.com.br/internacional/indonesia-emite-alerta-de-tsunami-apos-terremoto-nas-filipinas/",
-        "data": "10/10/2025 02:19",
-        "fonte": "CNN Brasil",
+        "titulo": "Horóscopo do dia: previsão para os 12 signos em 10/10/2025",
+        "link": "https://jovempan.com.br/edicase/horoscopo-do-dia-previsao-para-os-12-signos-em-10-10-2025.html",
+        "data": "10/10/2025 03:00",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/10107_D0CF3366783E20E9.jpg?w=1200&h=630&crop=1"
+        "image": "https://jpimg.com.br/uploads/2025/10/horoscopo-do-dia-previsao-para-os-12-signos-em-10-10-2025-1024x683.jpg"
     },
     {
-        "titulo": "Terremoto de magnitude 7,4 atinge Filipinas; alerta de tsunami é emitido",
-        "link": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-74-atinge-filipinas-alerta-de-tsunami-e-emitido/",
-        "data": "10/10/2025 02:13",
-        "fonte": "CNN Brasil",
+        "titulo": "A retaliação do Centrão contra o governo",
+        "link": "https://jovempan.com.br/opiniao-jovem-pan/comentaristas/alan-ghani/a-retaliacao-do-centrao-contra-o-governo.html",
+        "data": "10/10/2025 02:32",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/terremoto-tsunami-filipinas.jpg?w=1179&h=630&crop=1"
-    },
-    {
-        "titulo": "SP: MPF dá parecer favorável a retorno de prefeito de São Bernardo ao cargo",
-        "link": "https://www.cnnbrasil.com.br/politica/mpf-parecer-prefeito-sao-bernardo-sp/",
-        "data": "10/10/2025 02:09",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/Marcelo-Lima-final.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "O que está acontecendo com Justin Bieber e sua mãe?",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/o-que-esta-acontecendo-com-justin-bieber-e-sua-mae/",
-        "data": "10/10/2025 02:04",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/bieber.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Rafa Kalimann mostra barrigão de 8 meses de gravidez",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/rafa-kalimann-mostra-barrigao-de-8-meses-de-gravidez/",
-        "data": "10/10/2025 02:01",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/rafa-kalimann-nattanzinho-2-e1760061532421.jpg?w=540&h=310&crop=1"
-    },
-    {
-        "titulo": "Mundial Sub-20: veja classificados e todos os confrontos das quartas",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/mundial-sub-20-veja-classificados-e-todos-os-confrontos-das-quartas/",
-        "data": "10/10/2025 01:58",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/mundial_sub_20-e1760060974644.avif?w=660&h=370&crop=1"
+        "image": "https://jpimg.com.br/uploads/2025/10/fta20251008254.jpg"
     },
     {
         "titulo": "Randolfe Rodrigues cita Pacheco e Messias para sucessão de Barroso no STF",
@@ -224,20 +240,20 @@
         "image": "https://jpimg.com.br/uploads/2025/10/afp__20251009__789v726__v1__highres__brazilchinapoliticseconomyauto.jpg"
     },
     {
-        "titulo": "‘Congresso decidiu bater no presidente Lula e acertou a sociedade’, diz secretário do PT sobre derrubada da MP do IOF",
-        "link": "https://jovempan.com.br/noticias/politica/congresso-decidiu-bater-no-presidente-lula-e-acertou-a-sociedade-diz-secretario-do-pt-sobre-derrubada-da-mp-do-iof.html",
-        "data": "09/10/2025 22:57",
-        "fonte": "Jovem Pan",
+        "titulo": "Congresso aprova monções que podem afastar a presidente Dina Boluarte",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/10/congresso-aprova-moncoes-que-podem-afastar-a-presidente-dina-boluarte.shtml",
+        "data": "10/10/2025 04:02",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/10/entrevista-eder-valadares-.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2024/12/05/1733449000675255284c895_1733449000_3x2_rt.jpg"
     },
     {
-        "titulo": "Chamado de ‘pessoa horrível’ por Barroso em 2018, Gilmar Mendes diz que não guarda mágoas",
-        "link": "https://jovempan.com.br/noticias/politica/chamado-de-pessoa-horrivel-por-barroso-em-2018-gilmar-mendes-diz-que-nao-guarda-magoas.html",
-        "data": "09/10/2025 22:53",
-        "fonte": "Jovem Pan",
+        "titulo": "Terremoto de magnitude 7,6 atinge o sul das Filipinas e alerta de tsunami é emitido",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/10/terremoto-de-magnitude-76-atinge-o-sul-das-filipinas-e-alerta-de-tsunami-e-emitido.shtml",
+        "data": "10/10/2025 03:37",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/09/54844149963_8883f49aa6_k-1024x683.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/10/176006719368e87e7953f52_1760067193_3x2_rt.jpg"
     },
     {
         "titulo": "A Fazenda 17: Guilherme Boury é o terceiro eliminado",
@@ -302,22 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2025/03/07/174137806067cb520cf2815_1741378060_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Delegado da PF encarregado de investigações que mira gabinetes do STJ deixa o caso",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/10/delegado-da-pf-encarregado-de-investigacoes-que-mira-gabinetes-do-stj-deixa-o-caso.shtml",
-        "data": "10/10/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2023/09/06/169401555764f8a0455c56a_1694015557_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Vamos ter de recompor Orçamento, diz Gleisi, após derrota da MP",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2025/10/vamos-ter-de-recompor-orcamento-diz-gleisi-apos-derrota-da-mp.shtml",
-        "data": "10/10/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/09/176004299368e81ff1777c1_1760042993_3x2_rt.jpg"
     },
     {
         "titulo": "Prata supera os US$ 50, na maior cotação desde 1993",
@@ -402,7 +402,7 @@
     {
         "titulo": "'Perdeu, mané' e 'déficit de civilidade': relembre frases marcantes de Barroso",
         "link": "https://www.terra.com.br/noticias/justica/perdeu-mane-deficit-de-civilidade-relembre-frases-marcantes-de-barroso-que-anunciou-aposentadoria-antecipada-do-stf,fcc6af85cec68dd11359ffd814819a5a3osa0b83.html",
-        "data": "10/10/2025 03:30",
+        "data": "10/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/25/54811582721_9b5abecadb_k-1jewlbbp8rprp.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Lula sugere 'revolução pacífica' dos mais pobres contra privilégios de ricos",
         "link": "https://www.terra.com.br/economia/lula-sugere-revolucao-pacifica-e-democratica-dos-mais-pobres-contra-privilegios-de-ricos,b41934d4c29d6cf3a0401742289b8ec6xg4wcvni.html",
-        "data": "10/10/2025 03:30",
+        "data": "10/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/09/2006625491-oibb4pgrjretphlsxewrxv42ee.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "'Psicopatia e pessoa horrível': Barroso protagonizou briga histórica com Gilmar",
         "link": "https://www.terra.com.br/noticias/brasil/politica/psicopatia-mau-sentimento-e-pessoa-horrivel-barroso-protagonizou-briga-historica-com-gilmar-mendes-no-stf,3b6e2714e111c13c16cd23542a66e9553qbe6vp9.html",
-        "data": "10/10/2025 03:30",
+        "data": "10/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/09/captura-de-tela-2025-10-09-as-18-43-02-qe1337rrrzad.png"
@@ -426,7 +426,7 @@
     {
         "titulo": "Homem é 'engolido' por buraco enquanto caminhava em calçada",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/videos/homem-e-engolido-por-buraco-enquanto-caminhava-em-calcada-em-manaus,3f9a9601a04619d06d045cc8d5bf40e4f0srtqbc.html",
-        "data": "10/10/2025 03:30",
+        "data": "10/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/950/534/images.terra.com/2025/10/10/buraco-sem-txt-sksc2tgv633q.jpg"
@@ -434,7 +434,7 @@
     {
         "titulo": "Barroso se despede do STF antes da hora, saiba como fica a sua aposentadoria",
         "link": "https://www.terra.com.br/noticias/brasil/politica/barroso-se-despede-do-stf-antes-da-hora-como-fica-a-sua-aposentadoria,d33894e21e4717e00dcb58e480d4893c7v5rvzar.html",
-        "data": "10/10/2025 03:30",
+        "data": "10/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/25/54811582721_9b5abecadb_k-1jewlbbp8rprp.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Motorista de aplicativo é assediado por passageiro durante corrida no litoral de SP",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/motorista-de-aplicativo-e-assediado-por-passageiro-durante-corrida-no-litoral-de-sp,28817837fb4d5b4dc7199215e5041834zgp1bate.html",
-        "data": "10/10/2025 03:30",
+        "data": "10/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/09/foto-(68)-vbpovpxqevqo.jpg"
@@ -450,7 +450,7 @@
     {
         "titulo": "Fundador de site de apostas é o bilionário mais jovem a construir fortuna do zero",
         "link": "https://www.terra.com.br/economia/fundador-de-site-de-apostas-se-torna-o-bilionario-mais-jovem-do-mundo-a-construir-fortuna-do-zero,d3e2b219fc776f07c1e5609ab54a4856na6nm692.html",
-        "data": "10/10/2025 03:30",
+        "data": "10/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/09/gettyimages-2188218501-vf9r3hly2fjr.jpg"
@@ -458,7 +458,7 @@
     {
         "titulo": "Árbitro desabafa com Luciano em lance polêmico: 'Você reclama até de ter nascido'",
         "link": "https://www.terra.com.br/esportes/sao-paulo/arbitro-desabafa-com-luciano-em-lance-polemico-voce-reclama-ate-de-ter-nascido,255054f66d498b33d7d91bb27628d544kpeqxm2a.html",
-        "data": "10/10/2025 03:30",
+        "data": "10/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/05/fta20251005221-1jed77ow8gapi.jpg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Torcedor pede reembolso de R$ 4,6 mil após se sentir enganado por post de LeBron",
         "link": "https://www.terra.com.br/esportes/torcedor-aciona-a-justica-apos-se-sentir-enganado-por-post-de-lebron-james,d55c201d156c6b4d6ccc201ab9944a3e75fvo0md.html",
-        "data": "10/10/2025 03:30",
+        "data": "10/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/02/07/lebron-james-s4unix2e6n92.jpg"
@@ -474,7 +474,7 @@
     {
         "titulo": "Volante perde chance inacreditável em vitória do Avaí; veja o lance",
         "link": "https://www.terra.com.br/esportes/avai/volante-emprestado-pelo-vasco-perde-chance-inacreditavel-em-vitoria-do-avai-na-serie-b,921eda201b83b9c74d4c90d9af420246yirrj0fm.html",
-        "data": "10/10/2025 03:30",
+        "data": "10/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/09/saveclip-app_524760423_18522762277050051_1818443351946624910_n-s50nu0dxdjl2.jpg"
