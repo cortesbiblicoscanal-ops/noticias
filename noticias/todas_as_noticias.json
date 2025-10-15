@@ -1,83 +1,91 @@
 [
     {
+        "titulo": "'Professores da educação infantil fazem o trabalho mais importante da sociedade, mas são desvalorizados', diz pesquisadora de Harvard",
+        "link": "https://g1.globo.com/educacao/noticia/2025/10/15/professores-da-educacao-infantil-fazem-o-trabalho-mais-importante-da-sociedade-mas-sao-desvalorizados-diz-pesquisadora-de-harvard.ghtml",
+        "data": "15/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/lvIr_r-ZLvJYbzRPSNFNtrYuqow=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/c/UM6pPGSpux1mPh1BzOsw/whatsapp-image-2025-10-14-at-10.29.29.jpeg"
+    },
+    {
+        "titulo": "Chope, cuca, erva-mate e até sorvete: conheça 'Rota da Lavanda', novo atrativo turístico de cidade no RS",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/10/15/conheca-rota-da-lavanda-novo-atrativo-turistico-de-cidade-no-rs.ghtml",
+        "data": "15/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/LFn42lVyKCCk-21iCY-0cxjjbTg=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/e/h/VVQP3kQ92ks45VLkEBQg/rota-lavanda-rs.jpg"
+    },
+    {
+        "titulo": "Vacina, agrotóxico ou erro em dados? Veja respostas para dúvidas dos leitores sobre a 'explosão' de casos de câncer entre jovens",
+        "link": "https://g1.globo.com/saude/noticia/2025/10/15/vacina-agrotoxico-ou-erro-em-dados-veja-respostas-sobre-casos-de-cancer-entre-jovens.ghtml",
+        "data": "15/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/F1-olLRa2D_ISWv8rh4fs8zKfgg=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/y/Cic6fuQgiBoCbWBKZ9tA/alimentos-e-aditivos-ultraprocessados.jpg"
+    },
+    {
+        "titulo": "'Falsa couve': Paciente respira sem ajuda de aparelhos, mas segue na UTI",
+        "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2025/10/15/falsa-couve-paciente-respira-sem-ajuda-de-aparelhos-mas-segue-na-uti.ghtml",
+        "data": "15/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/ftkQyHgYTOGZ4JEe7j3jE6x10K0=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/j/N/yky2ATT8iRMvYVW83upg/whatsapp-image-2025-10-09-at-10.13.07.jpeg"
+    },
+    {
+        "titulo": "Enem: os 7 principais erros que os candidatos cometem na redação",
+        "link": "https://g1.globo.com/educacao/enem/2025/noticia/2025/10/15/enem-os-7-principais-erros-que-os-candidatos-cometem-na-redacao.ghtml",
+        "data": "15/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/ErjaZImcWFCGsm7rk3CI1O28Qgc=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/C/E/rwqNylS9OwmeWsLNtILw/2150171452.jpg"
+    },
+    {
+        "titulo": "Decoradora e irmão são atacados a facadas por dono de espaço de festas em MG; VÍDEO",
+        "link": "https://g1.globo.com/mg/centro-oeste/noticia/2025/10/15/decoradora-e-irmao-sao-atacados-a-facadas-por-dono-de-espaco-de-festas-em-mg-video.ghtml",
+        "data": "15/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/cIBQZLVgN0w27NiG6ZCcYZL5YJo=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/q/0SlrfBSVmdxAIyXhkPmQ/video-mostra-o-momento-em-que-o-dono-do-espaco-em-itauna-identificado-como-lucas-peixoto-rodrigues-parte-pra-cima-das-vitimas-durante-a-confusao.jpg"
+    },
+    {
+        "titulo": "'Agroterrorismo': veja como a IA pode transformar a biotecnologia em arma",
+        "link": "https://g1.globo.com/economia/agronegocios/noticia/2025/10/15/agroterrorismo-veja-como-a-ia-pode-transformar-a-biotecnologia-em-arma.ghtml",
+        "data": "15/10/2025 05:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/RGSg2pG9w7uAi3dDv25fqEoj3jw=/5795x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/E/P1nWB5SqqylEWwVbAvYw/pesquisador-em-traje-de-protecao-coletando-lixo-plastico-em-saco-de-lixo-preto-ao-ar-livre-em-um-dia-ensolarado.jpg"
+    },
+    {
+        "titulo": "VÍDEO: Governo do RS passa a ter teste próprio para detecção de metanol; entenda como funciona",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/10/15/video-governo-do-rs-passa-a-ter-teste-proprio-para-deteccao-de-metanol-entenda-como-funciona.ghtml",
+        "data": "15/10/2025 04:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/1Os3qERRYPIFHH6mx5fWTA9LHQ0=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/1/ngmfXORqamtwty3hYBcQ/g1-2025-10-14t121452.368.jpg"
+    },
+    {
+        "titulo": "IA na educação: desafios e oportunidades - O Assunto #1577",
+        "link": "https://g1.globo.com/podcast/o-assunto/noticia/2025/10/15/ia-na-educacao-desafios-e-oportunidades-o-assunto-1577.ghtml",
+        "data": "15/10/2025 03:31",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/eax1BoQ10sAd2QzPXpKWOpbYBxo=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/68/24/14012468"
+    },
+    {
         "titulo": "Crime da 113 Sul: condenado como executor é inocentado e solto após 15 anos na Papuda; conheça os detalhes do caso",
         "link": "https://g1.globo.com/df/distrito-federal/noticia/2025/10/15/crime-da-113-sul-condenado-como-executor-e-inocentado-e-solto-apos-15-anos-na-papuda-conheca-os-detalhes-do-caso.ghtml",
         "data": "15/10/2025 03:21",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/-p5aF8yZyXgVTD0NJltpLjraDpU=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/00/94/12319400"
+        "image": "https://s2-g1.glbimg.com/7KygZq0wA9p8V4OfZPKZbmS3SvU=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/r/LCUW9ISBSU7t3RK6ZmoQ/250902-info-crime-113sul-v2-1-.jpg"
     },
     {
-        "titulo": "Crime da 113 Sul: inocentado pelo STJ, Francisco Mairlon deixa o presídio da Papuda em Brasília após 15 anos preso",
-        "link": "https://g1.globo.com/df/distrito-federal/noticia/2025/10/15/crime-da-113-sul-inocentado-pelo-stj-francisco-mairlon-deixa-o-presidio-da-papuda-em-brasilia-apos-15-anos-preso.ghtml",
-        "data": "15/10/2025 03:21",
-        "fonte": "G1",
+        "titulo": "Vulcão entra em erupção na Indonésia e lança fumaça a 10 km de altura",
+        "link": "https://www.cnnbrasil.com.br/internacional/vulcao-entra-em-erupcao-na-indonesia-e-lanca-fumaca-a-10-km-de-altura/",
+        "data": "15/10/2025 04:39",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/CiqzQvgzAO1mUIeCkM-ms5cV-3I=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14012167.jpg"
-    },
-    {
-        "titulo": "Prestação de contas mostra boa gestão da Prefeitura de Montes Claros",
-        "link": "https://g1.globo.com/mg/grande-minas/especial-publicitario/pm-montes-claro/noticia/2025/10/15/prestacao-de-contas-mostra-boa-gestao-da-prefeitura-de-montes-claros.ghtml",
-        "data": "15/10/2025 03:02",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/DOD2iXsQdDrgIFxVPyRG5sZBUeI=/918x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/w/4/7MAGzBRMae8LxIQiVBzQ/prefeitura-foto-fabio-marcal.jpeg"
-    },
-    {
-        "titulo": "Raspadinha Premiada Vilarejo distribui mais de 1.500 prêmios em edição especial",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2025/10/15/raspadinha-premiada-vilarejo-distribui-mais-de-1500-premios-em-edicao-especial.ghtml",
-        "data": "15/10/2025 03:02",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/Nc2RGcOnSZuoiiEPpie2zN6E7JY=/425x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/H/g/4AsyvwSVClaIJIFvlB9Q/foto-1-texto-15.jpg"
-    },
-    {
-        "titulo": "Motociclista que atropelou a triatleta Luisa Baptista é julgado por tentativa de homicídio com dolo eventual nesta quarta",
-        "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2025/10/15/motociclista-que-atropelou-a-triatleta-luisa-baptista-e-julgado-por-tentativa-de-homicidio-com-dolo-eventual-nesta-quarta.ghtml",
-        "data": "15/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/bWtFXC5xeUhR4v0UuLUS4JJHpU0=/1249x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/8/O/iFBUmKTqCLBqlnHvGxGA/nayn-jose-sales-1-1-.jpeg"
-    },
-    {
-        "titulo": "Como funciona e como ativar a nova ferramenta do WhatsApp para resumir conversas com IA",
-        "link": "https://g1.globo.com/tecnologia/noticia/2025/10/15/como-funciona-e-como-ativar-a-nova-ferramenta-do-whatsapp-para-resumir-conversas-com-ia.ghtml",
-        "data": "15/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
-    },
-    {
-        "titulo": "'Day after': queda do Hamas ameaça mergulhar Gaza em conflitos internos; conheça clãs rivais do grupo que atuam no território",
-        "link": "https://g1.globo.com/mundo/noticia/2025/10/15/day-after-queda-do-hamas-ameaca-mergulhar-gaza-em-conflitos-internos-conheca-clas-rivais-do-grupo-que-atuam-no-territorio.ghtml",
-        "data": "15/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/3AKubKFAtXnl7UAWfaYEqj7siW4=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/b/Jw88BwRjuY7uhRVLvrsA/2025-10-13t093201z-1273697519-rc2vahaqnj89-rtrmadp-3-israel-palestinians-gaza.jpg"
-    },
-    {
-        "titulo": "Dia dos Professores não é feriado para todos; veja quem folga e quantos feriados restam em 2025",
-        "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2025/10/15/dia-dos-professores-nao-e-feriado-para-todos-veja-quem-folga-e-quantos-feriados-restam-em-2025.ghtml",
-        "data": "15/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/kdd6eEt514_gLq_Ggnu9rXOGJVs=/6000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/s/g/HVoJGeRvGoOwLQxwVRHQ/happy-african-american-teacher-giving-test-results-elementary-student-classroom-1-.jpg"
-    },
-    {
-        "titulo": "Lote extra do PIS-Pasep: pagamentos começam nesta quarta; veja se vai receber",
-        "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2025/10/15/lote-extra-do-abono-salarial-pis-pasep-e-liberado.ghtml",
-        "data": "15/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/nCH4K2tBq6R4fbmBIdGupSOx7MU=/4961x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/d/v/hfKVQUQaaJzXq5MEANiA/saque-do-pis-foto-jose-cruz-agencia-brasil.jpg"
-    },
-    {
-        "titulo": "O que se sabe e o que falta saber sobre a operação da PF que prendeu o influencer Buzeira",
-        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/10/15/o-que-se-sabe-e-o-que-falta-saber-sobre-a-operacao-da-pf-que-prendeu-o-influencer-buzeira.ghtml",
-        "data": "15/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/5ZYDy8UHe9FVQvbDAytuwsviNlk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/D/l/VEZFBIQp6BfvgQ6iCkVw/fotojet-34-.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/1_dafa6e.png?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Análise: Debate sobre privatizar Correios é interditado",
@@ -101,7 +109,7 @@
         "data": "15/10/2025 02:30",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/BR_CNN_141025_OGD_CLEAN_frame_40012-e1760489888485.jpeg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Lollapalooza 2026 anuncia duas novas atrações",
@@ -152,12 +160,20 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/bilhete-donald-trump-javier-milei.jpeg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Trump apoia Milei e tenta reduzir influência chinesa na América Latina",
-        "link": "https://www.cnnbrasil.com.br/internacional/trump-apoia-milei-e-tenta-reduzir-influencia-chinesa-na-america-latina/",
-        "data": "15/10/2025 01:50",
-        "fonte": "CNN Brasil",
+        "titulo": "Horóscopo do dia: previsão para os 12 signos em 15/10/2025",
+        "link": "https://jovempan.com.br/edicase/horoscopo-do-dia-previsao-para-os-12-signos-em-15-10-2025.html",
+        "data": "15/10/2025 03:00",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/trump-milei-casa-branca-1.jpg?w=1200&h=630&crop=1"
+        "image": "https://jpimg.com.br/uploads/2025/10/horoscopo-do-dia-previsao-para-os-12-signos-em-15-10-2025-1024x683.jpg"
+    },
+    {
+        "titulo": "Especialistas indicam soluções para apagões no Brasil após incêndio no Paraná",
+        "link": "https://jovempan.com.br/noticias/economia/especialistas-indicam-solucoes-para-apagoes-no-brasil-apos-incendio-no-parana.html",
+        "data": "15/10/2025 02:42",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/10/fta20250901097.jpg"
     },
     {
         "titulo": "Tarcísio de Freitas premia 225 medalhistas de ouro da Olimpíada de Matemática das Escolas Estaduais de São Paulo",
@@ -224,20 +240,20 @@
         "image": "https://jpimg.com.br/uploads/2025/10/trump-e-milei.jpg"
     },
     {
-        "titulo": "Premiê francês propõe suspensão de reforma da Previdência e evita queda do governo",
-        "link": "https://jovempan.com.br/noticias/mundo/premie-frances-propoe-suspensao-de-reforma-da-previdencia-e-evita-queda-do-governo.html",
-        "data": "14/10/2025 22:26",
-        "fonte": "Jovem Pan",
+        "titulo": "Explosão de carro-bomba deixa um morto em Guayaquil, no Equador",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/10/explosao-de-carro-bomba-deixa-um-morto-em-guayaquil-no-equador.shtml",
+        "data": "15/10/2025 05:00",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/10/sebastien-lecornu-1.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/15/176050408668ef29162c998_1760504086_3x2_rt.jpg"
     },
     {
-        "titulo": "Ibama e Petrobras discutem pendências no licenciamento do bloco FZA-M-59 na Margem Equatorial",
-        "link": "https://jovempan.com.br/noticias/brasil/ibama-e-petrobras-discutem-pendencias-no-licenciamento-do-bloco-fza-m-59-na-margem-equatorial.html",
-        "data": "14/10/2025 22:04",
-        "fonte": "Jovem Pan",
+        "titulo": "Passageiro aperta botão de emergência de trem da linha 9-esmeralda e é agredido por multidão",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/10/passageiro-aperta-botao-de-emergencia-de-trem-da-linha-9-esmeralda-e-e-agredido-por-multidao.shtml",
+        "data": "15/10/2025 04:18",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/10/margem-equatorial.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/15/176050131868ef1e467f6e0_1760501318_3x2_lg.jpg"
     },
     {
         "titulo": "Mendonça bloqueia R$ 389 milhões do Sindnapi, que tem irmão de Lula como vice",
@@ -302,22 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2022/04/01/16488652956247b00f3ead9_1648865295_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Ustra reflui com bolsonarismo 10 anos após morte, mas apologia a torturador continua",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/10/ustra-reflui-com-bolsonarismo-10-anos-apos-morte-mas-apologia-a-torturador-continua.shtml",
-        "data": "15/10/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2018/05/07/15257345135af0dc71b39f4_1525734513_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Maioria dos brasileiros quer que Lula proíba exploração de petróleo na Foz do Amazonas, diz Datafolha",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/10/maioria-dos-brasileiros-quer-que-lula-proiba-exploracao-de-petroleo-na-foz-do-amazonas-diz-datafolha.shtml",
-        "data": "15/10/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2023/05/25/1685049051646fcedb70d2f_1685049051_3x2_rt.jpg"
     },
     {
         "titulo": "Indústria pressiona por PL alternativo da Economia Circular",
@@ -402,7 +402,7 @@
     {
         "titulo": "Trump ameaça encerrar negócios com a China após boicote à soja dos EUA",
         "link": "https://www.terra.com.br/noticias/trump-ameaca-encerrar-negocios-com-a-china-apos-boicote-a-soja-dos-eua,38c9693de613ebbc828826636ffc4f51t6p0yien.html",
-        "data": "15/10/2025 03:35",
+        "data": "15/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/23/gettyimages-2236934069-qe3uh8d3tu7r.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Suposta 'serial killer' confessa dois assassinatos, mas defesa contesta",
         "link": "https://www.terra.com.br/noticias/brasil/policia/suposta-serial-killer-confessa-dois-assassinatos-mas-defesa-contesta,c799af3ca3bc22c2161815d21dec8c31skzukemh.html",
-        "data": "15/10/2025 03:35",
+        "data": "15/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/10/serial-killer-s4un7epwnc6d.png"
@@ -418,7 +418,7 @@
     {
         "titulo": "Spoilers de Vale Tudo dão a entender que Heleninha não matou Odete Roitman",
         "link": "https://www.terra.com.br/diversao/tv/novelas/spoilers-de-vale-tudo-dao-a-entender-que-heleninha-nao-matou-odete-roitman-entenda,92d9503b163d453341a07f031afbe42fyklhybhu.html",
-        "data": "15/10/2025 03:35",
+        "data": "15/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/15/design-sem-nome-2025-10-14t223749-510-u7ukao49nv3q.png"
@@ -426,7 +426,7 @@
     {
         "titulo": "'Consequências sérias', diz Moraes ao ser chamado de palmeirense por advogado",
         "link": "https://www.terra.com.br/noticias/brasil/moraes-reage-apos-ser-chamado-de-palmeirense-por-advogado-em-julgamento-consequencias-serias,2c9b036ff9f10ff53b9969ec9c8c3b4fwh18z1kh.html",
-        "data": "15/10/2025 03:35",
+        "data": "15/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/14/moraes-1-1k22aqzmehzjs.jpg"
@@ -434,7 +434,7 @@
     {
         "titulo": "Criança de 11 anos pega arma do pai e atira acidentalmente em menino de 9",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/crianca-de-11-anos-pega-arma-do-pai-e-atira-acidentalmente-em-menino-de-9-no-interior-de-sp,687453b33c7354cf3da8017dbebc7f8bx1i55p3x.html",
-        "data": "15/10/2025 03:35",
+        "data": "15/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/14/526713106-saxspzidfjg2zcb35hvcgo4czi.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Mãe e filha morrem após comerem bolo de aniversário; polícia suspeita de intoxicação",
         "link": "https://www.terra.com.br/noticias/brasil/policia/mae-e-filha-morrem-apos-comerem-bolo-de-aniversario-policia-suspeita-de-intoxicacao,781cea3a60879a6bee77410de05b84e66qob2p3g.html",
-        "data": "15/10/2025 03:35",
+        "data": "15/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/11/mae-e-filha-(2)-rl8ejx2v3o0z.png"
@@ -450,7 +450,7 @@
     {
         "titulo": "Homem sofre mal súbito e morre após finalizar treino em academia de Fortaleza",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/homem-sofre-mal-subito-e-morre-em-academia-de-fortaleza,eee97fd896cecbcf091d4c6e6863101ep27v636v.html",
-        "data": "15/10/2025 03:35",
+        "data": "15/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/14/lg_bf2b321b-9621-42e4-869a-f6bf0a7904b6_14112024academiagavioesparapua173437aacab-urk31xhslnaq.jpg"
@@ -458,7 +458,7 @@
     {
         "titulo": "Flaco López dá assistência, e Argentina atropela Porto Rico em amistoso",
         "link": "https://www.terra.com.br/esportes/futebol/internacional/flaco-lopez-da-assistencia-e-argentina-atropela-porto-rico-em-amistoso,b4890ac3ad8158c2c0a9b3bc292f60d74b6boh3h.html",
-        "data": "15/10/2025 03:35",
+        "data": "15/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/15/1676832327-puerto-rico-v-argentina-international-friendly-1-610x400.jpg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Homem é preso acusado de matar adversário a socos em partida de futebol",
         "link": "https://www.terra.com.br/esportes/futebol/homem-e-preso-acusado-de-matar-adversario-a-socos-em-jogo-de-futebol-no-mexico,52f51dbeb9764e89eca249302a50fc169ymjmgjb.html",
-        "data": "15/10/2025 03:35",
+        "data": "15/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/14/captura-de-tela-2025-10-14-165301-skkjwzj9h46c.png"
@@ -474,7 +474,7 @@
     {
         "titulo": "Neto detona Denílson após Bonner debochar da Band: 'Nunca vou ser esse tipo de gente'",
         "link": "https://www.terra.com.br/diversao/tv/neto-detona-denilson-apos-bonner-debochar-da-band-nunca-vou-ser-esse-tipo-de-gente,aadbd0e1b2b26c3d221fec007e15a60dx275a2n0.html",
-        "data": "15/10/2025 03:35",
+        "data": "15/10/2025 06:24",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/15/captura-de-tela-2025-10-14-223114-qxw4m2x5vk8k.png"
