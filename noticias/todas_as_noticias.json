@@ -1,83 +1,155 @@
 [
     {
-        "titulo": "Após sinalização de Trump, China concorda em iniciar 'o mais rápido possível' novas negociações comerciais com EUA",
-        "link": "https://g1.globo.com/economia/noticia/2025/10/18/china-concorda-iniciar-novas-negociacoes-comerciais-eua-trump.ghtml",
+        "titulo": "Morre Chen Ning Yang, vencedor de Nobel e um dos físicos mais influentes do século XX",
+        "link": "https://g1.globo.com/ciencia/noticia/2025/10/18/morre-chen-ning-yang-vencedor-nobel-fisico-influente-seculo-xx.ghtml",
+        "data": "18/10/2025 06:11",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1"
+    },
+    {
+        "titulo": "Imagens mostram ursos polares relaxando em casa em estação de pesquisa russa abandonada",
+        "link": "https://g1.globo.com/meio-ambiente/noticia/2025/10/18/imagens-mostram-ursos-polares-relaxando-em-casa-em-estacao-de-pesquisa-russa-abandonada.ghtml",
+        "data": "18/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/OkE0cUJ2lIpAT8QwF6dltZmiOmM=/1360x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/m/G/IaBKHDRhGyQrERMpso4A/download-3-.webp"
+    },
+    {
+        "titulo": "Números inflados, prejuízo bilionário e investigações: entenda a crise na concessão da Cedae no RJ",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/10/18/numeros-inflados-prejuizo-bilionario-e-investigacoes-entenda-a-crise-na-concessao-da-cedae-no-rj.ghtml",
+        "data": "18/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/smRPSRcuARdEGOKsdL3GcHYo8Qs=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Q/t/GKsfVlTTuyAbwsUIsMww/cedae.jpeg"
+    },
+    {
+        "titulo": "Museu brasileiro recebe de volta livro raro furtado há mais de 15 anos e recuperado em Londres",
+        "link": "https://g1.globo.com/pa/para/noticia/2025/10/18/museu-brasileiro-recebe-de-volta-livro-raro-furtado-ha-mais-de-15-anos-e-recuperado-em-londres.ghtml",
+        "data": "18/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/9D_VU6lc0WbGBmeQg_uU38VIUgc=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/09/23/14022309"
+    },
+    {
+        "titulo": "Apartamento que pegou fogo no Paraná: homem que estava na rua subiu 12 andares e ajudou advogada a salvar mãe e criança",
+        "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2025/10/18/apartamento-que-pegou-fogo-no-parana-homem-ajudou-advogada.ghtml",
+        "data": "18/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/hTktFnpIoq_PakA1tpSDk5iBGJw=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/C/M/SCHyt5RCAwmTaZ3WIing/design-sem-nome.png"
+    },
+    {
+        "titulo": "Fim do motorzinho? Pesquisadores usam superlaboratório para desenvolver solução que trata cárie sem dor",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2025/10/18/fim-do-motorzinho-pesquisadores-usam-superlaboratorio-para-desenvolver-solucao-que-trata-carie-sem-dor.ghtml",
+        "data": "18/10/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/GbMa0gZSu9KgXOtTFMc6V2VpFgg=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/j/sru4OrQmGJ8dED8nXg0g/tenta-feminicidio-louveira.jpg"
+    },
+    {
+        "titulo": "Festival Mada 2025 ao vivo",
+        "link": "https://g1.globo.com/rn/rio-grande-do-norte/ao-vivo/festival-mada-2025-ao-vivo.ghtml",
+        "data": "18/10/2025 05:21",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/bT04UZlKv4xjzK-Pwfi2ZCEcryA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/1/X/BgYA1hSAqsrUprFLTyag/biazvedo-01.jpg"
+    },
+    {
+        "titulo": "Veja quais países e territórios dispensam visto para brasileiros",
+        "link": "https://g1.globo.com/turismo-e-viagem/noticia/2025/10/18/veja-quais-paises-e-territorios-dispensam-visto-para-brasileiros.ghtml",
+        "data": "18/10/2025 05:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/5jZSLMS_8KIXMNExfipyeU2DnSE=/4928x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/o/N/ofhucnQQKUcHQoxBso4Q/image.jpg"
+    },
+    {
+        "titulo": "Técnicos de enfermagem são denunciados por estupro de paciente em Porto Alegre",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/10/18/tecnicos-de-enfermagem-sao-denunciados-por-estupro-de-paciente-em-porto-alegre.ghtml",
+        "data": "18/10/2025 05:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/DpdT7inZwlRuXzEaWZzDpQAtlww=/3243x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/r/fps038R3W3Un7BLcFjJw/fachada-ernesto-dornelles.jpg"
+    },
+    {
+        "titulo": "Cerrado invisível: quem são os povos tradicionais que protegem o bioma mais desmatado do Brasil",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2025/10/18/cerrado-invisivel-quem-sao-os-povos-tradicionais-que-protegem-o-bioma-mais-desmatado-do-brasil.ghtml",
+        "data": "18/10/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/-IQhiHRYeyu4PsyLuehRg7KNFTs=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/x/hJoojMQtAD7tFEAFrjFA/whatsapp-image-2020-09-04-at-12-17-24.jpeg"
+    },
+    {
+        "titulo": "Deportações de Trump estão destruindo economias locais, dizem empresários",
+        "link": "https://www.cnnbrasil.com.br/economia/negocios/deportacoes-de-trump-estao-destruindo-economias-locais-dizem-empresarios/",
+        "data": "18/10/2025 06:04",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2025binary_LYNXMPEL5M12L-BASEIMAGE.jpg?w=800&h=533&crop=1"
+    },
+    {
+        "titulo": "Nice x Lyon: horário e onde assistir ao jogo da Ligue 1",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/nice-x-lyon-horario-e-onde-assistir-ao-jogo-da-ligue-1/",
+        "data": "18/10/2025 06:00",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/allianz_riviera.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Zelensky deixa a Casa Branca sem garantias sobre o futuro da guerra",
+        "link": "https://www.cnnbrasil.com.br/internacional/zelensky-deixa-a-casa-branca-sem-garantias-sobre-o-futuro-da-guerra/",
+        "data": "18/10/2025 06:00",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/2025-08-18T174922Z_1_LYNXMPEL7H0T8_RTROPTP_4_UKRAINE-CRISIS-SUMMIT-1.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Torino x Napoli: horário e onde assistir ao jogo da Serie A",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/torino-x-napoli-horario-e-onde-assistir-ao-jogo-da-serie-a-2/",
+        "data": "18/10/2025 06:00",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/Olimpico-Grande-Torino-e1746923906819.jpeg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Wolfsburg x Stuttgart: horário e onde assistir ao jogo da Bundesliga",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/wolfsburg-x-stuttgart-horario-e-onde-assistir-ao-jogo-da-bundesliga-25-26/",
+        "data": "18/10/2025 05:25",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/12/estadio_wolfsburg-e1733241982233.jpg?w=800&h=451&crop=1"
+    },
+    {
+        "titulo": "RB Leipzig x Hamburgo: horário e onde assistir ao jogo da Bundesliga",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/rb-leipzig-x-hamburgo-horario-e-onde-assistir-ao-jogo-da-bundesliga/",
+        "data": "18/10/2025 05:12",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/06/red-bull-arena-leipzig-eurocopa-e1733242666917.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Pisa x Hellas Verona: horário e onde assistir ao jogo da Serie A",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/pisa-x-hellas-verona-horario-e-onde-assistir-ao-jogo-da-serie-a/",
+        "data": "18/10/2025 05:00",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/arena_garibaldi-e1756502361751.jpg?w=1000&h=563&crop=1"
+    },
+    {
+        "titulo": "Lecce x Sassuolo: horário e onde assistir ao jogo da Serie A",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/lecce-x-sassuolo-horario-e-onde-assistir-ao-jogo-da-serie-a/",
+        "data": "18/10/2025 04:20",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/Estadio-Via-del-Mare-casa-do-lecce-e1738976104518.jpg?w=1080&h=608&crop=1"
+    },
+    {
+        "titulo": "“Vale Tudo”: como foi a cirurgia clandestina de Odete Roitman",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/vale-tudo-como-foi-a-cirurgia-clandestina-de-odete-roitman/",
         "data": "18/10/2025 03:18",
-        "fonte": "G1",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/GaNW1OA2rwKOM8ZEn64Dx6-IePQ=/5474x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/l/DT9UdiSveCN4JqjKusUg/2025-04-08t102405z-1300161952-rc2mtdarbqhh-rtrmadp-3-usa-trump-tariffs.jpg"
-    },
-    {
-        "titulo": "Alta durabilidade com estilo nos metais exclusivos da DAX",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2025/10/18/alta-durabilidade-com-estilo-nos-metais-exclusivos-da-dax.ghtml",
-        "data": "18/10/2025 03:02",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/ApZeabQXYC0ARaWOuqa5jQfnYaE=/700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/8/b/xDryR4RWekw7qqrwFnbg/foto-1-texto-4.jpg"
-    },
-    {
-        "titulo": "Ligações telefônicas de grandes empresas vão ter selo de verificação no celular de clientes, diz Anatel",
-        "link": "https://g1.globo.com/tecnologia/noticia/2025/10/18/ligacoes-telefonicas-de-grandes-empresas-vao-ter-selo-de-verificacao-no-celular-de-clientes-diz-anatel.ghtml",
-        "data": "18/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/OsGxxEyFZE0VSsl0XMZgmhHNYUA=/1806x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/2/D/eRGtIAQlOaJGFbcYhQQg/celular.jpg"
-    },
-    {
-        "titulo": "Venda de frisas para o Carnaval 2026 no Rio começa neste domingo, às 9h; veja o passo a passo para tentar comprar",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2025/10/18/venda-de-frisas-para-o-carnaval-2026-no-rio-passo-a-passo.ghtml",
-        "data": "18/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/4MSzA6HoeXNnfMBSfnmO2gQTRWA=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/5/L/QsCA2iSt6jyZKp9XXpug/54374715021-00536d7061-k.jpg"
-    },
-    {
-        "titulo": "Mega-Sena pode pagar R$ 48 milhões neste sábado",
-        "link": "https://g1.globo.com/loterias/mega-sena/noticia/2025/10/18/mega-sena-pode-pagar-r-48-milhoes-neste-sabado.ghtml",
-        "data": "18/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/7KlT1OhWzDOwok87nCnVHivPlTU=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/86/28/10452886"
-    },
-    {
-        "titulo": "Orochi, TZ da Coronel e Cabelinho: Rap in Cena, maior festival de hip hop do país, acontece neste fim de semana, em Porto Alegre",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/10/18/orochi-tz-da-coronel-e-cabelinho-rap-in-cena-maior-festival-de-hip-hop-do-pais-acontece-neste-fim-de-semana-em-porto-alegre.ghtml",
-        "data": "18/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/g6ew47Dm-NbpVJDmyYFtc7Xf67Y=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/26/85/13108526"
-    },
-    {
-        "titulo": "Rio tem Dia D de vacinação neste sábado",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/10/18/rio-tem-dia-d-de-vacinacao-neste-sabado.ghtml",
-        "data": "18/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/zNvTs2x5Rf-LW1qBeTBJVlKtZSU=/4912x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/A/7KBw14QUyBk9GoB8GODg/dsc09149-1-.jpg"
-    },
-    {
-        "titulo": "Frente fria muda o tempo e leva chuva e frio ao Sul e Sudeste neste fim de semana; veja previsão",
-        "link": "https://g1.globo.com/meio-ambiente/noticia/2025/10/18/frente-fria-muda-o-tempo-e-leva-chuva-e-frio-ao-sul-e-sudeste-neste-fim-de-semana-veja-previsao.ghtml",
-        "data": "18/10/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/dCM2zgRfR4o9VsQ4DedxfRQL9-0=/3008x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/t/AvV8tNSHO6b06YbBhLBQ/drf20250124009.jpg"
-    },
-    {
-        "titulo": "REC'n'Play: 'nariz inteligente' detecta metanol e outras substâncias tóxicas em bebidas adulteradas",
-        "link": "https://g1.globo.com/pe/pernambuco/noticia/2025/10/18/recnplay-nariz-inteligente-detecta-metanol-e-outras-substancias-toxicas-em-bebidas-adulteradas.ghtml",
-        "data": "18/10/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/2oiuz-tPek2hBfHd-hFmNiCxY5k=/1771x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/g/Yhich3RCSom5yhx4XY5g/nariz.png"
-    },
-    {
-        "titulo": "Gracyanne Barbosa é levada para o hospital e faz exames após sentir dor em local do quadril onde bateu durante assalto",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/10/17/gracyanne-barbosa-e-levada-para-o-hospital-e-faz-exames-apos-sentir-dor-em-local-do-quadril-onde-bateu-durante-assalto.ghtml",
-        "data": "18/10/2025 02:06",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/tLkm_Sz3QMXuwzhetVZL4YhJCQQ=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/H/I/XrFg7wSRSxxzarOrfUAA/g1-gracyanne2.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/cirurgia-odete-roitman.jpeg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Enquete “Vale Tudo”: o que você achou do fim da novela?",
@@ -88,76 +160,12 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/debora-bloch-odete-roitman.png?w=745&h=333&crop=1"
     },
     {
-        "titulo": "“Vale Tudo”: fotos do momento em que Marco Aurélio atira em Odete Roitman",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/vale-tudo-fotos-do-momento-em-que-marco-aurelio-atira-em-odete-roitman/",
-        "data": "18/10/2025 02:57",
-        "fonte": "CNN Brasil",
+        "titulo": "Horóscopo do dia: previsão para os 12 signos em 18/10/2025",
+        "link": "https://jovempan.com.br/edicase/horoscopo-do-dia-previsao-para-os-12-signos-em-18-10-2025.html",
+        "data": "18/10/2025 03:00",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/arma-odete.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Trump determina novas tarifas a caminhões e ônibus importados",
-        "link": "https://www.cnnbrasil.com.br/economia/trump-determina-novas-tarifas-a-caminhoes-e-onibus-importados/",
-        "data": "18/10/2025 02:46",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/donald-trump-e1759865610381.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Quem é George Santos, ex-deputado filho de brasileiros condenado por fraude",
-        "link": "https://www.cnnbrasil.com.br/internacional/quem-e-george-santos-ex-deputado-filho-de-brasileiros-condenado-por-fraude/",
-        "data": "18/10/2025 02:37",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/George-Santos.jpg?w=1024&h=630&crop=1"
-    },
-    {
-        "titulo": "“Vale Tudo”: o que acontece com Maria de Fátima no último capítulo",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/vale-tudo-o-que-acontece-com-maria-de-fatima-no-ultimo-capitulo/",
-        "data": "18/10/2025 02:35",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/maria-de-fatima.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Especialista: Não há expectativa de cessar-fogo na reunião de Putin e Trump",
-        "link": "https://www.cnnbrasil.com.br/internacional/especialista-nao-ha-expectativa-de-cessar-fogo-na-reuniao-de-putin-e-trump/",
-        "data": "18/10/2025 02:33",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/trump-putin-reuniao-alasca-e1759441505859.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "O Grande Debate: Fim do rombo em estatais, privatizar ou reestruturar?",
-        "link": "https://www.cnnbrasil.com.br/politica/o-grande-debate-fim-do-rombo-em-estatais-privatizar-ou-reestruturar/",
-        "data": "18/10/2025 02:30",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
-    },
-    {
-        "titulo": "“Vale Tudo”: Debora Bloch mostra bastidores da cirurgia de Odete Roitman",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/vale-tudo-debora-bloch-mostra-bastidores-da-cirurgia-de-odete-roitman/",
-        "data": "18/10/2025 02:22",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/odete-r.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "“Vale Tudo”: saiba quem organizou plano para salvar Odete Roitman",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/vale-tudo-saiba-quem-organizou-plano-para-salvar-odete-roitman/",
-        "data": "18/10/2025 02:02",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/odete-r.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Lázaro Ramos elogia atuação de Taís Araújo em “Vale Tudo”",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/lazaro-ramos-elogia-atuacao-de-tais-araujo-em-vale-tudo/",
-        "data": "18/10/2025 02:02",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/04/tais-e-lazaro-e1743775477364.jpg?w=1080&h=608&crop=1"
+        "image": "https://jpimg.com.br/uploads/2025/10/horoscopo-do-dia-previsao-para-os-12-signos-em-18-10-2025-1024x683.jpg"
     },
     {
         "titulo": "Londres pretende reverter proibição de torcedores do Maccabi Tel Aviv em jogo contra Aston Villa",
@@ -232,12 +240,44 @@
         "image": "https://jpimg.com.br/uploads/2025/02/ato20250221002.jpg"
     },
     {
-        "titulo": "Palmeiras também recebe visita de Comissão de Dopagem durante treino na Academia de Futebol",
-        "link": "https://jovempan.com.br/esportes/futebol/palmeiras-tambem-recebe-visita-de-comissao-de-dopagem-durante-treino-na-academia-de-futebol.html",
-        "data": "17/10/2025 23:29",
-        "fonte": "Jovem Pan",
+        "titulo": "Acidente com ônibus de turismo deixa mortos no Agreste de Pernambuco",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/10/acidente-com-onibus-de-turismo-deixa-mortos-no-agreste-de-pernambuco.shtml",
+        "data": "18/10/2025 05:04",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/10/16102025_cg_palmeiras_2846_6.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/18/176076333868f31dcacc91f_1760763338_3x2_lg.jpg"
+    },
+    {
+        "titulo": "Ressuscitei Odete Roitman, brinca Luis Lobianco",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2025/10/ressuscitei-odete-roitman-brinca-luis-lobianco.shtml",
+        "data": "18/10/2025 04:07",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/17/176074830668f2e31231ce7_1760748306_3x2_xl.jpg"
+    },
+    {
+        "titulo": "Floresta urbana",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/txai-surui/2025/10/floresta-urbana.shtml",
+        "data": "18/10/2025 03:54",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/07/05/1751729646686945ee76fad_1751729646_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Os comerciais de 'Vale Tudo' importam bem mais do que a novela",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2025/10/os-comerciais-de-vale-tudo-importam-bem-mais-do-que-a-novela.shtml",
+        "data": "18/10/2025 03:45",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/17/176075375568f2f85b61778_1760753755_3x2_lg.jpg"
+    },
+    {
+        "titulo": "'Dei um grito! Que final foi esse?', diz Carolina Dieckmmann",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2025/10/dei-um-grito-que-final-foi-esse-diz-carolina-dieckmmann.shtml",
+        "data": "18/10/2025 03:28",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/17/176074832068f2e32079614_1760748320_3x2_xl.jpg"
     },
     {
         "titulo": "Novela 'Vale Tudo' chega ao fim causando mais risos do que reflexão",
@@ -248,7 +288,7 @@
         "image": "https://f.i.uol.com.br/fotografia/2025/10/17/176075252768f2f38fccd99_1760752527_3x2_xl.jpg"
     },
     {
-        "titulo": "STF já tem 5 votos para derrubar decisão de Barroso que autoriza enfermeiro a fazer aborto legal",
+        "titulo": "STF já tem maioria para derrubar decisão de Barroso que autoriza enfermeiro a fazer aborto legal",
         "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2025/10/stf-ja-tem-5-votos-para-derrubar-decisao-de-barroso-que-autoriza-enfermeiro-a-fazer-aborto-legal.shtml",
         "data": "18/10/2025 02:35",
         "fonte": "Folha de S.Paulo",
@@ -278,46 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2025/10/17/176075375568f2f85b61778_1760753755_3x2_lg.jpg"
-    },
-    {
-        "titulo": "China faz nova aposta no longo prazo enquanto democracias se distraem",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2025/10/china-faz-nova-aposta-no-longo-prazo-enquanto-democracias-se-distraem.shtml",
-        "data": "18/10/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/17/176074411268f2d2b0d33a8_1760744112_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Aumento do nível do mar agrava erosões em Macapá e ameaça população ribeirinha",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/10/aumento-do-nivel-do-mar-agrava-erosoes-em-macapa-e-ameaca-populacao-ribeirinha.shtml",
-        "data": "18/10/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/12/175764836868c395f0e9e39_1757648368_3x2_xl.jpg"
-    },
-    {
-        "titulo": "Vulcabras, dona da Olympikus, acelera o passo e cresce há 20 trimestres com foco nas corridas de rua",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/10/vulcabras-dona-da-olympikus-acelera-o-passo-e-cresce-ha-20-trimestres-com-foco-nas-corridas-de-rua.shtml",
-        "data": "18/10/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/05/175710889368bb5a9db3e90_1757108893_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Justiça extingue ação de herdeiros que queriam ser reconhecidos como netos de Silvio Santos",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2025/10/justica-extingue-acao-de-herdeiros-que-queriam-ser-reconhecidos-como-netos-de-silvio-santos.shtml",
-        "data": "18/10/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/01/09/1736435817677fe8691ad8c_1736435817_3x2_lg.jpg"
-    },
-    {
-        "titulo": "Congresso resiste em ampliar taxação de bets e trava compensação à MP do aumento de impostos",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/10/congresso-resiste-em-ampliar-taxacao-de-bets-e-trava-compensacao-a-mp-do-aumento-de-impostos.shtml",
-        "data": "18/10/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/02/175941418768de87ab8f6eb_1759414187_3x2_rt.jpg"
     },
     {
         "titulo": "Trump manda soltar George Santos, mesmo o chamando de 'um pouco desonesto'",
@@ -402,7 +402,7 @@
     {
         "titulo": "Moraes dá cinco dias defesa de Collor explicar tornozeleira desligada e ameaça prisão",
         "link": "https://www.terra.com.br/noticias/brasil/politica/moraes-da-cinco-dias-para-defesa-de-collor-explicar-tornozeleira-desligada-e-ameaca-prisao,2160cd91ae394fe64a115d251021f98fqfwy8tc2.html",
-        "data": "18/10/2025 03:25",
+        "data": "18/10/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/16/227487502-lf3utorsbrbvvc5f2kv4wuuwra.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Quem matou Odete Roitman? Manuela Dias surpreende sem nenhum dos cinco suspeitos",
         "link": "https://www.terra.com.br/diversao/tv/novelas/quem-matou-odete-roitman-manuela-dias-surpreende-sem-nenhum-dos-cinco-suspeitos,2386986549bcaca6b7648662100c1d40aln3f49v.html",
-        "data": "18/10/2025 03:25",
+        "data": "18/10/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/18/design-sem-nome-2025-10-17t225418-298-r17ty0digx83.png"
@@ -418,7 +418,7 @@
     {
         "titulo": "Responsável por salvar Odete, Luis Lobianco revela improvisos em cena final",
         "link": "https://www.terra.com.br/diversao/tv/responsavel-por-salvar-odete-luis-lobianco-revela-improvisos-em-cena-final,3a2ee161fcb8a844f205e95b35686f41urh8noxf.html",
-        "data": "18/10/2025 03:25",
+        "data": "18/10/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/18/captura-de-tela-2025-10-17-233042-qxnstrnkl0m9.png"
@@ -426,7 +426,7 @@
     {
         "titulo": "Todas as bebidas adulteradas de SP saíam de fábrica de família no ABC, diz delegado-geral",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/todas-as-bebidas-adulteradas-no-estado-de-sp-saiam-de-fabrica-de-familia-no-abc-diz-delegado-geral,b4f26079b151ed41aacd622453693893211hkios.html",
-        "data": "18/10/2025 03:25",
+        "data": "18/10/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/17/24184986-4n4xsshvrbfcjbv2qj63csx4zi.jpg"
@@ -434,7 +434,7 @@
     {
         "titulo": "Vereador ironiza linguagem neutra: 'Todes são minhas boles'",
         "link": "https://www.terra.com.br/noticias/brasil/politica/vereador-ironiza-linguagem-neutra-todes-sao-minhas-boles,3b2f907b90256f1ff3448b509dbb8c89gi6ohuw9.html",
-        "data": "18/10/2025 03:25",
+        "data": "18/10/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/17/vereador-rhufdeihe4a8.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Quem é a mulher apontada como chefe de esquema de adulteração de bebidas com metanol",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/quem-e-a-mulher-apontada-como-chefe-de-esquema-de-adulteracao-de-bebidas-com-metanol-no-estado-de-sp,ec2606e111928e92533f3c4cebbee6c8cnfwvl5g.html",
-        "data": "18/10/2025 03:25",
+        "data": "18/10/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/14/operacao-poison-metanol-5-tol6qnsn9o34.jpg"
@@ -450,7 +450,7 @@
     {
         "titulo": "Anvisa proíbe produtos à base de cannabis e cogumelos; veja a lista",
         "link": "https://www.terra.com.br/vida-e-estilo/saude/anvisa-proibe-produtos-a-base-de-cannabis-e-cogumelos-veja-a-lista,b2ad94b1ff30029b350736eee7206bdespm28dtc.html",
-        "data": "18/10/2025 03:25",
+        "data": "18/10/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
@@ -458,7 +458,7 @@
     {
         "titulo": "Brasil cai e ocupa pior colocação em nove anos no ranking de seleções da Fifa",
         "link": "https://www.terra.com.br/esportes/brasil/brasil-cai-e-ocupa-pior-colocacao-em-nove-anos-no-ranking-de-selecoes-da-fifa,d805617f4d832fbab8d6adbc0dfe1a78pny04d4q.html",
-        "data": "18/10/2025 03:25",
+        "data": "18/10/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/10/gettyimages-2240247938-ubgvq9pp0ks5.jpg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Mulher traída em jogo do Sport detalha flagra e desabafa sobre relação de seis anos",
         "link": "https://www.terra.com.br/esportes/sport/mulher-traida-em-jogo-do-sport-detalha-flagra-e-desabafa-sobre-relacao-de-seis-anos,00ef7614219c8463fee2848e2b447d25i5qompna.html",
-        "data": "18/10/2025 03:25",
+        "data": "18/10/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/17/691082364-amante-flagrada-pela-oficial-em-jogo-do-sport-2-610x400.jpg"
@@ -474,10 +474,18 @@
     {
         "titulo": "Ronaldinho crava desfecho sobre morte de Odete Roitman",
         "link": "https://www.terra.com.br/esportes/futebol/ronaldinho-crava-desfecho-sobre-morte-de-odete-roitman,3c65d75acb875730c19635d86035e0cbucjg3s3e.html",
-        "data": "18/10/2025 03:25",
+        "data": "18/10/2025 06:21",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/18/1218355226-odete-e-ronaldinho-610x400.jpg"
+    },
+    {
+        "titulo": "Nottingham Forest x Chelsea: onde assistir, horário e escalações",
+        "link": "https://veja.abril.com.br/esporte/nottingham-forest-x-chelsea-onde-assistir-horario-e-escalacoes/",
+        "data": "18/10/2025 03:30",
+        "fonte": "Veja",
+        "metodo": "RSS",
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/10/GettyImages-2238381243.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
         "titulo": "Os erros inadmissíveis do último capítulo de ‘Vale Tudo’, sem acertos",
@@ -550,13 +558,5 @@
         "fonte": "Veja",
         "metodo": "RSS",
         "image": "https://veja.abril.com.br/wp-content/uploads/2025/10/casamentovt.jpg?quality=70&strip=info&resize=1080,565&crop=1"
-    },
-    {
-        "titulo": "Excesso de comerciais faz público perder paciência com final de Vale Tudo",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/excesso-de-comerciais-faz-publico-perder-paciencia-com-final-de-vale-tudo/",
-        "data": "18/10/2025 01:35",
-        "fonte": "Veja",
-        "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/10/20250925-Vale-Tudo-BD007.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     }
 ]
