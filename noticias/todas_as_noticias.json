@@ -1,5 +1,53 @@
 [
     {
+        "titulo": "Torres de vigilância em prédios monitoram todos, mas levantam dúvidas sobre uso dos dados e eficácia contra o crime",
+        "link": "https://g1.globo.com/tecnologia/noticia/2025/10/19/torres-de-vigilancia-em-predios-monitoram-todos-mas-levantam-duvidas-sobre-uso-dos-dados-e-eficacia-contra-o-crime.ghtml",
+        "data": "19/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/3jMSlxRmT6s3tAEi8eqFAG37zUk=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/j/p/RjTOSoSoqnuf8S9g6EDQ/whatsapp-image-2025-10-09-at-10.24.11.jpeg"
+    },
+    {
+        "titulo": "Cozinheira 'influencer', dormitório 'de família', 'psicólogo' de ex-detentas: o comércio na porta do maior complexo penitenciário do RJ",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/10/19/cozinheira-influencer-dormitorio-de-familia-psicologo-de-ex-detentas-o-comercio-na-porta-do-maior-complexo-penitenciario-do-rj.ghtml",
+        "data": "19/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/wlTm0DtRwLUL7nrSDSr56rsCZkE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/67/24/14022467"
+    },
+    {
+        "titulo": "BR-290: estrada que liga RS à Argentina tem duplicação inacabada, problemas de estrutura e mais de 160 mortes",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/10/19/br-290-estrada-que-liga-rs-a-argentina-tem-duplicacao-inacabada-problemas-de-estrutura-e-mais-de-160-mortes.ghtml",
+        "data": "19/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/ouHNinr3brgzohYR4fXxfvybsmM=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/X/IdjE2DSSGYVl6fCgORBw/br290-pantanogrande.png"
+    },
+    {
+        "titulo": "A revolução discreta da cidade italiana que virou alternativa ao turismo excessivo de Veneza",
+        "link": "https://g1.globo.com/turismo-e-viagem/noticia/2025/10/19/a-revolucao-discreta-da-cidade-italiana-que-virou-alternativa-ao-turismo-excessivo-de-veneza.ghtml",
+        "data": "19/10/2025 05:20",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/MnZqgaCh2IZSQNg0w7i3OXnUyeA=/1280x0/filters:format(jpeg)/https://s02.video.glbimg.com/x720/13286741.jpg"
+    },
+    {
+        "titulo": "Pode levar líquidos no avião? Veja as regras para bagagem de mão em voos internacionais",
+        "link": "https://g1.globo.com/turismo-e-viagem/noticia/2025/10/19/pode-levar-liquidos-no-aviao-veja-as-regras-para-bagagem-de-mao-em-voos-internacionais.ghtml",
+        "data": "19/10/2025 05:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/w1UNE8Xh8_xnlF_tXzR51z0P4PA=/5352x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/5/H/iBmTPKSdmTCptN2BWW0Q/maos-usando-maleta-de-alto-angulo.jpg"
+    },
+    {
+        "titulo": "O que leva alguém a confessar um crime que não cometeu? Entenda como o método de investigação pode ser a resposta",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2025/10/19/o-que-leva-alguem-a-confessar-um-crime-que-nao-cometeu-entenda-como-o-metodo-de-investigacao-pode-ser-a-resposta.ghtml",
+        "data": "19/10/2025 05:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/O1QtLWbrc7bPnqpdOS5T92J5o18=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/R/q0GydqRB2yS1xtBQEq9Q/h1303-lu-coletiva-113-sul-15102025-frame-33456.jpeg"
+    },
+    {
         "titulo": "Trump x Maduro: como fica a situação do Brasil se os EUA atacarem a Venezuela?",
         "link": "https://g1.globo.com/podcast/o-assunto/noticia/2025/10/19/trump-x-maduro-como-fica-a-situacao-do-brasil-se-os-eua-atacarem-a-venezuela.ghtml",
         "data": "19/10/2025 03:06",
@@ -32,52 +80,28 @@
         "image": "https://s2-g1.glbimg.com/zHhJtPsX4XKb2HZmh6UCIdvomHY=/3914x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/I/D/9CAUakRaAgQTMk8D0rIg/afp-20251014-78rh963-v1-highres-comboboliviaelectionrunoff.jpg"
     },
     {
-        "titulo": "CNH sem autoescola: o que falta para a nova regra entrar em vigor?",
-        "link": "https://g1.globo.com/carros/noticia/2025/10/19/cnh-sem-autoescola-entenda-o-que-falta-para-a-nova-regra-entrar-em-vigor.ghtml",
-        "data": "19/10/2025 03:01",
-        "fonte": "G1",
+        "titulo": "Genoa x Parma: horário e onde assistir ao jogo da Serie A",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/genoa-x-parma-horario-e-onde-assistir-ao-jogo-da-serie-a/",
+        "data": "19/10/2025 05:00",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/P0CZFTAR159m0SdDe7NYP4zo7ZU=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/E/K/BzlrKwSAihC6NHNaimyw/demora-cnh-frame-4810.png"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/09/Luigi-Ferraris-e1727468653563.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Domingo no RJ será de chuva e ventania; Niterói cancela show",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/10/19/previsao-do-tempo-para-domingo-no-rj.ghtml",
-        "data": "19/10/2025 03:01",
-        "fonte": "G1",
+        "titulo": "St. Pauli x Hoffenheim: horário e onde assistir ao jogo da Bundesliga",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/st-pauli-x-hoffenheim-horario-e-onde-assistir-ao-jogo-da-bundesliga/",
+        "data": "19/10/2025 05:00",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/x-uaNXYm9O2TzHRXeWPqhBzr3MA=/4000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/J/OhPbC2SUAampY3CgWFxw/18tempo.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/11/estadio_st_pauli-e1732799663860.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Acidente com 17 mortos em Pernambuco: veja o que se sabe e o que falta esclarecer",
-        "link": "https://g1.globo.com/pe/pernambuco/noticia/2025/10/19/acidente-em-pernambuco-veja-o-que-se-sabe-e-o-que-falta-saber.ghtml",
-        "data": "19/10/2025 03:00",
-        "fonte": "G1",
+        "titulo": "Liverpool x United: horário e onde assistir ao jogo da Premier League",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/liverpool-x-manchester-united-horario-e-onde-assistir-ao-jogo-da-premier-l/",
+        "data": "19/10/2025 05:00",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/RIGdKVOIvkGJgknYCqvKl34ZTyc=/1220x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/Y/h5NFeGTwW2FzpTgn4slw/acidente-paranatama.jpeg"
-    },
-    {
-        "titulo": "Entenda por que produtores de maçã do RS estão apostando em aluguel de abelhas",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/10/19/entenda-por-que-produtores-de-maca-do-rs-estao-apostando-em-aluguel-de-abelhas.ghtml",
-        "data": "19/10/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/3ZVrTwK8aPNyCej5JSQ820BySPM=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/O/2/0ALnh8Q1CZuLo1nA7sqg/g1-1200-x-675-px-27-.png"
-    },
-    {
-        "titulo": "Pernambucano morre em acidente que deixou 17 mortos: 'Ele não ia viajar nesse ônibus', disse amigo",
-        "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2025/10/18/pernambucano-morre-em-acidente-que-deixou-17-mortos-ele-nao-ia-viajar-nesse-onibus-disse-amigo.ghtml",
-        "data": "19/10/2025 01:54",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/YrQILcrxnT2RzCgUqaM28dn2Gf8=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/C/I/qVUvdhTdyLcS2l6d6PqA/design-sem-nome-96-.png"
-    },
-    {
-        "titulo": "Gilberto Gil faz homenagem a Preta Gil e canta com Roberto Carlos em último show em SP",
-        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/10/18/gilberto-gil-faz-homenagem-a-preta-gil-e-canta-com-roberto-carlos-em-ultimo-show-em-sp.ghtml",
-        "data": "19/10/2025 01:33",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/pec5bNN_cNA-xvDzgI1xLSU-Nx0=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/h/4KesiVQxS0rbwOAFk8Jw/cdg20250721001.113801.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/11/estadio_liverpool-e1732736665536.jpg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Roberto Carlos participa de último show da turnê de Gilberto Gil em SP",
@@ -136,28 +160,12 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/SaveClip.App_541519160_18535600663002613_4854147280772632999_n-e1760836819324.jpg?w=1200&h=457&crop=1"
     },
     {
-        "titulo": "Cagliari x Bologna: horário e onde assistir ao jogo da Serie A",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/cagliari-x-bologna-horario-e-onde-assistir-ao-jogo-da-serie-a/",
-        "data": "19/10/2025 01:45",
-        "fonte": "CNN Brasil",
+        "titulo": "Horóscopo do dia: previsão para os 12 signos em 19/10/2025",
+        "link": "https://jovempan.com.br/edicase/horoscopo-do-dia-previsao-para-os-12-signos-em-19-10-2025.html",
+        "data": "19/10/2025 03:00",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/estadio-cagliari.webp?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Baile de Halloween da Sephora reúne famosos; veja as fantasias",
-        "link": "https://www.cnnbrasil.com.br/lifestyle/baile-de-halloween-da-sephora-reune-famosos-veja-as-fantasias/",
-        "data": "19/10/2025 01:35",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/halloween-da-sephora-2025.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Freiburg x Eintracht Frankfurt: onde assistir ao jogo da Bundesliga",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/freiburg-x-eintracht-frankfurt-onde-assistir-ao-jogo-da-bundesliga/",
-        "data": "19/10/2025 01:30",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/Europa-Park-Stadion-freiburg-e1740080868353.jpg?w=1080&h=608&crop=1"
+        "image": "https://jpimg.com.br/uploads/2025/10/horoscopo-do-dia-previsao-para-os-12-signos-em-19-10-2025-1024x683.jpg"
     },
     {
         "titulo": "Haddad diz que Lei de Seguro vai trazer ‘grande contribuição’ para desenvolvimento do País",
@@ -232,12 +240,12 @@
         "image": "https://jpimg.com.br/uploads/2025/08/fta20250813171-1.jpg"
     },
     {
-        "titulo": "Netanyahu diz que conflito se encerrará depois da 2ª fase do plano que inclui desarmamento do Hamas",
-        "link": "https://jovempan.com.br/noticias/mundo/netanyahu-diz-que-conflito-se-encerrara-depois-da-2a-fase-do-plano-que-inclui-desarmamento-do-hamas.html",
-        "data": "18/10/2025 21:32",
-        "fonte": "Jovem Pan",
+        "titulo": "Vendaval provoca queda de árvores em São Paulo",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/10/vendaval-provoca-queda-de-arvores-em-sao-paulo.shtml",
+        "data": "19/10/2025 06:00",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/10/4881967e777a4ca863bb3ccc7602b8b2fef830a4.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/19/176085277868f47b2aebcd4_1760852778_3x2_lg.jpg"
     },
     {
         "titulo": "Miss Grand International 2025: Filipinas vence 2ª coroa e Brasil é Top 20",
@@ -310,14 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2025/10/09/176004595668e82b845a8e0_1760045956_3x2_xl.jpg"
-    },
-    {
-        "titulo": "Lula saiu das cordas e voltou a ser o favorito para a eleição de 2026",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2025/10/lula-saiu-das-cordas-e-voltou-a-ser-o-favorito-para-a-eleicao-de-2026.shtml",
-        "data": "19/10/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/02/175945066568df162936c5a_1759450665_3x2_rt.jpg"
     },
     {
         "titulo": "Mega-Sena: veja as dezenas sorteadas do concurso 2929; prêmio é de R$ 48 milhões",
@@ -402,7 +402,7 @@
     {
         "titulo": "Corinthians mostra apetite e ganha do Atlético-MG com golaço de Maycon",
         "link": "https://www.terra.com.br/esportes/corinthians/corinthians-mostra-apetite-ganha-do-atletico-mg-com-golaco-de-maycon-e-ameniza-turbulencia,11e9cbed1272122ca84e45358cc7a9ccq6jsv7pn.html",
-        "data": "19/10/2025 03:44",
+        "data": "19/10/2025 06:22",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/18/2105834604-tppuhr3j3bedfbxpfynsttbasq.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Anitta descreve encontro com Rei Charles e defende o meio ambiente",
         "link": "https://www.terra.com.br/diversao/gente/anitta-descreve-encontro-com-rei-charles-e-diz-que-meio-ambiente-foi-tema-nao-tomei-chazinho-da-tarde,912a8debd0c73caf7b29062b25900c09qsmvi1uk.html",
-        "data": "19/10/2025 03:44",
+        "data": "19/10/2025 06:22",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/19/anitta-06-vb9kxw76rnlh.JPG"
@@ -418,7 +418,7 @@
     {
         "titulo": "Entenda o caso do padre flagrado com noiva de fiel em Nova Maringá",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/entenda-o-caso-do-padre-flagrado-com-noiva-de-fiel-em-nova-maringa-mt,aa2e8240bcf07451cc34299fe23ae97aw2033ob7.html",
-        "data": "19/10/2025 03:44",
+        "data": "19/10/2025 06:22",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/16/whatsapp-image-2025-10-16-at-13-05-57-1iusozjgplqnp.jpeg"
@@ -426,7 +426,7 @@
     {
         "titulo": "'Quem sou eu para criticar?': Sabrina Sato reflete sobre beleza com fantasia",
         "link": "https://www.terra.com.br/diversao/gente/quem-sou-eu-para-criticar-sabrina-sato-reflete-sobre-beleza-com-fantasia-de-madame-dos-exageros-no-baile-da-sephora,067227a884f4f9834bdb6b208954b1cfanaikyiq.html",
-        "data": "19/10/2025 03:44",
+        "data": "19/10/2025 06:22",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/19/sabrina-sato-02-sl8yeg2a7hb5.JPG"
@@ -434,7 +434,7 @@
     {
         "titulo": "Homem é baleado em assalto na 25 de março, em São Paulo",
         "link": "https://www.terra.com.br/noticias/brasil/policia/homem-e-baleado-em-assalto-na-regiao-da-25-de-marco-em-sao-paulo,205b7f78b5f10abdca5663b53252cecdcz0iiujm.html",
-        "data": "19/10/2025 03:44",
+        "data": "19/10/2025 06:22",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/18/captura-de-tela-2025-10-18-194303-veyn81ohsg1k.png"
@@ -442,7 +442,7 @@
     {
         "titulo": "Protestos contra Trump levam multidão às ruas nos EUA",
         "link": "https://www.terra.com.br/noticias/mundo/protestos-contra-trump-levam-multidao-as-ruas-nos-eua,5537cd6fa179f3636a3fdaaa4e00e47av9zr8x7c.html",
-        "data": "19/10/2025 03:44",
+        "data": "19/10/2025 06:22",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/19/84336252-47a6f200-ac80-11f0-9e6b-5f95e4a22577.jpg"
@@ -450,7 +450,7 @@
     {
         "titulo": "Cobertura de arquibancada desaba e deixa feridos em torneio de beach tennis",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/cobertura-de-arquibancada-desaba-em-torneio-de-beach-tennis-no-interior-de-sao-paulo,5977ca0929fde7c0d731dd77a99ff16ebd9x7vjo.html",
-        "data": "19/10/2025 03:44",
+        "data": "19/10/2025 06:22",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/18/ribeirao-1iuqf4x2ko94j.jpg"
@@ -458,7 +458,7 @@
     {
         "titulo": "Veja quanto o Corinthians recebe por título da Libertadores Feminina",
         "link": "https://www.terra.com.br/esportes/corinthians/veja-quanto-o-corinthians-recebe-por-titulo-da-libertadores-feminina,f833ce7a4749f474ffecf88cd9638941bd1re2g0.html",
-        "data": "19/10/2025 03:44",
+        "data": "19/10/2025 06:22",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/18/gettyimages-2241585653-t81cdry4o3fq.jpg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Verstappen faz a pole nos Estados Unidos; Bortoleto é 16º",
         "link": "https://www.f1mania.net/f1/f1-verstappen-faz-a-pole-nos-estados-unidos-com-norris-na-primeira-fila/?utm_source=terra_capa&utm_medium=referral",
-        "data": "19/10/2025 03:44",
+        "data": "19/10/2025 06:22",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://www.f1mania.net/wp-content/uploads/2025/10/XPB_1379364_HiRes-Custom.jpg"
@@ -474,7 +474,7 @@
     {
         "titulo": "Apresentador é demitido por posts políticos 4 dias após estrear: \"Estava bem feliz\"",
         "link": "https://www.terra.com.br/diversao/gente/apresentador-e-demitido-por-posts-politicos-4-dias-apos-estrear-estava-bem-feliz,79971769932aefcf287294979d19228foefe8ye9.html",
-        "data": "19/10/2025 03:44",
+        "data": "19/10/2025 06:22",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/18/flaviogomes-t4vpp0hu4h0w.jpg"
