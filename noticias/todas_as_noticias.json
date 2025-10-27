@@ -1,83 +1,147 @@
 [
     {
-        "titulo": "\"Se depender do Trump e de mim, vai ter acordo\", diz Lula",
+        "titulo": "Secretaria de Saúde do ES vai apurar responsabilidade de hospital em casos de contaminação",
+        "link": "https://g1.globo.com/es/espirito-santo/noticia/2025/10/27/secretaria-de-saude-do-es-vai-apurar-responsabilidade-de-hospital-em-casos-de-contaminacao.ghtml",
+        "data": "27/10/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Tx4Vbd7sTfjuLGzN40uTFA-o_MM=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/M/Z/6jMNIoR3K0v8ZbN05jvw/thumb-fotos-8-.jpg"
+    },
+    {
+        "titulo": "90 anos de Mauricio de Sousa: filhos celebram trajetória do pai e compartilham memórias ao g1",
+        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/10/27/90-anos-de-mauricio-de-sousa-filhos-celebram-trajetoria-do-pai-e-compartilham-memorias-ao-g1.ghtml",
+        "data": "27/10/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/V3nTP_SQ6MmNRcgol0clAHfIJyw=/1305x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/b/w5tdWAROA0wAeawC4JOA/captura-de-tela-2025-10-23-153605.jpg"
+    },
+    {
+        "titulo": "Vitória nas eleições legislativas da Argentina dá força a Milei no Congresso, dizem analistas",
+        "link": "https://g1.globo.com/mundo/noticia/2025/10/27/vitoria-nas-eleicoes-legislativas-da-argentina-da-forca-a-milei-no-congresso-dizem-analistas.ghtml",
+        "data": "27/10/2025 05:06",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/pSIuLKknvnDLTQD6nNDPq2QLAMg=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/n/q/87mf9VTV6G5grPp5WePQ/afp-20251027-823z29m-v1-midres-argentinalegislativeelectionvote-2-.jpg"
+    },
+    {
+        "titulo": "Evento sobre tecnologia, inovação e negócios recebe Alok e Fabrício Carpinejar em Brasília",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2025/10/27/evento-sobre-tecnologia-inovacao-e-negocios-recebe-alok-e-fabricio-carpinejar-em-brasilia.ghtml",
+        "data": "27/10/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/aBRLJjWfRZRS0Z6vmM4otCAIR-M=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/O/7/Yh4LonQiShcIDmFSt6Ag/alok-.webp"
+    },
+    {
+        "titulo": "Trump parabeniza Milei por vitória nas eleições argentinas: 'Está fazendo um trabalho maravilhoso'",
+        "link": "https://g1.globo.com/mundo/noticia/2025/10/27/trump-parabeniza-milei-por-vitoria-nas-eleicoes-argentinas-esta-fazendo-um-trabalho-maravilhoso.ghtml",
+        "data": "27/10/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/yPbhoLIUs87x04_6w9MfqmcuIVo=/3156x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/u/geABzzS3KffCXibnxuqQ/2025-10-14t175306z-64082439-rc2tbhan89om-rtrmadp-3-usa-argentina.jpg"
+    },
+    {
+        "titulo": "Lula fala após encontro com Trump na Malásia",
+        "link": "https://g1.globo.com/mundo/ao-vivo/lula-trump-malasia.ghtml",
+        "data": "27/10/2025 04:33",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
+    },
+    {
+        "titulo": "Casal é preso após morte de filho de 3 anos em Dom Pedrito, diz polícia; suspeita é de maus-tratos",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/10/27/casal-e-preso-apos-morte-de-filho-de-3-anos-em-dom-pedrito-diz-policia-suspeita-e-de-maus-tratos.ghtml",
+        "data": "27/10/2025 04:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/eyHpZsMFuQ04dyTxkn6wj3PJTO4=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/2/WZJmAUSj6D5HpB8VGqLQ/g1-1-.jpg"
+    },
+    {
+        "titulo": "A resistência ucraniana e a pressão contra a Rússia - O Assunto #1585",
+        "link": "https://g1.globo.com/podcast/o-assunto/noticia/2025/10/27/a-resistencia-ucraniana-e-a-pressao-contra-a-russia-o-assunto-1585.ghtml",
+        "data": "27/10/2025 03:45",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/wniXINIGW6_nhlQsXhUiA3zc0nE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/64/23/14042364"
+    },
+    {
+        "titulo": "Bolsonaro faz parte do passado, e Trump sabe que rei morto, rei posto, diz Lula após encontro com norte-americano",
+        "link": "https://g1.globo.com/politica/noticia/2025/10/27/bolsonaro-passado-diz-lula-malasia-apos-reuniao-com-trump.ghtml",
+        "data": "27/10/2025 03:38",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/ydp1hY0aFFaJ8_D2WUvAuRi4_SI=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/B/qczom1TRulF8s9gNgVuA/2025-10-27t032408z-241980511-rc23khalz1sb-rtrmadp-3-asean-summit-brazil.jpg"
+    },
+    {
+        "titulo": "\"Se depender do Trump e de mim, vai ter acordo\", diz Lula após encontro na Malásia",
         "link": "https://g1.globo.com/mundo/noticia/2025/10/27/lula-fala-reuniao-trump-malasia.ghtml",
         "data": "27/10/2025 03:07",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/dNrdlYhkTq9mo0WsEYJj-Guq6_0=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/K/hnAPrFRXClT1CBVNSpSg/pgm-globonews-limpo-ao-vivo-20251026-2359-frame-36942.jpeg"
+        "image": "https://s2-g1.glbimg.com/EcFkXgeA2svt2Ndex4AWnFWalbc=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/L/t/41VmzKSZAJoal5Wh01hw/2025-10-27t032252z-26398349-rc23khaf6b6x-rtrmadp-3-asean-summit-brazil.jpg"
     },
     {
-        "titulo": "Bacia eletrônica DAX - Tecnologia e design para banheiros práticos e modernos",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2025/10/27/bacia-eletronica-dax-tecnologia-e-design-para-banheiros-praticos-e-modernos.ghtml",
-        "data": "27/10/2025 03:03",
-        "fonte": "G1",
+        "titulo": "Lula completa 80 anos e se torna o 1º octogenário na Presidência",
+        "link": "https://www.cnnbrasil.com.br/politica/lula-completa-80-anos-e-se-torna-o-1o-octogenario-na-presidencia/",
+        "data": "27/10/2025 06:00",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/7LNp0YZ83lsQJ9BPLeEzRQn5Ckk=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/J/KyLAQMRsS5Xb7vRspdvQ/foto-3-texto-12.jpeg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
     },
     {
-        "titulo": "Montes Claros ficou na 3ª posição na geração de empregos em Minas Gerais",
-        "link": "https://g1.globo.com/mg/grande-minas/especial-publicitario/pm-montes-claro/noticia/2025/10/27/montes-claros-ficou-na-3a-posicao-na-geracao-de-empregos-em-minas-gerais.ghtml",
-        "data": "27/10/2025 03:02",
-        "fonte": "G1",
+        "titulo": "Lula diz que pode resolver guerra da Rússia e da Ucrânia com Trump",
+        "link": "https://www.cnnbrasil.com.br/internacional/lula-diz-que-pode-resolver-guerra-da-russia-e-da-ucrania-com-trump/",
+        "data": "27/10/2025 03:52",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/y_9EVyS3XsgyAAaQPf0uXVIGm8E=/1613x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/b/KkWfAMS4KuuhvyMuY85Q/montes-claros-vista-parcial-centro-noite-11-06-15-foto-fabio-marcal-1-2-.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/lula_vieira2.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Investigação sobre as profundezas da Terra instala sismógrafos em cidades de SC; saiba onde",
-        "link": "https://g1.globo.com/sc/santa-catarina/noticia/2025/10/27/investigacao-profundezas-da-terra-sismografos-cidades-de-sc.ghtml",
-        "data": "27/10/2025 03:01",
-        "fonte": "G1",
+        "titulo": "Brasil pede a Trump reversão da alíquota, sem ampliar lista de exceção",
+        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/brasil-pede-a-trump-reversao-da-aliquota-sem-ampliar-lista-de-excecao/",
+        "data": "27/10/2025 03:52",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/6aFcsfS0r_w5uEERRh-Z8vYsmxA=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/j/x/b96G1xQKaeYXJsyhlhzQ/e3db0866-f181-4950-9f41-96dac5175cd0.png"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/1_756857.png?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Após um ano, polícia procura mais 18 palmeirenses por emboscada que matou cruzeirense em SP",
-        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/10/27/apos-um-ano-policia-procura-mais-18-palmeirenses-por-emboscada-que-matou-cruzeirense-em-sp.ghtml",
-        "data": "27/10/2025 03:01",
-        "fonte": "G1",
+        "titulo": "Lula: Questão da punição a ministros do STF será resolvida entre Trump e eu",
+        "link": "https://www.cnnbrasil.com.br/internacional/lula-questao-da-punicao-a-ministros-do-stf-sera-resolvida-entre-trump-e-eu/",
+        "data": "27/10/2025 03:43",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/9yYeotPXGth1LKJMi1TFefFzPfc=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/B/BDnnC2T2mG3JA7N5Ak6g/palmeirenses-acusados.gif"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/Lula-entrevista-malasia-3.jpg?w=823&h=514&crop=1"
     },
     {
-        "titulo": "Tarifaço foi suspenso? Do que Lula e Trump falaram? Veja perguntas e respostas sobre o encontro entre os dois presidentes",
-        "link": "https://g1.globo.com/mundo/noticia/2025/10/27/encontro-lula-trump-perguntas-e-respostas.ghtml",
-        "data": "27/10/2025 03:01",
-        "fonte": "G1",
+        "titulo": "Lula: Trump sabe que “rei morto, é rei posto” e que “Bolsonaro é passado”",
+        "link": "https://www.cnnbrasil.com.br/internacional/lula-trump-sabe-que-rei-morto-e-rei-posto-e-que-bolsonaro-e-passado/",
+        "data": "27/10/2025 03:37",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/L_eFgW8vm76ReyYBSKk233LVSSo=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/95/43/14044395"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/Lula-entrevista-malasia-2.jpg?w=811&h=487&crop=1"
     },
     {
-        "titulo": "INSS: pagamento de benefícios de outubro começa nesta segunda; veja calendário",
-        "link": "https://g1.globo.com/economia/noticia/2025/10/27/inss-pagamento-de-beneficios-de-outubro-comeca-nesta-segunda-veja-calendario.ghtml",
-        "data": "27/10/2025 03:01",
-        "fonte": "G1",
+        "titulo": "Agora não tem mais intermediário, diz Lula após reunião com Trump",
+        "link": "https://www.cnnbrasil.com.br/internacional/agora-nao-tem-mais-intermediario-diz-lula-apos-reuniao-com-trump/",
+        "data": "27/10/2025 03:32",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/eE7rY4ip8BVtYB6BCzUoUlBmUOo=/4500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/x/r/SO8y8gRBikdBq34bU8xA/20231102-131516.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/WhatsApp-Image-2025-10-26-at-06.53.51.jpeg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Trama golpista: Bolsonaro e 7 réus devem apresentar recursos até esta segunda; veja próximos passos",
-        "link": "https://g1.globo.com/politica/noticia/2025/10/27/trama-golpista-bolsonaro-e-7-reus-devem-apresentar-recursos-ate-esta-segunda-veja-proximos-passos.ghtml",
-        "data": "27/10/2025 03:01",
-        "fonte": "G1",
+        "titulo": "Lula: Disse para Trump que punição de ministros do STF eram inadmissíveis",
+        "link": "https://www.cnnbrasil.com.br/internacional/lula-disse-para-trump-que-punicao-de-ministros-do-stf-eram-inadmissiveis/",
+        "data": "27/10/2025 03:29",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/DG2eCfQDQfSKNoUXQDcmUU05ens=/4863x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/B/grjWDcQj6VBIy21a0QLQ/1.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/BR_CNN_261025_BREAKING_NEWS_CLEAN_03_frame_124479.jpeg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "No entorno de Bolsonaro, foto de Lula e Trump é vista como derrota; Planalto trata Eduardo como cabo eleitoral",
-        "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2025/10/27/no-entorno-de-bolsonaro-foto-de-lula-e-trump-e-vista-como-derrota-planalto-trata-eduardo-como-cabo-eleitoral.ghtml",
-        "data": "27/10/2025 03:01",
-        "fonte": "G1",
+        "titulo": "“Se depender de mim e de Trump, vai ter acordo” em poucos dias, diz Lula",
+        "link": "https://www.cnnbrasil.com.br/internacional/estou-convencido-que-em-poucos-dias-teremos-solucao-com-os-eua-diz-lula/",
+        "data": "27/10/2025 03:29",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/4ZdjjbcSFZ2QSTd__qlqHUnBqKE=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/r/d/qLf9ppQoCgPRfYpZ7dwA/54880379716-8dbc544fe0-k.jpg"
-    },
-    {
-        "titulo": "Ex-marido de Vanessa Rios diz que cantora continuou trabalhando por dois anos após diagnóstico de câncer no pulmão: 'Lutou até o fim'",
-        "link": "https://g1.globo.com/pe/pernambuco/noticia/2025/10/27/ex-marido-de-vanessa-rios-diz-que-cantora-continuou-trabalhando-por-dois-anos-apos-diagnostico-de-cancer-no-pulmao-lutou-ate-o-fim.ghtml",
-        "data": "27/10/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/bz3UVE5SmDfC8-kCOBGDV3TVeHU=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/e/cDVIZQThqMdL6RcONAtA/vanessa-rios-em-show.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/Lula-entrevista-malasia-1.jpg?w=827&h=487&crop=1"
     },
     {
         "titulo": "Palmeiras se manifesta após torcedor arremessar garrafa em Cássio",
@@ -96,68 +160,12 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTopNews/tagreuters.com2025binary_LYNXMPEL740R4-BASEIMAGE.jpg?w=800&h=506&crop=1"
     },
     {
-        "titulo": "Palmeiras x Cruzeiro: entenda a regra que anulou gol de Ramón Sosa",
-        "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-x-cruzeiro-entenda-a-regra-que-anulou-gol-de-ramon-sosa/",
-        "data": "27/10/2025 02:27",
-        "fonte": "CNN Brasil",
+        "titulo": "Horóscopo do dia: previsão para os 12 signos em 27/10/2025",
+        "link": "https://jovempan.com.br/edicase/horoscopo-do-dia-previsao-para-os-12-signos-em-27-10-2025.html",
+        "data": "27/10/2025 03:00",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/ramon_sosa_palmeiras-e1761531378483.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Milei promete mais reformas após vitória em eleições legislativas",
-        "link": "https://www.cnnbrasil.com.br/internacional/milei-promete-mais-reformas-apos-vitoria-em-eleicoes-legislativas/",
-        "data": "27/10/2025 02:10",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/Presidente-da-Argentina-Javier-Miei-discursa-apos-resultado-das-eleicoes.jpg?w=1027&h=572&crop=1"
-    },
-    {
-        "titulo": "Guilherme Fontes, de “A Viagem”, posa com filho e web brinca",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/guilherme-fontes-de-a-viagem-posa-com-filho-e-web-brinca/",
-        "data": "27/10/2025 02:09",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/guilherme-fontes-e1761530579904.jpg?w=1080&h=630&crop=1"
-    },
-    {
-        "titulo": "Brasileirão: Palmeiras empata com o Cruzeiro e Vasco vence mais uma",
-        "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-palmeiras-e-cruzeiro-empatam-e-vasco-vence-mais-uma/",
-        "data": "27/10/2025 01:41",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/palmeiras_cruzeiro.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Brasileirão: Palmeiras não aproveita expulsão e empata com o Cruzeiro",
-        "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-palmeiras-nao-aproveita-expulsao-e-empata-com-o-cruzeiro/",
-        "data": "27/10/2025 01:32",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/palmeiras_x_cruzeiro.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Dado Dolabella e namorada falam de suposta agressão: “Discussão superada”",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/dado-dolabella-e-namorada-falam-de-suposta-agressao-discussao-superada/",
-        "data": "27/10/2025 01:23",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/dado-dolabella-namorada-e1761527187496.jpg?w=1080&h=630&crop=1"
-    },
-    {
-        "titulo": "Veja o momento da expulsão de Fabrício Bruno em Palmeiras x Cruzeiro",
-        "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/veja-o-momento-da-expulsao-de-fabricio-bruno-em-palmeiras-x-cruzeiro/",
-        "data": "27/10/2025 01:10",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/fabricio_bruno-e1761527274827.jpg?w=819&h=460&crop=1"
-    },
-    {
-        "titulo": "Zé Felipe se declara para Ana Castela: “Saudade de você, minha gatinha”",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/ze-felipe-se-declara-para-ana-castela-saudade-de-voce-minha-gatinha/",
-        "data": "27/10/2025 00:55",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/ze-felipe-ana-castela-filhos-e1761010641191.jpg?w=680&h=390&crop=1"
+        "image": "https://jpimg.com.br/uploads/2025/10/horoscopo-do-dia-previsao-para-os-12-signos-em-27-10-2025-1024x683.jpg"
     },
     {
         "titulo": "Em mais um jogo com arbitragem polêmica, Palmeiras empata com o Cruzeiro e abre vantagem na liderança",
@@ -232,12 +240,36 @@
         "image": "https://jpimg.com.br/uploads/2025/10/54880598288_39056c6b3f_k-1024x621.jpg"
     },
     {
-        "titulo": "Imprensa internacional destaca reunião entre Lula e Trump",
-        "link": "https://jovempan.com.br/noticias/mundo/imprensa-internacional-destaca-reuniao-entre-lula-e-trump.html",
-        "data": "26/10/2025 20:04",
-        "fonte": "Jovem Pan",
+        "titulo": "Venezuela anuncia captura de supostos 'mercenários' ligados à CIA",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/10/venezuela-anuncia-captura-de-supostos-mercenarios-ligados-a-cia.shtml",
+        "data": "27/10/2025 06:05",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/10/54880628803_ebb7cbe58e_k-1024x683.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/26/176148508668fe211e0b748_1761485086_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Desafio de Matemática: Doces ou Travessuras",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2025/10/desafio-de-matematica-doces-ou-travessuras.shtml",
+        "data": "27/10/2025 06:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/16/176063844368f135ebf0dd2_1760638443_3x2_lg.jpg"
+    },
+    {
+        "titulo": "'Em três reuniões comigo você vai perceber que o Bolsonaro era nada', teria dito Lula a Trump",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/10/em-tres-reunioes-comigo-voce-vai-perceber-que-o-bolsonaro-era-nada-teria-dito-lula-a-trump.shtml",
+        "data": "27/10/2025 05:39",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/27/176154342068ff04fcbbdea_1761543420_3x2_rt.jpg"
+    },
+    {
+        "titulo": "'Estou convencido de que nos próximos dias teremos uma solução entre Estados Unidos e Brasil', diz Lula",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/10/estou-convencido-de-que-nos-proximos-dias-teremos-uma-solucao-entre-estados-unidos-e-brasil-diz-lula.shtml",
+        "data": "27/10/2025 04:26",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/27/176153889068fef34aa4838_1761538890_3x2_rt.jpg"
     },
     {
         "titulo": "Ações de empresas argentinas se valorizam após vitória de Milei",
@@ -286,38 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2025/10/24/176134574468fc00d024cea_1761345744_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Aliados de Bolsonaro e de Lula modulam discursos e buscam narrativas próprias sobre Trump",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/10/aliados-de-bolsonaro-e-de-lula-modulam-discursos-e-buscam-narrativas-proprias-sobre-trump.shtml",
-        "data": "27/10/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/26/176147625668fdfea0e45be_1761476256_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Deputado de SP vira campeão de emenda para pasta ambiental turbinando ONG de castração de pets",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/10/deputado-de-sp-vira-campeao-de-emenda-para-pasta-ambiental-turbinando-ong-de-castracao-de-pets.shtml",
-        "data": "27/10/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/24/176133763068fbe11e46f4a_1761337630_3x2_md.jpg"
-    },
-    {
-        "titulo": "Constituições flutuaram em centralização após Era Vargas",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/10/constituicoes-flutuaram-em-centralizacao-apos-era-vargas.shtml",
-        "data": "27/10/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/24/176132394968fbabad95d1c_1761323949_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Congresso destina mais emendas para castrar pets do que para ambiente, inclusive na Amazônia",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/10/congresso-destina-mais-emendas-para-castrar-pets-do-que-para-ambiente-inclusive-na-amazonia.shtml",
-        "data": "27/10/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/24/176133773768fbe18971c01_1761337737_3x2_rt.jpg"
     },
     {
         "titulo": "'Hoje começa a construção da Argentina grande', diz Milei após vitória",
@@ -402,7 +402,7 @@
     {
         "titulo": "Milei conquista vitória 'surpreendente' em eleições legislativas na Argentina",
         "link": "https://www.terra.com.br/noticias/eleicoes/milei-conquista-vitoria-surpreendente-em-eleicoes-legislativas-na-argentina,d0047ee2d4342772338d6263871113c8ykziakpl.html",
-        "data": "27/10/2025 03:50",
+        "data": "27/10/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/27/388651952-d97bbec0-b2d1-11f0-b2a1-6f537f66f9aa.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Santos sofre gol mais rápido do Brasileiro, mas reage e empata com Botafogo",
         "link": "https://www.terra.com.br/esportes/futebol/santos-sofre-gol-mais-rapido-do-brasileiro-mas-reage-e-empata-com-botafogo-no-rio,b657603942454a6a31b47293d45e5b66heq4904d.html",
-        "data": "27/10/2025 03:50",
+        "data": "27/10/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/26/zim20251026026-trrbt4lseywk.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Quadrilhas que aplicam golpe do 'falso advogado' já geraram prejuízo de R$ 2,8 bi",
         "link": "https://www.terra.com.br/economia/quadrilhas-que-aplicam-golpe-do-falso-advogado-ja-geraram-prejuizo-de-r-28-bilhoes-entenda,7b0f3b75dc28851eb63e331619d1fd4cmn08h1g7.html",
-        "data": "27/10/2025 03:50",
+        "data": "27/10/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/07/11/dinheiro-reais-1ib6hyp10x0z8.jpg"
@@ -426,7 +426,7 @@
     {
         "titulo": "Vegetti encerra jejum, Vasco bate Bragantino e emplaca quarta vitória seguida",
         "link": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/vegetti-encerra-jejum-vasco-bate-bragantino-e-emplaca-quarta-vitoria-seguida,b70de097bfc2389ef0db9ce1e28b576e8u91rgzw.html",
-        "data": "27/10/2025 03:50",
+        "data": "27/10/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/26/1769482749-bragantino-x-vasco-610x400.jpg"
@@ -434,7 +434,7 @@
     {
         "titulo": "Norris vence o GP do México; Confira a classificação do campeonato",
         "link": "https://www.f1mania.net/f1/confira-a-classificacao-do-campeonato-da-f1-2025-apos-o-gp-do-mexico/?utm_source=terra_capa&utm_medium=referral",
-        "data": "27/10/2025 03:50",
+        "data": "27/10/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://www.f1mania.net/wp-content/uploads/2025/10/XPB_1382186_HiRes.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Análise: reunião com Trump foi ' vitória' de Lula, mas não garante fim do tarifaço",
         "link": "https://www.terra.com.br/noticias/mundo/reuniao-com-trump-foi-tremenda-vitoria-de-lula-mas-nao-garante-fim-do-tarifaco-diz-cientista-politico,f045ffe66fda34cc04505a91c5460b4fymluy4wk.html",
-        "data": "27/10/2025 03:50",
+        "data": "27/10/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/26/1639584526-6983c010-b2a7-11f0-a1f6-57980abb71f7.jpg"
@@ -450,7 +450,7 @@
     {
         "titulo": "Brasileiro deportado que 'sumiu' ao chegar no Brasil é achado em terminal de ônibus",
         "link": "https://www.terra.com.br/noticias/mundo/brasileiro-deportado-dos-eua-que-sumiu-ao-chegar-no-brasil-e-encontrado-em-estacao-de-onibus,0eb05c8ca8bd8022b4f4db972bc38f3dzg6g6q4r.html",
-        "data": "27/10/2025 03:50",
+        "data": "27/10/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/26/mineiro-deportado-eua-sl3gsqeya52p.jpg"
@@ -458,7 +458,7 @@
     {
         "titulo": "EUA anunciam acordo para frear a guerra comercial com a China",
         "link": "https://www.cartacapital.com.br/economia/eua-anunciam-acordo-para-frear-a-guerra-comercial-com-a-china/?utm_source=terra_capa&utm_medium=referral",
-        "data": "27/10/2025 03:50",
+        "data": "27/10/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://www.cartacapital.com.br/wp-content/uploads/2025/07/80441824_FILES-In-this-file-photo-taken-on-November-9-2017-Chinas-President.jpg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Torcedor do Palmeiras arremessa garrafa e acerta Cássio; veja o vídeo",
         "link": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/torcedor-do-palmeiras-arremessa-garrafa-e-acerta-cassio-veja-o-video,d3f4bab575ad3c4d21dca206e5d76180p35lz8cf.html",
-        "data": "27/10/2025 03:50",
+        "data": "27/10/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/27/710481199-captura-de-tela-2025-10-26-222839-1-1-610x400.jpg"
@@ -474,7 +474,7 @@
     {
         "titulo": "Vini Jr se revolta com substituição em vitória do Real Madrid e xinga técnico",
         "link": "https://www.terra.com.br/esportes/vini-jr-se-revolta-com-substituicao-em-vitoria-do-real-madrid-contra-o-barcelona-e-xinga-tecnico,b7d467499508ee635420b4824c313a39rh1ifjlw.html",
-        "data": "27/10/2025 03:50",
+        "data": "27/10/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/26/captura-de-tela-2025-10-26-as-14-18-19-1iv6irdzknmt5.png"
