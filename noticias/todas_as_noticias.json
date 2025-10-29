@@ -1,163 +1,203 @@
 [
     {
-        "titulo": "Idoso é preso suspeito de estuprar sobrinha de 9 anos no interior do AM",
-        "link": "https://g1.globo.com/am/amazonas/noticia/2025/10/28/idoso-e-preso-suspeito-de-estuprar-sobrinha-de-9-anos-no-interior-do-am.ghtml",
-        "data": "29/10/2025 01:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/fLop3DY65pXzGQeFM12wZvJcxS4=/1280x0/filters:format(jpeg)/https://s03.video.glbimg.com/x720/13528122.jpg"
-    },
-    {
-        "titulo": "Foragido por matar casal e traficante da Bahia estão entre presos em casa invadida no Rio de Janeiro",
-        "link": "https://g1.globo.com/ba/bahia/noticia/2025/10/28/baianos-presos-em-casa-invadida-no-rio-de-janeiro.ghtml",
-        "data": "29/10/2025 00:58",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/F8vC2UHGJNYLyrsHNGC-FKBHJBo=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Y/o/SiynsFQHe7mEHXMrnRYg/novo-projeto-72-.jpg"
-    },
-    {
-        "titulo": "Professor contratado para aplicação de prova é preso por assediar aluno de 15 anos",
-        "link": "https://g1.globo.com/ce/ceara/noticia/2025/10/28/professor-contratado-para-aplicacao-de-prova-e-preso-por-assediar-aluno-de-15-anos.ghtml",
-        "data": "29/10/2025 00:55",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/kX4cXKOWfVdbA2tPlb4EXNTmqys=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/w/BazXhrTKOCFgRxcznErQ/professor-preso-cascavel.jpg"
-    },
-    {
-        "titulo": "ONU prevê redução nas emissões de gases que aquecem o planeta, mas em ritmo muito lento",
-        "link": "https://g1.globo.com/jornal-nacional/noticia/2025/10/28/onu-preve-reducao-nas-emissoes-de-gases-que-aquecem-o-planeta-mas-em-ritmo-muito-lento.ghtml",
-        "data": "29/10/2025 00:54",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/QRYUT-ii5aLSQdK1tI0HRIRWvfI=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/o/A/eO21gtTt6FLAVOEzfTkQ/globo-canal-4-20251028-2000-frame-137438.jpeg"
-    },
-    {
-        "titulo": "Shopping de Salvador oferece aulões gratuitos de preparação para o Enem; saiba como participar",
-        "link": "https://g1.globo.com/ba/bahia/noticia/2025/10/28/shopping-de-salvador-oferece-auloes-enem.ghtml",
-        "data": "29/10/2025 00:53",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
-    },
-    {
-        "titulo": "Novembro terá três feriados nacionais, mas apenas um cai em dia útil; veja o calendário de RO",
-        "link": "https://g1.globo.com/ro/rondonia/noticia/2025/10/28/novembro-tera-tres-feriados-nacionais-mas-apenas-um-cai-em-dia-util-veja-o-calendario-de-ro.ghtml",
-        "data": "29/10/2025 00:49",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/-1ZD7m9mLzpiFzdt0g_fMIcq5B8=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/C/u/PBfLswRBCA6S4zr2xFPQ/imagens-g1-8-.png"
-    },
-    {
-        "titulo": "Transporte de pacientes atendidos fora de Cabo Frio é suspenso devido aos confrontos no Rio",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2025/10/28/transporte-de-pacientes-atendidos-fora-de-cabo-frio-e-suspenso-devido-aos-confrontos-no-rio.ghtml",
-        "data": "29/10/2025 00:48",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/fIqcmsydEZSQjaHPjoca-OCIdlM=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/L/t/9ySchjRVW5E9lx5rkyMw/afp-20251028-82bk986-v1-midres-brazilcrimedrugsfavelapoliceraid.jpg"
-    },
-    {
-        "titulo": "Juliette comenta morte de enfermeira pelo ex-companheiro e cobra justiça: 'O luto agora é luta'",
-        "link": "https://g1.globo.com/ce/ceara/noticia/2025/10/28/juliette-comenta-sobre-morte-de-enfermeira-pelo-ex-companheiro-e-cobra-justica-o-luto-agora-e-luta.ghtml",
-        "data": "29/10/2025 00:46",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/Rl1kxRwVTHkRZWuj9XVjEGI-hH4=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/Y/whtxSeQrAkNkbyVyY6OA/design-sem-nome-25-.jpg"
-    },
-    {
-        "titulo": "Israel acusa Hamas de violar cessar-fogo e ordena novo ataque à Gaza",
-        "link": "https://g1.globo.com/jornal-nacional/noticia/2025/10/28/israel-acusa-hamas-de-violar-cessar-fogo-e-ordena-novo-ataque-a-gaza.ghtml",
-        "data": "29/10/2025 00:45",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/i_Vqfdhp2vm7TWjfvxeBk8alHzs=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/A/g8F1WkTDWRXGJocgjnLg/globo-canal-4-20251028-2000-frame-130752.jpeg"
-    },
-    {
-        "titulo": "Após governo resolver mandar comitiva ao Rio, Cláudio Castro avisa que vai a Brasília",
-        "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2025/10/28/apos-governo-resolver-mandar-comitiva-ao-rio-claudio-castro-avisa-que-vai-a-brasilia.ghtml",
-        "data": "29/10/2025 00:45",
+        "titulo": "Entenda o que é GLO e por que o termo voltou a ser discutido após operação no RJ",
+        "link": "https://g1.globo.com/politica/noticia/2025/10/29/entenda-o-que-e-glo-e-por-que-o-termo-voltou-a-ser-discutido-apos-operacao-no-rj.ghtml",
+        "data": "29/10/2025 03:12",
         "fonte": "G1",
         "metodo": "RSS",
         "image": "https://s2-g1.glbimg.com/jzVlXt1LYmiVa4TgP6s-060BBnE=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/y/B/gRTLQXRHyJBnfzyxPuRw/afp-20251028-82ac7nq-v2-midres-brazilcrimedrugfavelapoliceoperation.jpg"
     },
     {
-        "titulo": "Saiba quem é o ex-apresentador da Globo que comprou TV nos Estados Unidos",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/saiba-quem-e-o-ex-apresentador-da-globo-que-comprou-tv-nos-estados-unidos/",
-        "data": "29/10/2025 01:11",
-        "fonte": "CNN Brasil",
+        "titulo": "Prefeitura de Montes Claros auxilia atingidos pela seca na zona rural",
+        "link": "https://g1.globo.com/mg/grande-minas/especial-publicitario/pm-montes-claro/noticia/2025/10/29/prefeitura-de-montes-claros-auxilia-atingidos-pela-seca-na-zona-rural.ghtml",
+        "data": "29/10/2025 03:02",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/donydenuccio.jpeg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/P419IA3ptMndV6T9t-E1m2z57dg=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/M/UfpVmCSPaEDLvNtJWjBQ/defesa-civil.jpeg"
     },
     {
-        "titulo": "Megaoperação policial no RJ: faculdades cancelam aulas nesta quarta-feira",
-        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/megaoperacao-policial-no-rj-faculdades-cancelam-aulas-nesta-quarta-feira/",
-        "data": "29/10/2025 01:10",
-        "fonte": "CNN Brasil",
+        "titulo": "Cidade que teve 'Prefeita Ostentação' no Maranhão sofre com descaso na educação e 4 ex-prefeitos condenados",
+        "link": "https://g1.globo.com/fantastico/noticia/2025/10/29/cidade-que-teve-prefeita-ostentacao-no-maranhao-sofre-com-descaso-na-educacao-e-4-ex-prefeitos-condenados.ghtml",
+        "data": "29/10/2025 03:02",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/cancelamento-aulas.png?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/vI8MLUCFd3nuLxY_rcDFyFuMVyA=/1700x0/filters:format(jpeg)/http://s.glbimg.com/jo/g1/f/original/2016/07/01/lidiane.jpg"
     },
     {
-        "titulo": "Veja o gol do Guilherme Arana em Atlético-MG x Del Valle",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/veja-o-gol-do-guilherme-arana-em-atletico-mg-x-del-valle/",
-        "data": "29/10/2025 01:09",
-        "fonte": "CNN Brasil",
+        "titulo": "Drones-bomba no Rio: CV dominou tecnologia com ajuda de militar da Marinha, mostrou Fantástico",
+        "link": "https://g1.globo.com/fantastico/noticia/2025/10/29/drones-bomba-no-rio-cv-dominou-tecnologia-com-ajuda-de-militar-da-marinha-mostrou-fantastico.ghtml",
+        "data": "29/10/2025 03:01",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/arana-atletico-mg-del-valle-e1761700072703.jpg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/VRZKpubd2LmjZbvXbQGgNUn7QMw=/1280x0/filters:format(jpeg)/https://s01.video.glbimg.com/x720/12944608.jpg"
     },
     {
-        "titulo": "Humanidade não atingiu a meta climática de 1,5°C, diz chefe da ONU",
-        "link": "https://www.cnnbrasil.com.br/tecnologia/humanidade-nao-atingiu-a-meta-climatica-de-15c-diz-chefe-da-onu/",
-        "data": "29/10/2025 01:08",
-        "fonte": "CNN Brasil",
+        "titulo": "Entenda o que causou o furacão Melissa, o mais forte já registrado na Jamaica",
+        "link": "https://g1.globo.com/meio-ambiente/noticia/2025/10/29/entenda-o-que-causou-o-furacao-melissa-o-mais-forte-ja-registrado-na-jamaica.ghtml",
+        "data": "29/10/2025 03:01",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/indigenas.jpg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/d1LTRqvl0ZX5dOGm0AL0798yfts=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Q/g/NO8tYLQcyJAyK836MUhg/2025-10-28t173630z-863017559-rc22lhan2ypj-rtrmadp-3-storm-melissa.jpg"
     },
     {
-        "titulo": "Justiça dos EUA prorroga bloqueio às demissões de Trump durante paralisação",
-        "link": "https://www.cnnbrasil.com.br/internacional/justica-dos-eua-prorroga-bloqueio-as-demissoes-de-trump-durante-paralisacao/",
-        "data": "29/10/2025 01:05",
-        "fonte": "CNN Brasil",
+        "titulo": "Por que este homem deixou de andar de avião e agora cruza a Europa de trem",
+        "link": "https://g1.globo.com/turismo-e-viagem/noticia/2025/10/29/por-que-este-homem-deixou-de-andar-de-aviao-e-agora-cruza-a-europa-de-trem.ghtml",
+        "data": "29/10/2025 03:01",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTechnologyNews/tagreuters.com2025binary_LYNXMPEL5G185-BASEIMAGE.jpg?w=800&h=533&crop=1"
+        "image": "https://s2-g1.glbimg.com/824ySvbWgM5EhxqtFGwe1aydyZM=/1411x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/r/K1X5djTLmVEc7SOzCALg/fotojet-2025-10-28t181130.920.jpg"
     },
     {
-        "titulo": "Waack: O crime entendeu o Brasil melhor que o governo",
-        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/waack-o-crime-entendeu-o-brasil-melhor-que-o-governo/",
-        "data": "29/10/2025 01:00",
-        "fonte": "CNN Brasil",
+        "titulo": "Calor extremo e poluição matam mais de 3 milhões de pessoas por ano, alerta relatório",
+        "link": "https://g1.globo.com/meio-ambiente/noticia/2025/10/29/calor-extremo-e-poluicao-matam-mais-de-3-milhoes-de-pessoas-por-ano-alerta-relatorio.ghtml",
+        "data": "29/10/2025 03:01",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/TN220251028027.jpg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/W1j8urEA1MQdqmZLA0PSZB6u0aE=/4752x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/v/O/UZQTgYQ6CIWNQDiyFrng/2023-07-19t111251z-1063475848-rc2a62aizlny-rtrmadp-3-europe-weather-italy.jpg"
     },
     {
-        "titulo": "Cuba enfrenta fortes chuvas à espera de furacão Melissa",
-        "link": "https://www.cnnbrasil.com.br/internacional/cuba-chuvas-furacao-melissa/",
-        "data": "29/10/2025 00:58",
-        "fonte": "CNN Brasil",
+        "titulo": "Mais de um milhão de usuários falam sobre planos de suicídio com o ChatGPT, segundo OpenAI",
+        "link": "https://g1.globo.com/tecnologia/noticia/2025/10/29/mais-de-um-milhao-de-usuarios-falam-sobre-planos-de-suicidio-com-o-chatgpt-segundo-openai.ghtml",
+        "data": "29/10/2025 03:01",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/Cuba-tem-fortes-chuvas-a-espera-de-furacao-Melissa.jpg?w=1200&h=628&crop=1"
+        "image": "https://s2-g1.glbimg.com/eirfFBHg9xp_jZXB4sAD4TOjSPE=/1280x0/filters:format(jpeg)/https://s01.video.glbimg.com/x720/13997232.jpg"
     },
     {
-        "titulo": "Amigo de Virginia se choca com pedido de namoro de Vini Jr: “Loba”",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/amigo-de-virginia-se-choca-com-pedido-de-namoro-de-vini-jr-loba/",
-        "data": "29/10/2025 00:47",
-        "fonte": "CNN Brasil",
+        "titulo": "São Silvestre abre nesta quarta inscrição para 5 mil vagas extras da 100ª edição da corrida em SP",
+        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/10/29/sao-silvestre-abre-nesta-quarta-inscricao-para-5-mil-vagas-extras-da-100a-edicao-da-corrida-em-sp.ghtml",
+        "data": "29/10/2025 03:01",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/alvaro-virginia.jpg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/wVdDuYnW26ZHh34dwHTa0IA65eA=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/U/r/5ls73xRMAcsSIveCxY6w/age20211231003.jpg"
     },
     {
-        "titulo": "Debate: Megaoperações são eficientes no combate a facções?",
-        "link": "https://www.cnnbrasil.com.br/politica/debate-megaoperacoes-sao-eficientes-no-combate-a-faccoes/",
-        "data": "29/10/2025 00:45",
-        "fonte": "CNN Brasil",
+        "titulo": "Motorista morre após carro capotar, atingir prédio comercial e pegar fogo no Litoral Norte do RS; VÍDEO",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/10/29/motorista-morre-apos-carro-capotar-atingir-predio-comercial-e-pegar-fogo-no-litoral-norte-do-rs-video.ghtml",
+        "data": "29/10/2025 03:01",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/BR_CNN_281025_ARN_CLEAN_frame_183900.jpeg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/Bd2Z__m8eP2tMtRQNbluN_OnV-s=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/t/Z/jbUmH1TOKsGPJYw6wUgw/g1-1200-x-675-px-54-.png"
     },
     {
-        "titulo": "Jennifer Lawrence diz que era “muito irritante” em entrevistas do passado",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/jennifer-lawrence-diz-que-era-muito-irritante-em-entrevistas-do-passado/",
-        "data": "29/10/2025 00:30",
+        "titulo": "Galvão reage à classificação do Atlético-MG para a final da Sul-Americana",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/galvao-reage-a-classificacao-do-atletico-mg-para-a-final-da-sul-americana/",
+        "data": "29/10/2025 03:03",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/jennifer-lawrence_e42b00.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/gol-atletico-mg-independiente-del-valle-7-e1761704121729.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Rio entra na madrugada com polícia de prontidão contra retaliações do CV",
+        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/rio-entra-na-madrugada-com-policia-de-prontidao-contra-retaliacoes-do-cv/",
+        "data": "29/10/2025 03:01",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
+    },
+    {
+        "titulo": "Atlético-MG x Del Valle: os melhores momentos do jogo pela Sul-Americana",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-x-del-valle-os-melhores-momentos-do-jogo-pela-sul-americana/",
+        "data": "29/10/2025 02:53",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/gol-atletico-mg-independiente-del-valle-7-e1761704121729.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Atlético-MG garante premiação milionária por ida à final da Sul-Americana",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/atletico-mg-garante-premiacao-milionaria-por-ida-a-final-da-sul-americana/",
+        "data": "29/10/2025 02:51",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/gol-atletico-mg-independiente-del-valle-6-e1761704176820.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Papel do governo federal na segurança pública é inexistente, diz Jungmann",
+        "link": "https://www.cnnbrasil.com.br/politica/papel-do-governo-federal-na-seguranca-publica-e-inexistente-diz-jungmann/",
+        "data": "29/10/2025 02:50",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/TN220251028021.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Raul Jungmann ao WW: Só o Brasil pode definir ações no Rio como terrorismo",
+        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/raul-jungmann-ao-ww-so-o-brasil-pode-definir-acoes-no-rio-como-terrorismo/",
+        "data": "29/10/2025 02:43",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/WhatsApp-Video-2025-10-28-at-06.09.59-frame-at-0m6s-e1761645104925.jpg?w=720&h=407&crop=1"
+    },
+    {
+        "titulo": "Furacão Melissa: Cuba retira 735 mil pessoas de área de risco",
+        "link": "https://www.cnnbrasil.com.br/internacional/furacao-melissa-cuba-retira-735-mil-pessoas-de-pessoas-de-area-de-risco/",
+        "data": "29/10/2025 02:43",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/olho-do-furacao-melissa.jpeg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Hulk quebra longo jejum e ganha música da torcida do Atlético-MG",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/hulk-quebra-longo-jejum-e-ganha-musica-da-torcida-do-atletico-mg/",
+        "data": "29/10/2025 02:42",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/gol-atletico-mg-independiente-del-valle-7-e1761704121729.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Trump diz esperar “grande passo” sobre fentanil em reunião com Xi Jinping",
+        "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-esperar-grande-passo-sobre-fentanil-em-reuniao-com-xi-jinping/",
+        "data": "29/10/2025 02:36",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/Presidente-dos-EUA-Donald-Trump-1.jpg?w=1024&h=630&crop=1"
+    },
+    {
+        "titulo": "Atlético-MG pode ser quinto brasileiro campeão da Sul-Americana; veja lista",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-pode-ser-quinto-brasileiro-campeao-da-sul-americana-veja-lista/",
+        "data": "29/10/2025 02:36",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/gol-atletico-mg-independiente-del-valle-4-e1761701919773.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Com gol 499 de Hulk, Atlético-MG vence Del Valle e garante vaga na final da Copa Sul-Americana",
+        "link": "https://jovempan.com.br/esportes/futebol/com-gol-499-de-hulk-atletico-mg-vence-del-valle-e-garante-vaga-na-final-da-copa-sul-americana.html",
+        "data": "29/10/2025 03:06",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/10/hulk.jpg"
+    },
+    {
+        "titulo": "Câmara dos Deputados inclui Eduardo Bolsonaro em cadastro de devedores",
+        "link": "https://jovempan.com.br/noticias/politica/camara-dos-deputados-inclui-eduardo-bolsonaro-em-cadastro-de-devedores.html",
+        "data": "29/10/2025 03:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/09/53967054916_6a6e98bcac_k-1024x683.jpg"
+    },
+    {
+        "titulo": "Senado dos EUA aprova projeto para encerrar tarifas contra o Brasil",
+        "link": "https://jovempan.com.br/noticias/mundo/senado-dos-eua-aprova-projeto-para-encerrar-tarifas-contra-o-brasil.html",
+        "data": "29/10/2025 02:46",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/09/donald-trump-.jpg"
+    },
+    {
+        "titulo": "Boulos critica Cláudio Castro em meio à crise no Rio de Janeiro: ‘Politicagem e pirotecnia com sangue’",
+        "link": "https://jovempan.com.br/noticias/politica/boulos-critica-claudio-castro-em-meio-a-crise-no-rio-de-janeiro-politicagem-e-pirotecnia-com-sangue.html",
+        "data": "29/10/2025 02:13",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/01/img20241204171203262med.jpg"
+    },
+    {
+        "titulo": "Com 361 votos a favor e 77 contra, Câmara aprova volta da gratuidade para despacho de bagagem de até 23 KG em voos",
+        "link": "https://jovempan.com.br/noticias/brasil/com-361-votos-a-favor-e-77-contra-camara-aprova-volta-da-gratuidade-para-despacho-de-bagagem-de-23-kg-em-voos.html",
+        "data": "29/10/2025 01:37",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2017/06/2406091669-aeroporto-bagagem-agencia-brasil.jpg"
     },
     {
         "titulo": "Governo autoriza transferência de presos a pedido de Castro, mas descarta GLO por ora",
@@ -200,124 +240,116 @@
         "image": "https://jpimg.com.br/uploads/2025/10/megaoperacao-rio-de-janeiro.jpg"
     },
     {
-        "titulo": "João Fonseca avança à segunda rodada do Masters 1000 de Paris; Alcaraz cai na estreia",
-        "link": "https://jovempan.com.br/esportes/outros-esportes/joao-fonseca-avanca-a-segunda-rodada-do-masters-1000-de-paris-alcaraz-cai-na-estreia.html",
-        "data": "28/10/2025 22:49",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/10/9151ae0ae579cb248e3049346147e4b4a0e2b901.jpg"
-    },
-    {
-        "titulo": "Operação no RJ deve acelerar PEC da Segurança na Câmara, mas texto não tem consenso",
-        "link": "https://jovempan.com.br/opiniao-jovem-pan/comentaristas/victoria-abel/operacao-no-rj-deve-acelerar-pec-da-seguranca-na-camara-mas-texto-nao-tem-consenso.html",
-        "data": "28/10/2025 22:33",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/10/age20251028041.jpg"
-    },
-    {
-        "titulo": "Alckmin contatou embaixadores de Brasil e China para excetuar País da crise de chips",
-        "link": "https://jovempan.com.br/noticias/economia/alckmin-contatou-embaixadores-de-brasil-e-china-para-excetuar-pais-da-crise-de-chips.html",
-        "data": "28/10/2025 22:26",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/09/design-sem-nome-2025-09-12t194243.790.png"
-    },
-    {
-        "titulo": "Tarcísio retoma relação com STF: ‘Águas passadas’, diz auxiliar",
-        "link": "https://jovempan.com.br/opiniao-jovem-pan/comentaristas/beatriz-manfredini/tarcisio-retoma-relacao-com-stf-aguas-passadas-diz-auxiliar.html",
-        "data": "28/10/2025 22:25",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/07/54643690291_7037f4d589_k.jpg"
-    },
-    {
-        "titulo": "Maduro não representa valores de ‘democracia e liberdade’, diz presidente eleito da Bolívia",
-        "link": "https://jovempan.com.br/noticias/mundo/maduro-nao-representa-valores-de-democracia-e-liberdade-diz-presidente-eleito-da-bolivia.html",
-        "data": "28/10/2025 22:03",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/10/9429a385595569799b71b8616122a6d943a19555.jpg"
-    },
-    {
-        "titulo": "Elefante Folha Top of Mind estampa looks da festa no Tokio Marine Hall",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://top-of-mind.folha.uol.com.br/2025/10/elefante-folha-top-of-mind-estampa-looks-da-festa-no-tokio-marine-hall.shtml",
-        "data": "29/10/2025 01:15",
+        "titulo": "A Fazenda 17: Will está na roça; Toninho, Créo e Fabiano disputam prova do fazendeiro",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-17/2025/10/a-fazenda-17-will-esta-na-roca-toninho-creo-e-fabiano-disputam-prova-do-fazendeiro.shtml",
+        "data": "29/10/2025 03:20",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/28/176170011369016911ee503_1761700113_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/29/1761707996690187dc2d3be_1761707996_3x2_lg.jpg"
     },
     {
-        "titulo": "Falsos policiais federais roubam 12 fuzis e outras armas de CAC no interior de SP",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/10/falsos-policiais-federais-roubam-12-fuzis-e-outras-armas-de-cac-no-interior-de-sp.shtml",
-        "data": "29/10/2025 01:03",
+        "titulo": "Relator inclui medidas fiscais e saque-aniversário em projeto para atualizar preços de imóveis",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/10/relator-inclui-medidas-fiscais-e-saque-aniversario-em-projeto-para-atualizar-precos-de-imoveis.shtml",
+        "data": "29/10/2025 03:08",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/28/176168916869013e5027bcc_1761689168_3x2_lg.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/28/176170500869017c30a8cb0_1761705008_3x2_rt.jpg"
     },
     {
-        "titulo": "Ameaça militar de Trump à Venezuela sobe de patamar",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/10/ameaca-militar-de-trump-a-venezuela-sobe-de-patamar.shtml",
-        "data": "29/10/2025 01:00",
+        "titulo": "Mortes por calor custam mais de R$ 27 milhões por ano ao Brasil, diz pesquisa",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2025/10/mortes-por-calor-custam-mais-de-r-27-milhoes-por-ano-ao-brasil-diz-pesquisa.shtml",
+        "data": "29/10/2025 03:01",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/28/17616683166900ecdceca48_1761668316_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/30/175925964768dc2bff64cc8_1759259647_3x2_rt.jpg"
     },
     {
-        "titulo": "Nepotismo endossado pelo Supremo expõe o nosso compadrio enraizado",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/10/nepotismo-endossado-pelo-supremo-expoe-o-nosso-compadrio-enraizado.shtml",
-        "data": "29/10/2025 01:00",
+        "titulo": "Humanidade não sobreviverá a este século, diz filósofo italiano Franco Berardi sobre colapso ambiental",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/10/humanidade-nao-sobrevivera-a-este-seculo-diz-filosofo-italiano-franco-berardi-sobre-colapso-ambiental.shtml",
+        "data": "29/10/2025 02:17",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/22/175857106068d1aa3441ec3_1758571060_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/22/176118554568f98f092ea09_1761185545_3x2_xl.jpg"
     },
     {
-        "titulo": "Cotas mostram resultados desiguais entre humanidades, exatas e biológicas",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/10/cotas-mostram-resultados-desiguais-entre-humanidades-exatas-e-biologicas.shtml",
-        "data": "29/10/2025 01:00",
+        "titulo": "JBS é alvo de ação judicial nos EUA por meta climática",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/10/jbs-e-alvo-de-acao-judicial-nos-eua-por-meta-climatica.shtml",
+        "data": "29/10/2025 02:13",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2024/05/20/1716248597664be01593ca4_1716248597_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/28/17616814956901205784bbc_1761681495_3x2_rt.jpg"
     },
     {
-        "titulo": "A mortandade no Rio e o descalabro do crime organizado",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/10/a-mortandade-no-rio-e-o-descalabro-do-crime-organizado.shtml",
-        "data": "29/10/2025 01:00",
+        "titulo": "Roubos de caminhões e carretas disparam em rodovias paulistas",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/10/roubos-de-caminhoes-e-carretas-disparam-em-rodovias-paulistas.shtml",
+        "data": "29/10/2025 02:10",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/28/1761691854690148ceeb400_1761691854_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/28/176170093769016c4986fff_1761700937_3x2_lg.jpg"
     },
     {
-        "titulo": "É sempre necessário tratar a febre? O sintoma que intrigou os médicos durante milênios",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2025/10/e-sempre-necessario-tratar-a-febre-o-sintoma-que-intrigou-os-medicos-durante-milenios.shtml",
-        "data": "29/10/2025 01:00",
+        "titulo": "Além de Bruce Springsteen, conheça outros astros do rock que ganharam cinebiografias",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/streaming/2025/10/alem-de-bruce-springsteen-conheca-outros-astros-do-rock-que-ganharam-cinebiografias.shtml",
+        "data": "29/10/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/28/176169120969014649b8ef1_1761691209_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/28/17616669906900e7ae4b0c0_1761666990_3x2_rt.jpg"
     },
     {
-        "titulo": "Mascotes fazem festa à parte na premiação Top of Mind 2025",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://top-of-mind.folha.uol.com.br/2025/10/mascotes-fazem-festa-a-parte-na-premiacao-top-of-mind-2025.shtml",
-        "data": "29/10/2025 01:00",
+        "titulo": "Países precisam aprender a andar em manada em tempos de predadores",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/rui-tavares/2025/10/paises-precisam-aprender-a-andar-em-manada-em-tempos-de-predadores.shtml",
+        "data": "29/10/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/28/176169067469014432bf428_1761690674_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/28/176169947569016693375c9_1761699475_3x2_rt.jpg"
     },
     {
-        "titulo": "Dani Calabresa e Rafa Chalub animam a festa da 35ª edição da Folha Top of Mind",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://top-of-mind.folha.uol.com.br/2025/10/dani-calabresa-e-rafa-chalub-animam-a-festa-da-35a-edicao-da-folha-top-of-mind.shtml",
-        "data": "29/10/2025 00:45",
+        "titulo": "Marina Silva participa de lançamento de 'A Palavra e o Poder' em Brasília",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/10/marina-silva-participa-de-lancamento-de-a-palavra-e-o-poder-em-brasilia.shtml",
+        "data": "29/10/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/28/176169809669016130c7c87_1761698096_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/20/176099990968f6b9e59c147_1760999909_3x2_rt.jpg"
     },
     {
-        "titulo": "Abertura da 35ª edição da Folha Top of Mind tem tom descontraído e muita risada",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://top-of-mind.folha.uol.com.br/2025/10/dani-calabresa-e-rafa-chalub-dao-o-tom-descontraido-na-abertura-da-35o-top-of-mind.shtml",
-        "data": "29/10/2025 00:41",
+        "titulo": "Crescimento desordenado transforma Campo Grande em campeã de enchentes",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/10/crescimento-desordenado-transforma-campo-grande-em-campea-de-enchentes.shtml",
+        "data": "29/10/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/28/17616981696901617953671_1761698169_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/10/17/176072547468f289e2d9d0e_1760725474_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Royal Caribbean eleva previsão de lucro e vê demanda forte por viagens",
+        "link": "https://exame.com/invest/mercados/royal-caribbean-eleva-previsao-de-lucro-e-ve-demanda-forte-por-viagens/",
+        "data": "28/10/2025 23:42",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2018/12/cruzeiros.jpg"
+    },
+    {
+        "titulo": "PayPal anuncia parceria com OpenAI e primeiro dividendo de sua história",
+        "link": "https://exame.com/tecnologia/paypal-anuncia-parceria-com-openai-e-primeiro-dividendo-de-sua-historia/",
+        "data": "28/10/2025 23:19",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2020/11/PayPal-bitcoin-1.jpg"
+    },
+    {
+        "titulo": "F1: GP de SP tem ingressos esgotados que podem chegar a quase R$ 20 mil",
+        "link": "https://exame.com/esporte/f1-gp-de-sp-tem-ingressos-esgotados-que-podem-chegar-a-quase-r-20-mil/",
+        "data": "28/10/2025 23:03",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2021/11/2021-11-19T145531Z_1_LYNXMPEHAI0S6_RTROPTP_4_F1-GP-SAOPAULO-MERCEDES-1.jpg"
+    },
+    {
+        "titulo": "João Fonseca atinge feito que nem Rafael Nadal conseguiu",
+        "link": "https://exame.com/esporte/joao-fonseca-atinge-feito-que-nem-rafael-nadal-conseguiu/",
+        "data": "28/10/2025 22:46",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2024/02/Joao-Fonseca2.jpg"
     },
     {
         "titulo": "Câmara aprova tornar crime hediondo falsificação de bebidas com metanol",
@@ -368,105 +400,73 @@
         "image": "https://classic.exame.com/wp-content/uploads/2025/03/br-sede-ibovespa-marco-26-2025.webp"
     },
     {
-        "titulo": "STF encerra processo contra Mauro Cid sobre trama golpista",
-        "link": "https://exame.com/brasil/stf-encerra-processo-contra-mauro-cid-sobre-trama-golpista/",
-        "data": "28/10/2025 20:11",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/07/54578203759-c31873f2b0-c.avif"
-    },
-    {
-        "titulo": "“Brazil can lead the world in AI”, says OpenAI’s lead economist",
-        "link": "https://exame.com/en/brazil-can-lead-the-world-in-ai-says-openais-lead-economist/",
-        "data": "28/10/2025 19:42",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/10/EX1280_ENTREVISTA-1.jpg"
-    },
-    {
-        "titulo": "Relatório da MP do setor elétrico chega à comissão mista do Congresso",
-        "link": "https://exame.com/economia/relatorio-da-mp-do-setor-eletrico-chega-a-comissao-mista-do-congresso/",
-        "data": "28/10/2025 19:27",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2024/07/GettyImages-1191006700.jpg"
-    },
-    {
-        "titulo": "Uso de drones com granadas, como na Ucrânia, escala poder do crime, dizem delegados",
-        "link": "https://exame.com/brasil/uso-de-drones-com-granadas-escala-poder-do-crime-dizem-delegados/",
-        "data": "28/10/2025 19:03",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/10/AFP__20251028__82BL23R__v1__HighRes__BrazilCrimeDrugsFavelaPoliceRaid.jpg"
-    },
-    {
-        "titulo": "Atlético-MG abre 2 a 0 contra o Independiente del Valle por uma vaga na final; acompanhe",
-        "link": "https://www.terra.com.br/esportes/futebol/copa-sul-americana/ao-vivo/atletico-mg-x-independiente-del-valle/91931/",
-        "data": "29/10/2025 01:18",
+        "titulo": "Atlético-MG vai à final, conquista premiação milionária e aguarda adversário",
+        "link": "https://www.terra.com.br/esportes/atletico-mg/atletico-mg-vai-a-final-da-sul-americana-e-conquista-premiacao-milionaria,4448fda35561792c6ef932e87ca25905kxarsxgs.html",
+        "data": "29/10/2025 03:46",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/628/s1.trrsf.com/live/thumbs/atletico-mg-x-independiente-del-valle-91931.png"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/29/gettyimages-2243887049-1hv2qdflvfk9x.jpg"
+    },
+    {
+        "titulo": "Moradora da Cidade de Deus passa noite fora de casa após dia de tensão no Rio: 'Não tem ônibus'",
+        "link": "https://www.terra.com.br/noticias/brasil/cidades/moradora-da-cidade-de-deus-passa-noite-fora-de-casa-apos-dia-de-tensao-no-rio-nao-tem-onibus,cfc45780fb44779a18a70fe544d2ce9do8ppzefl.html",
+        "data": "29/10/2025 03:46",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/29/larissa-vb6b8qxibepg.png"
     },
     {
         "titulo": "Mais de 20 homens se entregam à polícia na Vila Cruzeiro em meio à megaoperação no RJ",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/mais-de-20-homens-se-entregam-a-policia-na-vila-cruzeiro-em-meio-a-megaoperacao-no-rj-sem-esculacho,c777ea6c31ff370bd3e9b1e931ae46d5dpxmrr48.html",
-        "data": "29/10/2025 01:18",
+        "data": "29/10/2025 03:46",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/28/terra(36)-t4cc1q2ev882.png"
     },
     {
-        "titulo": "\"Só escuto gritos, não consigo ajudar\": os relatos de moradores da Penha e do Alemão",
-        "link": "https://www.terra.com.br/visao-do-corre/pega-a-visao/so-escuto-gritos-nao-consigo-ajudar-os-relatos-de-moradores-da-penha-e-do-alemao,39ac2e676dca1bcd878ea45781a13b19s380torc.html",
-        "data": "29/10/2025 01:18",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/28/voz-das-comunidades-1-to2bvj7kn0pu.jpg"
-    },
-    {
-        "titulo": "Câmara inclui Eduardo Bolsonaro em lista de devedores da União por faltas sem justificativa",
-        "link": "https://www.terra.com.br/noticias/brasil/politica/camara-inclui-eduardo-bolsonaro-em-lista-de-devedores-da-uniao-por-faltas-sem-justificativa-entenda,6ba2c0e4907f4dbeb8924675cf7c034doafjjp68.html",
-        "data": "29/10/2025 01:18",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/28/1664181462-kwsij2cdrvgzpp6x7jwp56aa4y.jpg"
-    },
-    {
         "titulo": "Quem é Doca, o líder do Comando Vermelho foragido após megaoperação no Rio",
         "link": "https://www.terra.com.br/noticias/brasil/policia/quem-e-doca-o-lider-do-comando-vermelho-foragido-apos-megaoperacao-no-rio,c07841ec8b12431f278ed9daddeafbe5eg2svijc.html",
-        "data": "29/10/2025 01:18",
+        "data": "29/10/2025 03:46",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/28/307895658-doca-lider-do-comando-vermelho.jpeg"
     },
     {
-        "titulo": "Mulher é baleada em academia durante megaoperação no Rio: 'Começou a queimar'",
-        "link": "https://www.terra.com.br/noticias/brasil/cidades/mulher-e-baleada-em-academia-durante-megaoperacao-no-rio-comecou-a-queimar,876dea09f1632c78316f5b0539077379vp90fs4s.html",
-        "data": "29/10/2025 01:18",
+        "titulo": "Câmara aprova gratuidade de bagagem despachada até 23 kg e de mão até 12 kg",
+        "link": "https://www.terra.com.br/vida-e-estilo/turismo/camara-aprova-gratuidade-de-bagagem-despachada-ate-23-kg-e-de-mao-ate-12-kg-e-veta-taxa-de-assento,719e868a98bb6879be5bf580f2adcb16ammnynbw.html",
+        "data": "29/10/2025 03:46",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/28/terra(35)-1jy280zk80853.png"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/27/aeroporto_brasilia-1if132x3h1ffo.jpg"
+    },
+    {
+        "titulo": "Mega-Sena: ninguém acerta e prêmio acumula em R$ 7 milhões; veja dezenas",
+        "link": "https://www.terra.com.br/economia/loterias/mega-sena/mega-sena-ninguem-acerta-e-premio-acumula-em-r-7-milhoes-veja-dezenas,930d1f1282d9e00e5d6617074358a86b54dmywjy.html",
+        "data": "29/10/2025 03:46",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/22/fta20240305001-vf96fuubvj91.jpg"
     },
     {
         "titulo": "EUA tentaram convencer piloto de avião presidencial a entregar Maduro, diz agência",
         "link": "https://www.terra.com.br/noticias/mundo/eua-tentaram-convencer-piloto-de-aviao-presidencial-a-entregar-maduro-diz-agencia,b100f73a1490362463a62ead083da805oukzv9y4.html",
-        "data": "29/10/2025 01:18",
+        "data": "29/10/2025 03:46",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/28/maduro-qxib81mnax5x.png"
     },
     {
-        "titulo": "Foto histórica de Lula e Trump quebra recordes de engajamento nas redes",
-        "link": "https://www.terra.com.br/noticias/brasil/politica/foto-historica-de-lula-e-trump-quebra-recordes-de-engajamento-nas-redes,b6d6aaafc9433613b20e1c927e6ebeabvi3in06e.html",
-        "data": "29/10/2025 01:18",
+        "titulo": "Robinho detalha rotina na cadeia, fala em ser reeducado e nega privilégios",
+        "link": "https://www.terra.com.br/esportes/futebol/robinho-detalha-rotina-na-cadeia-fala-em-ser-reeducado-e-nega-privilegios-so-obedecemos,d2ffe05e1dc34c3769eaa018bbd8705ec7o0dats.html",
+        "data": "29/10/2025 03:46",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/27/lula_trump-1hv8smwph5mch.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/30/946578440-hjl5jdfazbfiblzv3zdo3ugo4m.jpg"
     },
     {
         "titulo": "Memphis não consegue deixar o Rio de helicóptero e falta a treino do Corinthians",
         "link": "https://www.terra.com.br/esportes/corinthians/memphis-nao-consegue-deixar-o-rio-de-helicoptero-e-falta-a-treino-do-corinthians,193506f00b85378770523e88b04204f9wk17nyle.html",
-        "data": "29/10/2025 01:18",
+        "data": "29/10/2025 03:46",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
@@ -474,7 +474,7 @@
     {
         "titulo": "Corinthians é denunciado no STJD por objetos arremessados contra o Palmeiras",
         "link": "https://www.terra.com.br/esportes/corinthians/corinthians-e-denunciado-no-stjd-por-objetos-arremessados-contra-o-palmeiras,83c64309672b3a987e88a465f55877fd8yhxau8s.html",
-        "data": "29/10/2025 01:18",
+        "data": "29/10/2025 03:46",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/28/273656562-54690081291e4de8cbd6ao-610x400.jpg"
