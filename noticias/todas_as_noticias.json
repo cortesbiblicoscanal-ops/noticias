@@ -1,83 +1,155 @@
 [
     {
-        "titulo": "Abastecimento de água é interrompido em Rio Branco para instalação de motobomba na ETA II",
-        "link": "https://g1.globo.com/ac/acre/noticia/2025/11/14/abastecimento-de-agua-e-interrompido-em-rio-branco-para-instalacao-de-motobomba-na-eta-ii.ghtml",
+        "titulo": "Justiça determinou apreensão do passaporte de dono da Outsider em processo por dívida",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/11/14/justica-determinou-apreensao-passaporte-dono-outsider-processo-divida.ghtml",
+        "data": "14/11/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/c3TEtTMnd4eFUTRYmqeGS-YixWY=/1280x0/filters:format(jpeg)/https://s03.video.glbimg.com/x720/14090342.jpg"
+    },
+    {
+        "titulo": "Suspeito de furtar R$ 10 mil em moedas de R$ 1 foi preso um dia após o crime e solto por falta de provas",
+        "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2025/11/14/suspeito-de-furtar-r-10-mil-em-moedas-de-r-1-foi-preso-um-dia-apos-o-crime-e-solto-por-falta-de-provas.ghtml",
+        "data": "14/11/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/nSm3mVS2n4JJt9_kbhdIwuGnRCc=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/Z/BxHWtxS5WXCFexDfENyQ/design-sem-nome-2025-11-11t185409.526.png"
+    },
+    {
+        "titulo": "'Se tiver 1% de chance, vamos recorrer novamente', diz padrasto de jovem morto por ex-PM inocentado de crime pela segunda vez",
+        "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2025/11/14/se-tiver-1percent-de-chance-vamos-recorrer-novamente-diz-padrasto-de-jovem-morto-por-ex-pm-inocentado-de-crime-pela-segunda-vez.ghtml",
+        "data": "14/11/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Nlsg5z_mdI5Eqeq7CI_ID5AAwTI=/1221x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/D/p/XiEfATQ4A6ygnVxZIlnA/barbeiro.jpg"
+    },
+    {
+        "titulo": "'Belas de corpo e rosto': frentistas comentam exigência de trabalhar de legging e cropped em postos de combustíveis",
+        "link": "https://g1.globo.com/pe/pernambuco/noticia/2025/11/14/belas-de-corpo-e-rosto-frentistas-comentam-exigencia-de-trabalhar-de-legging-e-cropped-em-postos-de-combustiveis.ghtml",
+        "data": "14/11/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/7aVZXPU9BR0TxMwBgfpHaL7M8Qc=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/W/kDoBfASzeNTnB2kXgB0w/befunky-collage-24-.jpg"
+    },
+    {
+        "titulo": "Biologia no Enem: como hormônios viram tema de questão e o que revisar antes do 2º dia de provas",
+        "link": "https://g1.globo.com/educacao/enem/2025/noticia/2025/11/14/biologia-no-enem-como-hormonios-viram-tema-de-questao-e-o-que-revisar-antes-do-2o-dia-de-provas.ghtml",
+        "data": "14/11/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/munXZr8AiKd47dvpAV3ew8H-uyg=/4200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/g/A7aEPlRNK6RI9CLZM1jA/adobestock-190420207.jpeg"
+    },
+    {
+        "titulo": "Enem 2025: como administrar o tempo para as provas de Matemática e Ciências da Natureza? Por onde começar?",
+        "link": "https://g1.globo.com/educacao/enem/2025/noticia/2025/11/14/enem-2025-como-administrar-o-tempo-para-as-provas-de-matematica-e-ciencias-da-natureza-por-onde-comecar.ghtml",
+        "data": "14/11/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/d4dDi-ahPP2AWg_bLm_3ygwi-Uc=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/j/G/a26PFkQHaiUS3w8wHSDw/54912797701-b4710269df-k.jpg"
+    },
+    {
+        "titulo": "Semaglutida reduz risco cardíaco independentemente da quantidade de peso perdida, mostra estudo",
+        "link": "https://g1.globo.com/saude/noticia/2025/11/14/semaglutida-reduz-risco-cardiaco-independentemente-da-quantidade-de-peso-perdida-mostra-estudo.ghtml",
+        "data": "14/11/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/4lvsriGWykNNWu75P4IKJio2XI0=/6048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/5/j/Xd59i8TbuXCdUK82L82Q/side-view-diabetic-woman-checking-her-glucose-level.jpg"
+    },
+    {
+        "titulo": "Emicida vai receber título de Doutor Honoris Causa na UFRGS",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/11/14/emicida-vai-receber-titulo-de-doutor-honoris-causa-na-ufrgs.ghtml",
+        "data": "14/11/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/UtTDhPBQqxtWHpPGggTotyCIzGA=/2900x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/4/s/rxV4A2TzmEFukx3BX3GQ/dsc6739.jpg"
+    },
+    {
+        "titulo": "Dua Lipa no Brasil: Quais músicas nacionais a cantora pode tocar nos shows?",
+        "link": "https://g1.globo.com/pop-arte/musica/noticia/2025/11/14/dua-lipa-no-brasil-quais-musicas-nacionais-a-cantora-pode-tocar-nos-shows.ghtml",
+        "data": "14/11/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/U8Eq6fLxgLUIzIPnEk3kDlIG-Q0=/5324x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Y/n/xftQUbSWesKvyJbFKbpg/dua-lipa-apresentacao-grammmy-2024.jpg"
+    },
+    {
+        "titulo": "Diabetes altera coração, rins e vasos anos antes do diagnóstico: por que a doença silenciosa segue matando tanto",
+        "link": "https://g1.globo.com/saude/noticia/2025/11/14/diabetes-altera-coracao-rins-e-vasos-anos-antes-do-diagnostico-por-que-a-doenca-silenciosa-segue-matando-tanto.ghtml",
+        "data": "14/11/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/j71RxCEt1XK3eTRwA6x_9uBhIwI=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/D/0/4VMOAGTNaDzgrHC9TKYQ/texto-do-seu-paragrafo-2025-11-12t174726.722.png"
+    },
+    {
+        "titulo": "Grammy Latino: Jota.pê segue invicto em premiação",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/grammy-latino-jota-pe-segue-invicto-em-premiacao/",
+        "data": "14/11/2025 04:56",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/11/jota.pe-grammy.png?w=955&h=442&crop=1"
+    },
+    {
+        "titulo": "Leonardo se declara à Poliana Rocha em aniversário",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/leonardo-se-declara-a-poliana-rocha-em-aniversario/",
+        "data": "14/11/2025 04:47",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/poliana-rocha-leonardo.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Grammy Latino 2025: Alejandro Sanz vence prêmio de Gravação do Ano",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/grammy-latino-2025-alejandro-sanz-vence-premio-de-gravacao-do-ano/",
+        "data": "14/11/2025 04:27",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/alejandro-sanz.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Grammy Latino: Ca7riel & Paco Amoroso e Bad Bunny são os grande vencedores",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/grammy-latino-ca7riel-paco-amoroso-e-bad-bunny-sao-os-grande-vencedores/",
+        "data": "14/11/2025 04:22",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/bad-bunny-album-do-ano.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Liniker leva três prêmios no Grammy Latino 2025; veja quais",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/liniker-leva-tres-premios-no-grammy-latino-2025-veja-quais/",
+        "data": "14/11/2025 04:16",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/liniker-tres-grammy.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Grammy Latino 2025: Bad Bunny ganha Álbum do Ano",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/grammy-latino-2025-bad-bunny-ganha-melhor-album-do-ano/",
+        "data": "14/11/2025 04:04",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/Bad-Bunny-Debi-Tirar-Mas-Fotos-2-e1746986791345.jpg?w=1080&h=623&crop=1"
+    },
+    {
+        "titulo": "Haiti vence Costa Rica e pressiona Honduras por vaga à Copa do Mundo",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/eliminatorias/haiti-vence-costa-rica-e-pressiona-honduras-por-vaga-a-copa-do-mundo/",
+        "data": "14/11/2025 04:02",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/Haiti-e1763093074857.jpeg?w=860&h=483&crop=1"
+    },
+    {
+        "titulo": "Grammy Latino 2025: Karol G ganha Canção do Ano pela primeira vez",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/grammy-latino-2025-karol-g-ganha-cancao-do-ano-pela-primeira-vez/",
+        "data": "14/11/2025 03:50",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/karol-g-1.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Grammy Latino: mexicana vence brasileiras no prêmio de Artista Revelação",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/grammy-latino-mexicana-vence-brasileiras-no-premio-de-artista-revelacao/",
         "data": "14/11/2025 03:36",
-        "fonte": "G1",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/QnjofLZQph_bL2lF8VpA3_joIu0=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/V/X/fkMo5DSWCsB2JntdgdwQ/bomba.jpeg"
-    },
-    {
-        "titulo": "A engrenagem de fraudes do INSS - O Assunto #1599",
-        "link": "https://g1.globo.com/podcast/o-assunto/noticia/2025/11/14/a-engrenagem-de-fraudes-do-inss-o-assunto-1599.ghtml",
-        "data": "14/11/2025 03:30",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/XP0liiXeJXEtu4Jg26fpbdMVL08=/768x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/L/xRYKvESYWIt7pHm6xF3w/inss.jpg"
-    },
-    {
-        "titulo": "O que se sabe sobre operação militar anunciada pelos EUA contra narcotráfico na América Latina",
-        "link": "https://g1.globo.com/mundo/noticia/2025/11/14/o-que-se-sabe-sobre-operacao-militar-anunciada-pelos-eua-contra-narcotrafico-na-america-latina.ghtml",
-        "data": "14/11/2025 03:09",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/XNC7_fOfF6FomMTYa1mqeniZtgQ=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/U/E/CFfyAeRPSABneRdvJbkA/ff4feb5d20e797a196d108c436d4e1534757eba2-1-.jpg"
-    },
-    {
-        "titulo": "Aeroporto de Montes Claros será reformulado para voar mais alto",
-        "link": "https://g1.globo.com/mg/grande-minas/especial-publicitario/pm-montes-claro/noticia/2025/11/14/aeroporto-de-montes-claros-sera-reformulado-para-voar-mais-alto.ghtml",
-        "data": "14/11/2025 03:03",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/ms_P4taG6zopQPsBcWE7T4ryNls=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/r/U/VC3ALfSD6UrkasmNKAVw/aeroporto1.jpeg"
-    },
-    {
-        "titulo": "Pequenos espaços ganham amplitude e estilo com os acabamentos certos",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2025/11/14/pequenos-espacos-ganham-amplitude-e-estilo-com-os-acabamentos-certos.ghtml",
-        "data": "14/11/2025 03:03",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/1uvunjMq67IYWkhpRESyRstHC80=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/J/p/Y3cTfaQviA7MtRqMcjqw/foto-2-texto-7.jpg"
-    },
-    {
-        "titulo": "Fraude no INSS: esquema de desvios da Conafer tinha núcleos político, de comando e financeiro, segundo PF",
-        "link": "https://g1.globo.com/politica/noticia/2025/11/14/fraude-no-inss-esquema-de-desvios-da-conafer-tinha-nucleos-politico-de-comando-e-financeiro-segundo-pf.ghtml",
-        "data": "14/11/2025 03:02",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/eZwzBZvdclHq7ZQJ2mbrQ4mxUvo=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/67/73/14097367"
-    },
-    {
-        "titulo": "Dua Lipa, Planet Hemp, Calcinha Preta e mostra de Cinema Soviético; veja o que fazer em SP",
-        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/11/14/dua-lipa-planet-hemp-calcinha-preta-e-mostra-de-cinema-sovietico-veja-o-que-fazer-em-sp.ghtml",
-        "data": "14/11/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/m_FQ3Mz-sEM98-CQRUAqtFKjumQ=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/h/Z/ae4ULJTlKqBXZfXL1fBg/dua-lipa-1.jpg"
-    },
-    {
-        "titulo": "Feriado da Proclamação da República: veja os direitos de quem trabalha em 15 de novembro",
-        "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2025/11/14/feriado-da-proclamacao-da-republica-veja-os-direitos-de-quem-trabalha-em-15-de-novembro.ghtml",
-        "data": "14/11/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/pG2z1pxMiIcD6E25PfQGgRmbKp0=/4896x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/d/X/iTGp8pQwe1XBf2TBG80w/hotel-tage.jpg"
-    },
-    {
-        "titulo": "Foragida após mortes em cirurgias com silicone industrial no RS é presa no Pará; mulher estava em liberdade provisória após 1º caso",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/11/14/foragida-apos-mortes-em-cirurgias-com-silicone-industrial-no-rs-e-presa-no-para-mulher-estava-em-liberdade-provisoria-apos-1o-caso.ghtml",
-        "data": "14/11/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
-    },
-    {
-        "titulo": "Bolsa Família 2025: pagamentos de novembro começam nesta sexta; veja calendário",
-        "link": "https://g1.globo.com/economia/noticia/2025/11/14/bolsa-familia-2025-veja-calendario-de-novembro.ghtml",
-        "data": "14/11/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/tADsf5NpPVjAtsw-NDLpjYkK3W8=/5760x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/X/p/m9WC1JRNGCSTELVKKrBA/fta20240801129.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/paloma-morphy.jpg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Atriz diz que fracasso de “Christy” é porque Sweeney “não mostrou o corpo”",
@@ -86,78 +158,6 @@
         "fonte": "CNN Brasil",
         "metodo": "RSS",
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/sydney-sweeney-christy-1.jpg?w=1080&h=630&crop=1"
-    },
-    {
-        "titulo": "Rubio posta foto com Vieira e fala em “reciprocidade” na relação EUA-Brasil",
-        "link": "https://www.cnnbrasil.com.br/internacional/rubio-posta-foto-com-vieira-e-fala-em-reciprocidade-em-relacao-eua-brasil/",
-        "data": "14/11/2025 02:39",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/Mauro-Vieira-e-Marco-Rubio-1.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Grammy Latino: veja os melhores looks dos artistas na premiação",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/grammy-latino-veja-os-melhores-looks-dos-artistas-na-premiacao/",
-        "data": "14/11/2025 02:39",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/carol-biazin-liniker-e-ana-castela.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "“Caso Eloá”: como está Lindemberg 17 anos após matar ex-namorada",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/caso-eloa-como-esta-lindemberg-17-anos-apos-matar-ex-namorada/",
-        "data": "14/11/2025 02:36",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/Caso-Eloa-como-esta-Lindemberg-17-anos-apos-matar-ex-namorada.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "O Grande Debate: Prisão do ex-presidente do INSS atinge o governo Lula?",
-        "link": "https://www.cnnbrasil.com.br/politica/o-grande-debate-prisao-do-ex-presidente-do-inss-atinge-o-governo-lula/",
-        "data": "14/11/2025 02:30",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
-    },
-    {
-        "titulo": "Curaçao goleia e joga por empate contra a Jamaica para classificar à Copa",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/eliminatorias/curacao-goleia-e-joga-por-empate-contra-a-jamaica-para-classificar-a-copa/",
-        "data": "14/11/2025 02:15",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/curacao_eliminatorias-e1763084661122.jpg?w=1080&h=608&crop=1"
-    },
-    {
-        "titulo": "“Caso Eloá”: saiba tudo sobre o novo documentário da Netflix",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/caso-eloa-saiba-tudo-sobre-o-novo-documentario-da-netflix/",
-        "data": "14/11/2025 02:12",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/caso-eloa-refem-ao-vivo.avif?w=544&h=307&crop=1"
-    },
-    {
-        "titulo": "Grammy Latino: confira todas as apresentações de brasileiros na noite",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/grammy-latino-confira-todas-as-apresentacoes-de-brasileiros-na-noite/",
-        "data": "14/11/2025 02:09",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/GettyImages-2246573164.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Shawn Mendes fala sobre aprendizado com povos indígenas na Amazônia; veja",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/shawn-mendes-fala-sobre-aprendizado-com-povos-indigenas-na-amazonia-veja/",
-        "data": "14/11/2025 02:05",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/Shawn-Mendes-fala-sobre-aprendizado-com-povos-indigenas-na-Amazonia-veja.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Grammy Latino 2025: Ana Castela agradece fãs após perder prêmio",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/grammy-latino-2025-ana-castela-agradece-fas-apos-perder-premio/",
-        "data": "14/11/2025 02:03",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/ana-castela-5-e1763085668374.jpg?w=1080&h=620&crop=1"
     },
     {
         "titulo": "Brasil realizará seu primeiro lançamento comercial de foguete em 22 de outubro",
@@ -240,6 +240,22 @@
         "image": "https://jpimg.com.br/uploads/2025/07/eduardo-bolsonaro-e-tarcisio-de-freitas.jpg"
     },
     {
+        "titulo": "PF prende vice-prefeito de Hortolândia (SP) em investigação sobre desvios na educação",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/pf-prende-vice-prefeito-de-hortolandia-sp-em-investigacao-sobre-desvios-na-educacao.shtml",
+        "data": "14/11/2025 03:52",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/13/176307595369166771bdd5d_1763075953_3x2_xl.jpg"
+    },
+    {
+        "titulo": "Cuba acusa site independente de manipular taxa de câmbio informal",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/11/cuba-acusa-site-independente-de-manipular-taxa-de-cambio-informal.shtml",
+        "data": "14/11/2025 03:44",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2022/11/01/166733750063618d1c8657f_1667337500_3x2_rt.jpg"
+    },
+    {
         "titulo": "Água de derretimento da Groenlândia abençoada pelo papa chega a Belém para a COP30",
         "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/11/agua-de-derretimento-da-groenlandia-abencoada-pelo-papa-chega-a-belem-para-a-cop30.shtml",
         "data": "14/11/2025 03:28",
@@ -304,20 +320,12 @@
         "image": "https://f.i.uol.com.br/fotografia/2025/03/18/174232035767d9b2e5641ab_1742320357_3x2_rt.jpg"
     },
     {
-        "titulo": "Peças, show e exposições celebram a cultura negra em São Paulo",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2025/11/pecas-show-e-exposicoes-celebram-a-cultura-negra-em-sao-paulo.shtml",
-        "data": "14/11/2025 02:00",
-        "fonte": "Folha de S.Paulo",
+        "titulo": "Nova lei bancária promete reduzir juros e ampliar concorrência com portabilidade salarial automática",
+        "link": "https://exame.com/esferabrasil/nova-lei-bancaria-promete-reduzir-juros-e-ampliar-concorrencia-com-portabilidade-salarial-automatica/",
+        "data": "14/11/2025 01:33",
+        "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/13/1763062966691634b663cd1_1763062966_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Direita arrisca vantagem em pauta da segurança para 2026 ao tropeçar com PL Antifacção",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/11/direita-arrisca-vantagem-em-pauta-da-seguranca-para-2026-ao-tropecar-com-pl-antifaccao.shtml",
-        "data": "14/11/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/11/17629103296913e07953d75_1762910329_3x2_rt.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2025/03/BC.jpeg"
     },
     {
         "titulo": "Avatar: Fogo e Cinzas estreia em dezembro como o mais longo da saga",
@@ -392,17 +400,9 @@
         "image": "https://classic.exame.com/wp-content/uploads/2025/11/explosaosp.jpg"
     },
     {
-        "titulo": "Stranger Things: diretor de Predador quase participou de temporada final",
-        "link": "https://exame.com/pop/stranger-things-diretor-de-predador-quase-participou-de-temporada-final/",
-        "data": "13/11/2025 21:32",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/10/rcA17r3hfHtRrk3Xs3hXrgGeSGT.webp"
-    },
-    {
         "titulo": "Acordo provisório sobre tarifaço pode sair ainda em novembro, diz Mauro Vieira",
         "link": "https://www.terra.com.br/noticias/brasil/acordo-provisorio-sobre-tarifaco-pode-sair-ainda-em-novembro-diz-mauro-vieira-apos-nova-reuniao-com-rubio,459d91158e91e4ebaa1b96d91f35ee7e7twj9gdz.html",
-        "data": "14/11/2025 03:43",
+        "data": "14/11/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/14/106139797-51796350-c0ec-11f0-ac6d-0fcb6f3910f1.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Bruno Henrique é multado pelo STJD e está livre para seguir atuando pelo Fla",
         "link": "https://www.terra.com.br/esportes/bruno-henrique-e-apenas-multado-pelo-stjd-e-esta-livre-para-seguir-atuando-pelo-flamengo,886f378fcf449e64ffef30260d96ba6egsujhqn5.html",
-        "data": "14/11/2025 03:43",
+        "data": "14/11/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/10/430237397-5489535946136a0b193aboeasy-resizecom-610x400.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Grammy Latino 2025: Liniker e Chitãozinho & Xororó estão entre vencedores",
         "link": "https://www.terra.com.br/diversao/musica/grammy-latino-2025-liniker-e-chitaozinho-xororo-estao-entre-vencedores-veja-lista,3d934922129aad7aec5229a054d6666f1yewx5u0.html",
-        "data": "14/11/2025 03:43",
+        "data": "14/11/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/14/liniker-vevbn8d86q0m.jpg"
@@ -426,7 +426,7 @@
     {
         "titulo": "Veja momento da explosão e rajadas de fogos de artifício em São Paulo",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/explosao-no-tatuape-video-mostra-clarao-e-rajadas-de-fogos-de-artificio-cruzando-avenida-em-sp,33f2ca3aa2e4ab0ed0747d8fbab1417dq1795ji9.html",
-        "data": "14/11/2025 03:43",
+        "data": "14/11/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/14/1843973696-6tiw5zpu2raunait7iqkpis5wa.jpg"
@@ -434,7 +434,7 @@
     {
         "titulo": "Moraes autoriza visita de Tarcísio, Caiado, Castro e Derrite a Bolsonaro; veja a lista",
         "link": "https://www.terra.com.br/noticias/brasil/politica/moraes-autoriza-visita-de-tarcisio-caiado-castro-e-derrite-a-bolsonaro-veja-a-lista,17830ba8e9ee189571bc3b95c23bf4297p2t2bbz.html",
-        "data": "14/11/2025 03:43",
+        "data": "14/11/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/13/1266411437-psfhdk5z6jhw7fojdedele6jj4.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Com dinossauro inflável e clima de circo, Japão ganha o antiprêmio 'Fóssil do Dia'",
         "link": "https://www.terra.com.br/planeta/cop30/com-dinossauro-inflavel-clima-de-circo-e-publico-empenhado-antipremio-fossil-do-dia-vai-para-o-japao-no-4-da-cop30,ef4fd6933c9aa1f31e65c4a696dfadbfqs4jfwhp.html",
-        "data": "14/11/2025 03:43",
+        "data": "14/11/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/13/img_8512-s1b6cra6dd80.jpg"
@@ -450,7 +450,7 @@
     {
         "titulo": "Mulher grávida liga para a PM, finge conversar com amiga e escapa de violência doméstica",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/mulher-gravida-liga-para-a-pm-finge-conversar-com-amiga-e-escapa-de-violencia-domestica-em-sp,2c7d9b6699dd768a5821340d411708d7h5zuq6vk.html",
-        "data": "14/11/2025 03:43",
+        "data": "14/11/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/14/331784000-luquq2xtgnaajbl44hinbmpoqe.jpg"
@@ -458,7 +458,7 @@
     {
         "titulo": "Itália vence Moldávia: entenda conta que pode levar italianos à Copa",
         "link": "https://www.terra.com.br/esportes/futebol/copa-2026/eliminatorias/europa/italia-vence-moldavia-entenda-conta-que-pode-levar-italianos-a-copa,58f14342efa4b50cbcecf833b7d25fa55xs6frfi.html",
-        "data": "14/11/2025 03:43",
+        "data": "14/11/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/13/gettyimages-2246573083-rhog86la8tgw.jpg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Ferroviária e Corinthians empatam sem gols na penúltima rodada do Paulistão feminino",
         "link": "https://www.terra.com.br/esportes/futebol/futebol-feminino/ferroviaria-e-corinthians-empatam-sem-gols-na-penultima-rodada-do-paulistao-feminino,e5a07a274ec181778f80e2335bdb4ce426naz536.html",
-        "data": "14/11/2025 03:43",
+        "data": "14/11/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/13/rs1_1045-1iupw433qniht.jpg"
@@ -474,7 +474,7 @@
     {
         "titulo": "Frase de Lula e provocações: punição do STJD a Bruno Henrique 'quebra' redes sociais",
         "link": "https://www.terra.com.br/esportes/futebol/frase-de-lula-e-provocacoes-punicao-do-stjd-a-bruno-henrique-quebra-redes-sociais,2d7a1557cf1efe87c8d03cdf5d656a53bopyeibk.html",
-        "data": "14/11/2025 03:43",
+        "data": "14/11/2025 06:25",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/09/flamengo-x-santos-brasileirao-alamy3d2j6yp-ezgif-com-resize-u7rtpber625e.jpg"
