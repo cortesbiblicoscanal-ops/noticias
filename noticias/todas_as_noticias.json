@@ -1,163 +1,211 @@
 [
     {
-        "titulo": "Assista ao 'Horizonte Amazônia'",
+        "titulo": "Exames comprovam que Adir Mariano era o homem encontrado morto no local da explosão de depósito clandestino de fogos no Tatuapé",
+        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/11/15/exames-comprovam-que-adir-mariano-era-o-homem-encontrado-morto-no-local-da-explosao-de-deposito-de-fogos-no-tatuape-em-sp.ghtml",
+        "data": "15/11/2025 21:08",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/kCjUlAKi4Ek6Fo8ihFPrLM3zph0=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/t/B/DG9EOGRGOjSV3kzoKBuw/fotojet-13-.jpg"
+    },
+    {
+        "titulo": "Homem é preso por suspeita de venda e armazenamento irregular de gasolina em distribuidora de gás em Palmas",
+        "link": "https://g1.globo.com/to/tocantins/noticia/2025/11/15/homem-e-preso-por-suspeita-de-venda-e-armazenamento-irregular-de-gasolina-em-distribuidora-de-gas-em-palmas.ghtml",
+        "data": "15/11/2025 21:04",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/DtDOWmJU2ibEVqfPCjrtuPgEmuY=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/13738367.jpg"
+    },
+    {
+        "titulo": "Pacientes de clínica terapêutica são arrastados pelo mar e mobilizam resgate em praia de SC; VÍDEO",
+        "link": "https://g1.globo.com/sc/santa-catarina/noticia/2025/11/15/pacientes-clinica-arrastados-mar-mobilizam-resgate-praia-sc.ghtml",
+        "data": "15/11/2025 21:03",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/HXJxwUuYGToy9xn-J-mQtT_I_N8=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/s/kZDAsMQZ264dpjURVtmA/fotojet.jpg"
+    },
+    {
+        "titulo": "Fortaleza terá gratuidade no transporte e reforça frota de ônibus no segundo domingo de Enem 2025",
+        "link": "https://g1.globo.com/ce/ceara/noticia/2025/11/15/fortaleza-tera-gratuidade-no-transporte-e-reforca-frota-de-onibus-no-segundo-domingo-de-enem-2025.ghtml",
+        "data": "15/11/2025 21:03",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/ktPio9QDNujMHv8bHVGIsBt54Kw=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/U/VqLVd7TA2WTwuJY9PdSg/bus.jpg"
+    },
+    {
+        "titulo": "Caminhão tomba na BR-222 em Tucuruí e deixa motorista ferido",
+        "link": "https://g1.globo.com/pa/para/noticia/2025/11/15/caminhao-tomba-na-br-222-em-tucurui-e-deixa-motorista-ferido.ghtml",
+        "data": "15/11/2025 21:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/LYXHItk6hAzJmlHLCYcVxMPVkYs=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/d/4K2JZYRmKSFnXI6TfSSw/aaa.png"
+    },
+    {
+        "titulo": "Semana do Músico terá oficinas e apresentações gratuitas em Macapá",
+        "link": "https://g1.globo.com/ap/amapa/noticia/2025/11/15/semana-do-musico-tera-oficinas-e-apresentacoes-gratuitas-em-macapa.ghtml",
+        "data": "15/11/2025 20:52",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/opAQTYFeWLdLQatn_DTXs9dYJac=/1280x0/filters:format(jpeg)/https://s01.video.glbimg.com/x720/13705788.jpg"
+    },
+    {
+        "titulo": "Homem toma banho em lava a jato de Trindade; vídeo",
+        "link": "https://g1.globo.com/go/goias/noticia/2025/11/15/homem-toma-banho-em-lava-a-jato-de-trindade-video.ghtml",
+        "data": "15/11/2025 20:52",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/fKb5BL15Nnm-HoD7dFNX-vcMNUA=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/t/E/z1Gr5RQkK8AdLcnvtNBA/g1-92-.jpg"
+    },
+    {
+        "titulo": "Assista ao telejornais da TV Liberal",
         "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
-        "data": "15/11/2025 18:10",
+        "data": "15/11/2025 20:50",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/HAmunbryQ7uVWq3ZOFfxpiVFgZw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/D/1/Dkqz67REynDEQBu3KBMQ/whatsapp-image-2025-11-15-at-13.28.26.jpeg"
+        "image": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
     },
     {
-        "titulo": "MT tem a 2ª menor taxa de desemprego do país no 3º trimestre de 2025, aponta IBGE",
-        "link": "https://g1.globo.com/mt/mato-grosso/noticia/2025/11/15/mt-tem-a-2a-menor-taxa-de-desemprego-do-pais-no-3o-trimestre-de-2025-aponta-ibge.ghtml",
-        "data": "15/11/2025 18:08",
+        "titulo": "Banda paraense ‘Able to Return’ alcança projeção nacional e internacional com novo single",
+        "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2025/11/15/banda-paraense-able-to-return-alcanca-projecao-nacional-e-internacional-com-novo-single.ghtml",
+        "data": "15/11/2025 20:50",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/5vSDiaSScLq4NyAkibdLakGJ2eM=/3648x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/Z/Rs8yoOSyanqFYqPUQDpQ/foto-mauricio-vieira-arquivo-secom-1-.jpg"
+        "image": "https://s2-g1.glbimg.com/TZqGxwiGL1Ca2SJ7IXVY7fqyGeY=/800x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/N/nHs7B5SG6IpC2cTEKErw/able-to-return-promo-01-edit.png"
     },
     {
-        "titulo": "Enem Vanguarda: Assista ao programa deste sábado (15)",
-        "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/enem-vanguarda-assista-ao-programa-ao-vivo.ghtml",
-        "data": "15/11/2025 17:59",
+        "titulo": "UEMS abre 476 vagas para graduação usando notas do Enem; veja como se inscrever",
+        "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2025/11/15/uems-abre-476-vagas-para-graduacao-usando-notas-do-enem-veja-como-se-inscrever.ghtml",
+        "data": "15/11/2025 20:49",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/B9B_9fPWloC3baKZFixq_pok_Is=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/s/TgoLMmRs62GZ4Y8BPxAw/enem-vanguarda.jpg"
+        "image": "https://s2-g1.glbimg.com/KsTSXKkDBGfnPp3RDUjFun6lbq4=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/A/DA0OuJQ1GW1EhIv25n8g/sem-titulo.jpg"
     },
     {
-        "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição-TO de sábado, 15 de novembro de 2025",
-        "link": "https://g1.globo.com/to/tocantins/edicao/2025/11/15/videos-jornal-anhanguera-1-edicao-to-de-sabado-15-de-novembro-de-2025.ghtml",
-        "data": "15/11/2025 17:59",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1"
-    },
-    {
-        "titulo": "Homem morre após acidente de motocross no Horto Florestal de Limeira",
-        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2025/11/15/homem-morre-apos-acidente-de-motocross-no-horto-florestal-de-limeira.ghtml",
-        "data": "15/11/2025 17:56",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/XKMnzHjcWp5_3B6aD7j5WXuolps=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/x/y/lijDzhSPG1U4xy5auaxQ/foto7.jpg"
-    },
-    {
-        "titulo": "Petrópolis lidera ranking de cidades mais seguras do RJ e registra queda em homicídios",
-        "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2025/11/15/petropolis-lidera-ranking-de-cidades-mais-seguras-do-rj-e-registra-queda-em-homicidios.ghtml",
-        "data": "15/11/2025 17:55",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/Q2DwRlBODozy_mo_acLzn0Z_Ux4=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/P/Bc2alPS8GtLB5CXOvJAA/petropolis.jpg"
-    },
-    {
-        "titulo": "Antigo hotel Urupema será implodido neste domingo (16) em São José dos Campos; acompanhe AO VIVO",
-        "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/antigo-hotel-urupema-sera-implodido-neste-domingo-16-em-sao-jose-dos-campos-acompanhe-ao-vivo.ghtml",
-        "data": "15/11/2025 17:48",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/ukoBt00nLvFt_S4skdEu4cPck9A=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/I/Q/NxvT79TgAEonLsyxqYsw/texto-do-seu-paragrafo-76-.png"
-    },
-    {
-        "titulo": "Fãs e artistas embarcam em cruzeiro inédito de Chitãozinho e Xororó; veja as atrações",
-        "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2025/11/15/fas-e-artistas-embarcam-em-cruzeiro-inedito-de-chitaozinho-e-xororo-veja-as-atracoes.ghtml",
-        "data": "15/11/2025 17:43",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/l9eY79ZdTfa5G3WHPUz47nfIqAA=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/H/u/metruTRNO0lTCHhAvqTg/montagem-navio-chitaozinho-e-xororo.jpg"
-    },
-    {
-        "titulo": "Calor extremo entra na lista de riscos do pré-natal em Teresina",
-        "link": "https://g1.globo.com/pi/piaui/noticia/2025/11/15/calor-extremo-entra-na-lista-de-riscos-do-pre-natal-em-teresina.ghtml",
-        "data": "15/11/2025 17:43",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/3yoxRyI99_gNw43Mt0zRLfEddlo=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/b/9/9rZtpCQHeTAeWRLrxEYw/padrao-imagem-g1-2-.png"
-    },
-    {
-        "titulo": "Refis 2025 atrai contribuintes em Campos com descontos de até 100% em juros e multas",
-        "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2025/11/15/refis-2025-atrai-contribuintes-em-campos-com-descontos-de-ate-100percent-em-juros-e-multas.ghtml",
-        "data": "15/11/2025 17:41",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/aVeKsGjxr1_iSZZaaDRUv-QWBkk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/9/cvNBYbSaOcNxzOzXSPTg/refis.jpg"
-    },
-    {
-        "titulo": "Brasil 2 x 0 Senegal: veja os gols da partida amistosa",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/brasil-2-x-0-senegal-veja-os-gols-da-partida-amistosa/",
-        "data": "15/11/2025 18:19",
+        "titulo": "Cocielo marca presença em aniversário de Tata Estaniecki após divórcio",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/cocielo-marca-presenca-em-aniversario-de-tata-estaniecki-apos-divorcio/",
+        "data": "15/11/2025 21:00",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/Selecao-Brasileira-e1763230411572.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/tata-estaniecki.jpg?w=956&h=506&crop=1"
     },
     {
-        "titulo": "“Quilos Mortais”: veja o antes e depois de Octavia, que pesava 314 kg",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/quilos-mortais-veja-o-antes-e-depois-de-octavia-que-pesava-314-kg/",
-        "data": "15/11/2025 18:12",
+        "titulo": "Shawn Mendes é visto comendo pastel em aeroporto de Campinas (SP)",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/shawn-mendes-e-visto-comendo-pastel-em-aeroporto-de-campinas-sp/",
+        "data": "15/11/2025 20:38",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/03/quilos-mortais-octavia-1.jpg?w=960&h=540&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/Shawn-Mendes-835-1.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Em Londres, Brasil joga bem e vence Senegal pela primeira vez na história",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/em-londres-brasil-joga-bem-e-vence-senegal-pela-primeira-vez-na-historia/",
-        "data": "15/11/2025 18:02",
+        "titulo": "Ancelotti abre o jogo sobre chances de Vitor Roque na Seleção Brasileira",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/ancelotti-abre-o-jogo-sobre-chances-de-vitor-roque-na-selecao-brasileira/",
+        "data": "15/11/2025 20:38",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/brasil-vence-senegal-amistoso-e1763229752579.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/vitor-roque-coletiva-selecao-brasileira.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Gonzalo Tapia marca pela primeira vez e Chile derrota Rússia em amistoso",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/gonzalo-tapia-marca-pela-primeira-vez-e-chile-derrota-russia-em-amistoso/",
-        "data": "15/11/2025 17:58",
+        "titulo": "Sport x Flamengo: escalações e onde assistir ao jogo do Brasileirão",
+        "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/sport-x-flamengo-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
+        "data": "15/11/2025 20:33",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/Russia-x-Chile-e1763229429360.jpeg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/arena-de-pernambuco-e1739566211655.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Justin Bieber sofre lesão e revela que sente dor ao cantar",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/justin-bieber-sofre-lesao-e-revela-que-sente-dor-ao-cantar/",
-        "data": "15/11/2025 17:57",
+        "titulo": "Caso Leandro Lo: PM acusado de matar lutador é solto em SP",
+        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/caso-leandro-lo-pm-acusado-de-matar-lutador-e-solto-em-sp/",
+        "data": "15/11/2025 20:28",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/justin-bieber-e1749504841272.jpg?w=958&h=538&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/08/Leandro-Lo-1-e1659981225338.png?w=717&h=403&crop=1"
     },
     {
-        "titulo": "Corrêa do Lago: Estou impressionado com engajamento do setor privado na COP",
-        "link": "https://www.cnnbrasil.com.br/internacional/correa-do-lago-estou-impressionado-com-engajamento-do-setor-privado-na-cop/",
-        "data": "15/11/2025 17:55",
+        "titulo": "Ancelotti exalta atuação de Estêvão contra Senegal: “Talento incrível”",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-exalta-grande-atuacao-de-estevao-talento-incrivel/",
+        "data": "15/11/2025 20:28",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/andre-correa-do-lago-cop30.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/gol-estevao-brasil-senegal-2-e1763225282510.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Trans morta relatou comportamento agressivo de funcionários de pastelaria",
-        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/trans-morta-relatou-comportamento-agressivo-de-funcionarios-de-pastelaria/",
-        "data": "15/11/2025 17:51",
+        "titulo": "Risco de colapso de correntes oceânicas acende alerta nacional na Islândia",
+        "link": "https://www.cnnbrasil.com.br/tecnologia/risco-de-colapso-de-correntes-oceanicas-acende-alerta-nacional-na-islandia/",
+        "data": "15/11/2025 20:25",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/TRANS-MG.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/geleira-Islandia.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Felipe Massa realiza feito que une Fórmula 1 e Stock Car; entenda",
-        "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/felipe-massa-realiza-feito-que-une-formula-1-e-stock-car-entenda/",
-        "data": "15/11/2025 17:47",
+        "titulo": "Ancelotti exalta desempenho da Seleção contra Senegal e explica escalação",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/ancelotti-exalta-desempenho-da-selecao-contra-senegal-e-explica-escalacao/",
+        "data": "15/11/2025 20:25",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/download-5.webp?w=1000&h=563&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/download-10.webp?w=1000&h=563&crop=1"
     },
     {
-        "titulo": "Indústria avalia que outros países terão mais vantagens após recuo de Trump",
-        "link": "https://www.cnnbrasil.com.br/economia/cnn-money/industria-avalia-que-outros-paises-terao-mais-vantagens-apos-recuo-de-trump/",
-        "data": "15/11/2025 17:44",
+        "titulo": "Sandrão foi eleita “Miss Xilindró” na penitenciária de Tremembé",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/sandrao-foi-eleita-miss-xilindro-na-penitenciaria-de-tremembe/",
+        "data": "15/11/2025 20:17",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/Presidente-dos-EUA-Donald-Trump-1.jpg?w=1024&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/suzane-sandrao-entrevista.jpg?w=884&h=497&crop=1"
     },
     {
-        "titulo": "“Tremembé”: atores de Cristian Cravinhos e Luka rebatem críticas à série",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/tremembe-atores-de-cristian-cravinhos-e-luka-rebatem-criticas-a-serie/",
-        "data": "15/11/2025 17:36",
+        "titulo": "Palmeiras faz acordo com STJD, e Vitor Roque fica livre de punição por post",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-faz-acordo-com-stjd-e-vitor-roque-fica-livre-de-punicao-por-post/",
+        "data": "15/11/2025 20:02",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/tremembe-atores.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/vitor_roque_palmeiras_river_plate_libertadores-e1759753420974.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Espanha goleia a Geórgia e mantém 100% de aproveitamento",
+        "link": "https://jovempan.com.br/esportes/futebol/espanha-goleia-a-georgia-e-mantem-100-de-aproveitamento.html",
+        "data": "15/11/2025 21:04",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/11/afp__20251115__846f97h__v1__highres__fblwc2026eurqualifiersgeoesp.jpg"
+    },
+    {
+        "titulo": "Ministério de Minas e Energia e GEAPP assinam protocolo sobre energia renovável na Amazônia",
+        "link": "https://jovempan.com.br/noticias/brasil/ministerio-de-minas-e-energia-e-geapp-assinam-protocolo-sobre-energia-renovavel-na-amazonia.html",
+        "data": "15/11/2025 20:01",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/11/governo_fecha_parceria_para_expandir_energia_renovavel_na_amazonia.jpg"
+    },
+    {
+        "titulo": "Ucrânia diz que atacou refinaria de petróleo russa perto de Moscou",
+        "link": "https://jovempan.com.br/noticias/mundo/ucrania-diz-que-atacou-refinaria-de-petroleo-russa-perto-de-moscou.html",
+        "data": "15/11/2025 19:34",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/04/000_33979ww.jpg"
+    },
+    {
+        "titulo": "Poupança com criptomoedas? Especialista explica como buscar até R$ 5 milhões começando R$ 200 por mês",
+        "link": "https://jovempan.com.br/conteudo-patrocinado/poupanca-com-criptomoedas-especialista-explica-como-buscar-ate-r-5-milhoes-comecando-r-200-por-mes.html",
+        "data": "15/11/2025 19:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/11/unnamed-43-1024x576.jpg"
+    },
+    {
+        "titulo": "Músicos do Theatro Municipal declaram oposição à atual gestão e acionam Ministério Público",
+        "link": "https://jovempan.com.br/entretenimento/musica/musicos-do-theatro-municipal-declaram-oposicao-a-atual-gestao-e-acionam-ministerio-publico.html",
+        "data": "15/11/2025 18:50",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/09/whatsapp-image-2023-02-08-at-17.22.38-1-e1675896867137-1.jpeg"
+    },
+    {
+        "titulo": "Brasil vence com facilidade, derruba invencibilidade de Senegal e acha formação ideal",
+        "link": "https://jovempan.com.br/esportes/futebol/brasil-vence-com-facilidade-derruba-invencibilidade-de-senegal-e-acha-formacao-ideal.html",
+        "data": "15/11/2025 18:41",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/11/brasil-vence-senegal-amistoso-e1763229752579.png"
     },
     {
         "titulo": "Zelensky anuncia reforma das empresas do setor energético após escândalo de corrupção",
@@ -192,132 +240,148 @@
         "image": "https://jpimg.com.br/uploads/2025/11/braisl-x-senagal.jpg"
     },
     {
-        "titulo": "O ESG que ninguém vê: o risco trabalhista invisível e o preço da negligência na cadeia produtiva",
-        "link": "https://jovempan.com.br/opiniao-jovem-pan/comentaristas/ricardo-motta/o-esg-que-ninguem-ve-o-risco-trabalhista-invisivel-e-o-preco-da-negligencia-na-cadeia-produtiva.html",
-        "data": "15/11/2025 15:36",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/11/15178.jpg"
-    },
-    {
-        "titulo": "Alckmin comemora redução de tarifas, diz que está na ‘direção certa’, mas fala em ‘distorção’ que precisa ser corrigida",
-        "link": "https://jovempan.com.br/noticias/economia/alckmin-comemora-reducao-de-tarifas-diz-que-esta-na-direcao-certa-mas-fala-em-distorcao-que-precisa-ser-corrigida.html",
-        "data": "15/11/2025 15:32",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/10/design-sem-nome-2025-10-06t151416.189.png"
-    },
-    {
-        "titulo": "TJRJ determina desbloqueio de conta da Oi e suspende indisponibilidade de ativos da empresa",
-        "link": "https://jovempan.com.br/noticias/politica/tjrj-determina-desbloqueio-de-conta-da-oi-e-suspende-indisponibilidade-de-ativos-da-empresa.html",
-        "data": "15/11/2025 15:31",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/11/oi-.jpg"
-    },
-    {
-        "titulo": "Entenda os próximos passos de Eduardo Bolsonaro após STF torná-lo réu",
-        "link": "https://jovempan.com.br/noticias/politica/entenda-os-proximos-passos-de-eduardo-bolsonaro-apos-stf-torna-lo-reu.html",
-        "data": "15/11/2025 14:57",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/05/age20250526017.jpg"
-    },
-    {
-        "titulo": "Trump diz que vai processar BBC por até US$ 5 bilhões por ‘edição enganosa’ em documentário",
-        "link": "https://jovempan.com.br/noticias/mundo/trump-diz-que-vai-processar-bbc-por-ate-us-5-bilhoes-por-edicao-enganosa-em-documentario.html",
-        "data": "15/11/2025 14:29",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/09/89d2633734175fde2c77dd0cb47f344e71478042.jpg"
-    },
-    {
-        "titulo": "Por unanimidade, STF torna Eduardo Bolsonaro réu por coação",
-        "link": "https://jovempan.com.br/noticias/politica/por-unanimidade-stf-torna-eduardo-bolsonaro-reu-por-coacao.html",
-        "data": "15/11/2025 14:09",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/09/53967054916_6a6e98bcac_k-1024x683.jpg"
-    },
-    {
-        "titulo": "Papa Leão 14 defende cinema contra algoritmos em fala para astros de Hollywood",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2025/11/papa-leao-14-defende-cinema-contra-algoritmos-em-fala-para-astros-de-hollywood.shtml",
-        "data": "15/11/2025 18:08",
+        "titulo": "Exercer a criatividade é bom para o cérebro e pode até retardar o envelhecimento",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2025/11/exercer-a-criatividade-e-bom-para-o-cerebro-e-pode-ate-retardar-o-envelhecimento.shtml",
+        "data": "15/11/2025 21:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/15/176321668869188d303f966_1763216688_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2023/08/02/169101031864cac50e4752a_1691010318_3x2_xl.jpg"
     },
     {
-        "titulo": "Brasil reage após críticas e vence Senegal com atuação ofensiva",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2025/11/brasil-reage-apos-criticas-e-vence-senegal-com-atuacao-ofensiva.shtml",
-        "data": "15/11/2025 18:03",
+        "titulo": "Belém tem 'zona da cerveja' e aparelhagem em rotina de festas durante COP30",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/11/belem-tem-zona-da-cerveja-e-aparelhagem-em-rotina-de-festas-durante-cop30.shtml",
+        "data": "15/11/2025 21:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/15/17632289136918bcf15f764_1763228913_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/15/1763192885691830350a834_1763192885_3x2_rt.jpg"
     },
     {
-        "titulo": "Filme 'Uma Batalha Após a Outra': o que ver na TV e no streaming nesta semana",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2025/11/filme-uma-batalha-apos-a-outra-o-que-ver-na-tv-e-no-streaming-nesta-semana.shtml",
-        "data": "15/11/2025 18:00",
+        "titulo": "A água que ninguém vê no planejamento financeiro",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2025/11/a-agua-que-ninguem-ve-no-planejamento-financeiro.shtml",
+        "data": "15/11/2025 21:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/24/175872493268d40344bbc83_1758724932_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2024/06/21/17189935806675c2ac63442_1718993580_3x2_rt.jpg"
     },
     {
-        "titulo": "Painel das Letras repassa os livros obrigatórios da Fuvest, só com autoras mulheres",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2025/11/painel-das-letras-repassa-os-livros-obrigatorios-da-fuvest-so-com-autoras-mulheres.shtml",
-        "data": "15/11/2025 18:00",
+        "titulo": "Indiciamento da PF contra Silvio Almeida aponta importunação sexual contra Anielle e professora",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/11/indiciamento-da-pf-contra-silvio-almeida-aponta-importunacao-sexual-contra-anielle-e-professora.shtml",
+        "data": "15/11/2025 20:56",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/14/17631677626917ce12bcbbf_1763167762_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/02/24/174040858167bc8705674e9_1740408581_3x2_rt.jpg"
     },
     {
-        "titulo": "Chile vai às urnas após campanha marcada por debates fracos e fake news",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/sylvia-colombo/2025/11/chile-vai-as-urnas-apos-campanha-marcada-por-debates-fracos-e-fake-news.shtml",
-        "data": "15/11/2025 18:00",
+        "titulo": "Entrega em campo foi fundamental, destaca Estêvão",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2025/11/entrega-em-campo-foi-fundamental-destaca-estevao.shtml",
+        "data": "15/11/2025 20:53",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/15/17631784086917f7a89a475_1763178408_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/15/17632305056918c329036bc_1763230505_3x2_xl.jpg"
     },
     {
-        "titulo": "Fracassos de Derrite provam que direita sabe muito menos sobre segurança pública do que diz",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2025/11/fracassos-de-derrite-provam-que-direita-sabe-muito-menos-sobre-seguranca-publica-do-que-diz.shtml",
-        "data": "15/11/2025 18:00",
+        "titulo": "Massacre dos Porongos: a história da chacina dos soldados negros no Rio Grande do Sul",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/massacre-dos-porongos-a-historia-da-chacina-dos-soldados-negros-no-rio-grande-do-sul.shtml",
+        "data": "15/11/2025 20:28",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/12/176298970369151687b94e6_1762989703_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/15/17632373936918de111af95_1763237393_3x2_lg.jpg"
     },
     {
-        "titulo": "Berkshire, de Buffett, aumenta participação no Google e reduz na Apple",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/11/berkshire-de-buffett-aumenta-participacao-no-google-e-reduz-na-apple.shtml",
-        "data": "15/11/2025 17:35",
+        "titulo": "Marcha durante a COP30 reúne cerca de 70 mil pessoas em Belém; veja vídeo",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/11/marcha-durante-a-cop30-reune-cerca-de-70-mil-pessoas-em-belem-veja-video.shtml",
+        "data": "15/11/2025 20:21",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/15/17632233216918a719e06a8_1763223321_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/15/176321328669187fe65a954_1763213286_3x2_rt.jpg"
     },
     {
-        "titulo": "Tarcísio assina autorização para implantação do 1º hospital inteligente do Brasil",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2025/11/tarcisio-assina-autorizacao-para-implantacao-do-1o-hospital-inteligente-do-brasil.shtml",
-        "data": "15/11/2025 17:30",
+        "titulo": "Trabalho em aplicativos reduz desemprego em 1 ponto percentual, diz estudo",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/11/trabalho-em-aplicativos-reduz-desemprego-em-1-ponto-percentual-diz-estudo.shtml",
+        "data": "15/11/2025 20:14",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/06/06/17492398986843485a5c9c0_1749239898_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/13/1763061863691630670765e_1763061863_3x2_rt.jpg"
     },
     {
-        "titulo": "Forças da Colômbia matam 28 guerrilheiros em uma semana após pressão dos EUA",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/11/forcas-da-colombia-matam-28-guerrilheiros-em-uma-semana-apos-pressao-dos-eua.shtml",
-        "data": "15/11/2025 17:29",
+        "titulo": "Advogado é morto com facada no peito dentro de escritório em MG; cliente é preso",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/advogado-e-morto-com-facada-no-peito-dentro-de-escritorio-em-mg-cliente-e-preso.shtml",
+        "data": "15/11/2025 20:08",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/08/11/1754945413689a5785cdefc_1754945413_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/15/17632364176918da41172b1_1763236417_3x2_lg.jpg"
     },
     {
-        "titulo": "Wesley Safadão revela plano após fechar contrato com Globo: 'Não descarto ser apresentador'",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2025/11/wesley-safadao-revela-plano-apos-fechar-contrato-com-globo-nao-descarto-ser-apresentador.shtml",
-        "data": "15/11/2025 17:29",
+        "titulo": "O DNA de Hitler deveria ter sido estudado? As polêmicas envolvendo a genética do ditador alemão",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2025/11/o-dna-de-hitler-deveria-ter-sido-estudado-as-polemicas-envolvendo-a-genetica-do-ditador-alemao.shtml",
+        "data": "15/11/2025 20:03",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/14/176045073868ee58b2c4ac6_1760450738_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/15/17632353526918d618b5ffb_1763235352_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Setor privado deve protagonizar agenda florestal, defende Roberto Waack",
+        "link": "https://exame.com/esg/setor-privado-deve-protagonizar-agenda-florestal-defende-roberto-waack/",
+        "data": "15/11/2025 17:51",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2025/08/EX1278_COP_4.jpg"
+    },
+    {
+        "titulo": "WPP e Havas avaliam cenário para possível acordo, diz portal",
+        "link": "https://exame.com/marketing/wpp-e-havas-avaliam-cenario-para-possivel-acordo-diz-portal/",
+        "data": "15/11/2025 17:34",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2023/11/BETC-HAVAS-CAFE-2-e1700862778390.jpeg"
+    },
+    {
+        "titulo": "Por que a COP30 reacende o debate sobre o branding do Brasil",
+        "link": "https://exame.com/marketing/por-que-a-cop30-reacende-o-debate-sobre-o-branding-do-brasil/",
+        "data": "15/11/2025 17:01",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2025/11/MG_8293.jpg"
+    },
+    {
+        "titulo": "Crime, emprego e imigração: o que influencia as eleições no Chile neste domingo?",
+        "link": "https://exame.com/mundo/eleicoes-no-chile-conheca-candidatos-favoritos-e-acompanhe-as-pesquisas/",
+        "data": "15/11/2025 16:57",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2025/11/AFP__20251112__83QH6JQ__v2__HighRes__ChileElectionCampaign.jpg"
+    },
+    {
+        "titulo": "15 cidades devem ter tempestades com ventos acima de 100km/h neste domingo",
+        "link": "https://exame.com/brasil/15-cidades-devem-ter-tempestades-com-ventos-acima-de-100km-h-neste-domingo/",
+        "data": "15/11/2025 16:55",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2025/10/GettyImages-1383026300.jpg"
+    },
+    {
+        "titulo": "Tarifas dos EUA: veja a lista dos produtos com redução de tarifa",
+        "link": "https://exame.com/brasil/tarifas-dos-eua-casa-branca-divulga-lista-de-alimentos-com-corte/",
+        "data": "15/11/2025 16:34",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2025/11/closeup-cultivated-meat-containers.jpg"
+    },
+    {
+        "titulo": "Após efeitos colaterais graves, Anvisa suspense suplemento para perda de peso",
+        "link": "https://exame.com/ciencia/apos-efeitos-colaterais-graves-anvisa-suspense-suplemento-para-perda-de-peso/",
+        "data": "15/11/2025 16:17",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_pilulas-remedio13.jpg"
+    },
+    {
+        "titulo": "BNDES e Ministério do Meio Ambiente destinam 81,2 milhões ao Pará na COP30",
+        "link": "https://exame.com/esg/bndes-e-ministerio-do-meio-ambiente-destinam-812-milhoes-ao-para-na-cop30/",
+        "data": "15/11/2025 16:06",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2025/11/MG_8293.jpg"
     },
     {
         "titulo": "Brasil vence Senegal por 2 a 0 em amistoso em Londres",
@@ -336,73 +400,9 @@
         "image": "https://classic.exame.com/wp-content/uploads/2025/08/cafe-brasil-exportacao.jpg"
     },
     {
-        "titulo": "JBS adquire Hickman’s Egg Ranch e avança no mercado americano",
-        "link": "https://exame.com/agro/jbs-adquire-hickmans-egg-ranch-e-avanca-no-mercado-americano/",
-        "data": "15/11/2025 14:38",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/06/GettyImages-1233224257.jpg"
-    },
-    {
-        "titulo": "Fraudes em azeites aumentam no Brasil: quais as orientações ao consumidor?",
-        "link": "https://exame.com/agro/25-marcas-de-azeite-foram-suspensas-em-2025-como-identificar-produtos-falsos/",
-        "data": "15/11/2025 14:29",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/11/GettyImages-2172033118.jpg"
-    },
-    {
-        "titulo": "CNI diz que corte dos EUA afeta 11% das exportações e cobra acordo",
-        "link": "https://exame.com/brasil/cni-diz-que-corte-tarifario-afeta-11-das-exportacoes-e-cobra-acordo-urgente/",
-        "data": "15/11/2025 14:19",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/06/ricardo_alban_cni.jpg"
-    },
-    {
-        "titulo": "Tempestade deixa uma morta e 20 feridos em Albufeira, Portugal",
-        "link": "https://exame.com/mundo/tempestade-deixa-uma-morta-e-20-feridos-em-albufeira-portugal/",
-        "data": "15/11/2025 13:45",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/11/GettyImages-2246240564.jpg"
-    },
-    {
-        "titulo": "Santander faz 'black friday' de imóveis com lances a partir de R$ 23 mil",
-        "link": "https://exame.com/mercado-imobiliario/santander-faz-black-friday-de-imoveis-com-lances-a-partir-de-r-23-mil/",
-        "data": "15/11/2025 13:09",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2024/06/GettyImages-1452742513-e1718394548500.jpg"
-    },
-    {
-        "titulo": "Alckmin celebra corte de tarifas dos EUA, mas cobra fim da sobretaxa",
-        "link": "https://exame.com/economia/alckmin-celebra-corte-de-tarifas-dos-eua-mas-cobra-fim-da-sobretaxa/",
-        "data": "15/11/2025 12:53",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/07/AFP__20250714__66QU7VH__v1__HighRes__BrazilPoliticsLulaDaSilva.jpg"
-    },
-    {
-        "titulo": "Bomba da Segunda Guerra força retirada de 20 mil pessoas na Alemanha",
-        "link": "https://exame.com/mundo/bomba-da-segunda-guerra-forca-retirada-de-20-mil-pessoas-na-alemanha/",
-        "data": "15/11/2025 12:34",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/11/image-2025-11-15t084422.155.avif"
-    },
-    {
-        "titulo": "Mega-Sena: aposta única de Porto Alegre leva prêmio de R$ 99 milhões",
-        "link": "https://exame.com/invest/minhas-financas/mega-sena-aposta-unica-de-porto-alegre-leva-premio-de-r-99-milhoes/",
-        "data": "15/11/2025 11:50",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/01/20230622_183531.jpg"
-    },
-    {
         "titulo": "Marcha Global pelo Clima tem público fiel debaixo do calorão, velório e ministras",
         "link": "https://www.terra.com.br/planeta/marcha-global-pelo-clima-tem-publico-fiel-debaixo-do-calorao-velorio-de-combustiveis-fosseis-e-fala-de-ministras,eedf37c4b3247a49c96cfed9cae1cf70w3hvbkma.html",
-        "data": "15/11/2025 18:20",
+        "data": "15/11/2025 21:13",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/15/54925302494_27889ced76_o-1iyhpghaw51rt.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Manifestantes velam combustíveis fosseis: 'Se não for em breve, não teremos futuro'",
         "link": "https://www.terra.com.br/planeta/cop30/de-vestes-funebres-no-calorao-de-belem-manifestantes-velam-morte-dos-combustiveis-fosseis-se-nao-for-em-breve-nao-teremos-futuro,4f6249a1b6e15c990d959223173e9893tbwjyyiv.html",
-        "data": "15/11/2025 18:20",
+        "data": "15/11/2025 21:13",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/15/img_8728-s1goqhm2lq9i.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Advogado é morto após ser esfaqueado por cliente no próprio escritório",
         "link": "https://www.terra.com.br/noticias/brasil/policia/advogado-e-morto-apos-ser-esfaqueado-por-cliente-no-proprio-escritorio-em-mg,19a3b962c7b6d0f18c26d78202579744iuuqm46t.html",
-        "data": "15/11/2025 18:20",
+        "data": "15/11/2025 21:13",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/15/untitled-design-(95)-s1b3jncl396a.png"
@@ -426,7 +426,7 @@
     {
         "titulo": "Condenado à morte ganha perdão horas antes da execução",
         "link": "https://www.terra.com.br/noticias/mundo/condenado-a-morte-ganha-perdao-horas-antes-da-execucao-nos-estados-unidos,844378600cd8f91019acd268e61ab87apu7h6rpb.html",
-        "data": "15/11/2025 18:20",
+        "data": "15/11/2025 21:13",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/15/untitled-design-(93)-qxwlokqn8g8p.png"
@@ -434,7 +434,7 @@
     {
         "titulo": "Por unanimidade, STF decide tornar Eduardo Bolsonaro réu por coação",
         "link": "https://www.terra.com.br/noticias/brasil/politica/por-unanimidade-stf-decide-tornar-eduardo-bolsonaro-reu-por-coacao,b69cc2973af8b2d65476d0de6d5c6df0msr79oer.html",
-        "data": "15/11/2025 18:20",
+        "data": "15/11/2025 21:13",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/10/1751069051-uyksqqm23zgkjkmxr4cnfkygou.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "PM que baleou e matou campeão de jiu-jítsu Leandro Lo é absolvido e solto em SP",
         "link": "https://www.terra.com.br/noticias/brasil/pm-que-baleou-e-matou-campeao-de-jiu-jitsu-leandro-lo-e-absolvido-e-solto-em-sp,fdccffb5dc268577289ccd9ea437be696l0z8clf.html",
-        "data": "15/11/2025 18:20",
+        "data": "15/11/2025 21:13",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/05/22/foto-(28)-t8cxslebcwh0.jpg"
@@ -450,7 +450,7 @@
     {
         "titulo": "Alckmin afirma que redução de tarifa dos EUA em 10% é passo importante",
         "link": "https://www.terra.com.br/economia/alckmin-afirma-que-reducao-de-tarifa-dos-eua-em-10-e-passo-importante-e-que-brasil-esta-otimista,19d716226d7148ce650d7dba86047b8cqzkr0mrl.html",
-        "data": "15/11/2025 18:20",
+        "data": "15/11/2025 21:13",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/15/407964170-kgu2xj2hu5ggthazzkynafrw4e.jpg"
@@ -458,105 +458,105 @@
     {
         "titulo": "Criança brasileira tem dedos amputados dentro de escola em Portugal",
         "link": "https://www.terra.com.br/noticias/brasil/crianca-brasileira-tem-dedos-amputados-dentro-de-escola-em-portugal-diz-mae,7e565489795c875ee458b0a11223daabq1ov1h4s.html",
-        "data": "15/11/2025 18:20",
+        "data": "15/11/2025 21:13",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/15/untitled-design-(94)-1hraxvobbv5fb.png"
     },
     {
-        "titulo": "Jornal português detona Cristiano Ronaldo após expulsão: \"Devia ter vergonha\"",
-        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/jornal-portugues-detona-cristiano-ronaldo-apos-expulsao-devia-ter-vergonha,4142886ad60e1798f32a1a2dd1a4ea36zs4snv4w.html",
-        "data": "15/11/2025 18:20",
+        "titulo": "Mídia internacional ressalta triunfo do Brasil: \"Ancelotti desperta um monstro\"",
+        "link": "https://www.terra.com.br/esportes/brasil/imprensa-internacional-ressalta-triunfo-do-brasil-em-amistoso-ancelotti-desperta-um-monstro,7a51b2be5baa491adb9c698f8f72aba0ku5vsn8p.html",
+        "data": "15/11/2025 21:13",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/15/789729481-captura-de-tela-2025-11-14-231748easy-resizecom.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/15/2122562043-54925886130cb5f004833oeasy-resizecom-610x400.jpg"
     },
     {
         "titulo": "Jogador de Gana sofre grave lesão e fica com a perna pendurada",
         "link": "https://www.terra.com.br/esportes/gana/jogador-de-gana-sofre-grave-lesao-e-fica-com-a-perna-pendurada-imagem-e-forte,76a58a7889b3cb5c128c3fd0cfd4875fn44t4kr8.html",
-        "data": "15/11/2025 18:20",
+        "data": "15/11/2025 21:13",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/15/captura-de-tela-2025-11-15-as-14-40-58-1iespsukrj9yu.png"
     },
     {
-        "titulo": "Discussões técnicas na COP30 se encerram neste sábado, 15, e dão lugar a negociações políticas",
-        "link": "https://veja.abril.com.br/economia/discussoes-tecnicas-na-cop30-se-encerram-neste-sabado-15-e-dao-lugar-a-negociacoes-politicas/",
-        "data": "15/11/2025 18:19",
+        "titulo": "A mensagem urgente do documentário ‘A Prosperidade é Verde’",
+        "link": "https://veja.abril.com.br/coluna/radar/a-mensagem-urgente-do-documentario-a-prosperidade-e-verde/",
+        "data": "15/11/2025 21:01",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/11/54914481718_e750a73289_o.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2024/01/GettyImages-534972968.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Após Marcha pelo Clima presidente da COP30 irá receber demandas da sociedade civil",
-        "link": "https://veja.abril.com.br/economia/apos-marcha-pelo-clima-presidente-da-cop30-ira-receber-demandas-da-sociedade-civil/",
-        "data": "15/11/2025 18:08",
+        "titulo": "O padrão perigoso dos papéis de Xamã na televisão",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/o-padrao-perigoso-dos-papeis-de-xama-na-televisao/",
+        "data": "15/11/2025 21:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/11/marcha-cop-3.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/11/xama.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Os passeios de poderosa presidente da Comissão Europeia na COP30",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/os-passeios-de-poderosa-presidente-da-comissao-europeia-na-cop30/",
-        "data": "15/11/2025 18:00",
+        "titulo": "COP30: saiba os temas que mais avançaram na primeira semana de discussão",
+        "link": "https://veja.abril.com.br/economia/cop30-saiba-os-temas-que-mais-avancaram-na-primeira-semana-de-discussao/",
+        "data": "15/11/2025 20:17",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/11/URSULA-VON-DER-LEYEN-INSTAGRAM-@URSULAVONDERLEYEN.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/11/000_842446R.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Aliados de Bolsonaro se mobilizam contra prisão na Papuda e torcem por comoção popular",
-        "link": "https://veja.abril.com.br/politica/aliados-de-bolsonaro-se-mobilizam-contra-prisao-na-papuda-e-torcem-por-comocao-popular/",
-        "data": "15/11/2025 17:59",
+        "titulo": "Vai chover? Como vai ficar o tempo em São Paulo neste domingo, 16?",
+        "link": "https://veja.abril.com.br/agenda-verde/vai-chover-como-vai-ficar-o-tempo-em-sao-paulo-neste-domingo-16/",
+        "data": "15/11/2025 20:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/09/politica-jair-bolsonaro-ex-presidente-saida-hospital.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/10/CidadeSaoPaulo-360.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "PM que matou lutador de jiu-jitsu Leandro Lo deixa prisão em São Paulo",
-        "link": "https://veja.abril.com.br/brasil/pm-que-matou-lutador-de-jiu-jitsu-leandro-lo-deixa-prisao-em-sao-paulo/",
-        "data": "15/11/2025 17:45",
+        "titulo": "Sucesso na gen Z: primeira-dama mais jovem da história de Nova York",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/sucesso-na-gen-z-primeira-dama-mais-jovem-da-historia-de-nova-york/",
+        "data": "15/11/2025 20:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-15-141229.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-14-183951.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Santos x Palmeiras no Brasileirão: onde assistir, horário e escalações",
-        "link": "https://veja.abril.com.br/esporte/santos-x-palmeiras-no-brasileirao-onde-assistir-horario-e-escalacoes/",
-        "data": "15/11/2025 17:30",
+        "titulo": "STF classifica nível de sigilo e informações sobre movimentação de processos deixam de ser públicas",
+        "link": "https://veja.abril.com.br/politica/stf-classifica-nivel-de-sigilo-e-informacoes-sobre-movimentacao-de-processos-deixam-de-ser-publicas/",
+        "data": "15/11/2025 19:55",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/08/GettyImages-2224725328.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-27-at-19.25.56.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Para o presidente da CNI, é ‘urgente’ o Brasil avançar em novas reduções tarifárias",
-        "link": "https://veja.abril.com.br/politica/para-o-presidente-da-cni-e-urgente-o-brasil-avancar-em-novas-reducoes-tarifarias/",
-        "data": "15/11/2025 17:21",
+        "titulo": "Governo Lula gastou 345 mil para buscar no Peru ex-primeira-dama condenada",
+        "link": "https://veja.abril.com.br/brasil/governo-lula-gastou-345-mil-para-buscar-no-peru-ex-primeira-dama-condenada/",
+        "data": "15/11/2025 19:28",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/11/ricardo-alban-presidente-da-cni.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/11/Nadine-Heredia-com-Lula-em-2014-foto-de-Ricardo-Stuckert-1.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "MP denuncia 24 integrantes da maior rede de tráfico de aves silvestres do país",
-        "link": "https://veja.abril.com.br/brasil/mp-denuncia-24-integrantes-da-maior-rede-de-trafico-de-aves-silvestres-do-pais/",
-        "data": "15/11/2025 17:02",
+        "titulo": "Direita ‘não bolsonarista’ é maior e mais radical que a bolsonarista",
+        "link": "https://veja.abril.com.br/politica/direita-nao-bolsonarista-e-maior-e-mais-radical-que-a-bolsonarista/",
+        "data": "15/11/2025 19:20",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/11/whatsapp_image_2025-11-14_at_13.10.33.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/11/Kim-Kataguiri-e-Jair-Bolsonaro-AFP-Sergio-Lima-e-Evaristo-Sa.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "De olho em 2026, Planalto volta a cogitar fim da ‘taxa das blusinhas’",
-        "link": "https://veja.abril.com.br/politica/de-olho-em-2026-planalto-volta-a-cogitar-fim-da-taxa-das-blusinhas/",
-        "data": "15/11/2025 17:01",
+        "titulo": "Aliados veem pouco espaço para recuo de Lula sobre indicação para STF",
+        "link": "https://veja.abril.com.br/coluna/radar/aliados-veem-pouco-espaco-para-recuo-de-lula-sobre-indicacao-para-stf/",
+        "data": "15/11/2025 19:01",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2023/09/shein.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/11/54913494127_398c5b08f1_k.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "A defesa de Gabriel Leone, de ‘O Agente Secreto’, ao ‘cinema político’",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/a-defesa-de-gabriel-leone-de-o-agente-secreto-ao-cinema-politico/",
-        "data": "15/11/2025 17:00",
+        "titulo": "‘Com a COP 30 ficou latente o preconceito dentro do próprio país’",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/com-a-cop-30-ficou-latente-o-preconceito-dentro-do-proprio-pais/",
+        "data": "15/11/2025 19:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-14-182318.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/11/Joana-Martins-Paulo-Manioca-Fotos-©Carlos-Borges-124.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     }
 ]
