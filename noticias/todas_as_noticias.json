@@ -1,83 +1,147 @@
 [
     {
-        "titulo": "Mulher morre e 5 ficam feridos em acidente com 3 carros na Rodovia dos Bandeirantes em Limeira",
-        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2025/11/16/mulher-morre-e-5-ficam-feridos-em-acidente-com-3-carros-na-rodovia-dos-bandeirantes-em-limeira.ghtml",
+        "titulo": "Zika, 10 anos: as mães da epidemia - O Assunto #1600",
+        "link": "https://g1.globo.com/podcast/o-assunto/noticia/2025/11/17/zika-10-anos-as-maes-da-epidemia-o-assunto-1600.ghtml",
+        "data": "17/11/2025 03:20",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/8In2Ae9kdgX4WZRnsOADqc42x0c=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/51/10/14101051"
+    },
+    {
+        "titulo": "Pisos que facilitam o dia a dia e deixam a casa impecável para o fim de ano",
+        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2025/11/17/pisos-que-facilitam-o-dia-a-dia-e-deixam-a-casa-impecavel-para-o-fim-de-ano.ghtml",
+        "data": "17/11/2025 03:03",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/F8jAy9NvW0597I5T9XVh7WskHJk=/932x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/d/xCcY4XSAKAdtI66ufAsA/foto-1-texto-10.png"
+    },
+    {
+        "titulo": "Prefeitura de Montes Claros anuncia mais asfalto para a população",
+        "link": "https://g1.globo.com/mg/grande-minas/especial-publicitario/pm-montes-claro/noticia/2025/11/17/prefeitura-de-montes-claros-anuncia-mais-asfalto-para-a-populacao.ghtml",
+        "data": "17/11/2025 03:02",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/bA09lNL0-OY7vbYP7toI6wO4mls=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/w/0qEQDGSiikqL03QrDZSA/asfalto-julia-aparecida-1-.jpeg"
+    },
+    {
+        "titulo": "Instituto Radeane celebra 40 anos transformando gerações em Volta Redonda",
+        "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/especial-publicitario/radeane-instituto-educacional/noticia/2025/11/17/instituto-radeane-celebra-40-anos-transformando-geracoes-em-volta-redonda.ghtml",
+        "data": "17/11/2025 03:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/5ZExHMcVbzAU3YXawLs1EfJXaT4=/577x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/I/h/TDxzKATUCnTClAvQydqg/imagem-1.jpg"
+    },
+    {
+        "titulo": "Estava doente no Enem 2025 e perdeu a prova? Prazo para pedir reaplicação começa nesta segunda; saiba como solicitar",
+        "link": "https://g1.globo.com/educacao/enem/2025/noticia/2025/11/17/enem-2025-prazo-para-solicitar-reaplicacao.ghtml",
+        "data": "17/11/2025 03:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/VEgEJbQGbOlSmuWFpOFrmxzBEzQ=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/W/24cJriR5eruxtlB1BI2w/dsc-4526.jpg"
+    },
+    {
+        "titulo": "TERMÔMETRO DA COP30 #DIA 8: a semana decisiva em Belém, a ausência que chamou atenção e as decisões de capa",
+        "link": "https://g1.globo.com/meio-ambiente/cop-30/noticia/2025/11/17/termometro-da-cop30-dia-8-a-semana-decisiva-em-belem-a-ausencia-que-chamou-atencao-e-as-decisoes-de-capa.ghtml",
+        "data": "17/11/2025 03:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/LZk7JqkkW4afGw8m-nGGlkNHvwk=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/P/21D7vsSpOhesqQF3fm6A/afp-20251104-82wp3nq-v1-midres-brazilunclimatecop30.jpg"
+    },
+    {
+        "titulo": "Trump diz que deputados republicanos devem votar pela abertura dos arquivos do caso Epstein: 'Não temos nada a esconder'",
+        "link": "https://g1.globo.com/mundo/noticia/2025/11/16/trump-deputados-republicanos-arquivos-caso-epstein.ghtml",
+        "data": "17/11/2025 02:35",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/bAGpfQDNd5UQVVSXSvbnMW1wUCo=/1598x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/f/BLMRqRRZ69PPZC55MkLg/trump-e-epstein.png"
+    },
+    {
+        "titulo": "Gabarito Enem 2025, extraoficial, feito por professores do Piauí - 2º dia de prova",
+        "link": "https://g1.globo.com/pi/piaui/ingresso-universitario/noticia/2025/11/16/gabarito-enem-2025-extraoficial-feito-por-professores-do-piaui-2-dia.ghtml",
+        "data": "17/11/2025 02:12",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/qhq7EzmQiSMUpu6pLxvVY9OsHiM=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/6/yRg48jTxOQJj9w0ZWZTg/padrao-imagem-g1-2025-11-16t192600.929.png"
+    },
+    {
+        "titulo": "Pesquisa inédita mostra como a saúde sexual do Brasileiro mudou nos últimos 20 anos",
+        "link": "https://g1.globo.com/fantastico/noticia/2025/11/16/pesquisa-inedita-mostra-como-a-saude-sexual-do-brasileiro-mudou-nos-ultimos-20-anos.ghtml",
+        "data": "17/11/2025 01:55",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/hworl_lEgIyv74Tr3ocqXfyoULQ=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/17/33/14103317"
+    },
+    {
+        "titulo": "EUA dizem que Maduro lidera suposto cartel de drogas que será declarado terrorista",
+        "link": "https://g1.globo.com/mundo/noticia/2025/11/16/eua-dizem-que-maduro-lidera-suposto-cartel-de-drogas-que-sera-declarado-terrorista.ghtml",
+        "data": "17/11/2025 01:38",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Pq8XH7MBixuAvfvT20GmN9vVoUM=/1280x0/filters:format(jpeg)/https://s02.video.glbimg.com/x720/14103457.jpg"
+    },
+    {
+        "titulo": "Equatorianos rejeitam bases estrangeiras e nova Constituição em referendo",
+        "link": "https://www.cnnbrasil.com.br/internacional/equatorianos-rejeitam-bases-estrangeiras-e-nova-constituicao-em-referendo/",
+        "data": "17/11/2025 02:40",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2025binary_LYNXNPEL960XZ-BASEIMAGE.jpg?w=800&h=533&crop=1"
+    },
+    {
+        "titulo": "Enem 2026 passa a avaliar aprendizagem do ensino médio",
+        "link": "https://www.cnnbrasil.com.br/educacao/enem-2026-passa-a-avaliar-aprendizagem-do-ensino-medio/",
+        "data": "17/11/2025 02:06",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/Camilo-Santana-em-balanco-preliminar-sobre-o-Enem-2025.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Chile: Kast surpreende e diferença para Jara é de 2 pontos no 1º turno",
+        "link": "https://www.cnnbrasil.com.br/internacional/chile-kast-surpreende-e-diferenca-para-jara-e-de-2-pontos-no-1o-turno/",
+        "data": "17/11/2025 01:44",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/11/Jose-Antonio-Kast-e1683523021833.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Sandrão relembra relação com Elize Matsunaga: “Cresceu de uma amizade”",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/sandrao-relembra-relacao-com-elize-matsunaga-cresceu-de-uma-amizade/",
+        "data": "17/11/2025 01:43",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/sandrao-elize.jpg?w=956&h=506&crop=1"
+    },
+    {
+        "titulo": "Governo Lula aguarda cumprimento de decisão do STF contra Zambelli",
+        "link": "https://www.cnnbrasil.com.br/politica/governo-lula-aguarda-cumprimento-de-decisao-do-stf-contra-zambelli/",
+        "data": "17/11/2025 01:40",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/img20231010171524508.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Enem 2025: MEC estuda ampliar aplicação da prova para o Mercosul",
+        "link": "https://www.cnnbrasil.com.br/educacao/enem-2025-mec-estuda-ampliar-aplicacao-da-prova-para-o-mercosul/",
+        "data": "17/11/2025 01:23",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/redacao-enem.jpeg?w=750&h=467&crop=1"
+    },
+    {
+        "titulo": "Sandrão revela o que determinou o fim do namoro com Suzane von Richthofen",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/sandrao-revela-o-que-determinou-o-fim-do-namoro-com-suzane-von-richthofen/",
         "data": "17/11/2025 01:14",
-        "fonte": "G1",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/Qgf19Vr1BQw-S6UTap16irGVGEE=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/W/lFUK43TOmT1BCa8yP8hQ/copia-de-personas-enem-1-.png"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/suzane-sandrao-entrevista.jpg?w=884&h=497&crop=1"
     },
     {
-        "titulo": "Tenente suspeito de matar caseiro é investigado por planejar morte de segundo funcionário por seguro de vida",
-        "link": "https://g1.globo.com/pi/piaui/noticia/2025/11/16/tenente-suspeito-de-matar-caseiro-e-investigado-por-planejar-morte-de-segundo-funcionario.ghtml",
-        "data": "17/11/2025 01:12",
-        "fonte": "G1",
+        "titulo": "Trump diz que poderia conversar com Maduro em meio a tensão na Venezuela",
+        "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-poderia-conversar-com-maduro-em-meio-a-tensao-na-venezuela/",
+        "data": "17/11/2025 01:09",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/_oKcBOl4Sq4IFy99IM15ZonSGnk=/2592x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/N/x/gVNw4cRvACqyg1cOJA9g/qcg-1-.jpg"
-    },
-    {
-        "titulo": "2º dia do Enem 2025 tem nível médio de dificuldade; veja gabarito e análises",
-        "link": "https://g1.globo.com/educacao/enem/2025/ao-vivo/enem-2025-gabarito-extraoficial-correcao-das-questoes-cadernos-prova.ghtml",
-        "data": "17/11/2025 01:07",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
-    },
-    {
-        "titulo": "Polícia prende atirador que descarregou arma em carro com casal e criança em SP",
-        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/11/16/policia-prende-atirador-que-descarregou-arma-em-carro-com-casal-e-crianca-em-sp.ghtml",
-        "data": "17/11/2025 01:04",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/loRGIsHMQLTTtf_aiKNNjgxLn10=/1601x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/G/vcEeCBTciDOW1WSJ2PUQ/captura-de-tela-2025-08-25-032203.png"
-    },
-    {
-        "titulo": "VÍDEOS ENEM 2025: correção da prova de matemática e ciências da natureza",
-        "link": "https://g1.globo.com/educacao/playlist/videos-enem-2025-correcao-da-prova-de-matematica-e-ciencias-da-natureza.ghtml",
-        "data": "17/11/2025 00:57",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1"
-    },
-    {
-        "titulo": "COP 30: Cúpula dos Povos termina em Belém",
-        "link": "https://g1.globo.com/fantastico/noticia/2025/11/16/cop-30-cupula-dos-povos-termina-em-belem.ghtml",
-        "data": "17/11/2025 00:53",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/-RwZscRXPXXbeMT3HVR-ZtBiHAA=/1906x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/M/A/swiFz6RnKQylNQ6PVlRw/captura-de-tela-2025-11-16-220413.png"
-    },
-    {
-        "titulo": "Tiro acidental atinge homem em churrasco em Limeira; arma era de guarda municipal",
-        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2025/11/16/tiro-acidental-atinge-homem-em-churrasco-em-limeira-arma-era-de-guarda-municipal.ghtml",
-        "data": "17/11/2025 00:47",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/H0JYN4bqAvncjsIaPddFlJsagt0=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/h/GSVvVFSuS9n5sut6Ux3A/copia-de-personas-enem.png"
-    },
-    {
-        "titulo": "Promessa cumprida: Carlinhos de Jesus se recupera de doença e volta a dançar 'sambinha'",
-        "link": "https://g1.globo.com/fantastico/noticia/2025/11/16/promessa-cumprida-carlinhos-de-jesus-se-recupera-de-doenca-e-volta-a-dancar-sambinha.ghtml",
-        "data": "17/11/2025 00:40",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/znRR7aTS6EMPnMc5QLWWJ8aTXLc=/1898x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/w/aW0Jg5TjuQXWaw1FkhhA/captura-de-tela-2025-11-16-214625.png"
-    },
-    {
-        "titulo": "Trump afirma que pode ter conversas com Maduro",
-        "link": "https://g1.globo.com/mundo/noticia/2025/11/16/trump-conversas-maduro.ghtml",
-        "data": "17/11/2025 00:31",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/SifyMGie1WPiWv1p9eV8dhyAAAs=/3200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/6/U6S7EQQpi2UleBtvjw4A/afp-jim-watson-mostra-o-presidente-dos-eua-donald-trump-e-em-washington-dc-em-9-de-julho-de-2025-e-o-presidente-venezuelano-nicolas-maduro-d-em-caracas-em-31-de-julho-de-2024..jpg"
-    },
-    {
-        "titulo": "Shopping vira UTI improvisada em resgate de bebês após incêndio em maternidade de Fortaleza",
-        "link": "https://g1.globo.com/fantastico/noticia/2025/11/16/shopping-vira-uti-improvisada-em-resgate-de-bebes-apos-incendio-em-maternidade-de-fortaleza.ghtml",
-        "data": "17/11/2025 00:22",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/qrX30hHJvorG3Z5_ETT2SvZYaMk=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/89/32/14103289"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/donald-trump-nicolas-maduro.jpg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Enem 2025: entenda questão de matemática que viralizou pela dificuldade",
@@ -96,68 +160,12 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/andre-correa-do-lago-cop30.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Enem 2025: questão rende polêmica e memes nas redes sociais",
-        "link": "https://www.cnnbrasil.com.br/educacao/enem-2025-questao-de-matematica-rende-polemica-e-memes-nas-redes-sociais/",
-        "data": "17/11/2025 00:44",
-        "fonte": "CNN Brasil",
+        "titulo": "Renan Filho afirma que o governo Lula encara desafio fiscal com altivez",
+        "link": "https://jovempan.com.br/noticias/politica/renan-filho-afirma-que-o-governo-lula-encara-desafio-fiscal-com-altivez.html",
+        "data": "17/11/2025 01:32",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/matematica-enem-memes.jpg?w=1053&h=630&crop=1"
-    },
-    {
-        "titulo": "Sandrão diz que parte da série “Tremembé” é mentira: “Ficção da minha vida”",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/sandrao-diz-que-parte-da-serie-tremembe-e-mentira-ficcao-da-minha-vida/",
-        "data": "17/11/2025 00:40",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/sandrao_562b07.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Casagrande avalia fase do Corinthians: “Se não virar SAF, vai sofrer muito”",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/casagrande-avalia-fase-do-corinthians-se-nao-virar-saf-vai-sofrer-muito/",
-        "data": "17/11/2025 00:40",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
-    },
-    {
-        "titulo": "Paulista Sub-20: final tem confusão e título do Santos após buscar 3 a 0",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulista-sub-20-final-tem-confusao-e-titulo-do-santos-apos-buscar-3-a-0/",
-        "data": "17/11/2025 00:35",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/santos_sub_20-e1763333932241.jpeg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Casagrande vê futuro na Europa e na Seleção para Filipe Luís e Rogério Ceni",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/casagrande-ve-futuro-na-europa-e-na-selecao-para-filipe-luis-e-rogerio-ceni/",
-        "data": "17/11/2025 00:30",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/cnn-esportes-sa-casagrande-cose.jpeg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Crise climática afeta mais mulheres e crianças, afirma C40",
-        "link": "https://www.cnnbrasil.com.br/internacional/crise-climatica-afeta-mais-mulheres-e-criancas-afirma-c40/",
-        "data": "17/11/2025 00:29",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/BR_CNN_131125_GER_BEL_TRANSICAO_JUSTA_frame_4350.jpeg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Casagrande não vê Neymar na Copa: “Está em fase de negação, mundo paralelo”",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/casagrande-nao-ve-neymar-na-copa-esta-em-fase-de-negacao-mundo-paralelo/",
-        "data": "17/11/2025 00:25",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportSportsNews/tagreuters.com2022binary_LYNXMPEIB80XC-FILEDIMAGE-e1763143048454.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Sandrão relembra planos que fez com Suzane von Richthofen no presídio",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/sandrao-relembra-planos-que-fez-com-suzane-von-richthofen-no-presidio/",
-        "data": "17/11/2025 00:20",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/sandrao-suzane-von.jpg?w=956&h=506&crop=1"
+        "image": "https://jpimg.com.br/uploads/2025/02/123-29.jpg"
     },
     {
         "titulo": "Noruega carimba vaga para a Copa de 2026; confira lista das seleções classificadas",
@@ -173,7 +181,7 @@
         "data": "17/11/2025 00:44",
         "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/11/picsart_25-11-16_21-41-57-583.jpg"
+        "image": null
     },
     {
         "titulo": "Novo ataque dos EUA contra suposta lancha do tráfico no Pacífico eleva mortes para 83",
@@ -232,92 +240,84 @@
         "image": "https://jpimg.com.br/uploads/2025/11/whatsapp-image-2025-09-07-at-14.12.00-aspect-ratio-512-320.png"
     },
     {
-        "titulo": "Shawn Mendes e Bruna Marquezine são flagrados juntos em show de Dua Lipa",
-        "link": "https://jovempan.com.br/entretenimento/famosos/shawn-mendes-e-bruna-marquezine-sao-flagrados-juntos-em-show-de-dua-lipa.html",
-        "data": "16/11/2025 19:09",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/11/bruna-marquezine-shawn-mendes.png"
-    },
-    {
-        "titulo": "Secretário do Tesouro dos EUA atribui inflação da carne a imigrantes que entram no país com gado contaminado",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/11/secretario-do-tesouro-dos-eua-atribui-inflacao-da-carne-a-imigrantes-que-entram-no-pais-com-gado-contaminado.shtml",
-        "data": "17/11/2025 01:13",
+        "titulo": "Em derrota de Noboa, equatorianos rejeitam liberar bases militares estrangeiras no país",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/11/em-derrota-de-noboa-equatorianos-rejeitam-liberar-bases-militares-estrangeiras-no-pais.shtml",
+        "data": "17/11/2025 03:13",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/16/1763316218691a11fa23baf_1763316218_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/16/1763346436691a8804556e4_1763346436_3x2_rt.jpg"
     },
     {
-        "titulo": "'Três Graças': Jorginho deixa a cadeia e Joélly conhece o pai",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2025/11/tres-gracas-jorginho-deixa-a-cadeia-e-joelly-conhece-o-pai.shtml",
-        "data": "17/11/2025 01:03",
+        "titulo": "Desafio de Matemática: Fichas e Flechas",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2025/11/desafio-de-matematica-fichas-e-flechas.shtml",
+        "data": "17/11/2025 03:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/16/1763341350691a742665491_1763341350_3x2_lg.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/13/176306960569164ea513181_1763069605_3x2_xl.jpg"
     },
     {
-        "titulo": "A galinha dos ovos de ouro e a conta de luz: quando a fábula vira realidade",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/11/a-galinha-dos-ovos-de-ouro-e-a-conta-de-luz-quando-a-fabula-vira-realidade.shtml",
-        "data": "17/11/2025 01:00",
+        "titulo": "Maestrina é a primeira mulher a reger Orquestra Sinfônica de Teerã, no Irã",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2025/11/maestrina-e-a-primeira-mulher-a-reger-orquestra-sinfonica-de-teera-no-ira.shtml",
+        "data": "17/11/2025 02:25",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2024/04/11/17128504446618060c55b84_1712850444_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/16/1763341883691a763bcbe11_1763341883_3x2_rt.jpg"
     },
     {
-        "titulo": "Prisão de Bolsonaro é injustiça que corrói",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/11/prisao-de-bolsonaro-e-injustica-que-corroi.shtml",
-        "data": "17/11/2025 01:00",
+        "titulo": "Brasileiros preferem futebol nacional a torneios europeus, mostra pesquisa encomendada pela CBF",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2025/11/brasileiros-preferem-futebol-nacional-a-torneios-europeus-mostra-pesquisa-encomendada-pela-cbf.shtml",
+        "data": "17/11/2025 02:01",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/06/175717943868bc6e2e58d22_1757179438_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/14/17631608806917b33049d61_1763160880_3x2_rt.jpg"
     },
     {
-        "titulo": "O crime também desmata a amazônia",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/11/o-crime-tambem-desmata-a-amazonia.shtml",
-        "data": "17/11/2025 01:00",
+        "titulo": "Bolsonarismo sofre 2ª tentativa de debandada, e filhos de ex-presidente reagem",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/11/bolsonarismo-sofre-2a-tentativa-de-debandada-e-filhos-de-ex-presidente-reagem.shtml",
+        "data": "17/11/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/16/1763323291691a2d9b143e5_1763323291_3x2_lg.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/14/1763140030691761be6f3f7_1763140030_3x2_rt.jpg"
     },
     {
-        "titulo": "Descalabro das estatais sob Lula não se limita aos Correios",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/11/descalabro-das-estatais-sob-lula-nao-se-limita-aos-correios.shtml",
-        "data": "17/11/2025 01:00",
+        "titulo": "Ignorar clima custará até 33% do PIB de Brasil e vizinhos, diz ONU",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/11/ignorar-clima-custara-ate-33-do-pib-de-brasil-e-vizinhos-diz-onu.shtml",
+        "data": "17/11/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/23/176125827968faab2796a3a_1761258279_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/16/1763325540691a3664525cc_1763325540_3x2_rt.jpg"
     },
     {
-        "titulo": "Caminhoneiro amarrado no rodoanel diz não se lembrar de quando falsa bomba foi colocada",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/caminhoneiro-amarrado-no-rodoanel-diz-nao-se-lembrar-de-quando-falsa-bomba-foi-colocada.shtml",
-        "data": "17/11/2025 00:51",
+        "titulo": "Boas intenções não são suficientes para produzir mudanças na representação política",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2025/11/boas-intencoes-nao-sao-suficientes-para-produzir-mudancas-na-representacao-politica.shtml",
+        "data": "17/11/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/12/176295053569147d8706d5d_1762950535_3x2_lg.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/06/18/17502789546853232a373c5_1750278954_3x2_rt.jpg"
     },
     {
-        "titulo": "'Os EUA estão enrolando e o Brasil está caindo na conversa mole', diz leitor",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2025/11/os-eua-estao-enrolando-e-o-brasil-esta-caindo-na-conversa-mole-diz-leitor.shtml",
-        "data": "17/11/2025 00:45",
+        "titulo": "Por que temos a sensação de que o dólar sobe mais que a inflação?",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2025/11/por-que-temos-a-sensacao-de-que-o-dolar-sobe-mais-que-a-inflacao.shtml",
+        "data": "17/11/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/16/1763337344691a64804d358_1763337344_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/02/17621193816907ced53b726_1762119381_3x2_rt.jpg"
     },
     {
-        "titulo": "Ex-presidente da Colômbia diz que desunião de líderes latinos afeta batalha climática",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/11/ex-presidente-da-colombia-diz-que-desuniao-de-lideres-latinos-afeta-batalha-climatica.shtml",
-        "data": "16/11/2025 23:44",
+        "titulo": "Comunidades afetadas pela transição energética devem ser ouvidas, dizem ativistas",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/seminariosfolha/2025/11/comunidades-afetadas-pela-transicao-energetica-devem-ser-ouvidas-dizem-ativistas.shtml",
+        "data": "17/11/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/16/1763329166691a448eddef5_1763329166_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/14/176314394269177106307ca_1763143942_3x2_rt.jpg"
     },
     {
-        "titulo": "Comunista e ultradireitista disputarão segundo turno no Chile após eleição acirrada",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/11/comunista-e-ultradireitista-disputarao-segundo-turno-no-chile-aponta-projecao.shtml",
-        "data": "16/11/2025 23:39",
+        "titulo": "Peça 'Escute as Feras' narra encontro de mulher com urso na Sibéria",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2025/11/peca-escute-as-feras-narra-encontro-de-mulher-com-urso-na-siberia.shtml",
+        "data": "17/11/2025 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/16/1763338492691a68fc594d6_1763338492_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2023/11/09/1699542867654cf7535b86a_1699542867_3x2_rt.jpg"
     },
     {
         "titulo": "Chile vai ao 2º turno com duelo esperado entre esquerda e direita",
@@ -402,7 +402,7 @@
     {
         "titulo": "Atlético-MG vê série invicta acabar com derrota para Bragantino antes de decidir Sula",
         "link": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/atletico-mg-ve-serie-invicta-acabar-com-derrota-para-bragantino-antes-de-decidir-sul-americana,c37b8c95d31395971f9e894d29f81594za8ogpdu.html",
-        "data": "17/11/2025 01:17",
+        "data": "17/11/2025 03:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/17/odr20251116102-sobv9nji9vzp.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Candidata de esquerda e ultradireitista se enfrentarão no 2º turno no Chile",
         "link": "https://www.cartacapital.com.br/mundo/candidata-de-esquerda-e-ultradireitista-se-enfrentarao-no-2o-turno-no-chile/?utm_source=terra_capa&utm_medium=referral",
-        "data": "17/11/2025 01:17",
+        "data": "17/11/2025 03:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://www.cartacapital.com.br/wp-content/uploads/2025/11/000_843W6NQ-e1763334313183.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Maduro usa 'Imagine' para reforçar pedido de paz em meio a tensão com os EUA",
         "link": "https://www.terra.com.br/noticias/mundo/maduro-usa-imagine-para-reforcar-pedido-de-paz-em-meio-a-tensao-com-os-eua,9851fc9a41b05a57732ad258b855a7a0gze7umjh.html",
-        "data": "17/11/2025 01:17",
+        "data": "17/11/2025 03:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/16/captura-de-tela-2025-11-16-162842-qxtcdd1v4htj.png"
@@ -426,39 +426,39 @@
     {
         "titulo": "Presidente da COP rebate pedidos: '195 países tem que estar em consenso'",
         "link": "https://www.terra.com.br/planeta/cop30/195-paises-tem-que-estar-em-consenso-diz-presidente-da-cop30-ao-receber-pedidos-da-cupula-dos-povos,c269bb98aa2215dd0f74ddf01d0a9369cqvqy49u.html",
-        "data": "17/11/2025 01:17",
+        "data": "17/11/2025 03:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/16/img_9167-toalymjn41up.jpg"
     },
     {
-        "titulo": "Enem vai avaliar aluno do 3º ano do ensino médio a partir de 2026, diz ministro",
-        "link": "https://www.terra.com.br/noticias/educacao/enem/enem-vai-avaliar-aluno-do-3-ano-do-ensino-medio-a-partir-de-2026-diz-ministro-da-educacao,ef4f4e133ef66d6ecd269ec2a1c7bb4b0lgoa030.html",
-        "data": "17/11/2025 01:17",
+        "titulo": "Conheça o lagarto que inspirou Ozempic e foi tema de questão no Enem",
+        "link": "https://www.terra.com.br/noticias/educacao/enem/caiu-ozempic-no-enem-conheca-o-lagarto-que-inspirou-medicamento-e-foi-tema-de-questao,55850c45fdd7197e75c0f288fedbc0adr4zhfuhq.html",
+        "data": "17/11/2025 03:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/16/oft20251116024-toa5nkw5onqs.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/17/gettyimages-1184372515-us08hchv3zaa.jpg"
     },
     {
-        "titulo": "Mãe de campeão de jiu-jítsu desabafa: 'Enterrei meu filho pela 2ª vez'",
-        "link": "https://www.terra.com.br/noticias/brasil/cidades/enterrei-meu-filho-pela-segunda-vez-desabafa-mae-de-campeao-de-jiu-jitsu-apos-absolvicao-de-pm,3f9a086ea38094a59d4c61a72f4badcdmw8ko2re.html",
-        "data": "17/11/2025 01:17",
+        "titulo": "Secretário de Trump acusa imigrantes de trazer gado doente e provocar alta da carne",
+        "link": "https://www.terra.com.br/economia/secretario-de-trump-atribui-alta-da-carne-a-imigrantes-que-trazem-gado-doente-da-america-do-sul,edd6518902ea86cdbaf9a65599c01a3buec9jtvs.html",
+        "data": "17/11/2025 03:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/16/untitled-design-(96)-rhlmifgzj8l2.png"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/16/scott-bessent-e-trump-qe6l3b3u8nqx.jpg"
     },
     {
-        "titulo": "Polícia apreende arsenal de guerra e prende casal especializado em roubos a residências",
-        "link": "https://www.terra.com.br/noticias/brasil/policia/policia-apreende-arsenal-de-guerra-e-prende-casal-especializado-em-roubos-a-residencias-em-sp,9b196cacc584490e2b9d3d8b6dbfa2a4pdw2b0zx.html",
-        "data": "17/11/2025 01:17",
+        "titulo": "Netanyahu reitera oposição a Estado palestino antes de votação na ONU",
+        "link": "https://www.terra.com.br/noticias/netanyahu-reitera-oposicao-a-estado-palestino-antes-de-votacao-na-onu,4701651378742a6716257eb63904c863xvlo90bw.html",
+        "data": "17/11/2025 03:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/16/00060147-rhr7xnm75o4h.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/16/778302130-74597211354.jpg"
     },
     {
         "titulo": "Corinthians 'descansa' e vence Realidade Jovem pelo Paulistão; veja lances",
         "link": "https://www.terra.com.br/esportes/futebol/futebol-feminino/corinthians-descansa-e-vence-realidade-jovem-pelo-paulistao-feminino,1766e6fb1b3a8a1641e8580a5c984a01kvgr2j4g.html",
-        "data": "17/11/2025 01:17",
+        "data": "17/11/2025 03:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/17/alxl7579-1jecow2wly7oh.jpg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Haaland brilha, Noruega vira sobre a Itália e carimba vaga para a Copa do Mundo",
         "link": "https://www.terra.com.br/esportes/futebol/copa-2026/haaland-brilha-noruega-vira-sobre-a-italia-e-carimba-vaga-na-copa,c3a5ce56b608623e873b7d7360db8bbeo1r2xsh7.html",
-        "data": "17/11/2025 01:17",
+        "data": "17/11/2025 03:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/16/1623472771-g5524qaxaaaifq8-610x400.jpg"
@@ -474,7 +474,7 @@
     {
         "titulo": "São Paulo: Oscar recebe alta após sofrer uma alteração cardíaca",
         "link": "https://www.terra.com.br/esportes/sao-paulo/sao-paulo-oscar-recebe-alta-apos-sofrer-uma-alteracao-cardiaca,e408e77ca6945f2a15159594c0f47db16im2o59o.html",
-        "data": "17/11/2025 01:17",
+        "data": "17/11/2025 03:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/16/600017406-54764245945c62a7929ebo-610x400.jpg"
