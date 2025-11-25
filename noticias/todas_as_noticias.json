@@ -1,5 +1,61 @@
 [
     {
+        "titulo": "Maior produtor de soja do país, Mato Grosso enfrenta falta de frutas, verduras e legumes",
+        "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2025/11/25/maior-produtor-de-soja-do-pais-mato-grosso-enfrenta-falta-de-frutas-verduras-e-legumes.ghtml",
+        "data": "25/11/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/pwAivOEFJltW1nk0PyzmsFlOZeY=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/74/37/14123774"
+    },
+    {
+        "titulo": "Modelo internacional Tarcia Ciarlini é eleita Miss Universe Amazonas 2026",
+        "link": "https://g1.globo.com/am/amazonas/noticia/2025/11/25/modelo-internacional-tarcia-ciarline-e-eleita-miss-universe-amazonas-2026.ghtml",
+        "data": "25/11/2025 05:47",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/46DlEMf-Z06w9Zyi1hgLAtJBHjQ=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/u/Hg7VIxSAAI9Ng5qoBCTw/miss-universe-amazonas.jpg"
+    },
+    {
+        "titulo": "Presidente da CPMI do INSS afirma que vai pautar votação da convocação de Jorge Messias",
+        "link": "https://g1.globo.com/politica/noticia/2025/11/25/presidente-cpmi-inss-pauta-votacao-convocacao-messias.ghtml",
+        "data": "25/11/2025 05:37",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Sz9KMhqgx-_UAwtS1EUutF25Q0U=/2553x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/p/OQD3EjTHWBY3a9SDXWpg/raf09544.jpg"
+    },
+    {
+        "titulo": "Capital Mundial dos Gêmeos realiza encontro com mais de 100 pares de irmãos; confira",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/11/25/capital-mundial-dos-gemeos-realiza-encontro-com-mais-de-100-pares-de-irmaos-confira.ghtml",
+        "data": "25/11/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/nRos4MfAuJmkVmwtvALPwRyRJhg=/1280x0/filters:format(jpeg)/https://s01.video.glbimg.com/x720/14124664.jpg"
+    },
+    {
+        "titulo": "Microdoses de cannabis e Alzheimer: o que novo estudo revela sobre o uso de THC e CBD em idosos",
+        "link": "https://g1.globo.com/saude/noticia/2025/11/25/microdoses-de-cannabis-e-alzheimer-o-que-novo-estudo-revela-sobre-o-uso-de-thc-e-cbd-em-idosos.ghtml",
+        "data": "25/11/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/JuSB8PkABWJURP55ey490RcRTYA=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/M/IFfjPoSgiEvQ3a05ArUg/maconhamedicinalcampanhacontrarestricaovale.jpg"
+    },
+    {
+        "titulo": "iPhone 14, 15, 16, 16e: Qual modelo 'antigo' comprar?",
+        "link": "https://g1.globo.com/guia/guia-de-compras/tecnologia/celulares/iphone-qual-comprar-2025.ghtml",
+        "data": "25/11/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/HOZEtUwPafkBRyfEYa_JTWv49Zw=/4032x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/n/3/v84DMuTS6khJdBl7uWgg/img-1508.jpg"
+    },
+    {
+        "titulo": "Polícia investiga morte de sargento da PM encontrado espancado em beco de Manaus",
+        "link": "https://g1.globo.com/am/amazonas/noticia/2025/11/25/policia-investiga-morte-de-sargento-da-pm-encontrado-espancado-em-beco-de-manaus.ghtml",
+        "data": "25/11/2025 04:23",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/ah-JSWK_moxc1ReSmNaYsJkwK54=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/m/xjAsjWT6KeeqrEZ9gt8w/morte-sagento-manaus.jpg"
+    },
+    {
         "titulo": "A situação jurídica de Bolsonaro - O Assunto #1606",
         "link": "https://g1.globo.com/podcast/o-assunto/noticia/2025/11/25/a-situacao-juridica-de-bolsonaro-o-assunto-1606.ghtml",
         "data": "25/11/2025 03:30",
@@ -24,60 +80,28 @@
         "image": "https://s2-g1.glbimg.com/QjD8CEh5UkpvE_275Ssohf0Vmpk=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/u/IvdnqbRfAkFjE7L2S3VA/castelo-branco-1-.jpeg"
     },
     {
-        "titulo": "Mulheres fotografaram assassino de Catarina Kasten em trilha e ajudaram a identificar autor em Florianópolis",
-        "link": "https://g1.globo.com/sc/santa-catarina/noticia/2025/11/25/mulheres-fotografaram-assassino-de-catarina-kasten-em-trilha-florianopolis.ghtml",
-        "data": "25/11/2025 03:01",
-        "fonte": "G1",
+        "titulo": "Como sair da CLT e começar a empreender em 2026",
+        "link": "https://www.cnnbrasil.com.br/economia/negocios/como-sair-da-clt-e-comecar-a-empreender-em-2026/",
+        "data": "25/11/2025 06:00",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/n4SiZaO5w_RdG3vpc84q6OVq2tM=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/L/evNueBRp6lUwKFXntOyg/image-2025-11-21t224729.014.png"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/7095_BE8DD923ADB1A0B5-5.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Cedae pede que população economize água durante manutenção do Sistema Guandu",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/11/25/cedae-pede-que-populacao-economize-agua-durante-manutencao-do-sistema-guandu.ghtml",
-        "data": "25/11/2025 03:01",
-        "fonte": "G1",
+        "titulo": "Ataque paquistanês no Afeganistão deixa ao menos dez mortos, diz Talibã",
+        "link": "https://www.cnnbrasil.com.br/internacional/ataque-paquistanes-deixa-mortos-no-afeganistao-diz-taliba/",
+        "data": "25/11/2025 05:53",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/WPizC4sHSIviOWBDiEUlal_KjpY=/3893x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/i/W/JJMPdQRQ2fi2libEmiUQ/eta-guandu.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/10820_9C8B31543F96A941-1.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Enem 2025: Especialista aponta vulnerabilidade em banco de questões da prova; entenda",
-        "link": "https://g1.globo.com/fantastico/noticia/2025/11/25/enem-2025-especialista-aponta-vulnerabilidade-em-banco-de-questoes-da-prova-entenda.ghtml",
-        "data": "25/11/2025 03:01",
-        "fonte": "G1",
+        "titulo": "Bolsonaro, Torres e Ramagem não recorrem e se aproximam do início da pena",
+        "link": "https://www.cnnbrasil.com.br/politica/bolsonaro-torres-e-ramagem-nao-recorrem-e-se-aproximam-do-inicio-da-pena/",
+        "data": "25/11/2025 03:26",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/75fADmdWqUwxuA5WYyG_zZh7J8Q=/1919x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/H/3Aw4zZRnSynD8sPQFwBw/captura-de-tela-2025-11-24-110056.png"
-    },
-    {
-        "titulo": "'Podia ter acontecido com qualquer menino', justificou a professora da criança brasileira que teve dedos decepados em escola de Portugal",
-        "link": "https://g1.globo.com/fantastico/noticia/2025/11/25/podia-ter-acontecido-com-qualquer-menino-justificou-a-professora-da-crianca-brasileira-que-teve-dedos-decepados-em-escola-de-portugal.ghtml",
-        "data": "25/11/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/H_C7tTE5ZmGoaMQla75uT0s2Rfs=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/99/31/14123199"
-    },
-    {
-        "titulo": "Conheça processo usado por amigos e familiares de Preta Gil para transformar cinzas em diamante",
-        "link": "https://g1.globo.com/fantastico/noticia/2025/11/25/conheca-processo-usado-por-amigos-e-familiares-de-preta-gil-para-transformar-cinzas-em-diamante.ghtml",
-        "data": "25/11/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/DXnKt7Yh3lJKf1WRT61Oj78GFxw=/1919x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/7/aFsrqsT9SHWjIeANBc8w/captura-de-tela-2025-11-24-130936.png"
-    },
-    {
-        "titulo": "História de amor de 45 anos: filhas transformam cinzas dos pais em diamante",
-        "link": "https://g1.globo.com/fantastico/noticia/2025/11/25/historia-de-amor-de-45-anos-filhas-transformam-cinzas-dos-pais-em-diamante.ghtml",
-        "data": "25/11/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/-9k8fsc5M7cbLc3RlBsOCqIh-1A=/1242x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/t/f/grSwa2QneefNQIulpS0g/captura-de-tela-2025-11-24-140201.png"
-    },
-    {
-        "titulo": "Brasil firma acordo com OPAS para comprar vacinas atualizadas com preços menores",
-        "link": "https://g1.globo.com/saude/noticia/2025/11/25/brasil-firma-acordo-com-opas-para-comprar-vacinas-atualizadas-com-precos-menores.ghtml",
-        "data": "25/11/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportDomesticNews/tagreuters.com2025binary_LYNXNPEL8A0Z5-BASEIMAGE-e1761358351621.jpg?w=800&h=451&crop=1"
     },
     {
         "titulo": "“Não conseguirão derrotar a Venezuela”, diz Maduro em meio a tensão com EUA",
@@ -125,7 +149,7 @@
         "data": "25/11/2025 02:30",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/BR_CNN_241125_OGD_CLEAN_frame_22016-e1764031342485.jpeg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Governo falha no diálogo com o Legislativo desde o 1º dia, diz especialista",
@@ -136,28 +160,12 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXNPEL8L0TU-BASEIMAGE.jpg?w=800&h=533&crop=1"
     },
     {
-        "titulo": "Garnier recorre ao STF para que caso seja analisado em primeira instância",
-        "link": "https://www.cnnbrasil.com.br/politica/ex-comandante-da-marinha-pede-revisao-de-condenacao-ao-stf/",
-        "data": "25/11/2025 02:23",
-        "fonte": "CNN Brasil",
+        "titulo": "Horóscopo do dia: previsão para os 12 signos em 25/11/2025",
+        "link": "https://jovempan.com.br/edicase/horoscopo-do-dia-previsao-para-os-12-signos-em-25-11-2025.html",
+        "data": "25/11/2025 03:00",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/54580158075_9096b4f89b_o-e1761607926115.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Abel poupa contra Grêmio e indica Palmeiras para final da Libertadores",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/abel-poupa-contra-gremio-e-indica-palmeiras-para-final-da-libertadores/",
-        "data": "25/11/2025 02:20",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/Treino-Palmeiras-1-e1764037044416.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Análise: O que é o Cartel de los Soles, designado como terrorista pelos EUA",
-        "link": "https://www.cnnbrasil.com.br/internacional/analise-o-que-e-o-cartel-de-los-soles-designado-como-terrorista-pelos-eua/",
-        "data": "25/11/2025 02:18",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/integrantes-da-milicia-na-venezuela.jpg?w=1200&h=630&crop=1"
+        "image": "https://jpimg.com.br/uploads/2025/11/horoscopo-do-dia-previsao-para-os-12-signos-em-25-11-2025-1024x683.jpg"
     },
     {
         "titulo": "Sem Neymar, Santos escapa de derrota contra o Inter e alimenta chance de permanência na Série A",
@@ -232,15 +240,23 @@
         "image": "https://jpimg.com.br/uploads/2025/11/design-sem-nome-5-9.png"
     },
     {
-        "titulo": "Anderson Torres pede para cumprir pena na PF ou em batalhão da PM, alegando ameaças",
-        "link": "https://jovempan.com.br/noticias/politica/anderson-torres-pede-para-cumprir-pena-na-pf-ou-em-batalhao-da-pm-alegando-ameacas.html",
-        "data": "24/11/2025 23:31",
-        "fonte": "Jovem Pan",
+        "titulo": "Polícia resgata criança presa em armário de agência bancária em Paranaíba (MS)",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/policia-resgata-crianca-presa-em-armario-de-agencia-bancaria-em-paranaiba-ms.shtml",
+        "data": "25/11/2025 06:02",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2023/08/img20230808112911818.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/25/17640502236925452f2e34b_1764050223_3x2_lg.jpg"
     },
     {
-        "titulo": "Silveira afirma que Lula vai vetar dez trechos da MP do setor elétrico",
+        "titulo": "Primeira-ministra do Japão e Trump reiteram aliança em meio a crise com a China",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/11/primeira-ministra-do-japao-e-trump-reiteram-alianca-em-meio-a-crise-com-a-china.shtml",
+        "data": "25/11/2025 05:24",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/25/176404816269253d220b824_1764048162_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Lula vai vetar alteração em royalties do petróleo e mudança com impacto de R$ 7 bi na conta de luz",
         "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/11/silveira-afirma-que-lula-vai-vetar-dez-trechos-da-mp-do-setor-eletrico.shtml",
         "data": "25/11/2025 02:53",
         "fonte": "Folha de S.Paulo",
@@ -302,22 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2025/11/20/1763677348691f94a40751f_1763677348_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Tensão entre governo e Congresso é criticada por senadores de oposição em Roma",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/11/tensao-entre-governo-e-congresso-e-criticada-por-senadores-de-oposicao-em-roma.shtml",
-        "data": "25/11/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/24/17640346346925084ad713a_1764034634_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Investigações atingem aliados de Ciro Nogueira e o afastam de eleição presidencial",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2025/11/investigacoes-atingem-aliados-de-ciro-nogueira-e-o-afastam-de-eleicao-presidencial.shtml",
-        "data": "25/11/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/26/175891330368d6e317713d8_1758913303_3x2_rt.jpg"
     },
     {
         "titulo": "Língua 'artificial' consegue medir potência de pimentas e 'dispensa' humanos",
@@ -402,7 +402,7 @@
     {
         "titulo": "Escada, ferro quente, curiosidade e paranoia: as versões de Bolsonaro",
         "link": "https://www.terra.com.br/noticias/brasil/politica/escada-ferro-quente-curiosidade-e-paranoia-as-versoes-de-bolsonaro-sobre-violacao-em-tornozeleira,c3c1e0bbb77109a5f30c97bbe9b649946jf7bg6x.html",
-        "data": "25/11/2025 03:47",
+        "data": "25/11/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/23/357279255-abm7yrrne5bhtdbaing3aujxci.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Nikolas Ferreira é condenado a pagar R$ 40 mil por chamar mulher trans de 'homem'",
         "link": "https://www.terra.com.br/nos/justica-condena-nikolas-ferreira-a-pagar-r-40-mil-por-chamar-mulher-trans-de-homem,0f5e792057d22187cbb03cf8d73d6c9ax0qz2fjv.html",
-        "data": "25/11/2025 03:47",
+        "data": "25/11/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/04/1898425406-mblkuvpnazfhhcfm4scl7at4wi.jpeg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Apaixonado pelo trabalho: quem era o piloto que morreu em acidente no Beto Carrero",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/apaixonado-pelo-trabalho-e-empreendedor-quem-era-o-piloto-que-morreu-em-acidente-no-beto-carrero,526938e2110c2490bcbb19aa77b84401bk2c9bjk.html",
-        "data": "25/11/2025 03:47",
+        "data": "25/11/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/24/saveclip-app_572371048_18536925040056330_2283932459924236596_n-trweo3ncfc6e.jpg"
@@ -426,7 +426,7 @@
     {
         "titulo": "Após fugir do Brasil, Ramagem diz que está nos EUA com 'anuência' do governo americano",
         "link": "https://www.terra.com.br/noticias/brasil/politica/ramagem-diz-que-esta-nos-eua-com-anuencia-do-governo-americano-logico-que-eu-nao-ia-ficar-no-brasil,c683eeb247e465a38f7df7cb24b87ecfxumhcvrg.html",
-        "data": "25/11/2025 03:47",
+        "data": "25/11/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/24/ramagem-vbbvykbef52b.PNG"
@@ -434,7 +434,7 @@
     {
         "titulo": "Mulher que teve nariz arrancado por cachorro compartilha resultado após 16 cirurgias",
         "link": "https://www.terra.com.br/vida-e-estilo/mulher-que-teve-nariz-arrancado-por-cachorro-compartilha-resultado-apos-16-cirurgias,b7bc0fcc2f4258f72b105a1d773ace4bz2k1lqjz.html",
-        "data": "25/11/2025 03:47",
+        "data": "25/11/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/24/jordan-s18dbxk4fjn7.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Presidente do Banco Master, Daniel Vorcaro, é transferido para presídio em SP",
         "link": "https://www.terra.com.br/noticias/presidente-do-banco-master-e-transferido-para-presidio-em-sp,9a3e5c3fab18b38b5980418ebcf3dee8yyps8sew.html",
-        "data": "25/11/2025 03:47",
+        "data": "25/11/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/22/1112947159-xkmldlhhobaqpaduty6qibjvfi.png"
@@ -450,7 +450,7 @@
     {
         "titulo": "'Banheiro VIP' da Latam gera queixas na web; companhia aérea se defende",
         "link": "https://www.terra.com.br/economia/banheiro-vip-da-latam-gera-queixas-na-web-companhia-aerea-se-defende,8fc69cab470ac40cdcb16876409e7708gafb9to4.html",
-        "data": "25/11/2025 03:47",
+        "data": "25/11/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/17/1140237205-pbgilpb5djcvleagfnwt4sd2xi.jpg"
@@ -458,7 +458,7 @@
     {
         "titulo": "Lutador morre após desmaiar durante luta nos Estados Unidos",
         "link": "https://www.terra.com.br/esportes/lutas/lutador-morre-apos-desmaiar-durante-luta-nos-estados-unidos,2957750dd11e74f59e53865a0dc625eeox64gh7d.html",
-        "data": "25/11/2025 03:47",
+        "data": "25/11/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/24/37758492_10157536797772388_245320311380115456_n-sknaudxezaye.jpg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Jogadora de vôlei do Tijuca é baleada em tentativa de assalto: 'Nasci de novo'",
         "link": "https://www.terra.com.br/esportes/volei/jogadora-de-volei-do-tijuca-e-baleada-em-tentativa-de-assalto-no-rj-nasci-de-novo,4748076cff2ee2e7bc986adf0656edc7e5k46srr.html",
-        "data": "25/11/2025 03:47",
+        "data": "25/11/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/24/whatsapp-image-2025-11-24-at-14-36-03-1jy262vy0z3g1.jpeg"
@@ -474,7 +474,7 @@
     {
         "titulo": "Jogador do Everton é expulso após discussão com próprio companheiro",
         "link": "https://www.terra.com.br/esportes/futebol/internacional/inglaterra/campeonato-ingles/jogador-do-everton-e-expulso-apos-discussao-com-companheiro-em-vitoria-sobre-o-united,1b9aea5c14d8959bd7bc14f76ddc1c03ar1xq4br.html",
-        "data": "25/11/2025 03:47",
+        "data": "25/11/2025 06:27",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/24/gettyimages-2247740520-1iync1x3js4s0.jpg"
