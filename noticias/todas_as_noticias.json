@@ -1,5 +1,61 @@
 [
     {
+        "titulo": "‘Pior do que viver com HIV é não saber que vive com o vírus’, alerta infectologista",
+        "link": "https://g1.globo.com/saude/noticia/2025/12/01/dia-mundial-combate-aids-avancos-desafios-perspectivas-virus-infectologista.ghtml",
+        "data": "01/12/2025 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/T3-Ew4lhqN22H9sUL-hG_TBEfVw=/7360x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/U/S/VGSuaIR623VX6rZ2c1Jg/adobestock-230464616-1-.jpeg"
+    },
+    {
+        "titulo": "Quarto privativo, cama e TV de 32\": como é o avião que fará voo mais longo do mundo",
+        "link": "https://g1.globo.com/inovacao/noticia/2025/12/01/quarto-privativo-cama-e-tv-de-32-como-e-o-aviao-que-fara-voo-mais-longo-do-mundo.ghtml",
+        "data": "01/12/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/X1Q3e6WFHoc4VnBwLMI6OgqoBjA=/3836x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/k/knwABBRgCU51DND7bmlg/qantas-airbus-a350-1000ulr.jpg"
+    },
+    {
+        "titulo": "Mulher que morreu com filhos em incêndio sofria violência e tentou se separar do companheiro, diz irmã: 'Não aguentava mais'",
+        "link": "https://g1.globo.com/pe/pernambuco/noticia/2025/12/01/mulher-que-morreu-com-filhos-em-incendio-sofria-violencia-e-tentou-se-separar-do-companheiro-diz-irma-nao-aguentava-mais.ghtml",
+        "data": "01/12/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Dj9xfs9cwQlM7ZXBqpbwTm1A8ac=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/R/3nZGefSDidjzYHcim4pQ/incendio-nova-caxanga.jpg"
+    },
+    {
+        "titulo": "Vovô viaja 600 km de Fusca até o 'fim do mundo' para presentear neto no RS; veja VÍDEO da reação",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/12/01/vovo-viaja-600-km-de-fusca-ate-o-fim-do-mundo-para-presentear-neto-no-rs-veja-video-da-reacao.ghtml",
+        "data": "01/12/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/CplG1O3jDvtUJJ1z6Z_UJ0AfScI=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14138787.jpg"
+    },
+    {
+        "titulo": "Com apoio de Trump, conservador Nasry Asfura sai na frente em eleição presidencial de Honduras; votos ainda estão sendo contados",
+        "link": "https://g1.globo.com/mundo/noticia/2025/12/01/eleicao-presidencial-de-honduras.ghtml",
+        "data": "01/12/2025 05:06",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/0buSwuW0inpAIsX8CgH7CzB9qYw=/5853x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/6/t/HLRjdJRHucbcFYJCIURQ/2021-11-26t191207z-1774736956-rc2f2r9z6ksi-rtrmadp-3-honduras-election-asfura.jpg"
+    },
+    {
+        "titulo": "Educação Financeira #320: comprar, alugar ou assinar um veículo? Veja o que vale a pena",
+        "link": "https://g1.globo.com/podcast/educacao-financeira/noticia/2025/12/01/educacao-financeira-320-comprar-alugar-ou-assinar-um-veiculo-veja-o-que-vale-a-pena.ghtml",
+        "data": "01/12/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/siR0DXH3t3p_4_BgtYfmg7Jeotk=/3001x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/R/J/MuJip4RGuCfxAVFV3yag/podcasts-3000x1688-sem-logo-15.png"
+    },
+    {
+        "titulo": "Caso Benício: veja a cronologia do atendimento que levou à morte de criança após aplicação de adrenalina",
+        "link": "https://g1.globo.com/am/amazonas/noticia/2025/12/01/caso-benicio-veja-a-cronologia-do-atendimento-que-levou-a-morte-de-crianca-apos-aplicacao-de-adrenalina.ghtml",
+        "data": "01/12/2025 04:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/5pmyZJb_QVuxWGf-njzC32WS7f4=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/y/C/vrgBtATEqPsc1wQu7gHQ/crianca-morre-adrenalina-manaus.jpg"
+    },
+    {
         "titulo": "China x EUA: a guerra pela energia limpa - O Assunto #1610",
         "link": "https://g1.globo.com/podcast/o-assunto/noticia/2025/12/01/china-x-eua-a-guerra-pela-energia-limpa-o-assunto-1610.ghtml",
         "data": "01/12/2025 03:30",
@@ -24,60 +80,12 @@
         "image": "https://s2-g1.glbimg.com/kVKXGiMCguC5s8Q1Cyew5GgG7ls=/1280x0/filters:format(jpeg)/https://s03.video.glbimg.com/x720/14141210.jpg"
     },
     {
-        "titulo": "Ainda não recebeu o 13º salário? Saiba o que fazer",
-        "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2025/12/01/ainda-nao-recebeu-o-13o-salario-saiba-o-que-fazer.ghtml",
-        "data": "01/12/2025 03:00",
-        "fonte": "G1",
+        "titulo": "Gotham Awards: saiba como assistir à premiação",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/gotham-awards-saiba-como-assistir-a-premiacao/",
+        "data": "01/12/2025 05:00",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/GKvwlhhBWC8WEj_ApK4YAessXkA=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14054147.jpg"
-    },
-    {
-        "titulo": "CNU 2025: governo divulga nesta segunda os locais das provas discursivas; veja como acessar",
-        "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2025/12/01/cnu-2025-locais-das-provas-discursivas-veja-como-acessar.ghtml",
-        "data": "01/12/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/FI2JiUQELrxzds_zKhm4oC_uxMk=/1300x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/j/e/D3NNhwQy2PTJRBn2phTw/concurso-caxias.jpg"
-    },
-    {
-        "titulo": "Dezembro começa com aviso de tempestade em parte do RS; saiba como fica o tempo no estado",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/12/01/dezembro-comeca-com-aviso-de-tempestade-em-parte-do-rs-saiba-como-fica-o-tempo-no-estado.ghtml",
-        "data": "01/12/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/q4wpytCajL8v_v98n1_3ZvlT2TY=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/Y/WsYrX8TMefaZCgTYIESA/g1-1200-x-675-px-87-.png"
-    },
-    {
-        "titulo": "Estudo aponta avanço da vegetação e do degelo na Antártica; cientista alerta para efeitos no Brasil",
-        "link": "https://g1.globo.com/meio-ambiente/noticia/2025/12/01/estudo-aponta-avanco-da-vegetacao-e-do-degelo-na-antartica-cientista-alerta-para-efeitos-no-brasil.ghtml",
-        "data": "01/12/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/riHafGZbdL-K1wxFgd7Cpb5izdQ=/2592x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/8/0/7nVDk0TBCQLAZ604ZT4A/livre-gelo3.jpg"
-    },
-    {
-        "titulo": "O que se sabe sobre o caso do homem que entrou na jaula de leoa, foi atacado e morreu em zoológico de João Pessoa",
-        "link": "https://g1.globo.com/pb/paraiba/noticia/2025/12/01/o-que-se-sabe-homem-invade-jaula-leoa-morre-bica-joao-pessoa.ghtml",
-        "data": "01/12/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/VD0BfmFVMP7S-7Bp7cdeWu5z--M=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/m/NeO34MSPa35ALaHmA22g/policia-bica.jpg"
-    },
-    {
-        "titulo": "Danilo conta o que pensou antes e depois do gol do título da Libertadores; VÍDEO",
-        "link": "https://g1.globo.com/fantastico/noticia/2025/11/30/danilo-conta-o-que-pensou-antes-e-depois-do-gol-do-titulo-da-libertadores-video.ghtml",
-        "data": "01/12/2025 02:37",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/jZvZ9iRyXFqoGKeLfuft0BSTfjU=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/q/YBe5fRSOamFOTNFNrb9w/globo-canal-5-92-frame-67733.jpeg"
-    },
-    {
-        "titulo": "Prisão de brasileira nos EUA chama a atenção pelo vínculo com autoridade do governo de Donald Trump",
-        "link": "https://g1.globo.com/fantastico/noticia/2025/11/30/prisao-de-brasileira-nos-eua-chama-a-atencao-pelo-vinculo-com-autoridade-do-governo-de-donald-trump.ghtml",
-        "data": "01/12/2025 02:04",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/LDmTVDAFPf6AE2dgjwJDTTHBNlI=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/w/z0I2t8T1uCJ8QqbMrl1g/globo-canal-5-92-frame-20244.jpeg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/wagner-moura-oscar-e1763403635108.jpg?w=1080&h=630&crop=1"
     },
     {
         "titulo": "Gotham Awards 2025: confira a lista completa de indicados",
@@ -150,14 +158,6 @@
         "fonte": "CNN Brasil",
         "metodo": "RSS",
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/influenciador-famosos.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "À CNN, Jardim projeta semi da Copa do Brasil entre Cruzeiro e Corinthians",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/a-cnn-jardim-projeta-semi-da-copa-do-brasil-entre-cruzeiro-e-corinthians/",
-        "data": "01/12/2025 00:30",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/leonardo-jardim-cruzeiro-cnn-esportes-sa.jpeg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Horóscopo do dia: previsão para os 12 signos em 01/12/2025",
@@ -240,6 +240,14 @@
         "image": "https://jpimg.com.br/uploads/2025/11/54938745327_35b6cb8289_k-1024x682.jpg"
     },
     {
+        "titulo": "Desafio de Matemática: Super Fantino 2",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2025/12/desafio-de-matematica-super-fantino-2.shtml",
+        "data": "01/12/2025 05:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/14/176314888469178454d06a4_1763148884_3x2_lg.jpg"
+    },
+    {
         "titulo": "Trump diz que investigará suposta ordem do secretário de Defesa de 'matar todos' em ataque a barco no Caribe",
         "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/12/trump-diz-que-investigara-suposta-ordem-do-secretario-de-defesa-de-matar-todos-em-ataque-a-barco-no-caribe.shtml",
         "data": "01/12/2025 03:13",
@@ -310,14 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2025/11/07/1762552170690e696ae868c_1762552170_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Quilombolas no Maranhão enfrentam fogo, seca e agrotóxicos sob ameaça de morte",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/11/quilombolas-no-maranhao-enfrentam-fogo-seca-e-agrotoxicos-sob-ameaca-de-morte.shtml",
-        "data": "01/12/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/19/175832416668cde5c67a955_1758324166_3x2_rt.jpg"
     },
     {
         "titulo": "Lula fala que dinheiro ‘extra’ com isenção do IR pode virar uma TV para assistir a Copa",
@@ -402,7 +402,7 @@
     {
         "titulo": "Confusão marca celebração do Flamengo no Centro do Rio e PM usa gás e balas de borracha",
         "link": "https://www.terra.com.br/esportes/flamengo/confusao-marca-celebracao-do-flamengo-no-centro-do-rio-e-pm-usa-gas-e-balas-de-borracha,7c18c4db38ac5f088802e1e8c2b1fc29xdbqjwfw.html",
-        "data": "01/12/2025 04:08",
+        "data": "01/12/2025 06:28",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
@@ -410,7 +410,7 @@
     {
         "titulo": "Jovem morto por leoa tinha esquizofrenia e histórico de vulnerabilidade",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/jovem-morto-ao-invadir-recinto-de-leoa-em-joao-pessoa-tinha-esquizofrenia-e-historico-de-vulnerabilidade,1fed2bbe854b6114dfa761eebf7b9e505hguw728.html",
-        "data": "01/12/2025 04:08",
+        "data": "01/12/2025 06:28",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/01/saveinsta-to_590874092_18542758675057729_8094355454872556831_n-uvjpppk4v8z4.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "'Palmeiras não tem Mundial': jogadores do Flamengo zoam rival em festa",
         "link": "https://www.terra.com.br/esportes/futebol/palmeiras-nao-tem-mundial-jogadores-do-flamengo-zoam-rival-em-festa,d5b08fd7a0809f473fab714d361f79f04dlrwwq3.html",
-        "data": "01/12/2025 04:08",
+        "data": "01/12/2025 06:28",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/30/fta20251130095-1k1uhcr6e9nj8.jpg"
@@ -426,7 +426,7 @@
     {
         "titulo": "Em jogo movimentado, Corinthians e Botafogo ficam no empate em Itaquera",
         "link": "https://www.terra.com.br/esportes/corinthians/em-jogo-movimentado-corinthians-e-botafogo-ficam-no-empate-em-itaquera,297a3f099e315a20c6f4ddcb4768103905ugj5ah.html",
-        "data": "01/12/2025 04:08",
+        "data": "01/12/2025 06:28",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/30/993596577-54955950179137bfa127fk-1-610x400.jpg"
@@ -434,7 +434,7 @@
     {
         "titulo": "Cachorro de cantor morre de infarto com fogos da final da Libertadores",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/cachorro-de-cantor-morre-de-infarto-com-fogos-da-final-da-libertadores,2b2a362e608a2c327302d83a94f5d50cs9sjcu3o.html",
-        "data": "01/12/2025 04:08",
+        "data": "01/12/2025 06:28",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/30/ozzy-t4yfu8s1vtk1.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Homem que trabalhava como Papai Noel em shopping é preso por estupro",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/homem-que-trabalhava-como-papai-noel-em-shopping-e-preso-por-estupro-de-vulneravel,0fab96b96b184d6708f327da4a27bca5htwggcvv.html",
-        "data": "01/12/2025 04:08",
+        "data": "01/12/2025 06:28",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/30/papai-noel-preso-1hbfz2ry8jy3n.jpg"
@@ -450,7 +450,7 @@
     {
         "titulo": "Os macabros assassinatos para vender partes humanas à rituais de magia",
         "link": "https://www.terra.com.br/noticias/mundo/os-macabros-assassinatos-para-vender-partes-humanas-para-rituais-de-magia,5e0795ba4192e2cf0978c3504bba7651vgeuan6t.html",
-        "data": "01/12/2025 04:08",
+        "data": "01/12/2025 06:28",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/30/786846110-64b8d1d0-c6f0-11f0-8c06-f5d460985095.jpg"
@@ -458,7 +458,7 @@
     {
         "titulo": "Mulher tem pernas amputadas após ser atropelada e arrastada por 1 km em SP",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/mulher-tem-pernas-amputadas-apos-ser-atropelada-e-arrastada-por-1-km-em-sp,6da39f22bfdef0254a9c8890440b2a1cz04b0xva.html",
-        "data": "01/12/2025 04:08",
+        "data": "01/12/2025 06:28",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/30/2046734894-2civjvit5bg43aef2xnoio4u2m.jpeg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Taça do Flamengo quebra durante festa do título da Libertadores",
         "link": "https://www.terra.com.br/esportes/futebol/taca-do-flamengo-quebra-durante-festa-do-titulo-da-libertadores,e6ab517762f31f0cb033f3cbdfffd33ctrnncxp4.html",
-        "data": "01/12/2025 04:08",
+        "data": "01/12/2025 06:28",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/30/age20251130024-r1iwnglbfjn4.jpg"
@@ -474,7 +474,7 @@
     {
         "titulo": "Ana Thaís Matos revela loucura que fez para ver final do Corinthians na Libertadores",
         "link": "https://www.terra.com.br/esportes/futebol/ana-thais-matos-revela-loucura-que-fez-para-ver-final-do-corinthians-na-libertadores,7a585385583ac15f1e8c2dd0dcf0742108ok0cuy.html",
-        "data": "01/12/2025 04:08",
+        "data": "01/12/2025 06:28",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/30/captura-de-tela-2025-11-30-202147-qhnbsdo0xr1v.png"
