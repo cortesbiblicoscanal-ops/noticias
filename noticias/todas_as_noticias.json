@@ -1,11 +1,35 @@
 [
     {
-        "titulo": "Duas pessoas são encontradas mortas em casa do ator e diretor Rob Reiner em Los Angeles, diz mídia local",
+        "titulo": "Enquanto trabalhava em livro infantil sobre autismo, ilustrador se identifica com protagonista e procura diagnóstico",
+        "link": "https://g1.globo.com/pr/parana/noticia/2025/12/15/enquanto-trabalhava-em-livro-infantil-sobre-autismo-ilustrador-se-identifica-com-protagonista-e-procura-diagnostico.ghtml",
+        "data": "15/12/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/n1wELeTvD5ZYzsfVg669ajIV1lg=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/H/hCijTbRB6l0tVUX0TUNA/whatsapp-image-2025-12-02-at-17.49.07.jpeg"
+    },
+    {
+        "titulo": "Justiça demora, em média, 429 dias para começar a analisar casos de violência doméstica no Brasil",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2025/12/15/justica-demora-em-media-429-dias-para-comecar-a-analisar-casos-de-violencia-domestica-no-brasil.ghtml",
+        "data": "15/12/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/BeQpTaOFEl9SnItTWQ0Ad__9QeY=/6000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/a/fWWbIqRMm1CPJWivzPgQ/fta20251207283.jpg"
+    },
+    {
+        "titulo": "Ataque na Universidade Brown: polícia vai liberar 'pessoa de interesse' presa após o crime",
+        "link": "https://g1.globo.com/mundo/noticia/2025/12/15/ataque-universidade-brown-policia-pessoa-de-interesse.ghtml",
+        "data": "15/12/2025 04:10",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/tVV_50fXbGn3a4Xmr5s8IQhzJJE=/2400x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/Q/WrrUBkTJAVuwzw9uAh5g/ap25347824405782.jpg"
+    },
+    {
+        "titulo": "Rob Reiner, ator e diretor, e esposa são encontrados mortos em casa",
         "link": "https://g1.globo.com/pop-arte/noticia/2025/12/15/mortos-casa-rob-reiner-los-angeles.ghtml",
         "data": "15/12/2025 03:31",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/ZlCrkjejDbciZANOVlEaS6YQMNA=/3864x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/e/z/5FfbyWRoyBv6QuLfbo1g/ap25349115050265.jpg"
+        "image": "https://s2-g1.glbimg.com/HrbCkFYQ1LujgMgL2qWuM-B7XTg=/2333x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/Z/Jl6I8ARkiJIr3YjEg3Vg/2025-12-15t044825z-249906784-rc2rgiaj8ztz-rtrmadp-3-people-rob-reiner.jpg"
     },
     {
         "titulo": "Feminicídio: a barbárie que se repete - O Assunto #1620",
@@ -56,36 +80,28 @@
         "image": "https://s2-g1.glbimg.com/GExbGd6GwU3UZVIjUjFkm8NtRDg=/355x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/Z/7lhyVnQxajOHJvqyTZhA/imagem1.jpg"
     },
     {
-        "titulo": "Novas gerações herdam a crise da Mata Atlântica e começam a liderar soluções",
-        "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/especial-publicitario/maple-bear-penedo-muito-alem-do-bilingue/noticia/2025/12/15/novas-geracoes-herdam-a-crise-da-mata-atlantica-e-comecam-a-liderar-solucoes.ghtml",
-        "data": "15/12/2025 03:00",
-        "fonte": "G1",
+        "titulo": "Fraudes bancárias crescem 220% no 1º semestre, diz relatório",
+        "link": "https://www.cnnbrasil.com.br/economia/negocios/fraudes-bancarias-crescem-220-no-1o-semestre-diz-relatorio/",
+        "data": "15/12/2025 06:00",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/RXWj5zucyJLBddcgXgRW95YcoKo=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/k/Z9LBVBRmyjYBaoBaQw6Q/imagem5.png"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/fraude-bancaria.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Saiba quem era o cantor de banda de forró que morreu após acidente de moto em Feira de Santana",
-        "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2025/12/15/saiba-quem-era-o-cantor-de-banda-de-forro-que-morreu-apos-acidente-de-moto-em-feira-de-santana.ghtml",
-        "data": "15/12/2025 03:00",
-        "fonte": "G1",
+        "titulo": "Polícia dos EUA libera suspeito de ataque na Universidade Brown",
+        "link": "https://www.cnnbrasil.com.br/internacional/policia-dos-eua-libera-suspeito-de-ataque-na-universidade-brown/",
+        "data": "15/12/2025 05:57",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/w-na0ScxsOvDRY2zJIuV5f-3QEc=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/V/I/pHclfTShAQD4YRiLcUzw/morte-vocalista-feira-de-santana-3-.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/GettyImages-2251197210.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Frente fria traz chuvas de volta à cidade de SP nesta semana; veja a previsão",
-        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/12/15/frente-fria-traz-chuvas-de-volta-a-cidade-de-sp-nesta-semana-veja-a-previsao.ghtml",
-        "data": "15/12/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/e9XnUuFgc5owWaK3AoKoeL7mdkI=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/e/R/YWz9MiQlGQlfGTFDM8vA/whatsapp-image-2025-12-12-at-15.30.38.jpeg"
-    },
-    {
-        "titulo": "Duas pessoas são encontradas mortas na casa do ator e diretor Rob Reiner",
+        "titulo": "Ator e diretor Rob Reiner e esposa são encontrados mortos em casa",
         "link": "https://www.cnnbrasil.com.br/internacional/duas-pessoas-sao-encontradas-mortas-na-casa-do-ator-e-diretor-rob-reiner/",
         "data": "15/12/2025 03:54",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/GettyImages-2235654532.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/GettyImages-1133915701.jpg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Copa do Brasil: CBF contraria atletas do Vasco e anuncia final no Maracanã",
@@ -142,22 +158,6 @@
         "fonte": "CNN Brasil",
         "metodo": "RSS",
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/Ney-Matogrosso-244-e1765763620858.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Dorival reclama de “desrespeito” contra técnicos brasileiros: “Lamentável”",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/dorival-reclama-de-desrespeito-contra-tecnicos-brasileiros-lamentavel/",
-        "data": "15/12/2025 01:51",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/Dorival-Junior--e1763995168729.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Vasco bate Fluminense e enfrenta o Corinthians na final da Copa do Brasil",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/vasco-derrota-o-fluminense-nos-penaltis-e-vai-a-final-da-copa-do-brasil/",
-        "data": "15/12/2025 01:46",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/comemoracao_vasco-e1765763937558.jpg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Horóscopo do dia: previsão para os 12 signos em 15/12/2025",
@@ -240,6 +240,14 @@
         "image": "https://jpimg.com.br/uploads/2023/05/design-sem-nome-2023-05-07t233851.175.png"
     },
     {
+        "titulo": "Diretor hollywoodiano Rob Reiner e sua esposa, Michele Singer, são encontrados mortos em casa",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2025/12/policia-encontra-duas-pessoas-mortas-na-casa-do-ator-e-diretor-rob-reiner.shtml",
+        "data": "15/12/2025 04:23",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/12/15/1765776652693f9d0ca77fa_1765776652_3x2_rt.jpg"
+    },
+    {
         "titulo": "Magnata da mídia é considerado culpado por violar a Lei de Segurança Nacional em Hong Kong",
         "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/12/magnata-da-midia-e-considerado-culpado-por-violar-a-lei-de-seguranca-nacional-em-hong-kong.shtml",
         "data": "15/12/2025 03:44",
@@ -310,14 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2025/02/03/173862748467a1599c659c1_1738627484_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Financiamento dos EUA a mineradoras brasileiras antecipa acordo por terras raras com Brasil",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/12/financiamento-dos-eua-a-mineradoras-brasileiras-antecipa-acordo-por-terras-raras-com-brasil.shtml",
-        "data": "15/12/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/07/25/17534627766883b7f85fba2_1753462776_3x2_lg.jpg"
     },
     {
         "titulo": "Qual foi o placar do jogo do Corinthians hoje, 14?",
@@ -402,7 +402,7 @@
     {
         "titulo": "Corinthians vence nos pênaltis e vai à final da Copa do Brasil",
         "link": "https://www.terra.com.br/esportes/futebol/corinthians-vence-nos-penaltis-e-vai-a-final-da-copa-do-brasil,a9ff6fdb765b8eb013da657bcf38ff2erl3wayvu.html",
-        "data": "15/12/2025 04:03",
+        "data": "15/12/2025 06:30",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/14/22576267-corinthians-cruzeiro-semifinal-copa-do-brasil.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Quem é José Antonio Kast, aliado de Bolsonaro eleito presidente do Chile",
         "link": "https://www.terra.com.br/noticias/mundo/quem-e-jose-antonio-kast-aliado-de-bolsonaro-eleito-presidente-do-chile-prometendo-linha-dura-na-seguranca,189a6b47ae979b1e4bd1b019d7cb992f27ogzb70.html",
-        "data": "15/12/2025 04:03",
+        "data": "15/12/2025 06:30",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/14/1992381859-8ae7e630-c357-11f0-be76-9f1ac698089f.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Bolsonaro passa por exames na prisão e terá de ser submetido a cirurgia, diz advogado",
         "link": "https://www.terra.com.br/noticias/brasil/politica/bolsonaro-passa-por-exames-na-prisao-e-tera-de-ser-submetido-a-cirurgia-diz-advogado,018382f8e438292517c40b70fa1aa0cebhbplwoq.html",
-        "data": "15/12/2025 04:03",
+        "data": "15/12/2025 06:30",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/14/1656319404-zwyvfr572rhg5lmq6tjdccjpoy.jpg"
@@ -426,7 +426,7 @@
     {
         "titulo": "Gabigol é do Corinthians? Atacante vira alvo de piada após eliminação do Cruzeiro",
         "link": "https://www.terra.com.br/esportes/futebol/gabigol-e-do-corinthians-atacante-vira-alvo-de-piada-na-web-apos-eliminacao-do-cruzeiro,32094942e4b19fec604f872ff292d4caaf2oh1xc.html",
-        "data": "15/12/2025 04:03",
+        "data": "15/12/2025 06:30",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/15/design-sem-nome-2025-12-14t220758-895-1hrrii7cjw21x.png"
@@ -434,7 +434,7 @@
     {
         "titulo": "Por que final da Copa do Brasil entre Corinthians e Vasco é péssima notícia para o São Paulo?",
         "link": "https://www.terra.com.br/esportes/futebol/por-que-final-da-copa-do-brasil-entre-corinthians-e-vasco-e-pessima-noticia-para-o-sao-paulo,160bf752a92ce0bc5e2b3d01424aa4c2cvvythun.html",
-        "data": "15/12/2025 04:03",
+        "data": "15/12/2025 06:30",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/05/1426828293-szpb4uoe75c7jhi3ekvrgclhqy.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Entenda por que Zambelli optou pela renúncia ao mandato e qual sua estratégia",
         "link": "https://www.terra.com.br/noticias/brasil/politica/entenda-por-que-zambelli-optou-pela-renuncia-ao-mandato-e-qual-sua-estrategia,fe2e4563de184925c2428dc62c97c0390w5yk3rs.html",
-        "data": "15/12/2025 04:03",
+        "data": "15/12/2025 06:30",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
@@ -450,7 +450,7 @@
     {
         "titulo": "Autores de ataque na Austrália são pai e filho, diz polícia",
         "link": "https://www.terra.com.br/noticias/mundo/autores-de-ataque-na-australia-sao-pai-e-filho-diz-policia,c82185111b7d844dc1672c7d147a6f0cxuo80kcn.html",
-        "data": "15/12/2025 04:03",
+        "data": "15/12/2025 06:30",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/14/13010022-215c7430-d8db-11f0-b67b-690eb873de1b.png"
@@ -458,7 +458,7 @@
     {
         "titulo": "Enel diz que fornecimento de energia 'está normalizando', mas há 'casos complexos'",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/enel-diz-que-esta-normalizando-fornecimento-de-energia-mas-ha-casos-mais-complexos-por-resolver,63855c284174989cd07cc3c81e361ec96e28u1kt.html",
-        "data": "15/12/2025 04:03",
+        "data": "15/12/2025 06:30",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/14/1550641950-igcqojeokjeotoby3hr465obxi.jpg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Corinthians brinca com vitória sobre o Cruzeiro: 'Rei de Copas está fora'",
         "link": "https://www.terra.com.br/esportes/futebol/corinthians-brinca-com-vitoria-sobre-o-cruzeiro-rei-de-copas-esta-fora-veja-outros-memes,bd91409485a64285e514c1c8db9f5a7f0s88wcea.html",
-        "data": "15/12/2025 04:03",
+        "data": "15/12/2025 06:30",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/15/design-sem-nome-2025-12-14t213758-899-s1efnv2knfav.png"
@@ -474,7 +474,7 @@
     {
         "titulo": "FIA ajusta regras de aerodinâmica ativa para evitar riscos em 2026",
         "link": "https://www.f1mania.net/f1/f1-fia-ajusta-regras-de-aerodinamica-ativa-para-evitar-riscos-em-2026/?utm_source=terra_capa&utm_medium=referral",
-        "data": "15/12/2025 04:03",
+        "data": "15/12/2025 06:30",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://www.f1mania.net/wp-content/uploads/2025/12/XPB_1392160_HiRes-Custom.jpg"
