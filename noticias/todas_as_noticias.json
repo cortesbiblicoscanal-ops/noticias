@@ -1,83 +1,91 @@
 [
     {
+        "titulo": "Escalado para o Natal ou Réveillon? Veja direitos, folgas e tudo que o trabalhador precisa saber",
+        "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2025/12/22/escalado-para-o-natal-ou-reveillon-o-que-o-trabalhador-precisa-saber.ghtml",
+        "data": "22/12/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/ga_oxPxRrkEwOOIVI39jT27HNSs=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/B/RjevnoQoK31t9MforKBg/imagem-cortada-81-.jpg"
+    },
+    {
+        "titulo": "Preço do café pode continuar caindo em 2026, mas não vai ficar barato",
+        "link": "https://g1.globo.com/economia/agronegocios/noticia/2025/12/22/preco-do-cafe-pode-continuar-caindo-em-2026-mas-nao-vai-ficar-barato.ghtml",
+        "data": "22/12/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/ZYttwVq2oFBHaNKmVRvMY13KRRY=/5721x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/X/5v4v2VRvGMkmuA9W3sEg/mike-kenneally-tnaloizhqvm-unsplash.jpg"
+    },
+    {
+        "titulo": "Samu ou Corpo de Bombeiros? Saiba para quem ligar no Paraná em acidentes de trânsito, quedas, dores no peito e outras ocorrências",
+        "link": "https://g1.globo.com/pr/parana/noticia/2025/12/22/samu-bombeiros-saiba-quem-ligar-parana-acidentes-transito-quedas-dores-peito-ocorrencias.ghtml",
+        "data": "22/12/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/xipZWX02Th-l5ExMSALk-DLOUJs=/1800x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/r/ffNrWXT8OrDEASxG8cXw/g1-10-.png"
+    },
+    {
+        "titulo": "Família viaja à Alemanha para buscar filhos e corpo de pernambucana morta após vazamento de gás: 'A gente não sabe de nada', diz filha",
+        "link": "https://g1.globo.com/pe/pernambuco/noticia/2025/12/22/familia-viaja-a-alemanha-para-buscar-filhos-e-corpo-de-pernambucana-morta-apos-vazamento-de-gas-a-gente-nao-sabe-de-nada-diz-filha.ghtml",
+        "data": "22/12/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/yjSYERyGCozWXXtrZOpiUD95dRg=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/n/D/B7Ma69QNG7LH4LBM5OIA/viagem-familia-alemanha.jpeg"
+    },
+    {
+        "titulo": "Prefeitura desapropria prédio com comércio ativo em Botafogo; vereador e moradores apontam ilegalidade",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/12/22/prefeitura-desapropria-predio-com-comercio-ativo-em-botafogo-vereador-e-moradores-apontam-ilegalidade.ghtml",
+        "data": "22/12/2025 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/dvhScY2Blr5qBND3pMwiaGnBBCw=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/v/1/k9A8PiQPWf5mEAB4eSow/imagem-cortada-72-.jpg"
+    },
+    {
+        "titulo": "Japão se prepara para reiniciar a maior usina nuclear do mundo, 15 anos após Fukushima",
+        "link": "https://g1.globo.com/mundo/noticia/2025/12/22/japao-reiniciar-maior-usina-nuclear-do-mundo.ghtml",
+        "data": "22/12/2025 05:20",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Z6JrM81JcjTniJQgzCFdR9rVFwg=/4259x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/t/B/AKANdBTaijtBIigHBduA/2025-12-21t215700z-1769279266-rc2qkiawjo6i-rtrmadp-3-japan-nuclearpower.jpg"
+    },
+    {
+        "titulo": "'Adote uma cartinha': abrigo de pets no DF cria ação de Natal para estimular doação e adoção",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2025/12/22/adote-uma-cartinha-abrigo-de-pets-no-df-cria-acao-de-natal-para-estimular-doacao-e-adocao.ghtml",
+        "data": "22/12/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/NWuPGZcKANBRNX18vNTGWRnAwAw=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/D/asMAqbR8yUDerMB9KUkA/whatsapp-image-2025-12-12-at-15.16.38-1-.jpeg"
+    },
+    {
+        "titulo": "Condenado a 153 anos: quem é o chefe de facção do RS procurado pela Interpol que já planejou fuga em massa de presídio",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/12/22/condenado-a-153-anos-quem-e-o-chefe-de-faccao-do-rs-procurado-pela-interpol-que-ja-planejou-fuga-em-massa-de-presidio.ghtml",
+        "data": "22/12/2025 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/CU423tbu40Dl6_bJgRQKjpaZZoA=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/j/NcpttNQfKmB7p3FHqjGg/g1-1200-x-675-px-28-.png"
+    },
+    {
+        "titulo": "Calor ganha força na cidade de SP até o Natal, com chance de pancadas de chuva na quinta",
+        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/12/22/calor-ganha-forca-na-cidade-de-sp-ate-o-natal-com-chance-de-pancadas-de-chuva-na-quinta.ghtml",
+        "data": "22/12/2025 04:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/LUPSTJoPrCzVf9TgPd92I6J3Ax8=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/J/E/rry3DIS6Wu53bZDt77sw/ato20251221098.jpg"
+    },
+    {
         "titulo": "Amigo secreto do Fantástico: veja quem tirou quem",
         "link": "https://g1.globo.com/fantastico/playlist/amigo-secreto-do-fantastico-veja-quem-tirou-quem.ghtml",
         "data": "22/12/2025 03:43",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1"
+        "image": "http://s2.glbimg.com/GQ_Wf-F3BSzTAbRslD1xMG5r01Q=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/48/84/14198448"
     },
     {
-        "titulo": "O 2025 de embates políticos e os sinais para 2026 - O Assunto #1625",
-        "link": "https://g1.globo.com/podcast/o-assunto/noticia/2025/12/22/o-2025-de-embates-politicos-e-os-sinais-para-2026-o-assunto-1625.ghtml",
-        "data": "22/12/2025 03:30",
-        "fonte": "G1",
+        "titulo": "Mega da Virada: tudo que você precisa saber para o sorteio de Ano Novo",
+        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/mega-da-virada-tudo-que-voce-precisa-saber-para-o-sorteio-de-ano-novo/",
+        "data": "22/12/2025 06:10",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/uCkPmjy7nHuBSVdzpuFC9ImpJfs=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/a/2/zE32BJQGSjMNqkY1NY0g/tony-winston-agencia-brasilia.jpg"
-    },
-    {
-        "titulo": "Prefeitura de Montes Claros vai premiar inventores da cidade",
-        "link": "https://g1.globo.com/mg/grande-minas/especial-publicitario/pm-montes-claro/noticia/2025/12/22/prefeitura-de-montes-claros-vai-premiar-inventores-da-cidade.ghtml",
-        "data": "22/12/2025 03:03",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/UVZVTv2pYcVCv126U4ovb5IE0BI=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/x/YCOTdBRQ6izW2Bn1vBIA/vista-entardecer-solon-queiroz.jpeg"
-    },
-    {
-        "titulo": "Louças inteligentes da DAX levam inovação e praticidade para o dia a dia",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2025/12/22/loucas-inteligentes-da-dax-levam-inovacao-e-praticidade-para-o-dia-a-dia.ghtml",
-        "data": "22/12/2025 03:03",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/-o6EpiicHSKBJestm509AxrMEOU=/1253x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/U/D6OO5NTU2LvCZCwxzTWQ/foto-1-texto-15.png"
-    },
-    {
-        "titulo": "VÍDEO: veja como ficou andar do prédio após incêndio que matou três pessoas e pets no interior de SP",
-        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2025/12/22/video-veja-como-ficou-andar-do-predio-apos-incendio-que-matou-tres-pessoas-e-pets-no-interior-de-sp.ghtml",
-        "data": "22/12/2025 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/WKDAeXxUIe_MZsMtJSz7bfXsZG0=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/U/E/6L4pwvRLGSDKIWH45m3g/1200px-x-900px.png"
-    },
-    {
-        "titulo": "INSS inicia pagamento de benefícios de dezembro nesta segunda; veja calendário",
-        "link": "https://g1.globo.com/economia/noticia/2025/12/22/inss-pagamento-de-dezembro-veja-calendario.ghtml",
-        "data": "22/12/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/eE7rY4ip8BVtYB6BCzUoUlBmUOo=/4500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/x/r/SO8y8gRBikdBq34bU8xA/20231102-131516.jpg"
-    },
-    {
-        "titulo": "Recesso muda rotina do Judiciário, Congresso e Executivo; veja o que para e o que segue funcionando em Brasília",
-        "link": "https://g1.globo.com/politica/noticia/2025/12/22/recesso-muda-rotina-do-judiciario-congresso-e-executivo-veja-o-que-para-e-o-que-segue-funcionando-em-brasilia.ghtml",
-        "data": "22/12/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/7RskBG2L169WOW2_zTJv7pTEuiI=/4176x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/0/2/G50tsnReuz6DwvRdrisg/50902257451-9524de495e-o.jpg"
-    },
-    {
-        "titulo": "Rodízio de carros está suspenso na cidade de SP a partir desta segunda",
-        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/12/22/rodizio-de-carros-esta-suspenso-na-cidade-de-sp-a-partir-desta-segunda.ghtml",
-        "data": "22/12/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/wKxpSRmtRexATGdYgxekEvJTmpc=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/U/KqiVAtSI6qXWe6YiT64g/ato20251218002.jpg"
-    },
-    {
-        "titulo": "Verão começa com temporais e avisos meteorológicos no RS; veja a previsão para a semana do Natal",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/12/22/verao-comeca-com-temporais-e-avisos-meteorologicos-no-rs-veja-a-previsao-para-a-semana-do-natal.ghtml",
-        "data": "22/12/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/Dbs6AP-P4OylskaXDeue7zuij70=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/5/E/Na7HE2Ssqh45SDBHWiDA/g1-1200-x-675-px-29-.png"
-    },
-    {
-        "titulo": "O que se sabe e o que falta esclarecer sobre afogamento de irmãos de 4 anos na piscina de chácara no interior de SP",
-        "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2025/12/22/o-que-se-sabe-e-o-que-falta-esclarecer-sobre-afogamento-de-irmaos-de-4-anos-na-piscina-de-chacara-no-interior-de-sp.ghtml",
-        "data": "22/12/2025 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/O5kswmvA0V3A8srdXPuLr98bqE8=/1270x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/T/Q/scBYdAQG6neSfzk0dhEw/novo-projeto.png"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/12/44618857400_34173cecd8_o.jpg?w=1024&h=566&crop=1"
     },
     {
         "titulo": "Neymar passará por cirurgia nesta segunda em Belo Horizonte; entenda",
@@ -150,14 +158,6 @@
         "fonte": "CNN Brasil",
         "metodo": "RSS",
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/54857149024_bfc1830e2b_k.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Incêndio em apartamento mata três pessoas no interior de SP; veja vídeo",
-        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-em-apartamento-mata-tres-pessoas-no-interior-de-sp-veja-video/",
-        "data": "22/12/2025 00:54",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/MORREM-TECNICOS-BAHIA-7.png?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Horóscopo do dia: previsão para os 12 signos em 22/12/2025",
@@ -240,6 +240,14 @@
         "image": "https://jpimg.com.br/uploads/2025/08/crefisa2.png"
     },
     {
+        "titulo": "Imagens mostram perseguidor de Isis Valverde no condomínio da atriz",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2025/12/imagens-mostram-perseguidor-de-isis-valverde-no-condominio-da-atriz.shtml",
+        "data": "22/12/2025 05:02",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/12/22/17663788636948cd6f440d0_1766378863_3x2_lg.jpg"
+    },
+    {
         "titulo": "Desafio de Matemática: Cartas em Ordem",
         "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2025/12/desafio-de-matematica-cartas-em-ordem.shtml",
         "data": "22/12/2025 03:00",
@@ -310,14 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2025/12/20/17662473786946cbd2d9956_1766247378_3x2_xl.jpg"
-    },
-    {
-        "titulo": "Fundos sustentáveis e ETFs são boas opções de investimentos verdes, dizem especialistas",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/12/fundos-sustentaveis-e-etfs-sao-boas-opcoes-de-investimentos-verdes-dizem-especialistas.shtml",
-        "data": "22/12/2025 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2024/07/26/172203302466a42380cecf1_1722033024_3x2_rt.jpg"
     },
     {
         "titulo": "Três motivos pelos quais o boom da IA não deve repetir a bolha pontocom",
@@ -402,7 +402,7 @@
     {
         "titulo": "Flávio Dino barra projeto que retomaria 'orçamento secreto' no Congresso",
         "link": "https://www.terra.com.br/noticias/brasil/politica/flavio-dino-barra-projeto-que-retomaria-orcamento-secreto-no-congresso,d6003990da4fc4c9c215949e0f7c0633q1xlogqn.html",
-        "data": "22/12/2025 04:03",
+        "data": "22/12/2025 06:29",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/21/678842203-r3xfqofvn5dp3oem27ial2626q.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Vasco vice! Veja os memes da derrota cruzmaltina para o Corinthinas",
         "link": "https://www.terra.com.br/esportes/futebol/vasco-vice-veja-os-memes-da-derrota-cruzmaltina-para-o-corinthinas-na-copa-do-brasil,4938a24ed449738a68fe562dbe856bb3p16ytcoe.html",
-        "data": "22/12/2025 04:03",
+        "data": "22/12/2025 06:29",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/21/vasco-memes-copa-do-brasil-r1l5c2cvw4zd.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Entenda por que as Havaianas estão sendo atacadas pela direita",
         "link": "https://www.terra.com.br/noticias/brasil/politica/entenda-por-que-as-havaianas-estao-sendo-atacadas-pela-direita,7b118ddc4a02f061b06fa0e186375c88l6m07607.html",
-        "data": "22/12/2025 04:03",
+        "data": "22/12/2025 06:29",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/21/fernanda-torres-havaianas-qdpxnjsjbqzn.png"
@@ -426,7 +426,7 @@
     {
         "titulo": "'Se amar os pobres incomoda, amemos até o fim': Padre Júlio Lancelotti é ovacionado",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/se-amar-os-pobres-incomoda-amemos-ate-o-fim-padre-julio-lancelotti-e-ovacionado-em-missa,ed251cbac0ca0335d408d1dc148ffc6fp03ql0x6.html",
-        "data": "22/12/2025 04:03",
+        "data": "22/12/2025 06:29",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/21/padre-julio-lancelotti-missa-mooca-urhcrj29a9uu.png"
@@ -434,7 +434,7 @@
     {
         "titulo": "EUA interceptam terceiro petroleiro perto da costa da Venezuela",
         "link": "https://www.terra.com.br/noticias/mundo/eua-interceptam-terceiro-petroleiro-perto-da-costa-da-venezuela,f41f3b64946d9ffdac09ff0cc5b23991s9fzl1rg.html",
-        "data": "22/12/2025 04:03",
+        "data": "22/12/2025 06:29",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/20/venezuela_refinaria-1iyq31gu27oz6.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Irmãos de 4 anos morrem afogados em piscina de chácara no interior de SP",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/irmaos-de-4-anos-morrem-afogados-em-piscina-de-chacara-no-interior-de-sp,0e0f0ffcabce9c89d7a2db398962191af75q19tm.html",
-        "data": "22/12/2025 04:03",
+        "data": "22/12/2025 06:29",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/21/whatsapp-image-2025-12-21-at-12-39-56-tog5i4dek56g.jpeg"
@@ -450,7 +450,7 @@
     {
         "titulo": "Foragido, Alexandre Ramagem vai dar curso online, anuncia mulher",
         "link": "https://www.terra.com.br/noticias/brasil/politica/foragido-alexandre-ramagem-vai-dar-curso-online-anuncia-mulher,329d339e7c4f42e69eaea7fd9130c165ce0dy78g.html",
-        "data": "22/12/2025 04:03",
+        "data": "22/12/2025 06:29",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/21/1048322524-m4f5vztuinhyvf7zk2ncewai2i.png"
@@ -458,7 +458,7 @@
     {
         "titulo": "Engenheira morre em acidente no ES, cachorro sobrevive e fica ao lado dela até resgate",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/engenheira-morre-em-acidente-no-es-cachorro-sobrevive-e-fica-ao-lado-dela-ate-resgate,979d406cfea6e364ce859c6d97e2935e8fi2claw.html",
-        "data": "22/12/2025 04:03",
+        "data": "22/12/2025 06:29",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/21/engenheira_acidente-1h7o5ql9vv2ht.PNG"
@@ -466,7 +466,7 @@
     {
         "titulo": "Dorival festeja 4º Copa do Brasil, rebate críticas e elogia torcedores",
         "link": "https://www.terra.com.br/esportes/corinthians/dorival-festeja-4-copa-do-brasil-rebate-criticas-e-elogia-torcedores-paguei-minha-divida,cf2d62b3e0e3e418334929a6b73574746k98cjc3.html",
-        "data": "22/12/2025 04:03",
+        "data": "22/12/2025 06:29",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/22/1470636670-ihasddq5wves5b4u4qwerewofe.jpg"
@@ -474,7 +474,7 @@
     {
         "titulo": "Fabinho Soldado fala em tom de despedida do Corinthians",
         "link": "https://www.terra.com.br/esportes/corinthians/fabinho-soldado-fala-em-tom-de-despedida-do-corinthians-e-dispara-profissionalismo-incomoda,13299b255edc9d7506994a67d92a834392qnc0mu.html",
-        "data": "22/12/2025 04:03",
+        "data": "22/12/2025 06:29",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/22/853579748-c44idrbbmnex3a6wt5njld7l3m.jpeg"
