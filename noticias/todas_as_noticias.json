@@ -1,5 +1,29 @@
 [
     {
+        "titulo": "IPVA 2026: veja calendário de pagamento nos estados e no DF",
+        "link": "https://g1.globo.com/carros/noticia/2026/01/05/ipva-2026-veja-calendario-de-pagamento-nos-estados-e-no-df.ghtml",
+        "data": "05/01/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Kk59t2vb35YDTu0lxjVulEvYEkg=/4512x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/3/0QM9GJTd21ntzqQHcdWA/reducao-nas-principais-infracoes-de-transito-no-primeiro-semestre-de-2025-ascom-detran-rr-2-.jpg"
+    },
+    {
+        "titulo": "Brasília vazia: veja os impactos do esvaziamento da capital durante o mês de janeiro",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/01/05/brasilia-vazia-veja-os-impactos-do-esvaziamento-da-capital-durante-o-mes-de-janeiro.ghtml",
+        "data": "05/01/2026 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/7ceiVQK-LWRykMJmqi5OzyxABIo=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/M/Y/AUirUORReGVa33XKBWfw/aeroporto-embarque-bsb.jpg"
+    },
+    {
+        "titulo": "Candidatos do RS já podem fazer a CNH com novas regras a partir desta segunda",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/01/05/candidatos-do-rs-ja-podem-fazer-a-cnh-com-novas-regras-a-partir-desta-segunda.ghtml",
+        "data": "05/01/2026 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/diUNj9euc3tZPtg7vKipwjf62Rc=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/e/Jn2qE3RrK1oXg1cKsxDg/design-sem-nome.jpg"
+    },
+    {
         "titulo": "Pai confessa que matou filho de 2 anos após ver foto da ex com amigo em MT: 'movido por ódio'",
         "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/01/05/pai-confessa-que-matou-filho-de-2-anos-apos-ver-foto-da-ex-com-amigo-em-mt-movido-por-odio.ghtml",
         "data": "05/01/2026 04:00",
@@ -56,28 +80,36 @@
         "image": "https://s2-g1.glbimg.com/wGzUa1bZnCb4Yk0UDwQCs12-85s=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/r/kjvN5LRMyKsEpEk7iCaA/whatsapp-image-2026-01-02-at-13.17.32.jpeg"
     },
     {
-        "titulo": "O esquema que levou à prisão do prefeito, vice e de toda Câmara dos Vereadores em cidade no interior do Maranhão",
-        "link": "https://g1.globo.com/fantastico/noticia/2026/01/04/o-esquema-que-levou-a-prisao-do-prefeito-vice-e-de-toda-camara-dos-vereadores-em-cidade-no-interior-do-maranhao.ghtml",
-        "data": "05/01/2026 01:54",
-        "fonte": "G1",
+        "titulo": "Conheça os 30 carros mais vendidos no Brasil em 2025",
+        "link": "https://www.cnnbrasil.com.br/auto/conheca-os-30-carros-mais-vendidos-no-brasil-em-2025/",
+        "data": "05/01/2026 06:15",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/1xcoxKS7cQr783cSv79fcmJaiBU=/1427x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/r/o6ibKsTYuFkiODxxI1tw/captura-de-tela-2026-01-04-224223.png"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
     },
     {
-        "titulo": "Após captura de Maduro pelos EUA, Delcy Rodríguez envia carta a Trump e fala em 'agenda de colaboração'",
-        "link": "https://g1.globo.com/mundo/noticia/2026/01/04/apos-captura-de-maduro-pelos-eua-delcy-rodriguez-envia-carta-a-trump-merecemos-paz-nao-guerra.ghtml",
-        "data": "05/01/2026 01:53",
-        "fonte": "G1",
+        "titulo": "Colômbia condena fala de Trump sobre possível operação militar no país",
+        "link": "https://www.cnnbrasil.com.br/internacional/colombia-condena-fala-de-trump-sobre-possivel-operacao-militar-no-pais/",
+        "data": "05/01/2026 04:28",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/n_-oc76Hh5EI0DjQ7FFumOsfNJU=/6059x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/g/92RoBQSdqbWzgVS8x4LQ/2026-01-04t040106z-1581451739-rc2iadarcy8v-rtrmadp-3-usa-venezuela-power.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/01/1_486c69.png?w=552&h=307&crop=1"
     },
     {
-        "titulo": "Após 30 anos, caso do ET de Varginha ganha documentário inédito e segue sem conclusão oficial",
-        "link": "https://g1.globo.com/fantastico/noticia/2026/01/04/apos-30-anos-caso-do-et-de-varginha-ganha-documentario-inedito-e-segue-sem-conclusao-oficial.ghtml",
-        "data": "05/01/2026 01:25",
-        "fonte": "G1",
+        "titulo": "Wagner Moura alfineta ao apresentar Melhor Filme: “Como falamos no Brasil”",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/wagner-moura-alfineta-ao-apresentar-melhor-filme-como-falamos-no-brasil/",
+        "data": "05/01/2026 04:14",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/gmCMAJlKsNexAtnyrCJ_FaaZjQs=/1512x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/N/YG6ItiTKWnS7sEXFOS4Q/captura-de-tela-2026-01-04-221656.png"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/wanger-moura-kleber-mendonca-e1767581851224.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Especialista: Não ter um plano para a Venezuela indica processo mal feito",
+        "link": "https://www.cnnbrasil.com.br/internacional/especialista-nao-ter-um-plano-para-a-venezuela-indica-processo-mal-feito/",
+        "data": "05/01/2026 03:57",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/trump.jpg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Quem ganhou o BBB 13?",
@@ -126,38 +158,6 @@
         "fonte": "CNN Brasil",
         "metodo": "RSS",
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/07/leo-dicaprio-batalha-apos-a-outra.png?w=740&h=415&crop=1"
-    },
-    {
-        "titulo": "Critics Choice 2026: Wagner Moura e Kleber Mendonça entregam prêmio máximo",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/critics-choice-2026-wagner-moura-e-kleber-mendonca-entregam-premio-maximo/",
-        "data": "05/01/2026 02:57",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/wanger-moura-kleber-mendonca-e1767581851224.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Pfeifer: É difícil pensar que a Venezuela se torne um desastre maior",
-        "link": "https://www.cnnbrasil.com.br/internacional/pfeifer-e-dificil-pensar-que-a-venezuela-se-torne-um-desastre-maior/",
-        "data": "05/01/2026 02:57",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/2025-12-12T151536Z_1_LYNXMPELBB0U2_RTROPTP_4_USA-TRUMP-VENEZUELA.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Professor: Coerção se tornou elemento central da política externa dos EUA",
-        "link": "https://www.cnnbrasil.com.br/internacional/professor-coercao-se-tornou-elemento-central-da-politica-externa-dos-eua/",
-        "data": "05/01/2026 02:53",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/trumpvenezuela2-e1767522379845.jpg?w=827&h=465&crop=1"
-    },
-    {
-        "titulo": "Especialista: Maduro pode virar exemplo do poder do imperialismo americano",
-        "link": "https://www.cnnbrasil.com.br/internacional/especialista-maduro-pode-virar-exemplo-do-poder-do-imperialismo-americano/",
-        "data": "05/01/2026 02:53",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/maduro.jpg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Horóscopo do dia: previsão para os 12 signos em 05/01/2026",
@@ -240,6 +240,14 @@
         "image": "https://jpimg.com.br/uploads/2026/01/afp__20260104__89kw823__v1__highres__fblespligarealmadridbetis.jpg"
     },
     {
+        "titulo": "Dois são mortos por ataques russos em Kiev, afirmam autoridades ucranianas",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/01/dois-sao-mortos-por-ataques-russos-em-kiev-afirmam-autoridades-ucranianas.shtml",
+        "data": "05/01/2026 05:13",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/22/175855459368d169e11550f_1758554593_3x2_rt.jpg"
+    },
+    {
         "titulo": "Ex-conselheiro de Trump xinga Lula após crítica a ataque dos EUA",
         "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/01/ex-conselheiro-de-trump-xinga-lula-apos-critica-a-ataque-dos-eua.shtml",
         "data": "05/01/2026 03:26",
@@ -310,14 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2025/01/28/1738080596679901541f662_1738080596_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Estamos vendo retorno dos EUA como poder policial regional, diz analista",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/01/estamos-vendo-retorno-dos-eua-como-poder-policial-regional-diz-analista.shtml",
-        "data": "05/01/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/01/04/1767567901695af21d18947_1767567901_3x2_rt.jpg"
     },
     {
         "titulo": "Critics Choice Awards 2026: veja onde assistir às séries vencedoras",
@@ -402,7 +402,7 @@
     {
         "titulo": "'O Agente Secreto' leva prêmio de melhor filme internacional do Critics Choice Awards",
         "link": "https://www.terra.com.br/diversao/entre-telas/o-agente-secreto-vence-como-melhor-filme-internacional-no-critics-choice-awards-2026,f816ce212ea32b7874b78e04f46344ada74u2n6a.html",
-        "data": "05/01/2026 04:14",
+        "data": "05/01/2026 06:33",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/08/773546547-grocx2gjbbg4zpp2qp4e62utri.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Filho de Maduro diz estar 'bem' após ataque dos EUA: 'História dirá quem foram os traidores'",
         "link": "https://www.terra.com.br/noticias/mundo/filho-de-maduro-diz-estar-tranquilo-apos-operacao-dos-eua-historia-dira-quem-foram-os-traidores,bac798ba2923c39e73525fbfa5c8df40de1y2myl.html",
-        "data": "05/01/2026 04:14",
+        "data": "05/01/2026 06:33",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/04/f8xd8kow8ae-xed-vevb94w2took.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Herdeiro de grupo bilionário morre durante férias com a família no litoral da BA",
         "link": "https://www.terra.com.br/economia/empresario-e-herdeiro-do-grupo-rodobens-morre-durante-ferias-com-a-familia-no-litoral-da-ba,da3df22ad42c429edaa45d9638869e3byaknincu.html",
-        "data": "05/01/2026 04:14",
+        "data": "05/01/2026 06:33",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/04/empresario-grupo-rodobens-t8f8hri56p29.png"
@@ -426,7 +426,7 @@
     {
         "titulo": "Veja look de Wagner Moura, destaque no tapete vermelho do Critics Choice Awards",
         "link": "https://www.terra.com.br/diversao/entre-telas/filmes/wagner-moura-chega-ao-tapete-vermelho-do-critics-choice-awards-2026-veja-look,f2dc47a28a89ba5ba041582a7de5d1efv939dpv7.html",
-        "data": "05/01/2026 04:14",
+        "data": "05/01/2026 06:33",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/05/kleber-wagner-rhb21unltopx.png"
@@ -434,7 +434,7 @@
     {
         "titulo": "Jovens são encontrados mortos e amarrados em área de mata em SC",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/quatro-jovens-sao-encontrados-mortos-e-amarrados-em-area-de-mata-em-sc,5cfb3126e48954f20b9fea99edbfcd62la3faopy.html",
-        "data": "05/01/2026 04:14",
+        "data": "05/01/2026 06:33",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/04/policia-encontra-corpos-em-area-de-mata-e-investiga-ligacao-com-mineiros-desaparecidos-em-sc-5-vbkotrlic75j.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Veja fotos de casas venezuelanas que foram destruídas em ataque dos EUA",
         "link": "https://www.terra.com.br/noticias/mundo/casas-venezuelanas-foram-destruidas-em-ataque-dos-eua-nao-ha-dados-oficiais-sobre-mortes,bc9f17e2133642ea83124595caf9ab8ao35gxzpz.html",
-        "data": "05/01/2026 04:14",
+        "data": "05/01/2026 06:33",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/04/2026-01-04t201527z_1767557723_dpaf260104x99x72879_rtrfipp_4_government-military-conflicts-venezuela-generalnews-1ji1owoqh3asi.JPG"
@@ -450,7 +450,7 @@
     {
         "titulo": "PM de 27 anos morre atropelado por motociclistas que fugiram de abordagem",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/pm-de-27-anos-morre-atropelado-por-motociclistas-que-fugiram-de-abordagem-foi-intencional,5820abe108feafcd6959d8fab0713f90nxq93ye7.html",
-        "data": "05/01/2026 04:14",
+        "data": "05/01/2026 06:33",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/04/279885688-tpfcqfuijvacnkodsda657wkiy.png"
@@ -458,7 +458,7 @@
     {
         "titulo": "Família pede ajuda para encontrar jovem abandonado por amiga em montanha no PR",
         "link": "https://www.terra.com.br/noticias/familia-pede-ajuda-para-encontrar-jovem-abandonado-por-amiga-em-montanha-no-parana-buscas-entram-em-4-dia,f83a6dff9af944403972b73834dd31324hnknkq0.html",
-        "data": "05/01/2026 04:14",
+        "data": "05/01/2026 06:33",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/04/captura-de-tela-2026-01-04-141351-r1dbm5miffj8.png"
@@ -466,7 +466,7 @@
     {
         "titulo": "Copinha 2026: veja os resultados dos jogos deste domingo, 4",
         "link": "https://www.terra.com.br/esportes/futebol/copa-sao-paulo/copinha-2026-veja-os-resultados-dos-jogos-de-hoje-domingo,8b034575a71b58d453ef2a15275af855wfgcc29a.html",
-        "data": "05/01/2026 04:14",
+        "data": "05/01/2026 06:33",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
@@ -474,7 +474,7 @@
     {
         "titulo": "Nadador que fez falsa denúncia de roubo no RJ vende medalhas olímpicas após crise",
         "link": "https://www.terra.com.br/esportes/esportes-aquaticos/nadador-dos-eua-que-fez-falsa-denuncia-de-roubo-no-rj-vende-medalhas-olimpicas-apos-divorcio,506bb68f5b5ba93afe7329ea1f0b4a991w0radth.html",
-        "data": "05/01/2026 04:14",
+        "data": "05/01/2026 06:33",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/04/kazan_2015_-_ryan_lochte_200m_freestyle_semifinal_(cropped)-1jy87vkycfayf.JPG"
