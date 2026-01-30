@@ -1,83 +1,107 @@
 [
     {
-        "titulo": "'Espiral de violência': como execuções e corpos carbonizados revelaram disputa entre PCC e CV no interior de SP",
-        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/01/30/espiral-de-violencia-como-execucoes-e-corpos-carbonizados-revelaram-disputa-entre-pcc-e-cv-no-interior-de-sp.ghtml",
-        "data": "30/01/2026 04:00",
+        "titulo": "Trump diz que vai anunciar novo presidente do Fed nesta sexta; jornal aponta Kevin Warsh como escolhido",
+        "link": "https://g1.globo.com/economia/noticia/2026/01/30/trump-novo-presidente-fed.ghtml",
+        "data": "30/01/2026 06:01",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/352XfQO7Qhmwl-WI86U7k9cAWuo=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/V/G10ZgkSXmcMda9mZ75mA/260129-info-mapa-guerras-faccoes-1-.jpg"
+        "image": "https://s2-g1.glbimg.com/1hdIg-2qLQ16qoYHIMkcN96e5e8=/5911x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/5/PDklQmQr2Jn7ky5PwxWA/2026-01-30t045515z-1748336156-rc2fbja1w3cp-rtrmadp-3-usa-trump-federal-reserve.jpg"
     },
     {
-        "titulo": "Planeta Atlântida: tudo que você precisa saber para aproveitar o festival que começa nesta sexta (30)",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/planeta-atlantida/noticia/2026/01/30/planeta-atlantida-tudo-que-voce-precisa-saber-para-aproveitar-o-festival-que-comeca-nesta-sexta-30.ghtml",
-        "data": "30/01/2026 04:00",
+        "titulo": "Quais frutas não podem ser guardadas juntas? Veja dicas para evitar perdas",
+        "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/01/30/quais-frutas-nao-podem-ser-guardadas-juntas-veja-dicas-para-evitar-perdas.ghtml",
+        "data": "30/01/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/BQaxpBewii1QdLS5-FLmDgkaNK8=/5461x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/c/3t8yXmSJuch6LdyYtPQw/ray-shrewsberry-2zgflmygk-e-unsplash.jpg"
+    },
+    {
+        "titulo": "Antecedentes criminais, vida pessoal e ‘nome sujo’: veja quando a empresa pode ou não checar os candidatos",
+        "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/01/30/empresa-pode-ou-nao-checar-os-candidatos.ghtml",
+        "data": "30/01/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/72TA67HoqlkXhZ-gr3UWhXdJYDg=/5309x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/u/O/VT0Qa6SVCffHoWAJB1fw/entrepreneur-working-with-bills.jpg"
+    },
+    {
+        "titulo": "VÍDEO: Motorista arrasta corpo de cachorro pelas ruas de cidade do interior de MG; o caso é investigado",
+        "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/01/30/video-motorista-arrasta-corpo-de-cachorro-pelas-ruas-de-cidade-do-interior-de-mg-o-caso-e-investigado.ghtml",
+        "data": "30/01/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/wKl6goEGv3g_TFVtTLuWYER0NL0=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/2/E5mWdARZ2wiqVhOkUAqQ/whatsapp-image-2026-01-29-at-15.57.55.jpeg"
+    },
+    {
+        "titulo": "Síndico de 67 anos é agredido por morador em Jaboatão; vídeo mostra agressão",
+        "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/01/30/sindico-e-agredido-por-morador-em-jaboatao-video-mostra-agressao.ghtml",
+        "data": "30/01/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/-Jkn67KqEypXsZMXlU2xOeLgGyc=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/B/uI3GAqTHSZ5A5QxdUdpQ/sindic.png"
+    },
+    {
+        "titulo": "Vídeo de Ana Castela reacende tabu sobre gases; entenda o que é normal para a saúde",
+        "link": "https://g1.globo.com/saude/noticia/2026/01/30/video-de-ana-castela-reacende-tabu-sobre-gases-entenda-o-que-e-normal-para-a-saude.ghtml",
+        "data": "30/01/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/uhGS15gLwJ8gw2ETpzGJw3_p_jA=/1209x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/0/l/GL5OkrSweEfZEhMnRmpw/captura-de-tela-2024-12-06-182407.png"
+    },
+    {
+        "titulo": "Confira a programação desta sexta (30) no Planeta Atlântida 2026",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/planeta-atlantida/noticia/2026/01/30/confira-a-programacao-desta-sexta-30-no-planeta-atlantida-2026.ghtml",
+        "data": "30/01/2026 06:00",
         "fonte": "G1",
         "metodo": "RSS",
         "image": "https://s2-g1.glbimg.com/Q2KjEasCLC_-UZ55BdmH05pGsok=/4941x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/I/y/gBEgDqQFCn3Mm4I4rkew/ex7a1257.jpg"
     },
     {
-        "titulo": "A reorganização da direita rumo à eleição - O Assunto #1650",
-        "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/01/30/a-reorganizacao-da-direita-rumo-a-eleicao-o-assunto-1650.ghtml",
-        "data": "30/01/2026 03:30",
+        "titulo": "Nattan, Léo Foguete, Felipe Amorim e Jammil agitam fim de semana no DF",
+        "link": "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/01/30/nattan-leo-foguete-felipe-amorim-e-jammil-agitam-fim-de-semana-no-df.ghtml",
+        "data": "30/01/2026 05:00",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/9VDG-QtbI4BHLlRi_bm9OXSZUO0=/960x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/5/QGQ7cJR8mNrn3lfbA8Rw/kassab-governadores.jpeg"
+        "image": "https://s2-g1.glbimg.com/AnyzJWaKSiwWZHAaAsONoLknE2U=/4000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/e/JfPoOLQLA3cIWqJqAP6Q/whatsapp-image-2025-08-26-at-10.46.06.jpeg"
     },
     {
-        "titulo": "Jardins e varandas prontos para a estação com ideias simples e funcionais",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/01/30/jardins-e-varandas-prontos-para-a-estacao-com-ideias-simples-e-funcionais.ghtml",
-        "data": "30/01/2026 03:02",
+        "titulo": "Festival em Ceilândia une música, sustentabilidade e impacto social; meta é reduzir 80% do lixo gerado",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/01/30/festival-em-ceilandia-une-musica-sustentabilidade-e-impacto-social-meta-e-reduzir-80percent-do-lixo-gerado.ghtml",
+        "data": "30/01/2026 05:00",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/IMYgsQtSShMuPw17A52ydJhN-3U=/700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/d/JGfxAaSWuc65mRyUGvtA/foto-1-texto-14-.png"
+        "image": "https://s2-g1.glbimg.com/T_ScCYvMcmCziCR0cohpaNHXOwY=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/R/7fb4JXRLiLg563EzwZ1g/gui-distrito-sonoro.jfif"
     },
     {
-        "titulo": "Brechó de luxo acusado de calotes vendia bolsas de grife por mais de R$ 20 mil; suspeitos são presos",
-        "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/01/30/brecho-de-luxo-acusado-de-calotes-vendia-bolsas-de-grife-por-mais-de-r-20-mil-suspeitos-sao-presos.ghtml",
-        "data": "30/01/2026 03:01",
+        "titulo": "A Europa quer substituir os EUA? Enquanto Trump ergue barreiras, a União Europeia busca novos parceiros",
+        "link": "https://g1.globo.com/mundo/noticia/2026/01/30/a-europa-quer-substituir-os-eua-enquanto-trump-ergue-barreiras-a-uniao-europeia-busca-novos-parceiros.ghtml",
+        "data": "30/01/2026 05:00",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/gKG9heQHJOW-YlvTY5BanCjNT00=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/1LKSnwQsyunRwBku6N0g/infografico-brecho.png"
+        "image": "https://s2-g1.glbimg.com/BbSUdtTtcQwXfNex1gpVUbIqyqM=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/X/NI53hBRPWa9ebAfAH2Cg/2025-12-23t160040z-1034825363-rc2viia1d9fs-rtrmadp-3-eu-environment-plastics.jpg"
     },
     {
-        "titulo": "Ciclone extratropical mantém chuva forte no Sul e no Sudeste nesta sexta e no fim de semana; veja previsão",
-        "link": "https://g1.globo.com/meio-ambiente/noticia/2026/01/30/ciclone-extratropical-mantem-chuva-forte-no-sul-e-no-sudeste-nesta-sexta-e-no-fim-de-semana-veja-previsao.ghtml",
-        "data": "30/01/2026 03:01",
-        "fonte": "G1",
+        "titulo": "Pagamento de mensalidades por Pix movimenta R$ 690 milhões em 2025",
+        "link": "https://www.cnnbrasil.com.br/economia/financas/pagamento-de-mensalidades-por-pix-movimenta-r-690-milhoes-em-2025/",
+        "data": "30/01/2026 06:16",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/q7nKrmAXRUT9bzgRHvK0BlJIlyI=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Q/P/7oglFvRhqjKBRhfutdJw/ato20251117059.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
     },
     {
-        "titulo": "Café tem maior alta da cesta básica em 2025, e preço deve manter patamar atual, diz indústria",
-        "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/01/30/cafe-tem-maior-alta-da-cesta-basica-em-2025-e-preco-deve-manter-patamar-atual-diz-industria.ghtml",
-        "data": "30/01/2026 03:00",
-        "fonte": "G1",
+        "titulo": "Juros travam investimentos e inibem expansão de empresas, mostram dados",
+        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/juros-travam-investimentos-e-inibem-expansao-de-empresas-mostram-dados/",
+        "data": "30/01/2026 06:09",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/ZYttwVq2oFBHaNKmVRvMY13KRRY=/5721x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/X/5v4v2VRvGMkmuA9W3sEg/mike-kenneally-tnaloizhqvm-unsplash.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/ChatGPT-Image-29-de-jan.-de-2026-23_34_46.png?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "MEIs: prazo para aderir ao Simples Nacional e regularizar dívidas termina hoje; veja como fazer",
-        "link": "https://g1.globo.com/empreendedorismo/noticia/2026/01/30/meis-prazo-para-aderir-ao-simples-nacional-e-regularizar-dividas-termina-hoje-veja-como-fazer.ghtml",
-        "data": "30/01/2026 03:00",
-        "fonte": "G1",
+        "titulo": "USP 2026: prazo para pré-matrícula termina nesta sexta-feira (30)",
+        "link": "https://www.cnnbrasil.com.br/educacao/usp-2026-prazo-para-pre-matricula-termina-nesta-sexta-feira-30/",
+        "data": "30/01/2026 04:30",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/sux4Ym6UC16_-_GmqMzhmUC1wpw=/5298x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/T/g/QjVMvyQsWQ0k1qLtM09A/closeup-accountant-hands-counting-calculator.jpg"
-    },
-    {
-        "titulo": "Quem era jovem encontrada morta ao lado de piscina no interior de SP; amiga é suspeita de homicídio",
-        "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/01/30/quem-era-jovem-encontrada-morta-ao-lado-de-piscina-no-interior-de-sp-amiga-e-suspeita-de-homicidio.ghtml",
-        "data": "30/01/2026 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/7E4UnT-u0KQg8yAC38mNtT75gk4=/1270x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/G/awrgDZQfS2onPJWeC0Kw/novo-projeto.png"
-    },
-    {
-        "titulo": "O que se sabe sobre investigação que envolve deputado, ex-prefeito e shows pagos com emendas no AC",
-        "link": "https://g1.globo.com/ac/acre/noticia/2026/01/30/o-que-se-sabe-sobre-investigacao-que-envolve-deputado-ex-prefeito-e-shows-pagos-com-emendas-no-ac.ghtml",
-        "data": "30/01/2026 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/i15SPp7S9vpKn3CmM6rb7Af0OwQ=/1984x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/9/YA5zA9QECgrjzNAvng7Q/img20250527133144110.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/usp-praca-do-relogio.jpg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "BBB26: “Tava até gostando”, diz Solange após usar enfeite de planta por 72h",
@@ -101,7 +125,7 @@
         "data": "30/01/2026 03:01",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/11/unesp.jpg?w=768&h=550&crop=1"
     },
     {
         "titulo": "Vídeo: defesa de Vorcaro nega pedido de delegada da PF para acessar celular",
@@ -136,28 +160,20 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/BBB-26-Maxiane-lider-e1769742836519.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Não estaria de tornozeleira se tivesse tantas relações, diz Vorcaro; veja",
-        "link": "https://www.cnnbrasil.com.br/politica/nao-estaria-de-tornozeleira-se-tivesse-tantas-relacoes-diz-vorcaro-veja/",
-        "data": "30/01/2026 02:45",
-        "fonte": "CNN Brasil",
+        "titulo": "Laser, peelings e injeções: Por que homens estão recorrendo cada vez mais as cirurgias estéticas?",
+        "link": "https://jovempan.com.br/noticias/mundo/laser-peelings-e-injecoes-por-que-homens-estao-recorrendo-cada-vez-mais-as-cirurgias-esteticaa.html",
+        "data": "30/01/2026 06:10",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/vlcsnap-2026-01-29-20h25m26s569.png?w=1200&h=630&crop=1"
+        "image": "https://jpimg.com.br/uploads/2026/01/cirurgia-plastica-homens.jpg"
     },
     {
-        "titulo": "EUA revogam ordem que proibia voos de companhias americanas à Venezuela",
-        "link": "https://www.cnnbrasil.com.br/internacional/eua-revogam-ordem-que-proibia-voos-de-companhias-americanas-a-venezuela/",
-        "data": "30/01/2026 02:42",
-        "fonte": "CNN Brasil",
+        "titulo": "Dia da Saudade: Frases e mensagens emocionantes para quem está longe",
+        "link": "https://jovempan.com.br/noticias/brasil/dia-da-saudade-frases-e-mensagens-emocionantes-para-quem-esta-longe.html",
+        "data": "30/01/2026 04:55",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/aviao-conviasa-venezuela-e1764865139774.jpg?w=810&h=456&crop=1"
-    },
-    {
-        "titulo": "Caso Master: veja íntegra da acareação entre Vorcaro e ex-presidente do BRB",
-        "link": "https://www.cnnbrasil.com.br/politica/caso-master-veja-integra-de-acareacao-entre-vorcaro-e-ex-presidente-do-brb/",
-        "data": "30/01/2026 02:41",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/vlcsnap-2026-01-29-20h25m26s569.png?w=1200&h=630&crop=1"
+        "image": "https://jpimg.com.br/uploads/2017/04/20091104_194912.jpg"
     },
     {
         "titulo": "Horóscopo do dia: previsão para os 12 signos em 30/01/2026",
@@ -224,20 +240,12 @@
         "image": "https://jpimg.com.br/uploads/2025/11/imagem-jvp-11-1.png"
     },
     {
-        "titulo": "SP registra queda nos estupros, mas casos ainda são cerca de 40 por dia",
-        "link": "https://jovempan.com.br/noticias/brasil/sp-registra-queda-nos-estupros-mas-casos-ainda-sao-cerca-de-40-por-dia.html",
-        "data": "30/01/2026 00:10",
-        "fonte": "Jovem Pan",
+        "titulo": "Motociclista morre após ser arrastado por enxurrada em Piracicaba (SP)",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/01/motociclista-morre-apos-ser-arrastado-por-enxurrada-em-piracicaba-sp.shtml",
+        "data": "30/01/2026 06:01",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2020/11/mariferrer2.jpg"
-    },
-    {
-        "titulo": "Trump diz que pediu ‘pessoalmente’ a Putin para não atacar Kiev por 1 semana",
-        "link": "https://jovempan.com.br/noticias/mundo/trump-diz-que-pediu-pessoalmente-a-putin-para-nao-atacar-kiev-por-1-semana.html",
-        "data": "29/01/2026 23:53",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/08/afp__20250815__69n77dw__v2__highres__topshotusukrainerussiaconflictsummittrumpputin-1.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/01/26/176942653269774e64ef843_1769426532_3x2_lg.jpg"
     },
     {
         "titulo": "BBB 26: Web critica direção da prova do líder: 'absurdo'",
@@ -310,14 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2026/01/29/1769714764697bb44cb79e8_1769714764_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Como conseguir ingressos para o concerto com John Malkovich em São Paulo",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/01/como-conseguir-ingressos-para-o-concerto-com-john-malkovich-em-sao-paulo.shtml",
-        "data": "30/01/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/01/29/1769721570697bcee233ce8_1769721570_3x2_xl.jpg"
     },
     {
         "titulo": "BBB 26: quem está no VIP e quem está na Xepa da semana?",
@@ -402,7 +402,7 @@
     {
         "titulo": "Danilo marca dois, Botafogo atropela Cruzeiro e assume a liderança",
         "link": "https://www.terra.com.br/esportes/cruzeiro/botafogo-atropela-o-cruzeiro-com-show-de-danilo-4-a-0,35c7d045b02be6fe1841729e76593f86wswe9u2z.html",
-        "data": "30/01/2026 04:28",
+        "data": "30/01/2026 06:42",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/30/1098535679-55068194828874c329340o-610x400.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Ex-piloto acumula denúncias antes de agressão que deixou adolescente na UTI",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/historico-de-violencia-ex-piloto-acumula-denuncias-antes-de-agressao-que-deixou-adolescente-na-uti,af6317a4bf46665f35d5dbaa71844d71s0fjc2fz.html",
-        "data": "30/01/2026 04:28",
+        "data": "30/01/2026 06:42",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/28/pedro-turra-1-urhc23i7cbap.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Maxiane vence prova cheia de trapalhadas e é a nova líder",
         "link": "https://www.terra.com.br/diversao/tv/reality-shows/bbb26-maxiane-vence-a-prova-do-lider-veja-como-foi-a-disputa,16f9a94a67210dc6bff9cf9a41ac4671kbkr7y33.html",
-        "data": "30/01/2026 04:28",
+        "data": "30/01/2026 06:42",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/30/design-sem-nome-2026-01-29t233400-910-1ib0fbh0lmq7l.png"
@@ -426,7 +426,7 @@
     {
         "titulo": "Avião faz pouso de emergência após explosão de carregador portátil em Ribeirão",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/aviao-faz-pouso-de-emergencia-apos-explosao-de-carregador-portatil-em-ribeirao-preto,72a07536990508c1a18ff27538d155baf4su4au4.html",
-        "data": "30/01/2026 04:28",
+        "data": "30/01/2026 06:42",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/15/1201502043-v7kdy44tqbezvkt3skmachwqxq.jpg"
@@ -434,7 +434,7 @@
     {
         "titulo": "Adolescente morre após ser mordido por tubarão no Pernambuco",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/adolescente-morre-apos-ser-mordido-por-tubarao-no-pernambuco,45a82358e3b5aae32b6abed8e367fd3e8fpinvp4.html",
-        "data": "30/01/2026 04:28",
+        "data": "30/01/2026 06:42",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/30/design-sem-nome-(39)-vbt18rp27cqd.png"
@@ -442,7 +442,7 @@
     {
         "titulo": "Influenciador com 200 kg acusa ter matrícula de natação negada devido ao seu peso",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/influenciador-com-200-kg-diz-ter-matricula-em-aula-de-natacao-negada-por-peso-academia-contesta,8728752f5cab3899a17c2ed63a06f8a0o6txqjhd.html",
-        "data": "30/01/2026 04:28",
+        "data": "30/01/2026 06:42",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/29/natacao-1iepfps58tpo6.png"
@@ -450,7 +450,7 @@
     {
         "titulo": "Adolescentes investigados pela morte do cão Orelha voltam ao Brasil",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/adolescentes-investigados-pela-morte-do-cao-orelha-voltam-ao-brasil-apos-viagem-aos-eua,159586cf00800aa1085e39e948241371vyddy801.html",
-        "data": "30/01/2026 04:28",
+        "data": "30/01/2026 06:42",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/26/https__img5-migalhas-com-br__sl__gf_base__sl__empresas__sl__miga__sl__imagens__sl__2026__sl__01__sl__26__sl__cropped_t1fd5trq-443-png-_proc_cp65-1h84uc3pp0f1x.jpg"
@@ -458,7 +458,7 @@
     {
         "titulo": "Mirassol vira sobre o Vasco e mantém tabu na estreia do Brasileirão",
         "link": "https://www.terra.com.br/esportes/vasco/mirassol-vira-sobre-o-vasco-e-mantem-tabu-na-estreia-do-brasileirao,48eb7ce6935f6fa8ab0b9a7ef9a4d403v4kcqnen.html",
-        "data": "30/01/2026 04:28",
+        "data": "30/01/2026 06:42",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/30/1905544452-mirassol-x-vasco-segundo-gol-do-mirassol-01easy-resizecom-610x400.jpg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Tiago Leifert ironiza Globo por reprise de pênalti de Arrascaeta",
         "link": "https://www.terra.com.br/esportes/futebol/tiago-leifert-ironiza-globo-por-reprise-de-penalti-de-arrascaeta,69b513b05d7b8cd362f776ab46d08793r0fy1nl6.html",
-        "data": "30/01/2026 04:28",
+        "data": "30/01/2026 06:42",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/30/captura-de-tela-2026-01-29-235542-tolp4er93lmb.png"
@@ -474,7 +474,7 @@
     {
         "titulo": "Torcedores sauditas detonam Corinthians, que apaga vídeo de Kaio César",
         "link": "https://www.terra.com.br/esportes/corinthians/torcedores-sauditas-detonam-corinthians-que-apaga-video-de-apresentacao-do-kaio-cesar-veja-reacoes,ecdeafcd32077efa6eb5990d8b08d158l3ighx5g.html",
-        "data": "30/01/2026 04:28",
+        "data": "30/01/2026 06:42",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
