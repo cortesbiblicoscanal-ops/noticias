@@ -1,5 +1,53 @@
 [
     {
+        "titulo": "Prédio de quatro andares desaba em Guarulhos, na Grande SP; ainda não há informação de vítima",
+        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/02/02/predio-desaba-guarulhos.ghtml",
+        "data": "02/02/2026 06:46",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/X2iTWvv7kQYIq69oR5cdVm0tTJc=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/16/75/14307516"
+    },
+    {
+        "titulo": "Do açaí rosa ao bolo vulcão: carrinhos viram sucesso nas praias e faturam até R$ 7 mil por mês no verão",
+        "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/02/02/carrinhos-viram-sucesso-nas-praias-e-faturam-ate-r-7-mil-por-mes-no-verao.ghtml",
+        "data": "02/02/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/nY2pkjll7Lkjdku44gFPArccJ2o=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/P/3u71naTPKdboK6Nnwy3w/captura-de-tela-2026-01-20-092948.jpg"
+    },
+    {
+        "titulo": "Moltbook: rede social que só inteligências artificiais podem usar já reúne milhões de 'perfis'",
+        "link": "https://g1.globo.com/tecnologia/noticia/2026/02/02/moltbook-rede-social-que-so-inteligencias-artificiais-podem-usar-ja-reune-milhoes-de-perfis.ghtml",
+        "data": "02/02/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/FfujGzUM071uG4tROsDbcCkmFGs=/1205x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/D/49EJazSp2Q52GBf5g0Mg/captura-de-tela-2026-02-01-192121.png"
+    },
+    {
+        "titulo": "Foliões 'param' bloco para entrada de noiva em igreja e transformam casamento em prévia de carnaval no Recife; VÍDEO",
+        "link": "https://g1.globo.com/pe/pernambuco/carnaval/2026/noticia/2026/02/02/folioes-param-bloco-para-entrada-de-noiva-em-igreja-e-transformam-casamento-em-previa-de-carnaval-no-recife-video.ghtml",
+        "data": "02/02/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/iBKxQnxWyschacTETDdqdCGkc8c=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/u/R1YzmVQkAJOBkWkjVaDg/casamento-em-previa.jpg"
+    },
+    {
+        "titulo": "Resultados preliminares e parciais colocam sucessora escolhida pelo presidente da Costa Rica perto de vencer a presidência",
+        "link": "https://g1.globo.com/mundo/noticia/2026/02/02/parciais-sucessora-presidente-costa-rica.ghtml",
+        "data": "02/02/2026 05:25",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
+    },
+    {
+        "titulo": "Defensoria Pública do DF oferece serviços gratuitos para mulheres nesta terça-feira; veja detalhes",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/02/02/defensoria-publica-do-df-oferece-servicos-gratuitos-para-mulheres-nesta-terca-feira-veja-detalhes.ghtml",
+        "data": "02/02/2026 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/IgWxuwMkyBSBT5HS6_5qlgEWqvU=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/e/iIdNK0S7OAlXQdcmLdBQ/whatsapp-image-2026-01-31-at-18.37.11.jpeg"
+    },
+    {
         "titulo": "Fevereiro será de muito calor e chuva dentro da média no RS",
         "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/02/02/fevereiro-sera-de-muito-calor-e-chuva-dentro-da-media-no-rs.ghtml",
         "data": "02/02/2026 04:00",
@@ -32,132 +80,100 @@
         "image": "https://s2-g1.glbimg.com/o3x4HcNCyiWKHR9yu9y91esFBNs=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/Q/ObAswTSAuu8L6MChzkaQ/lenda-do-motocross-brasileiro-ch-1-.jpg"
     },
     {
-        "titulo": "Sisu 2026 tem início das matrículas para 272 mil alunos e fim da lista de espera nesta segunda; veja cronograma",
-        "link": "https://g1.globo.com/educacao/noticia/2026/02/02/sisu-2026-matriculas-e-lista-de-espera.ghtml",
+        "titulo": "TSE abre ano Judiciário com sessão extraordinária e nove casos na pauta",
+        "link": "https://www.cnnbrasil.com.br/politica/tse-abre-ano-judiciario-com-sessao-extraordinaria-e-nove-casos-na-pauta/",
+        "data": "02/02/2026 06:40",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/12/carmen-lucia-e1733784626688.png?w=848&h=476&crop=1"
+    },
+    {
+        "titulo": "Nabia civiscientrix: nova espécie de anfíbio do Jurássico é descoberta",
+        "link": "https://www.cnnbrasil.com.br/ciencia/nabia-civiscientrix-nova-especie-de-anfibio-do-jurassico-e-descoberta/",
+        "data": "02/02/2026 06:34",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/anfibio-fossil.png?w=368&h=213&crop=1"
+    },
+    {
+        "titulo": "Retorno do homem à Lua: o que a Nasa quer ao enviar astronautas outra vez",
+        "link": "https://www.cnnbrasil.com.br/ciencia/retorno-do-homem-a-lua-o-que-a-nasa-quer-ao-enviar-astronautas-outra-vez/",
+        "data": "02/02/2026 06:33",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/fotoapollo8.jpg?w=1100&h=630&crop=1"
+    },
+    {
+        "titulo": "Em ano eleitoral, pauta na Câmara inclui segurança, escala 6×1 e IA",
+        "link": "https://www.cnnbrasil.com.br/politica/em-ano-eleitoral-pauta-na-camara-inclui-seguranca-escala-6x1-e-ia/",
+        "data": "02/02/2026 06:32",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/plenario-camara-dos-deputados-sessao-conjunta-ldo-2026-jonas-pereira-agencia-senado-4-dez-2025.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Caso Master, CPIs e indicação de Messias pautam retomada no Senado",
+        "link": "https://www.cnnbrasil.com.br/politica/caso-master-cpis-e-indicacao-de-messias-pautam-retomada-no-senado/",
+        "data": "02/02/2026 06:31",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/PLENARIO-SENADO-17-12-25.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Quando o novo chair do Fed vai liderar a reunião de política monetária?",
+        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/quando-o-novo-chair-do-fed-vai-liderar-a-reuniao-de-politica-monetaria/",
+        "data": "02/02/2026 06:30",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/federal-reserve.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "STF volta do recesso com caso Master, Marielle e emendas na mira",
+        "link": "https://www.cnnbrasil.com.br/politica/stf-volta-do-recesso-com-caso-master-marielle-e-emendas-na-mira/",
+        "data": "02/02/2026 06:30",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/54820519697_10d21d51f1_k.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Congresso retorna com prioridade para segurança e acordo Mercosul-UE",
+        "link": "https://www.cnnbrasil.com.br/politica/congresso-retorna-com-prioridade-para-seguranca-e-acordo-mercosul-ue/",
+        "data": "02/02/2026 06:30",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXNPEL8L0TU-BASEIMAGE-e1766016727165.jpg?w=800&h=451&crop=1"
+    },
+    {
+        "titulo": "Grammy: Steven Spielberg leva prêmio de Melhor Filme Musical e vira EGOT",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/grammy-steven-spielberg-leva-premio-de-melhor-filme-musical-e-vira-egot/",
+        "data": "02/02/2026 06:22",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/steven-spielberg-e1770012423446.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Em 1ª sessão do ano, Câmara pauta ampliação do Gás do Povo e setor rural",
+        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/em-1a-sessao-do-ano-camara-pauta-ampliacao-do-gas-do-povo-e-setor-rural/",
+        "data": "02/02/2026 06:20",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/PLENARIO-CAMARA-29-10-2025.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Como saber se caí na malha fina do imposto de renda 2026 pelo portal e-CAC",
+        "link": "https://jovempan.com.br/noticias/economia/como-saber-se-cai-na-malha-fina-do-imposto-de-renda-2026-pelo-portal-e-cac.html",
+        "data": "02/02/2026 06:29",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2023/05/ja_8380-1024x683.jpg"
+    },
+    {
+        "titulo": "Horóscopo do dia: previsão para os 12 signos em 02/02/2026",
+        "link": "https://jovempan.com.br/edicase/horoscopo-do-dia-previsao-para-os-12-signos-em-02-02-2026.html",
         "data": "02/02/2026 03:00",
-        "fonte": "G1",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/pCIdAK25tyhK5Yxf2bwQ8yQQX2E=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/V/CJ9O50RSKOinekdDBp0Q/sisu-2026.jpeg"
-    },
-    {
-        "titulo": "Bolsa Família 2026: veja calendário de pagamentos em fevereiro",
-        "link": "https://g1.globo.com/economia/noticia/2026/02/02/bolsa-familia-2026-veja-calendario-de-pagamentos-em-fevereiro.ghtml",
-        "data": "02/02/2026 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/tADsf5NpPVjAtsw-NDLpjYkK3W8=/5760x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/X/p/m9WC1JRNGCSTELVKKrBA/fta20240801129.jpg"
-    },
-    {
-        "titulo": "Abono salarial PIS/Pasep 2026 começa a ser pago em fevereiro; veja regras e o calendário completo",
-        "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/02/02/abono-salarial-pispasep-2026-veja-regras-e-o-calendario-completo.ghtml",
-        "data": "02/02/2026 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/8s7a6n5Hj4TgQUKUvv3t8fgIb7s=/1280x0/filters:format(jpeg)/https://s03.video.glbimg.com/x720/14185050.jpg"
-    },
-    {
-        "titulo": "Programa de escolas cívico-militares tem início em 100 unidades de SP nesta segunda",
-        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/02/02/programa-de-escolas-civico-militares-tem-inicio-em-100-unidades-de-sp-nesta-segunda.ghtml",
-        "data": "02/02/2026 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/pAp6xur6hfZPxBWI_kv-zVRSd4M=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/q/J/81Mce6S6uJYVU9MLDV0A/whatsapp-image-2024-07-26-at-18.00.13.jpeg"
-    },
-    {
-        "titulo": "'Que ela consiga participar da vida dos filhos', diz marido de mulher que ficou em estado vegetativo após cirurgia de baixo risco",
-        "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/02/02/que-ela-consiga-participar-da-vida-dos-filhos-diz-marido-de-mulher-que-ficou-em-estado-vegetativo-apos-cirurgia-de-baixo-risco.ghtml",
-        "data": "02/02/2026 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/YibKVkNyfng0sIPk6Yg7y5FcQYU=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/a/s2lIHvSn2XNPy4qvEeuw/capa-agenda-g1-83-.jpg"
-    },
-    {
-        "titulo": "Do Vidigal, fotógrafo clica sequência de raios no mar do Rio; veja imagens",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/02/02/do-vidigal-fotografo-clica-sequencia-de-raios-no-mar-do-rio-veja-imagens.ghtml",
-        "data": "02/02/2026 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/nlkFT6TF2TJpqC3oJc2AdqaE2SY=/1250x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/v/mMgoBsQsyB1aMNUsMdXA/whatsapp-image-2026-02-01-at-21.58.58-1-.jpeg"
-    },
-    {
-        "titulo": "Grammy 2026: Bad Bunny ganha Álbum do Ano por “Debí Tiras Más Fotos”",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/grammy-2026-bad-bunny-ganha-album-do-ano-por-debi-tiras-mas-fotos/",
-        "data": "02/02/2026 04:34",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/bad-bunny-2-e1770006830874.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Grammy: Preta Gil, Lô Borges e outros brasileiros recebem homenagem póstuma",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/grammy-preta-gil-lo-borges-e-outros-brasileiros-recebem-homenagem-postuma/",
-        "data": "02/02/2026 04:29",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/07/preta-gil-3-e1753303051733.jpg?w=1080&h=608&crop=1"
-    },
-    {
-        "titulo": "Grammy 2026: confira todas as apresentações da noite",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/grammy-2026-confira-todas-as-apresentacoes-da-noite/",
-        "data": "02/02/2026 04:27",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/justin-bieber.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Grammy 2026: Kendrick Lamar e SZA ganham Gravação do Ano com “Luther”",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/grammy-2026-kendrick-lamar-e-sza-ganham-gravacao-do-ano-com-luther/",
-        "data": "02/02/2026 04:18",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Kendrick-Lamar.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Lola Young ganha Grammy de Performance Solo de Pop após pausa na carreira",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/lola-young-ganha-grammy-de-performance-solo-de-pop-apos-pausa-na-carreira/",
-        "data": "02/02/2026 03:24",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/lola-young.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Enquete BBB 26: quem você quer eliminar no 3º Paredão?",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/bbb/enquete-bbb-26-quem-voce-quer-eliminar-no-3o-paredao/",
-        "data": "02/02/2026 03:16",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/3-paredao-bbb26_588d04.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Grammy 2026: Billie Eilish vence Canção do Ano com “Wildflower”",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/grammy-2026-billie-eilish-vence-cancao-do-ano-com-wildflower/",
-        "data": "02/02/2026 03:12",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/12/billie-tiny-desk.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "BBB 26: Ana Paula Renault, Brigido e Leandro disputam 3º Paredão da edição",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/bbb/bbb-26-ana-paula-renault-brigido-e-leandro-disputam-3o-paredao-da-edicao/",
-        "data": "02/02/2026 03:08",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/3-paredao-bbb26.png?w=820&h=492&crop=1"
-    },
-    {
-        "titulo": "USP 2026: Fuvest divulga lista de aprovados da 2ª chamada nesta segunda (2)",
-        "link": "https://www.cnnbrasil.com.br/educacao/usp-2026-fuvest-divulga-lista-de-aprovados-da-2a-chamada-nesta-segunda-2/",
-        "data": "02/02/2026 03:01",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/09/usp.jpg?w=1024&h=538&crop=1"
-    },
-    {
-        "titulo": "Artistas criticam ICE em discursos no Grammy Awards; veja vídeos",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/artistas-criticam-ice-em-discursos-no-grammy-awards-veja-videos/",
-        "data": "02/02/2026 02:47",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/bad-bunny-2-e1770006830874.jpg?w=1200&h=630&crop=1"
+        "image": "https://jpimg.com.br/uploads/2026/02/horoscopo-do-dia-previsao-para-os-12-signos-em-02-02-2026-1024x683.jpg"
     },
     {
         "titulo": "Palmeiras joga sem vontade e perde para o Botafogo-SP mesmo com um a mais",
@@ -224,20 +240,28 @@
         "image": "https://jpimg.com.br/uploads/2026/02/agf20260201262.jpg"
     },
     {
-        "titulo": "Roteirista de filme que disputa o Oscar é preso no Irã",
-        "link": "https://jovempan.com.br/entretenimento/tv-e-cinema/roteirista-de-filme-que-disputa-o-oscar-e-preso-no-ira.html",
-        "data": "01/02/2026 20:44",
-        "fonte": "Jovem Pan",
+        "titulo": "BBB 26: 'Você só sabe ir pra piscina', dispara Juliano para Jonas",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/02/bbb-26-voce-so-sabe-ir-pra-piscina-dispara-juliano-para-jonas.shtml",
+        "data": "02/02/2026 06:35",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-13t065750.915.png"
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/02/17700140076980453721230_1770014007_3x2_rt.jpg"
     },
     {
-        "titulo": "Menino de cinco anos detido pelo ICE volta para casa",
-        "link": "https://jovempan.com.br/noticias/mundo/menino-de-cinco-anos-detido-pelo-ice-volta-para-casa.html",
-        "data": "01/02/2026 20:03",
-        "fonte": "Jovem Pan",
+        "titulo": "Laura Fernández é eleita presidente da Costa Rica",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/02/laura-fernandez-e-eleita-presidente-da-costa-rica.shtml",
+        "data": "02/02/2026 05:33",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/02/afp__20260123__93tf3nq__v2__highres__topshotusimmigrationshootingcourt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/01/1769988890697fe31af1c76_1769988890_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Bad Bunny dedica álbum do ano no Grammy a imigrantes e discursa em espanhol",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/02/bad-bunny-dedica-album-do-ano-no-grammy-a-imigrantes-e-discursa-em-espanhol.shtml",
+        "data": "02/02/2026 05:03",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/02/177000827469802ed28be79_1770008274_3x2_rt.jpg"
     },
     {
         "titulo": "Bad Bunny faz história no Grammy ao vencer álbum do ano com disco em espanhol",
@@ -296,28 +320,12 @@
         "image": "https://f.i.uol.com.br/fotografia/2022/09/30/1664554150633714a6def35_1664554150_3x2_rt.jpg"
     },
     {
-        "titulo": "Novo ciclo de queda da taxa de juros pode trazer maior apetite para Bolsa e títulos pré-fixados",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/02/novo-ciclo-de-queda-da-taxa-de-juros-pode-trazer-maior-apetite-para-bolsa-e-titulos-pre-fixados.shtml",
-        "data": "02/02/2026 02:00",
-        "fonte": "Folha de S.Paulo",
+        "titulo": "Kendrick Lamar é o grande vencedor do Grammy 2026; Rapper quebra recorde de Jay-Z",
+        "link": "https://exame.com/pop/kendrick-lamar-e-o-grande-vencedor-do-grammy-2026-rapper-quebra-recorde-de-jay-z/",
+        "data": "02/02/2026 02:23",
+        "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/06/17/1750175914685190aacc2b4_1750175914_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Veja receita vegetariana que leva grão-de-bico, tofu e especiarias indianas",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/comida/2026/02/veja-receita-vegetariana-que-leva-grao-de-bico-tofu-e-especiarias-indianas.shtml",
-        "data": "02/02/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/01/30/1769800936697d04e8c89b6_1769800936_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Esposas e viúvas do Estado Islâmico detidas em campos isolados na Síria esperam anistia do governo Sharaa",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/02/esposas-e-viuvas-do-estado-islamico-detidas-em-campos-isolados-na-siria-esperam-anistia-do-governo-sharaa.shtml",
-        "data": "02/02/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/02/01/1769977153697fb5418aee5_1769977153_3x2_rt.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/02/GettyImages-2259480664.jpg"
     },
     {
         "titulo": "Grammy 2026: Bad Bunny ganha prêmio de Álbum do Ano por 'Debí Tiras Más Fotos'",
@@ -392,17 +400,9 @@
         "image": "https://classic.exame.com/wp-content/uploads/2025/08/GettyImages-2227573529-1.jpg"
     },
     {
-        "titulo": "Quem é Olivia Dean, vencedora do Grammy de Artista Revelação",
-        "link": "https://exame.com/pop/quem-e-olivia-dean-vencedora-do-grammy-de-artista-revelacao/",
-        "data": "01/02/2026 23:19",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/02/GettyImages-2259469558.jpg"
-    },
-    {
         "titulo": "'Nunca tinha visto isso', diz Filipe Luís sobre expulsão de Carrascal",
         "link": "https://www.terra.com.br/esportes/flamengo/nunca-tinha-visto-isso-diz-filipe-luis-sobre-expulsao-de-carrascal-na-supercopa,f648edb08d6c2ac3b7d16c049d57df905hx5buef.html",
-        "data": "02/02/2026 04:54",
+        "data": "02/02/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/02/wpr20260201004-1hv88d6rtnygp.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Caetano e Bethânia vencem Grammy de Melhor Álbum de Música Global",
         "link": "https://www.terra.com.br/diversao/musica/caetano-veloso-e-maria-bethania-vencem-grammy-de-melhor-album-de-musica-global,785f8643988019367d6e9bb65d04dc41rhlk99kw.html",
-        "data": "02/02/2026 04:54",
+        "data": "02/02/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/01/1315742141-rcuc7x7hirdz5hkadfhfvxqpra.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "'Se ficar provado, ele tem que responder', diz pai de adolescente investigado",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/se-ficar-provado-ele-tem-que-responder-diz-pai-de-adolescente-investigado-por-morte-de-cao-orelha,07d7e61133b7dd001bc3dbfff9627bc43ux9mmfn.html",
-        "data": "02/02/2026 04:54",
+        "data": "02/02/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/02/captura-de-tela-2026-02-01-215647-us0qsullkm79.png"
@@ -426,7 +426,7 @@
     {
         "titulo": "BBB26: Ana Paula, Brigido e Leandro formam o terceiro Paredão; vote",
         "link": "https://www.terra.com.br/diversao/tv/reality-shows/bbb26-ana-paula-brigido-e-leandro-formam-o-terceiro-paredao-vote,0d99d1c7aa3de36af15aac64faf6d8e8ov485zg7.html",
-        "data": "02/02/2026 04:54",
+        "data": "02/02/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/02/design-sem-nome-(43)-qdqh5jcbbg4l.png"
@@ -434,7 +434,7 @@
     {
         "titulo": "Brasileiro que mostra rotina nos EUA e dizia apoiar Trump é preso pelo ICE",
         "link": "https://www.terra.com.br/noticias/mundo/influenciador-brasileiro-que-mostra-rotina-nos-eua-e-dizia-apoiar-trump-e-preso-pelo-ice,700a7172e1dce31a75c975fa3be16aa5vscca1bd.html",
-        "data": "02/02/2026 04:54",
+        "data": "02/02/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/01/junior-pena-1iuqgrs6lezc6.png"
@@ -442,7 +442,7 @@
     {
         "titulo": "Menino de 5 anos volta para casa após ser detido pela imigração nos EUA",
         "link": "https://www.terra.com.br/noticias/mundo/estados-unidos/menino-de-5-anos-volta-para-casa-apos-ser-detido-pelo-ice-nos-eua,0a17c4566b363d7c35ea38efb5fd1dbdcgfvt9rk.html",
-        "data": "02/02/2026 04:54",
+        "data": "02/02/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/01/hafr7tpw0aahqqk-r1fmkcxg67u8.jpg"
@@ -450,7 +450,7 @@
     {
         "titulo": "'Precisa de milagre', diz pai de jovem que está em coma após agressão por chiclete",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/precisa-de-milagre-afirma-pai-de-adolescente-que-esta-em-coma-apos-ser-agredido-por-ex-piloto,4439f620b50e2f280ad6b7963ca7e16axnf1885u.html",
-        "data": "02/02/2026 04:54",
+        "data": "02/02/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/02/prisao-pedro-turra-1jiaj0akrdzqu.png"
@@ -458,7 +458,7 @@
     {
         "titulo": "Manifestantes pedem 'Justiça pelo cão Orelha' em protestos por várias cidades do País",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/manifestantes-pedem-justica-pelo-cao-orelha-em-protestos-por-varias-cidades-do-pais,6022cbdc76e65fe6897ef638fe1c3ce5lgjylu8l.html",
-        "data": "02/02/2026 04:54",
+        "data": "02/02/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/01/fta20260201110-qe1lhisefktu.jpg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Sobrou para Paquetá: veja os memes da derrota do Flamengo",
         "link": "https://www.terra.com.br/esportes/flamengo/sobrou-para-paqueta-veja-os-memes-da-vitoria-do-corinthians-sobre-o-flamengo-na-supercopa,107a9936dfaa134a6dce6ed8122b1a8f9ywy0l2e.html",
-        "data": "02/02/2026 04:54",
+        "data": "02/02/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/01/des20260201017-s15kuw2mao2q.jpg"
@@ -474,7 +474,7 @@
     {
         "titulo": "Lenda do motocross brasileiro morre em acidente em rodovia de SC",
         "link": "https://www.terra.com.br/esportes/lenda-do-motocross-brasileiro-chumbinho-becker-morre-em-acidente-em-rodovia-de-sc,c4e66f48053427a2d7174d085ff74db5upeaihbr.html",
-        "data": "02/02/2026 04:54",
+        "data": "02/02/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/01/chumbinho-1hr5veym0n67n.PNG"
