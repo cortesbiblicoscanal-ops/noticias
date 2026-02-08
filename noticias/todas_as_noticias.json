@@ -1,83 +1,107 @@
 [
     {
-        "titulo": "Rainha das Rainhas 2026: ACOMPANHE A TRANSMISSÃO",
+        "titulo": "Suvaco do Cristo faz neste domingo seu último desfile após 40 anos; museu virtual e documentário manterão memória viva",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/08/suvaco-do-cristo-faz-neste-domingo-seu-ultimo-desfile-apos-40-anos-museu-virtual-e-documentario-manterao-memoria-viva.ghtml",
+        "data": "08/02/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/lbxGorAlpgcCHzuLX_McbIdnfDU=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/z/H0cseXTtWZ1gICunLAFw/blank-2-grids-collage-15-.png"
+    },
+    {
+        "titulo": "Companhia lançará classe executiva com cabine privativa e assento-cama no Japão; veja imagens",
+        "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/02/08/companhia-lancara-classe-executiva-com-cabine-privativa-e-assento-cama-no-japao-veja-imagens.ghtml",
+        "data": "08/02/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/B_RWxtsT-FVSIpR8Qq_PqBZKNbU=/4425x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/0/3VcIMhT8OAwEHh8xBFDw/david-syphers-h-ekzq-vury-unsplash.jpg"
+    },
+    {
+        "titulo": "'A síndica é como um prefeito': conheça condomínio gigante à beira-mar no RS que funciona como uma cidade",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/02/08/a-sindica-e-como-um-prefeito-conheca-condominio-gigante-a-beira-mar-no-rs-que-funciona-como-uma-cidade.ghtml",
+        "data": "08/02/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/_Y-Zw4VvuMkSg8odIreyOm9WiUM=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/w/cJbkCaSBGAHoB6k4BlYw/g1-1200-x-675-px-90-.png"
+    },
+    {
+        "titulo": "Marca de luxo descarta equipes consagradas para patrocinar o Brasil nas Olimpíadas de Inverno; saiba motivo",
+        "link": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/02/08/marca-de-luxo-descarta-equipes-consagradas-para-patrocinar-o-brasil-nas-olimpiadas-de-inverno-saiba-motivo.ghtml",
+        "data": "08/02/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/tWTUQ2nSsNeZfYVtZCzKL_vL5G4=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/G/8D9UH6RKWuNsxPqoTzeQ/befunky-collage-4-.jpg"
+    },
+    {
+        "titulo": "Pré-carnaval de BH 2026: Bloco Chá da Alice volta às ruas da capital com Babado Novo; veja programação completa dos cortejos deste domingo",
+        "link": "https://g1.globo.com/mg/minas-gerais/carnaval/2026/noticia/2026/02/08/pre-carnaval-de-bh-2026-bloco-cha-da-alice-volta-as-ruas-da-capital-com-babado-novo-veja-programacao-completa-dos-cortejos-deste-domingo.ghtml",
+        "data": "08/02/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/fhzM0HSAtQUnCctZ3mNGKY7IlT8=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/T/hYfA8wTEqD7nHGjDpZDQ/54304143457-6d51d8e081-k.jpg"
+    },
+    {
+        "titulo": "Sem neve, sem Jogos? Aquecimento global ameaça Olimpíadas de Inverno",
+        "link": "https://g1.globo.com/meio-ambiente/noticia/2026/02/08/sem-neve-sem-jogos-aquecimento-global-ameaca-olimpiadas-de-inverno.ghtml",
+        "data": "08/02/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/httoEidcfDDpk1CMX4l1NEes1h0=/5770x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/u/IDbPLvSvA4LdBr7b0dTQ/2026-02-01t104007z-1800445425-rc2pbja2h6vq-rtrmadp-3-olympics-2026-opening-boy.jpg"
+    },
+    {
+        "titulo": "Assista aos telejornais da TV Liberal",
+        "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+        "data": "08/02/2026 05:59",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
+    },
+    {
+        "titulo": "Vencedora do Rainha das Rainhas 2026 fez referência ao búfalo carabao do Marajó; veja como foi",
         "link": "https://g1.globo.com/pa/para/rainha-das-rainhas/oficial/ao-vivo/rainha-das-rainhas-2026-transmissao-ao-vivo-assistir.ghtml",
-        "data": "08/02/2026 04:36",
+        "data": "08/02/2026 05:51",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/3fa8UjkPdzpb_xMOdbhhLuJFSDU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/B/1WyXWBTouK1FWR1KXTkw/image-29-.png"
+        "image": "https://s2-g1.glbimg.com/XdOgjrTlwHTJrLF1YH_Ixp9jxM0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/1/AW0WfLTymCiipRl1Q64w/whatsapp-image-2026-02-08-at-00.32.34.jpeg"
     },
     {
-        "titulo": "'Com o que eu ganho não dá para sobreviver': quase um quarto dos idosos está endividado no RS, aponta Serasa",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/02/08/com-o-que-eu-ganho-nao-da-para-sobreviver-quase-um-quarto-dos-idosos-esta-endividado-no-rs-aponta-serasa.ghtml",
-        "data": "08/02/2026 04:00",
+        "titulo": "CEO do Washington Post deixa o cargo após onda de demissões",
+        "link": "https://g1.globo.com/economia/noticia/2026/02/08/ceo-washington-post-deixa-cargo.ghtml",
+        "data": "08/02/2026 05:48",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/SwETC12M4tgWcmjSyeM6jpG7i1M=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/f/wBtpYtSB6omnYf1bfrnQ/g1-1200-x-675-px-96-.png"
+        "image": "https://s2-g1.glbimg.com/83o_c-Xt_etGEq_aB5YcVUezJNE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/10/52/14255210"
     },
     {
-        "titulo": "Trump se encontra com o presidente de Honduras e afirma que 'trabalham juntos no combate às drogas e imigrantes ilegais'",
-        "link": "https://g1.globo.com/mundo/noticia/2026/02/08/trump-encontra-presidente-honduras.ghtml",
-        "data": "08/02/2026 03:51",
+        "titulo": "Rainha das Rainhas 2026: Layane Santos, do Guará Acqua Park, vence o maior concurso de beleza e fantasia da Amazônia",
+        "link": "https://g1.globo.com/pa/para/rainha-das-rainhas/oficial/noticia/2026/02/08/rainha-das-rainhas-2026-layane-santos-guara-acqua-park-vence-o-maior-concurso-de-beleza-e-fantasia-da-amazonia.ghtml",
+        "data": "08/02/2026 05:10",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/sXjObDh4BEEG1YlVqatn1SuluJ4=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/30/64/14206430"
+        "image": "https://s2-g1.glbimg.com/liaQynA54qVE5X3Us-1Nru_9WMw=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/A/mJY8FFSnS9WA2oTbAnZg/whatsapp-image-2026-02-08-at-02.15.17.jpeg"
     },
     {
-        "titulo": "Rainha das Rainhas 2026: veja FOTOS das apresentações",
-        "link": "https://g1.globo.com/pa/para/rainha-das-rainhas/oficial/noticia/2026/02/08/rainha-das-rainhas-2026-veja-fotos-das-apresentacoes.ghtml",
-        "data": "08/02/2026 03:45",
-        "fonte": "G1",
+        "titulo": "Valores da sociedade definem qualidade de suas instituições, diz sociólogo",
+        "link": "https://www.cnnbrasil.com.br/politica/valores-da-sociedade-definem-qualidade-de-suas-instituicoes-diz-sociologo/",
+        "data": "08/02/2026 06:03",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/iZotrA6tr7xHxTFsTKgSpQ4Fp9A=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/j/PSKtKXRSuHTM1pxlGSrA/whatsapp-image-2026-02-08-at-00.37.55.jpeg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/52888006738_94d6232368_c.jpg?w=799&h=447&crop=1"
     },
     {
-        "titulo": "Mercado de trabalho aquecido reduz desequilíbrio na relação entre empregado e empregador",
-        "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/02/08/mercado-de-trabalho-aquecido-reduz-desequilibrio-na-relacao-entre-empregado-e-empregador.ghtml",
-        "data": "08/02/2026 03:05",
-        "fonte": "G1",
+        "titulo": "Confira a agenda de blocos no Rio neste domingo (8)",
+        "link": "https://www.cnnbrasil.com.br/noticias/confira-a-agenda-de-blocos-no-rio-neste-domingo-8/",
+        "data": "08/02/2026 06:00",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/Ps-d2NzurGhxSvLJPeTUcvadxvM=/5184x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Q/F/1B04VxTPKMhi2yHWkJFQ/carteira-de-trabalho-digital-mcamgo-abr-240620211818-2.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/02/Carnaval-RJ.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Blocos de domingo: confira a programação no Rio no último fim de semana antes do carnaval",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/08/blocos-de-domingo-confira-a-programacao-no-rio-no-ultimo-fim-de-semana-antes-do-carnaval.ghtml",
-        "data": "08/02/2026 03:00",
-        "fonte": "G1",
+        "titulo": "Baixo Augusta e Calvin Harris: veja a agenda de blocos em SP no domingo (8)",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/baixo-augusta-e-calvin-harris-veja-a-agenda-de-blocos-em-sp-no-domingo-8/",
+        "data": "08/02/2026 06:00",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/BCNA8BHOpDXnSIlTvXnBEHD2qAU=/2047x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/v/S/o0BePFTWAqzot1HiVjLA/52684167991-0c9d85576b-k.jpg"
-    },
-    {
-        "titulo": "Baixo Augusta, DJ Calvin Harris, Monobloco, Quintal dos Prettos: veja blocos que saem às ruas de SP neste domingo de pré-carnaval",
-        "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/08/baixo-augusta-dj-calvin-harris-monobloco-quintal-dos-prettos-veja-blocos-que-saem-as-ruas-de-sp-neste-domingo-de-pre-carnaval.ghtml",
-        "data": "08/02/2026 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/VC_oO4T6Ge5F9bADpzWQex8o1Aw=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/F/tbbBSnTpew0143cAjA0A/ato20250223027.jpg"
-    },
-    {
-        "titulo": "Super Bowl 2026: veja os comerciais mais caros da TV, que vão ao ar hoje",
-        "link": "https://g1.globo.com/economia/noticia/2026/02/08/super-bowl-2026-veja-os-comerciais-mais-caros-da-tv-que-vao-ao-ar-hoje.ghtml",
-        "data": "08/02/2026 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/qKo9LeGQzlgheH4x_F_OrLY7shc=/4573x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/F/uBCEvHQYuzCJHUiVTRaw/2025-02-09t233703z-1372037074-rc29rca2750h-rtrmadp-3-usa-trump-superbowl.jpg"
-    },
-    {
-        "titulo": "Completas e com rainhas, escolas fazem último ensaio técnico na Sapucaí antes do carnaval",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/08/completas-e-com-rainhas-escolas-fazem-ultimo-ensaio-tecnico-na-sapucai-antes-do-carnaval.ghtml",
-        "data": "08/02/2026 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/GJdpTCwEMZMFfrBPIUBsdXdZy1Y=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/F/App7ieT5Gs6cLqLkrcfg/virginia-fonseca-fts-anderson-borde-agnews-968.jpg"
-    },
-    {
-        "titulo": "Professora morta a facadas por aluno em faculdade de Porto Velho: o que se sabe sobre o caso",
-        "link": "https://g1.globo.com/ro/rondonia/noticia/2026/02/08/professora-morta-a-facadas-por-aluno-em-faculdade-de-porto-velho-o-que-se-sabe-sobre-o-caso.ghtml",
-        "data": "08/02/2026 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/q3GEQ-NaPYmGxL_k3Om20dQxME8=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/e/XCFrhKQSqXIwdOYavQMg/260207-info-professora-porto-velho-v3.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/02/simoninha-baixo-augusta.jpg?w=1080&h=630&crop=1"
     },
     {
         "titulo": "Baile da Vogue: veja o look dos famosos em festa inspirada no Carnaval",
@@ -136,28 +160,12 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Sao-Paulo-Primavera-e1770514555524.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Obras da COP30: áreas sofrem com depredações em menos de 1 ano",
-        "link": "https://www.cnnbrasil.com.br/nacional/norte/pa/obras-da-cop30-areas-sofrem-com-depredacoes-em-menos-de-1-ano/",
-        "data": "08/02/2026 01:10",
-        "fonte": "CNN Brasil",
+        "titulo": "Guia técnico das provas de halfpipe e big air no snowboard",
+        "link": "https://jovempan.com.br/esportes/outros-esportes/guia-tecnico-das-provas-de-halfpipe-e-big-air-no-snowboard.html",
+        "data": "08/02/2026 05:57",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/WhatsApp-Image-2026-02-07-at-21.54.44.jpeg?w=1024&h=630&crop=1"
-    },
-    {
-        "titulo": "Quem era professora morta a facadas por aluno em faculdade em RO",
-        "link": "https://www.cnnbrasil.com.br/nacional/norte/ro/quem-era-professora-morta-a-facadas-por-aluno-em-faculdade-em-ro/",
-        "data": "08/02/2026 00:33",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/FALSA-LIDER-ESPIRITUAL-1.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Sabrina Sato usa 3 mil cristais Swarovski em ensaio técnico na Sapucaí",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/sabrina-sato-usa-3-mil-cristais-swarovski-em-ensaio-tecnico-na-sapucai/",
-        "data": "08/02/2026 00:25",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/IMG_1705.JPG-e1770522529855.jpeg?w=1200&h=630&crop=1"
+        "image": "https://jpimg.com.br/uploads/2017/04/I_20100210_123400.jpg"
     },
     {
         "titulo": "Análise dos documentos necessários para a votação e identificação civil",
@@ -174,6 +182,14 @@
         "fonte": "Jovem Pan",
         "metodo": "RSS",
         "image": "https://jpimg.com.br/uploads/2023/11/063_1599832468.jpg"
+    },
+    {
+        "titulo": "Horóscopo do dia: previsão para os 12 signos em 08/02/2026",
+        "link": "https://jovempan.com.br/edicase/horoscopo-do-dia-previsao-para-os-12-signos-em-08-02-2026.html",
+        "data": "08/02/2026 03:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2026/02/horoscopo-do-dia-previsao-para-os-12-signos-em-08-02-2026-1024x683.jpg"
     },
     {
         "titulo": "São Paulo vence Primavera de virada em bom jogo de Lucas e entra no G-8 do Paulistão",
@@ -224,20 +240,12 @@
         "image": "https://jpimg.com.br/uploads/2026/02/captura-de-tela-2026-02-07-210733.png"
     },
     {
-        "titulo": "Policiais disfarçados prendem suspeitos de vender bebida adulterada em SP",
-        "link": "https://jovempan.com.br/noticias/brasil/policiais-disfarcados-prendem-suspeitos-de-vender-bebida-adulterada-em-sp.html",
-        "data": "07/02/2026 23:45",
-        "fonte": "Jovem Pan",
+        "titulo": "Canadá vence Brasil e vai à segunda rodada da Copa Davis",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/02/canada-vence-brasil-e-vai-a-segunda-rodada-da-copa-davis.shtml",
+        "data": "08/02/2026 05:03",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2023/02/age20230219347-1024x683.jpg"
-    },
-    {
-        "titulo": "Falas de Lula e Alckmin evidenciam governo em clima de campanha",
-        "link": "https://jovempan.com.br/noticias/politica/falas-de-lula-e-alckmin-evidenciam-governo-em-clima-de-campanha.html",
-        "data": "07/02/2026 23:25",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/10/54869757746_67415faf8d_k-1024x614.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/07/17705116196987dd03a884f_1770511619_3x2_rt.jpg"
     },
     {
         "titulo": "Apresentadora americana oferece pagamento pelo resgate de sua mãe",
@@ -310,14 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2025/12/18/176606682069440a84c3e86_1766066820_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Disputa tripla pelas terras raras do Brasil se intensifica",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/02/disputa-tripla-pelas-terras-raras-do-brasil-se-intensifica.shtml",
-        "data": "08/02/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/07/25/17534627766883b7f85fba2_1753462776_3x2_lg.jpg"
     },
     {
         "titulo": "BBB 26: Quem foi para o paredão no Duelo de Risco",
@@ -402,7 +402,7 @@
     {
         "titulo": "Alceu Valença arrasta multidão no pré-Carnaval de SP; veja imagens",
         "link": "https://www.terra.com.br/diversao/carnaval/sao-paulo/alceu-valenca-arrasta-multidao-no-pre-carnaval-de-sp-veja-imagens,f68a9ae7641c7b45848db02caea918239g79y8ey.html",
-        "data": "08/02/2026 05:00",
+        "data": "08/02/2026 06:44",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/07/alceu-thumb-u854rmqjdank.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Tapia brilha, Palmeiras bate Corinthians e conquista a SuperCopa Feminina",
         "link": "https://www.terra.com.br/esportes/futebol/tapia-defende-penaltis-de-estrelas-do-corinthians-e-palmeiras-vence-supercopa-do-brasil-feminina,a283ee0eebfe57d92d02c6d9f2bc3794h2dj5beu.html",
-        "data": "08/02/2026 05:00",
+        "data": "08/02/2026 06:44",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/07/1708947941-h7c2rhetrja5ris6bdsmu3nhay.png"
@@ -418,7 +418,7 @@
     {
         "titulo": "Sabrina Sato, Vivi Araújo e mais famosas brilham em ensaio técnico na Sapucaí",
         "link": "https://www.terra.com.br/diversao/carnaval/rio-de-janeiro/sabrina-sato-vivi-araujo-e-musas-brilham-em-ensaio-na-sapucai-veja-fotos,3a406e1093e9dc11931dffebb46e41cfixncumct.html",
-        "data": "08/02/2026 05:00",
+        "data": "08/02/2026 06:44",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/08/sabrina-e-musas-t49i97j3pyed.jpg"
@@ -426,7 +426,7 @@
     {
         "titulo": "Jogador do Sampaio Corrêa passa mal e desaba em campo; imagens são fortes",
         "link": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-carioca/jogador-do-sampaio-correa-passa-mal-e-desaba-em-campo-imagens-sao-fortes,9028af754195e997dcabe23379561508d1v1ozgf.html",
-        "data": "08/02/2026 05:00",
+        "data": "08/02/2026 06:44",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/08/zim20260207070-(1)-1if0k1tiwug6d.jpg"
@@ -434,7 +434,7 @@
     {
         "titulo": "Professora de Direito atacada em faculdade foi morta com a própria faca, diz polícia",
         "link": "https://www.terra.com.br/nos/professora-de-direito-atacada-em-faculdade-de-ro-foi-morta-com-a-propria-faca-diz-policia,27146810ce254a0f937d0857a48967f0380z2cmv.html",
-        "data": "08/02/2026 05:00",
+        "data": "08/02/2026 06:44",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/07/screenshot_20260207_015222_whatsapp-skmtb3zheib8.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "SP: policiais fantasiados de ETs prendem 3 por venda de bebida adulterada em bloco",
         "link": "https://www.terra.com.br/noticias/brasil/policia/policiais-fantasiados-de-ets-prendem-tres-por-venda-de-bebida-adulterada-no-bloco-da-ivete-em-sp,61c4673c69138013ff44f2e1c33b79c1zv0di95c.html",
-        "data": "08/02/2026 05:00",
+        "data": "08/02/2026 06:44",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/07/prisao-bloco-sp-uve47u052053.png"
@@ -450,7 +450,7 @@
     {
         "titulo": "Ninguém acerta e prêmio acumula em R$ 47 milhões; veja dezenas",
         "link": "https://www.terra.com.br/economia/loterias/mega-sena/mega-sena-ninguem-acerta-e-premio-acumula-em-r-47-milhoes-veja-dezenas,7a2a3329ea5cf3ec9d215c038772a10c3dadfu5e.html",
-        "data": "08/02/2026 05:00",
+        "data": "08/02/2026 06:44",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/13/mega-sena-qxr434lzcjeb.PNG"
@@ -458,7 +458,7 @@
     {
         "titulo": "Ibama multa Petrobras em R$ 2,5 milhões por vazamento na Foz do Amazonas",
         "link": "https://www.terra.com.br/planeta/noticias/ibama-multa-petrobras-em-r-25-milhoes-por-vazamento-na-foz-do-amazonas,55c13f11525bb1f4859ea792d44f1d16otaak11l.html",
-        "data": "08/02/2026 05:00",
+        "data": "08/02/2026 06:44",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/08/1395582045-lmafdvholjfipiuljzfrvrjajy.jpg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Leila cobra apoio da Globo ao futebol feminino: 'Precisamos de melhores horários'",
         "link": "https://www.terra.com.br/esportes/palmeiras/leila-cobra-apoio-da-globo-ao-futebol-feminino-precisamos-de-investimento-e-melhores-horarios,262576fe19c7d0aeee2507561f4c131ffbawpshh.html",
-        "data": "08/02/2026 05:00",
+        "data": "08/02/2026 06:44",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/07/429355748-zkvavzkr6nfhdfsi7zcpktjnfu.png"
@@ -474,7 +474,7 @@
     {
         "titulo": "Rafaela Silva conquista o ouro no Grand Slam de Paris de judô em nova categoria",
         "link": "https://www.terra.com.br/esportes/lutas/rafaela-silva-brilha-e-conquista-o-ouro-no-grand-slam-de-paris-de-judo-em-nova-categoria,7520f6279d539f3f9c7e5ba520998031by8jat2u.html",
-        "data": "08/02/2026 05:00",
+        "data": "08/02/2026 06:44",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/07/440435943-eykkuomlzfbw5l3qz5r6iplhaa.jpg"
