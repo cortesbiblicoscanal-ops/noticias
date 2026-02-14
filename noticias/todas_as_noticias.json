@@ -1,163 +1,219 @@
 [
     {
-        "titulo": "Óleo na pista após desfile da Acadêmicos do Tatuapé provoca atraso e faz Vai-Vai entrar na avenida com o dia amanhecendo",
-        "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/14/oleo-na-pista-apos-desfile-da-academicos-do-tatuape-provoca-atraso-e-faz-vai-vai-entrar-na-avenida-com-o-dia-amanhecendo.ghtml",
-        "data": "14/02/2026 09:16",
+        "titulo": "Energético, lanches leves e café: integrantes da Barroca Zona Sul, última escola a desfilar no Anhembi, lutam contra a madrugada",
+        "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/14/energetico-lanches-leves-e-cafe-integrantes-da-barroca-zona-sul-ultima-escola-a-desfilar-no-anhembi-lutam-contra-a-madrugada.ghtml",
+        "data": "14/02/2026 12:30",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "None"
+        "image": "https://s2-g1.glbimg.com/ZvXDK8CVE2ygLc1owejwRLeswrM=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/q/BMPvRbR7i9O7vGPCMThw/bruna-tanzilo-passista-da-escola-com-a-amiga-veterana.jpeg"
+    },
+    {
+        "titulo": "Fátima Bernardes chega a Pernambuco para curtir o carnaval: 'Mala só de fantasia, dois shorts e uma camiseta'",
+        "link": "https://g1.globo.com/pe/pernambuco/carnaval/2026/noticia/2026/02/14/fatima-bernardes-chega-a-pernambuco-para-curtir-o-carnaval.ghtml",
+        "data": "14/02/2026 12:29",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Wnv3mmLPqm6v84nk9oA_Kpop2zA=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/R/F9mELQR7yHAmv1CtF7ew/fatima-bernardes.png"
+    },
+    {
+        "titulo": "Edilson é desclassificado do 'BBB 26'",
+        "link": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2026/02/14/edilson-e-desclassificado-do-bbb-26.ghtml",
+        "data": "14/02/2026 12:28",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/AoRXQCOc9KlOo4F-rG5frbFEJFs=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/c/cgT8ldS7Wjmj6HhitERQ/edilson-1920x1080.jpg"
+    },
+    {
+        "titulo": "Começou!! Assista ao desfile do Galo da Madrugada",
+        "link": "https://g1.globo.com/pe/pernambuco/carnaval/2026/ao-vivo/carnaval-2026-em-pernambuco.ghtml",
+        "data": "14/02/2026 12:24",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/QAv-bTtR8PLHL3kNbHbryjFgEy4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/1/QnomD5Q7SXZtZUWlXCkg/galo-da-madrugada-2-.jpeg"
+    },
+    {
+        "titulo": "Cratera se abre em avenida e quase atinge casas em Teresina; via interditada",
+        "link": "https://g1.globo.com/pi/piaui/noticia/2026/02/14/cratera-se-abre-em-avenida.ghtml",
+        "data": "14/02/2026 12:23",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/c1iq74_lK-tMq4Zp5K8Y2w6J6Fc=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/F/SUKtZkR42lvfm0Lq2QAQ/edicao-imagens-g1-1-.jpg.jpeg"
+    },
+    {
+        "titulo": "Carnaval 2026: confira o que abre e o que fecha durante a folia em Sergipe",
+        "link": "https://g1.globo.com/se/sergipe/noticia/2026/02/14/carnaval-2026-confira-o-que-abre-e-o-que-fecha-durante-a-folia-em-sergipe.ghtml",
+        "data": "14/02/2026 12:21",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/TFQJUCAR8tfB63ATGPS5GxHANII=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/M/s/Yx5pdXS9AAa6IPcgrLeg/indice.jpg"
+    },
+    {
+        "titulo": "Apostador de Cruzeiro (SP) faz jogo de R$ 3 e fatura R$ 19,6 milhões na Quina; veja os números sorteados",
+        "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/02/14/apostador-de-cruzeiro-sp-faz-jogo-de-r-3-e-fatura-r-196-milhoes-na-quina-veja-os-numeros-sorteados.ghtml",
+        "data": "14/02/2026 12:16",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/gT6BR7tMkwDs1Ga-DPLIoTTpAfo=/1800x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/t/xkY3XkSrW88LNYBiwWcQ/g1.png"
     },
     {
         "titulo": "Acompanhe o cortejo do Então, Brilha!",
         "link": "https://g1.globo.com/mg/minas-gerais/carnaval/2026/ao-vivo/carnaval-2026-em-bh.ghtml",
-        "data": "14/02/2026 09:15",
+        "data": "14/02/2026 12:11",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/KNUS9cGDs3wCfvy1RbVrxbAJ4h8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/q/LB1Y7oSFuXssYhp0239Q/globocop-carnaval-tarde-07-feb-2026-frame-192246-1-.jpeg"
+        "image": "https://s2-g1.glbimg.com/F1zl2ty-duvsWeKCYttnFDJdHf8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/1/IMwJPkRH2lC6g1ig5YdQ/whatsapp-image-2026-02-14-at-06.45.50.jpeg"
     },
     {
-        "titulo": "Justiça obriga Estado de SP a realizar estudos para conter erosão na Ilha do Cardoso; entenda",
-        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/02/14/justica-obriga-estado-de-sp-a-realizar-estudos-para-conter-erosao-na-ilha-do-cardoso-entenda.ghtml",
-        "data": "14/02/2026 09:14",
+        "titulo": "Discurso de Rubio a aliados europeus adota tom mais brando, mas mantém posição firme de Trump",
+        "link": "https://g1.globo.com/mundo/noticia/2026/02/14/discurso-de-rubio-a-aliados-europeus-adota-tom-mais-brando-mas-mantem-posicao-firme-de-trump.ghtml",
+        "data": "14/02/2026 12:08",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/dUT_cUvcEeUIZ_Map2Z8STp1-WI=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/A/BroXMLRqKcs08YDax4xw/ilha-cardoso-2-.jpg"
+        "image": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
     },
     {
-        "titulo": "Mulher vítima de tentativa de feminicídio pediu ajuda a PMs antes de ser espancada no elevador",
-        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/02/14/mulher-vitima-de-tentativa-de-feminicidio-pediu-ajuda-a-pms-antes-de-ser-espancada-no-elevador.ghtml",
-        "data": "14/02/2026 09:12",
+        "titulo": "VÍDEO: chuva forte alaga ruas de cidade do Paraná",
+        "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/02/14/video-chuva-forte-alaga-ruas-de-palmas-parana.ghtml",
+        "data": "14/02/2026 12:06",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/xJydbWM8z3wEss_Pm0qKxPdSBZg=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/h/gJ75XfQ0S7YbRvaxWLHQ/agressao-elevador.jpg"
+        "image": "https://s2-g1.glbimg.com/tvfI8IyST-9RM6hr83vy3NhOAhc=/1400x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/6/iQV6BKR32BH7BC9wTpBw/chuva-palmas.png"
     },
     {
-        "titulo": "O que se sabe sobre a briga de crianças no Roblox que terminou com mulher ferida na vida real",
-        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/02/14/o-que-se-sabe-sobre-a-briga-de-criancas-no-roblox-que-terminou-com-mulher-ferida-na-vida-real.ghtml",
-        "data": "14/02/2026 09:08",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/kHv9L80cOMprqyOicMb7Zxr4QyY=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/T/W42JSYRfegxpeX5Qnn6Q/briga-roblox.jpg"
-    },
-    {
-        "titulo": "'Grande grupo brasileiro': o elo do caso Jeffrey Epstein com o Brasil revelado em novos documentos",
-        "link": "https://g1.globo.com/mundo/noticia/2026/02/14/grande-grupo-brasileiro-o-elo-do-caso-jeffrey-epstein-com-o-brasil-revelado-em-novos-documentos.ghtml",
-        "data": "14/02/2026 09:07",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/KJiJ-Nmr6Euun0SPrx5BBFp_3PY=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/B/HM1ZjaSAOzAl83AW6yQg/resized-epstein1.jpg"
-    },
-    {
-        "titulo": "Disputa envolvendo transferência de elefanta do antigo zoológico do Beto Carrero World tem novo capítulo; entenda",
-        "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/02/14/disputa-transferencia-elefanta-antigo-zoologico-beto-carrero-world-novo-capitulo.ghtml",
-        "data": "14/02/2026 09:02",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/5iPnT-qP5gmhdIXnNvwFpNF1sIk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/nC96BjRYuGOkQJqMlJEQ/baby.jpg"
-    },
-    {
-        "titulo": "Dia da Amizade: mensagens para compartilhar e ideias de viagem para celebrar",
-        "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/atibaia-e-regiao-convention-e-visitors-bureau/turismo-atibaia-e-regiao/noticia/2026/02/14/dia-da-amizade-mensagens-para-compartilhar-e-ideias-de-viagem-para-celebrar.ghtml",
-        "data": "14/02/2026 09:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/SHfoMUeqQ2DqRjYwMCXGKIjcy4U=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/u/whg6RITkyQvrFCk3iLnQ/young-people-3575167-1280.jpg"
-    },
-    {
-        "titulo": "Da árvore ao prato: as folhas azedinhas da fruta que parece tomate-cereja e são comestíveis",
-        "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/02/14/da-arvore-ao-prato-as-folhas-azedinhas-da-fruta-que-parece-tomate-cereja-e-sao-comestiveis.ghtml",
-        "data": "14/02/2026 09:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/bLUvqWF_ycj9X8WI_UMGU8PE5iU=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/a/BMrjGNQ6yCoLGQAV2JAw/canva-2026-02-13t060731.628.png"
-    },
-    {
-        "titulo": "Você viu? Morte de casal na BR-116, família soterrada e caixões em córrego após queda de parede",
-        "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/02/14/voce-viu-morte-de-casal-na-br-116-familia-soterrada-e-caixoes-em-corrego-apos-queda-de-parede.ghtml",
-        "data": "14/02/2026 09:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/mBu52arHcMckxZY0EjSI9p25sQw=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/J/x1vK32RNAh07NC0ycxwA/vc-viu-g1-zona-da-mata.jpg"
-    },
-    {
-        "titulo": "Análise: Campanha antecipada de Lula no Carnaval é questão interpretativa",
-        "link": "https://www.cnnbrasil.com.br/politica/analise-campanha-antecipada-de-lula-no-carnaval-e-questao-interpretativa/",
-        "data": "14/02/2026 09:10",
+        "titulo": "RJ: Delegacia temporária reforça segurança na Sapucaí durante os desfiles",
+        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/rj-delegacia-temporaria-reforca-seguranca-na-sapucai-durante-os-desfiles/",
+        "data": "14/02/2026 12:04",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/imagens-cn-10.png?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/04/carnaval_rio_de_janeiro_2022_03-e1771069519863.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Rubio diz que EUA testam se Rússia quer fim da guerra na Ucrânia",
-        "link": "https://www.cnnbrasil.com.br/internacional/rubio-diz-que-eua-testam-se-russia-quer-fim-da-guerra-na-ucrania/",
-        "data": "14/02/2026 09:05",
+        "titulo": "“Americanos sempre serão filhos da Europa”, diz Rubio em fórum de segurança",
+        "link": "https://www.cnnbrasil.com.br/internacional/americanos-sempre-serao-filhos-da-europa-diz-rubio-em-forum-de-seguranca/",
+        "data": "14/02/2026 11:58",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/rubio.jpg?w=960&h=540&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2025binary_LYNXMPEL6F0YD-BASEIMAGE.jpg?w=800&h=533&crop=1"
     },
     {
-        "titulo": "Carnaval: saiba como se transformar em boneco de Olinda com ChatGPT",
-        "link": "https://www.cnnbrasil.com.br/tecnologia/carnaval-saiba-como-se-transformar-em-boneco-de-olinda-com-chatgpt/",
-        "data": "14/02/2026 09:00",
+        "titulo": "Perto de fazer história, Lucas Pinheiro se diz pronto para prova decisiva",
+        "link": "https://www.cnnbrasil.com.br/esportes/olimpiadas/perto-de-fazer-historia-lucas-pinheiro-se-diz-pronto-para-prova-decisiva/",
+        "data": "14/02/2026 11:53",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/1-Captura-de-tela-2026-02-13-212916.jpg?w=428&h=241&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/lucas-braathen-descida-e1771069880788.jpeg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Mulher ucraniana cumpre 15 anos de pena após espionar para agente russo",
-        "link": "https://www.cnnbrasil.com.br/internacional/mulher-ucraniana-cumpre-15-anos-de-pena-apos-espionar-para-agente-russo/",
-        "data": "14/02/2026 09:00",
+        "titulo": "Após “traumas”, Santos traça perfil de contratação até o final da janela",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/apos-traumas-santos-traca-perfil-de-contratacao-ate-o-final-da-janela/",
+        "data": "14/02/2026 11:51",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/Bandeiras-Ucrania-Russia.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Alexandre-Mattos-diretor-de-futebol-do-Santos.webp?w=1000&h=563&crop=1"
     },
     {
-        "titulo": "Carnaval 2026: cuidados essenciais para levar um pet ao bloquinho",
-        "link": "https://www.cnnbrasil.com.br/lifestyle/carnaval-2026-cuidados-essenciais-para-levar-um-pet-ao-bloquinho/",
-        "data": "14/02/2026 09:00",
+        "titulo": "Venezuela liberta 17 presos políticos, afirma comitê",
+        "link": "https://www.cnnbrasil.com.br/internacional/venezuela-liberta-17-presos-politicos-afirma-comite/",
+        "data": "14/02/2026 11:42",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/07/GettyImages-1316811105-e1750809827573.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Carnaval 2026: veja a ordem da 2ª noite de desfiles da Série Ouro no RJ",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/carnaval-2026-veja-a-ordem-da-2a-noite-de-desfiles-da-serie-ouro-no-rj/",
-        "data": "14/02/2026 09:00",
+        "titulo": "Mesmo em boa fase, Corinthians vê procura por ingressos diminuir; entenda",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/mesmo-em-boa-fase-corinthians-ve-procura-por-ingressos-diminuir-entenda/",
+        "data": "14/02/2026 11:16",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/arranco.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/Neo-Quimica-Arena-e1763567914555.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Integrante da comissão de frente desmaia e Rosas pode brigar para não cair",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/integrante-da-comissao-de-frente-desmaia-e-rosas-pode-brigar-para-nao-cair/",
-        "data": "14/02/2026 08:50",
+        "titulo": "Rapper é acusado de jogar ácido sulfúrico em mulher nos EUA após videoclipe",
+        "link": "https://www.cnnbrasil.com.br/internacional/rapper-e-acusado-de-jogar-acido-sulfurico-em-mulher-nos-eua-apos-videoclipe/",
+        "data": "14/02/2026 11:00",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Rosas-de-Ouro-1-e1771057989148.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Nafiah-Ikram-vitima-de-ataque-com-acido-em-Long-Island.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Saiba a posição do brasileiro Lucas Pinheiro no ranking mundial de esqui",
-        "link": "https://www.cnnbrasil.com.br/esportes/olimpiadas/saiba-a-posicao-do-brasileiro-lucas-pinheiro-no-ranking-mundial-de-esqui/",
-        "data": "14/02/2026 08:45",
+        "titulo": "Lucas Pinheiro Braathen lidera na 1ª descida, e Brasil fica perto do pódio",
+        "link": "https://www.cnnbrasil.com.br/esportes/olimpiadas/lucas-pinheiro-braathen-lidera-na-1a-descida-e-brasil-fica-perto-do-podio/",
+        "data": "14/02/2026 10:51",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Lucas-Pinheiro-3-e1770993621717.jpeg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/lucas-braathen-e1771065952458.jpeg?w=1037&h=584&crop=1"
     },
     {
-        "titulo": "Itabirito x Atlético-MG: horário e onde assistir ao jogo do Mineiro",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-mineiro/itabirito-x-atletico-mg-horario-e-onde-assistir-ao-jogo-do-mineiro/",
-        "data": "14/02/2026 08:45",
+        "titulo": "Atrasos, desmaio e briga: como foi a 1ª noite de desfiles do Especial de SP",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/atrasos-desmaio-e-briga-como-foi-a-1a-noite-de-desfiles-do-especial-de-sp/",
+        "data": "14/02/2026 10:51",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/01/Snapinst.app_12547379_673674932735261_253534168_n_1080-e1738282960315.jpg?w=1080&h=608&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/rosas-de-ouro-3.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Olimpíada: conheça Lucas Pinheiro, brasileiro que disputa medalha no slalom",
-        "link": "https://www.cnnbrasil.com.br/esportes/olimpiadas/olimpiada-conheca-lucas-pinheiro-brasileiro-que-disputa-medalha-no-slalom/",
-        "data": "14/02/2026 08:40",
+        "titulo": "Sarah Pidgeon revela desafio em viver Carolyn Bessette: “Não haviam vídeos”",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/sarah-pidgeon-revela-desafio-em-viver-carolyn-bessette-nao-haviam-videos/",
+        "data": "14/02/2026 10:00",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Lucas-Pinheiro-2-e1770990774139.jpeg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/sarah-pidgeon-carolyn-bessette.png?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Carnaval: metanol em bebidas liga sinal de alerta nos estados",
+        "link": "https://jovempan.com.br/saude/carnaval-metanol-em-bebidas-liga-sinal-de-alerta-nos-estados.html",
+        "data": "14/02/2026 12:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/10/imagem-jvp-35.png"
+    },
+    {
+        "titulo": "O que vai mudar no carnaval de SP após tumultos com megabloco na Consolação",
+        "link": "https://jovempan.com.br/entretenimento/o-que-vai-mudar-no-carnaval-de-sp-apos-tumultos-com-megabloco-na-consolacao.html",
+        "data": "14/02/2026 11:47",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2026/02/foto-jp-1-5.png"
+    },
+    {
+        "titulo": "Em Salvador, Ancelotti ouve pedido de Léo Santana: ‘Coloca o Neymar na seleção’",
+        "link": "https://jovempan.com.br/entretenimento/em-salvador-ancelotti-ouve-pedido-de-leo-santana-coloca-o-neymar-na-selecao.html",
+        "data": "14/02/2026 11:34",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2026/02/captura-de-tela-2026-02-14-às-08.30.13.png"
+    },
+    {
+        "titulo": "PGR pede arquivamento de inquérito sobre Zambelli por suposta coação contra o STF",
+        "link": "https://jovempan.com.br/noticias/politica/pgr-pede-arquivamento-de-inquerito-sobre-zambelli-por-suposta-coacao-contra-o-stf.html",
+        "data": "14/02/2026 11:14",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/10/imagem-jvp-37-2.png"
+    },
+    {
+        "titulo": "EUA autorizam volta das operações de 5 grandes petrolíferas na Venezuela",
+        "link": "https://jovempan.com.br/noticias/mundo/eua-autorizam-volta-das-operacoes-de-5-grandes-petroliferas-na-venezuela.html",
+        "data": "14/02/2026 10:31",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2026/01/donald-trump.jpg"
+    },
+    {
+        "titulo": "Caso Marielle: MPF denuncia três policiais por obstrução de justiça e associação criminosa",
+        "link": "https://jovempan.com.br/noticias/brasil/caso-marielle-mpf-denuncia-tres-policiais-por-obstrucao-de-justica-e-associacao-criminosa.html",
+        "data": "14/02/2026 10:22",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2021/03/marielle.png"
+    },
+    {
+        "titulo": "Rio reformula Carnaval movido por mudanças geracionais e novas demandas sociais",
+        "link": "https://jovempan.com.br/noticias/brasil/rio-reformula-carnaval-movido-por-mudancas-geracionais-e-novas-demandas-sociais.html",
+        "data": "14/02/2026 10:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/03/fta202503011441.jpg"
     },
     {
         "titulo": "Quando a influência digital ultrapassa o direito de reclamar",
@@ -168,6 +224,14 @@
         "image": "https://jpimg.com.br/uploads/2026/02/57800.jpg"
     },
     {
+        "titulo": "Tarot do dia: previsão para os 12 signos em 14/02/2026",
+        "link": "https://jovempan.com.br/edicase/tarot-do-dia-previsao-para-os-12-signos-em-14-02-2026.html",
+        "data": "14/02/2026 09:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2026/02/tarot-do-dia-previsao-para-os-12-signos-em-14-02-2026-1024x683.jpg"
+    },
+    {
         "titulo": "Entenda as atribuições e o papel constitucional do governador",
         "link": "https://jovempan.com.br/noticias/politica/entenda-as-atribuicoes-e-o-papel-constitucional-do-governador.html",
         "data": "14/02/2026 08:32",
@@ -176,387 +240,323 @@
         "image": "https://jpimg.com.br/uploads/2025/07/palacio.jpg"
     },
     {
-        "titulo": "Onde Assistir aos Filmes Indicados ao Oscar 2026",
-        "link": "https://jovempan.com.br/entretenimento/tv-e-cinema/onde-assistir-aos-filmes-indicados-ao-oscar-2026.html",
-        "data": "14/02/2026 07:14",
-        "fonte": "Jovem Pan",
+        "titulo": "BBB 26: Edilson Capetinha é expulso por agressão",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/02/bbb-26-edilson-capetinha-e-expulso-por-agressao.shtml",
+        "data": "14/02/2026 12:30",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-22t081824.514.png"
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/14/177107218069906ab4d08f9_1771072180_3x2_lg.jpg"
     },
     {
-        "titulo": "Entenda o papel do deputado estadual na estrutura federativa brasileira",
-        "link": "https://jovempan.com.br/noticias/politica/entenda-o-papel-do-deputado-estadual-na-estrutura-federativa-brasileira.html",
-        "data": "14/02/2026 04:53",
-        "fonte": "Jovem Pan",
+        "titulo": "Venezuela liberta mais 17 presos políticos, diz movimento de oposição",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/02/venezuela-liberta-mais-17-presos-politicos-diz-movimento-de-oposicao.shtml",
+        "data": "14/02/2026 12:26",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/12/design-sem-nome-23.png"
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/14/177106883269905da036ce2_1771068832_3x2_rt.jpg"
     },
     {
-        "titulo": "Estrutura remuneratória dos parlamentares no Brasil",
-        "link": "https://jovempan.com.br/noticias/politica/estrutura-remuneratoria-dos-parlamentares-no-brasil.html",
-        "data": "14/02/2026 03:11",
-        "fonte": "Jovem Pan",
+        "titulo": "Federalização do BRB começa a ser discutida entre banqueiros",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/02/federalizacao-do-brb-comeca-a-ser-discutida-entre-banqueiros.shtml",
+        "data": "14/02/2026 12:00",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/02/imagem-jvp-2026-02-11t064911.138.png"
+        "image": "https://f.i.uol.com.br/fotografia/2026/01/24/17692689626974e6e2a0831_1769268962_3x2_rt.jpg"
     },
     {
-        "titulo": "Horóscopo do dia: previsão para os 12 signos em 14/02/2026",
-        "link": "https://jovempan.com.br/edicase/horoscopo-do-dia-previsao-para-os-12-signos-em-14-02-2026.html",
-        "data": "14/02/2026 03:00",
-        "fonte": "Jovem Pan",
+        "titulo": "Rubio diz que EUA não querem se separar da Europa, mas apresenta futuro nos termos de Trump",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/02/rubio-diz-que-eua-nao-querem-se-separar-da-europa-mas-apresenta-futuro-nos-termos-de-trump.shtml",
+        "data": "14/02/2026 11:25",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/02/horoscopo-do-dia-previsao-para-os-12-signos-em-14-02-2026-1024x683.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/14/1771063265699047e14d90d_1771063265_3x2_rt.jpg"
     },
     {
-        "titulo": "Morre o filho mais novo de secretário de Itumbiara baleado pelo pai",
-        "link": "https://jovempan.com.br/noticias/brasil/morre-o-filho-mais-novo-de-secretario-de-itumbiara-baleado-pelo-pai.html",
-        "data": "14/02/2026 01:59",
-        "fonte": "Jovem Pan",
+        "titulo": "Carnaval precisa se adaptar ao envelhecimento da população",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/02/carnaval-precisa-se-adaptar-ao-envelhecimento-da-populacao.shtml",
+        "data": "14/02/2026 11:00",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/02/foto-jp-6-2.png"
+        "image": "https://f.i.uol.com.br/fotografia/2023/02/21/167702591663f5627c5a15d_1677025916_3x2_rt.jpg"
     },
     {
-        "titulo": "União Brasil e PP defendem Toffoli em meio à crise do banco Master",
-        "link": "https://jovempan.com.br/noticias/politica/uniao-brasil-e-pp-defendem-toffoli-em-meio-a-crise-do-banco-master.html",
-        "data": "14/02/2026 01:12",
-        "fonte": "Jovem Pan",
+        "titulo": "Multidão consciente da loucura",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/02/multidao-consciente-da-loucura.shtml",
+        "data": "14/02/2026 11:00",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/12/54961789901_ebc88bb33a_k-1024x683.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/13/1771031121698fca519a2e4_1771031121_3x2_rt.jpg"
     },
     {
-        "titulo": "Arco do Triunfo é alvo de tentativa de ataque terrorista, diz Macron",
-        "link": "https://jovempan.com.br/noticias/mundo/arco-do-triunfo-e-alvo-de-tentativa-de-ataque-terrorista-diz-macron.html",
-        "data": "14/02/2026 00:59",
-        "fonte": "Jovem Pan",
+        "titulo": "Veja blocos de Carnaval com nomes divertidos, como Virilha de Minhoca e Arrianu Suassunga",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/carnaval/2026/02/veja-blocos-de-carnaval-com-nomes-divertidos-como-virilha-de-minhoca-e-arrianu-suassunga.shtml",
+        "data": "14/02/2026 11:00",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/02/um-dos-policiais-presentes-ao-redor-do-arco-do-triunfo.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2023/02/11/167614080663e7e10612fe0_1676140806_3x2_rt.jpg"
     },
     {
-        "titulo": "Comissão da Câmara aprova proposta para facilitar compra da primeira arma",
-        "link": "https://jovempan.com.br/noticias/politica/comissao-da-camara-aprova-proposta-para-facilitar-compra-da-primeira-arma.html",
-        "data": "14/02/2026 00:58",
-        "fonte": "Jovem Pan",
+        "titulo": "Rosas de Ouro e Dragões da Real encantam em noite marcada por atraso nos desfiles em SP",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/atraso-grandiosidade-e-luxo-tecnologico-marcam-1o-dia-de-desfiles-em-sp.shtml",
+        "data": "14/02/2026 10:55",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/04/monumentos_brasilia_cupula_plenario_da_camara_dos_deputados3103201337.png"
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/14/177105710469902fd0c24a5_1771057104_3x2_rt.jpg"
     },
     {
-        "titulo": "PT vê polarização consolidada e diz que terceira via vai 'passar vergonha'",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/02/pt-ve-polarizacao-consolidada-e-diz-que-terceira-via-vai-passar-vergonha.shtml",
+        "titulo": "Veja dicas de como aplicar e remover o glitter do rosto e cabelos",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/02/veja-dicas-de-como-aplicar-e-remover-o-glitter-do-rosto-e-cabelos.shtml",
+        "data": "14/02/2026 10:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/06/1770420659698679b375e4e_1770420659_3x2_xl.jpg"
+    },
+    {
+        "titulo": "'Há menor disposição para trabalhar em canteiro de obras', diz CEO da Tenda",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/02/ha-menor-disposicao-para-trabalhar-em-canteiro-de-obras-diz-ceo-da-tenda.shtml",
+        "data": "14/02/2026 10:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/13/1770998356698f4a5484f56_1770998356_3x2_rt.jpg"
+    },
+    {
+        "titulo": "BBB 26: Edilson 'Capetinha' é expulso do reality após agressão",
+        "link": "https://exame.com/pop/bbb-26-edilson-capetinha-e-expulso-do-reality-apos-agressao/",
+        "data": "14/02/2026 09:35",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2026/02/edilson_capetinha.webp"
+    },
+    {
+        "titulo": "Eleitor de baixa renda do Nordeste deve decidir eleição, diz diretor da Eurasia",
+        "link": "https://exame.com/brasil/eleitor-de-baixa-renda-do-nordeste-deve-decidir-eleicao-diz-diretor-da-eurasia/",
+        "data": "14/02/2026 09:30",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2026/02/rbr2526.jpg"
+    },
+    {
+        "titulo": "Apagão atinge Grande São Paulo e deixa 500 mil sem luz",
+        "link": "https://exame.com/brasil/apagao-atinge-grande-sao-paulo-e-deixa-500-mil-sem-luz/",
+        "data": "14/02/2026 09:29",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2025/10/GettyImages-1410891100.jpg"
+    },
+    {
+        "titulo": "'Tesouraço' e privatizações: os sinais de Flávio sobre a economia",
+        "link": "https://exame.com/brasil/tesouraco-e-privatizacoes-os-sinais-de-flavio-sobre-a-economia/",
         "data": "14/02/2026 09:00",
-        "fonte": "Folha de S.Paulo",
+        "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/02/13/1771031664698fcc70ba848_1771031664_3x2_rt.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/02/flavio-bolsonaro.jpg"
     },
     {
-        "titulo": "'Bigode' em tromba de elefante funciona como espécie de sensor tátil",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/02/bigode-em-tromba-de-elefante-funciona-como-especie-de-sensor-tatil.shtml",
+        "titulo": "Jalles Machado, de açúcar e etanol, depende do campo para virada, diz BTG",
+        "link": "https://exame.com/agro/jalles-machado-de-acucar-e-etanol-depende-do-campo-para-virada-diz-btg/",
         "data": "14/02/2026 09:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/02/13/1771003680698f5f20abc38_1771003680_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Com nova linha, Xeque Mate projeta alta de 70% nas vendas no Carnaval de 2026",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/02/com-nova-linha-xeque-mate-projeta-alta-de-70-nas-vendas-no-carnaval-de-2026.shtml",
-        "data": "14/02/2026 09:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/02/13/1771007106698f6c828e27d_1771007106_3x2_lg.jpg"
-    },
-    {
-        "titulo": "Baterista palestino cria instrumentos caseiros e leva música a crianças em campo de deslocados em Gaza",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/02/baterista-palestino-cria-instrumentos-caseiros-e-leva-musica-a-criancas-em-campo-de-deslocados-em-gaza.shtml",
-        "data": "14/02/2026 09:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/02/12/1770902314698dd32a72df1_1770902314_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Sábado de Carnaval em SP deve ter calor de 33°C e pancadas isoladas de chuva à tarde",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/sabado-de-carnaval-em-sp-deve-ter-calor-de-33c-e-pancadas-isoladas-de-chuva-a-tarde.shtml",
-        "data": "14/02/2026 08:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/10/22/176117782968f970e510d0b_1761177829_3x2_xl.jpg"
-    },
-    {
-        "titulo": "Jornalista que não é ativista não é jornalista, diz Chico Pinheiro",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/02/jornalista-que-nao-e-ativista-nao-e-jornalista-diz-chico-pinheiro.shtml",
-        "data": "14/02/2026 07:52",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/02/14/1771042326698ff616752da_1771042326_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Carnaval revigora minha saúde mental, diz Thelma Assis",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/carnaval/2026/02/carnaval-revigora-minha-saude-mental-diz-thelma-assis.shtml",
-        "data": "14/02/2026 07:36",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/02/14/1771054537699025c9d13d5_1771054537_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Carnaval 2026: Camarote Brahma tem sala de massagem, cabeleireiro e cassino",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/carnaval/2026/02/carnaval-2026-camarote-brahma-tem-sala-de-massagem-cabeleireiro-e-cassino.shtml",
-        "data": "14/02/2026 07:19",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/02/14/1771053483699021ab929ac_1771053483_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Famílias vivem dilema sobre monitorar ou não o celular de idosos",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/02/familias-vivem-dilema-sobre-monitorar-ou-nao-o-celular-de-idosos.shtml",
-        "data": "14/02/2026 07:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/12/29/176702202069529dc497471_1767022020_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Prefeitura de BH abre escola no Carnaval para filhos de catadores e ambulantes, mas adesão é baixa",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/prefeitura-de-bh-abre-escola-no-carnaval-para-filhos-de-catadores-e-ambulantes-mas-adesao-e-baixa.shtml",
-        "data": "14/02/2026 07:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/02/12/1770920633698e1ab956bf4_1770920633_3x2_lg.jpg"
-    },
-    {
-        "titulo": "Alinhamento raro de 6 planetas poderá ser visto no Brasil; saiba quando",
-        "link": "https://exame.com/ciencia/alinhamento-raro-de-6-planetas-podera-ser-visto-no-brasil-saiba-quando/",
-        "data": "14/02/2026 06:12",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2021/01/sistema_solar.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-13-at-15.10.29.jpeg"
     },
     {
-        "titulo": "Campeonato Carioca: qual horário e onde assistir Vasco x Volta Redonda",
-        "link": "https://exame.com/esporte/campeonato-carioca-qual-horario-e-onde-assistir-vasco-x-volta-redonda/",
-        "data": "14/02/2026 06:01",
+        "titulo": "Lula sanciona lei que cria 'Gás do Povo' e deve atender 15 milhões de famílias",
+        "link": "https://exame.com/brasil/lula-sanciona-lei-que-cria-gas-do-povo-e-deve-atender-15-milhoes-de-familias/",
+        "data": "14/02/2026 08:58",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/12/vasco-corinthians-final-copa-do-brasil-2025.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2023/01/tmcj_0025.jpg"
     },
     {
-        "titulo": "Carnaval 2026 em SP: blocos de rua hoje, sábado, 14 de fevereiro",
-        "link": "https://exame.com/pop/carnaval-2026-em-sp-blocos-de-rua-hoje-sabado-14-de-fevereiro/",
-        "data": "14/02/2026 06:00",
+        "titulo": "Só 5,5% dos deputados se elegeram com votos próprios na última eleição",
+        "link": "https://exame.com/brasil/so-55-dos-deputados-se-elegeram-com-votos-proprios-na-ultima-eleicao/",
+        "data": "14/02/2026 08:32",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/01/GettyImages-1977522126.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2024/07/img20240710210211038.jpg"
     },
     {
-        "titulo": "Carnaval 2026 em BH: blocos de rua hoje, sábado, 14 de fevereiro",
-        "link": "https://exame.com/pop/carnaval-2026-em-bh-blocos-de-rua-hoje-sabado-14-de-fevereiro/",
-        "data": "14/02/2026 06:00",
+        "titulo": "Aos 26 anos, ela vai faturar R$ 3,5 milhões com um negócio que só tem funcionários Gen Z",
+        "link": "https://exame.com/negocios/aos-24-ela-usou-r-1-mil-para-abrir-um-negocio-hoje-fatura-r-15-milhao-e-so-contrata-gen-z/",
+        "data": "14/02/2026 08:12",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2023/02/GettyImages-1128519881.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/02/Caroline-Jurdi-CEO-e-fundadora-da-CJ-Hub-Credito-Divulgacao.jpg"
     },
     {
-        "titulo": "Carnaval 2026 no RJ: blocos de rua hoje, sábado, 14 de fevereiro",
-        "link": "https://exame.com/pop/carnaval-2026-no-rj-blocos-de-rua-hoje-sabado-14-de-fevereiro/",
-        "data": "14/02/2026 06:00",
+        "titulo": "Bangladesh: veja quem assumirá o país após eleição e revolta da gen-Z",
+        "link": "https://exame.com/mundo/bangladesh-veja-quem-assumira-o-pais-apos-eleicao-e-revolta-da-gen-z/",
+        "data": "14/02/2026 08:01",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/01/2020-ARocha-82.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/02/AFP__20260213__97CG697__v1__HighRes__BangladeshPoliticsVote.jpg"
     },
     {
-        "titulo": "Investidores chamavam essa empresa de 'lixo' — até que suas ações dobraram de preço",
-        "link": "https://exame.com/invest/mercados/investidores-chamavam-essa-empresa-de-lixo-ate-que-suas-acoes-dobraram-de-preco/",
-        "data": "14/02/2026 06:00",
+        "titulo": "Quer emprego no Carnaval? Feriado já não freia mais contratações no Brasil, diz pesquisa",
+        "link": "https://exame.com/carreira/quer-emprego-no-carnaval-feriado-ja-nao-freia-mais-contratacoes-no-brasil-diz-pesquisa/",
+        "data": "14/02/2026 08:01",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/02/GettyImages-1233111010.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/02/GettyImages-2210430093.jpg"
     },
     {
-        "titulo": "Como uma decisão financeira clássica fez o McDonald’s retomar o crescimento depois de anos",
-        "link": "https://exame.com/negocios/como-uma-decisao-financeira-classica-fez-o-mcdonalds-retomar-o-crescimento-depois-de-anos/",
-        "data": "14/02/2026 05:00",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/07/big_mac.jpg"
-    },
-    {
-        "titulo": "Essa ferramenta de IA está se tornando aliada dos criadores de conteúdo e desafiando o ChatGPT",
-        "link": "https://exame.com/carreira/essa-ferramenta-de-ia-esta-se-tornando-aliada-dos-criadores-de-conteudo-e-desafiando-o-chatgpt-2/",
-        "data": "14/02/2026 05:00",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/11/GettyImages-2185274983.jpg"
-    },
-    {
-        "titulo": "As quatro ferramentas de IA que estão revolucionando a produtividade e o lucro de líderes",
-        "link": "https://exame.com/carreira/as-quatro-ferramentas-de-ia-que-estao-revolucionando-a-produtividade-e-o-lucro-de-lideres-2/",
-        "data": "14/02/2026 05:00",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2050/11/GettyImages-2167861906.jpg"
-    },
-    {
-        "titulo": "Esses são prompts que você não conhecia e transformam o ChatGPT em uma ferramenta indispensável",
-        "link": "https://exame.com/carreira/esses-sao-prompts-que-voce-nao-conhecia-e-transformam-o-chatgpt-em-uma-ferramenta-indispensavel-2/",
-        "data": "14/02/2026 05:00",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2023/01/GettyImages-1245391728.jpg"
-    },
-    {
-        "titulo": "O que vai mudar no carnaval de SP para evitar tumultos como o do bloco da Consolação",
-        "link": "https://www.terra.com.br/noticias/brasil/cidades/o-que-vai-mudar-no-carnaval-de-sp-para-evitar-tumultos-como-o-do-bloco-da-consolacao-veja,c6b3828812a7ea838000508e05496d68pizcrklk.html",
-        "data": "14/02/2026 09:27",
+        "titulo": "Ivete Sangalo tem lado sério nos bastidores e mudou coreografia em cima da hora",
+        "link": "https://www.terra.com.br/diversao/carnaval/ivete-sangalo-tem-lado-serio-nos-bastidores-e-mudou-coreografia-de-vampirinha-em-cima-da-hora,5a406a17335381b6831e04b1136ea337vumdirj4.html",
+        "data": "14/02/2026 12:40",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/488869356-7ou44mg2jze7ldl2wwf4j3zu5a.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/12/design-sem-nome-2026-02-11t211723-078-vf3mweo7x2ee.png"
     },
     {
-        "titulo": "Lexa investiu um carro na fantasia high-tech: 'Vou guardar depois'",
-        "link": "https://www.terra.com.br/diversao/carnaval/sao-paulo/lexa-diz-que-ja-investiu-um-carro-na-fantasia-high-tech-vou-guardar-depois,1c3586aaa563217f3294b8a3f1f14bb8ixgw4x1o.html",
-        "data": "14/02/2026 09:27",
+        "titulo": "Lucas Braathen completa primeira descida no slalom gigante; saiba como foi",
+        "link": "https://www.terra.com.br/esportes/lucas-braathen-completa-primeira-descida-no-slalom-gigante-saiba-como-foi,e51955b2ca243854377b17c30926ba822hg9nza5.html",
+        "data": "14/02/2026 12:40",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/img_7817-jpg-t4kml8yph1rr.jpeg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/2120734078-nkfr3hgb7zhmpnjzklhyyel7ay.jpg"
     },
     {
-        "titulo": "Cadê o Shawn? Bruna Marquezine curte camarote com Sasha e o marido",
-        "link": "https://www.terra.com.br/diversao/carnaval/cade-o-shawn-bruna-marquezine-chega-ao-2222-acompanhada-de-sasha-e-do-marido,883db46af9bc7b7f89bc0a8d1dfc6f4fnfgeivg9.html",
-        "data": "14/02/2026 09:27",
+        "titulo": "Tom Cavalcante vira 'Michael Jackson' e usa maquiagem branca",
+        "link": "https://www.terra.com.br/diversao/carnaval/rio-de-janeiro/tom-cavalcante-vira-michael-jackson-e-usa-maquiagem-branca-para-o-cordao-da-bola-preta,b1237780c44886174b8360bfe279d3703bhaxs5y.html",
+        "data": "14/02/2026 12:40",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/sasha_marquezine-1huzx1p8e0nqx.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/169-(9)-r1a2axvogegj.jpg"
     },
     {
-        "titulo": "Edilson Capetinha empurra rosto de Leandro Boneco durante discussão: 'Me agrediu'",
-        "link": "https://www.terra.com.br/diversao/tv/reality-shows/edilson-capetinha-empurra-rosto-de-leandro-boneco-durante-discussao-no-bbb26-me-agrediu,e103b4156efd15883268df4b649182b23j7cyg26.html",
-        "data": "14/02/2026 09:27",
+        "titulo": "Leandra Leal se fantasia à caráter para participar do Cordão do Bola Preta",
+        "link": "https://www.terra.com.br/diversao/carnaval/rio-de-janeiro/leandra-leal-se-fantasia-a-carater-para-participar-do-cordao-do-bola-preta,e687cf707f9498abfa786c4cfd071cf4fhv06s18.html",
+        "data": "14/02/2026 12:40",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/foto-(35)-to4jpbqoer77.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/169-(10)-t4tfdpm7kxnp.jpg"
     },
     {
-        "titulo": "Léo Santana faz pedido para Ancelotti: 'Coloca o Neymar nessa Seleção'",
-        "link": "https://www.terra.com.br/diversao/carnaval/salvador/em-salvador-leo-santana-faz-pedido-para-ancelotti-coloca-o-neymar-nessa-selecao,eb5f1e10c6116204535ac30fca3be6516cgnhyou.html",
-        "data": "14/02/2026 09:27",
+        "titulo": "Não gosta de carnaval? Veja dicas do que fazer no feriadão",
+        "link": "https://www.terra.com.br/diversao/carnaval/nao-gosta-de-carnaval-veja-dicas-do-que-fazer-no-feriadao,f8bc800123409a9ce31ff7544cab12e2f6bmjzyt.html",
+        "data": "14/02/2026 12:40",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/captura-de-tela-2026-02-13-233921-1iun700jxeg6e.png"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/10/whatsapp-image-2026-02-10-at-18-51-30-sok3xie7ueee.jpeg"
     },
     {
-        "titulo": "Tati Minerato detalha gasto de R$ 300 mil em procedimentos para o carnaval",
-        "link": "https://www.terra.com.br/diversao/carnaval/sao-paulo/tati-minerato-detalha-gasto-de-r-300-mil-em-procedimentos-para-o-carnaval-e-relembra-problemas-com-hidrogel,7dd17b9f3b3648fb7330b5793fc43df5xzfwfsi6.html",
-        "data": "14/02/2026 09:27",
+        "titulo": "R$ 300 mil de investimento e 30 kg a menos, Madrinha da Vai-Vai detalha preparação",
+        "link": "https://www.terra.com.br/diversao/carnaval/sao-paulo/madrinha-da-vai-vai-rosi-pinheiro-perdeu-30-kg-e-investiu-r-300-mil-para-preparacao-de-carnaval,16f259d227e1fe4a651da43f988e782e07brr6rw.html",
+        "data": "14/02/2026 12:40",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/foto-(33)-s1jg44fuoj02.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/foto-(39)-urxed82zejp3.jpg"
     },
     {
-        "titulo": "Presidente de estreante do carnaval de São Paulo é marido de comentarista da Globo",
-        "link": "https://www.terra.com.br/diversao/carnaval/sao-paulo/presidente-de-estreante-do-carnaval-de-sao-paulo-e-marido-de-comentarista-da-globo,f3796a5f9cf1ad74c16a48e3cc112a56qvoh6854.html",
-        "data": "14/02/2026 09:27",
+        "titulo": "Veja o momento em que Boneco tenta apertar botar da desistência",
+        "link": "https://www.terra.com.br/diversao/tv/reality-shows/bbb26-veja-o-momento-em-que-boneco-tenta-apertar-botar-da-desistencia,9ab56564ffe745833302cd5db6e3f6e8e6p3ty3r.html",
+        "data": "14/02/2026 12:40",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/foto-(30)-toogfoqzk27o.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/bbb26-rhivihm5n2hv.jpg"
     },
     {
-        "titulo": "Muso da Colorado revela perrengue com fantasia: 'Deixa em carne viva'",
-        "link": "https://www.terra.com.br/diversao/carnaval/sao-paulo/muso-da-colorado-revela-perrengue-com-fantasia-deixa-em-carne-viva,0783036804f90e192ce72ff715d94c7d6p5yt7i3.html",
-        "data": "14/02/2026 09:27",
+        "titulo": "TV Globo deixa apresentadores fora do Anhembi e é criticada nas redes sociais",
+        "link": "https://www.terra.com.br/diversao/carnaval/tv-globo-deixa-apresentadores-fora-do-anhembi-e-e-criticada-nas-redes-sociais-confira,0a878d927a1575c69a4e7ef3c87a2ef3fhzw2jbi.html",
+        "data": "14/02/2026 12:40",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/colorado-uv5uj1ysfpt2.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/tv-globo-s4xel9gvazi0.jpg"
     },
     {
-        "titulo": "Gracyanne Barbosa samba de tênis na Sapucaí; veja fotos",
-        "link": "https://www.terra.com.br/diversao/carnaval/rio-de-janeiro/gracyanne-barbosa-samba-de-tenis-na-sapucai-veja-fotos,c496385ca2913573604f9c133a616394q8opjhi7.html",
-        "data": "14/02/2026 09:27",
+        "titulo": "Musa da Barroca perdeu 40 kg para desfilar: 'Treino e cirurgia plástica'",
+        "link": "https://www.terra.com.br/diversao/carnaval/sao-paulo/musa-da-barroca-perdeu-40-kg-para-desfilar-treino-e-cirurgia-plastica,f6eea192521ebbe8357990b4e475f39cd98j42q0.html",
+        "data": "14/02/2026 12:40",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/gracyanne-barbosa-fts-anderson-borde-agnews-1553-qhvmnt3cod9s.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/musa-trwby1hqaek9.jpg"
     },
     {
         "titulo": "Marcelo Serrado brinca sobre volta de Crô: 'Deixa a bicha descansar'",
         "link": "https://www.terra.com.br/diversao/carnaval/salvador/em-salvador-marcelo-serrado-comenta-a-volta-de-cro-retorno-inesperado,f4dc14c8148fb74089abf29438695efeygtcvn1j.html",
-        "data": "14/02/2026 09:27",
+        "data": "14/02/2026 12:40",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/13/marcelo-serrado-tofmhemwgnxw.jpg"
     },
     {
-        "titulo": "Campos do Jordão tem noite de Bridgerton e aposta em turismo de baixa temporada",
-        "link": "https://veja.abril.com.br/economia/campos-do-jordao-tem-noite-de-bridgerton-e-aposta-em-turismo-de-baixa-temporada/",
-        "data": "14/02/2026 09:07",
+        "titulo": "Edilson Capetinha é expulso do BBB26 após agredir Leandro",
+        "link": "https://veja.abril.com.br/cultura/edilson-e-expulso-do-bbb26-apos-agredir-leandro/",
+        "data": "14/02/2026 12:36",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/01/BRIDGERTON_401_Unit_05419R.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/Edilson-agredindo-Leandro.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Carnaval hoje em São Paulo: veja as interdições no trânsito",
-        "link": "https://veja.abril.com.br/brasil/carnaval-hoje-em-sao-paulo-veja-as-interdicoes-no-transito/",
-        "data": "14/02/2026 09:00",
+        "titulo": "Pior da semana: nova expulsão não incendeia conflitos e enfraquece BBB 26",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/pior-da-semana-nova-expulsao-nao-incendeia-conflitos-e-enfraquece-bbb-26/",
+        "data": "14/02/2026 12:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/02/bloco-ritaleena-sao-paulo-carnaval-2024.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/sol-vega-ana-paula-renault-raiox-bbb26-foto-globoplay.webp?resize=1080,565&crop=1"
     },
     {
-        "titulo": "Jogos de hoje, sábado, 14 de fevereiro: onde assistir futebol ao vivo e horários",
-        "link": "https://veja.abril.com.br/esporte/jogos-de-hoje-sabado-14-de-fevereiro-onde-assistir-futebol-ao-vivo-e-horarios/",
-        "data": "14/02/2026 09:00",
+        "titulo": "Jair ou Flávio Bolsonaro: quem é o adversário mais difícil para Lula, segundo Márcio França",
+        "link": "https://veja.abril.com.br/politica/jair-ou-flavio-bolsonaro-quem-e-o-adversario-mais-dificil-para-lula-segundo-marcio-franca/",
+        "data": "14/02/2026 12:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/08/GettyImages-2167843598.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2024/12/Marcio_Franca-Amarelas_On_Air_44.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Gracyanne Barbosa desfila com tênis e quebra regra de rainha de bateria",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/gracyanne-barbosa-desfila-com-tenis-e-quebra-regra-de-rainha-de-bateria/",
-        "data": "14/02/2026 06:33",
+        "titulo": "O dia em que o Carnaval paulistano virou caso de polícia e prejudicou apuração no Anhembi",
+        "link": "https://veja.abril.com.br/cultura/o-dia-em-que-o-carnaval-paulistano-virou-caso-de-policia-e-prejudicou-apuracao-no-anhembi/",
+        "data": "14/02/2026 12:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/Gracyanne-Barbosa.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2016/06/torcedor-rasga-os-votos-na-apuracao-original.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "A indireta de Claudia leitte após hit de Ivete Sangalo para Carnaval",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/a-indireta-de-claudia-leitte-apos-hit-de-ivete-sangalo-para-carnaval/",
-        "data": "14/02/2026 06:23",
+        "titulo": "Em um ano, a cesta básica ficou R$ 2,60 mais cara",
+        "link": "https://veja.abril.com.br/economia/em-um-ano-a-cesta-basica-ficou-r-260-mais-cara/",
+        "data": "14/02/2026 11:04",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-09-at-16.35.16.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2022/07/supermercados_agosto.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Erika Hilton desfila com faixa de ‘Presidenta’ no Anhembi",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/erika-hilton-desfila-com-faixa-de-presidenta-no-anhembi/",
-        "data": "14/02/2026 06:16",
+        "titulo": "Com o apoio do governo, Congresso quer discutir mudanças polêmicas no Supremo",
+        "link": "https://veja.abril.com.br/politica/com-o-apoio-do-governo-congresso-quer-discutir-mudancas-polemicas-no-supremo/",
+        "data": "14/02/2026 11:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/Erika-Hilton.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/2-Plenario-Rosinei-Coutinho-scaled.jpeg.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Ricky Martin curte Baile da Arara no Rio",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/ricky-martin-curte-baile-da-arara-no-rio/",
-        "data": "14/02/2026 06:10",
+        "titulo": "“Não estou mais sozinha”",
+        "link": "https://veja.abril.com.br/educacao/nao-estou-mais-sozinha/",
+        "data": "14/02/2026 11:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/09/Captura-de-tela-2025-09-07-222743.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/Pimeira-Pessoa_Sonia-Guimaraes-1.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "PT dá ‘dicas’ a apoiadores sobre como se comportar na Sapucaí",
-        "link": "https://veja.abril.com.br/politica/pt-da-dicas-a-apoiadores-sobre-como-se-comportar-na-sapucai/",
-        "data": "14/02/2026 05:56",
+        "titulo": "Alceu Valença: “Sou mais ouvido que o Ringo Starr”",
+        "link": "https://veja.abril.com.br/cultura/alceu-valenca-sou-mais-ouvido-que-o-ringo-starr/",
+        "data": "14/02/2026 11:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/01/lula-niteroi.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/ALCEU-VALENCA-by-Leo-Aversa-2023.png.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Globo é detonada por estúdio ‘do lado de fora’ do carnaval de São Paulo",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/globo-e-detonada-por-estudio-do-lado-de-fora-do-carnaval-de-sao-paulo/",
-        "data": "14/02/2026 05:44",
+        "titulo": "A diplomacia dos porta-aviões",
+        "link": "https://veja.abril.com.br/coluna/mundialista/a-diplomacia-dos-porta-avioes/",
+        "data": "14/02/2026 11:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/Valeria-Almeida.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/01/GettyImages-2257688248.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Encontro de Marinas sacode o Baile da Arara",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/encontro-de-marinas-sacode-o-baile-da-arara/",
-        "data": "14/02/2026 05:16",
+        "titulo": "Como o escândalo Epstein atinge o coração do governo trabalhista do Reino Unido",
+        "link": "https://veja.abril.com.br/mundo/como-o-escandalo-epstein-atinge-o-coracao-do-governo-trabalhista-do-reino-unido/",
+        "data": "14/02/2026 11:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/Marina-Ruy-Barbosa-e-Marina-Sena.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/GettyImages-2260239627.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     }
 ]
