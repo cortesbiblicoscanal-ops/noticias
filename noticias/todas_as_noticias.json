@@ -1,163 +1,227 @@
 [
     {
-        "titulo": "Fim de transmissão: confira mais do Carnaval de Salvador no g1 Bahia",
-        "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/ao-vivo/carnaval-2026-acompanhe-desfile-de-trios-em-salvador.ghtml",
-        "data": "16/02/2026 01:39",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/ehaClpQXT6wD58x0gtyjKv8nEIE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/Y/XwlKTxRvaRdh4NRBA9Bw/bahiafolia.png"
-    },
-    {
-        "titulo": "Carnaval em Nova Friburgo: quatro escolas do Grupo A deram um show na avenida; vídeos",
-        "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/02/15/carnaval-em-nova-friburgo-quatro-escolas-do-grupo-a-deram-um-show-na-avenida-videos.ghtml",
-        "data": "16/02/2026 01:36",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/-4owVC3tjzlbyEjuyTwE0XZ8WWE=/1211x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Y/2cPeBvTlCnbit3ReOn2w/escolas-do-grupo-a-encantaram-o-publico-no-carnaval-de-nova-friburgo-2026.png"
-    },
-    {
-        "titulo": "Ações na Justiça, alertas do TSE e orientações do governo antecederam desfile da Niterói",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/15/acoes-na-justica-tentaram-impedir-o-desfile-da-academicos-de-niteroi.ghtml",
-        "data": "16/02/2026 01:32",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/wO1pRe-vzyNbP1ZBibpq9_BpngA=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/50/99/14349950"
-    },
-    {
-        "titulo": "Gilberto Gil e Caetano Veloso cantam com Daniela Mercury no circuito do carnaval de Salvador",
-        "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/noticia/2026/02/15/gilberto-gil-e-caetano-veloso-cantam-com-daniela-mercury-no-circuito-do-carnaval-de-salvador.ghtml",
-        "data": "16/02/2026 01:25",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/VTDjobNSO8fkWRPU8bcsnikQF28=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/7/66C1N7SUiASMX4Ma3uRg/carnaval-2026-caetano-veloso-e-gilberto-gil.jpg"
-    },
-    {
-        "titulo": "FOTOS: Veja as rainhas e musas no 1º dia de desfiles do Grupo Especial do Rio",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/15/fotos-fantasias-das-rainhas-e-musas-no-1o-dia-de-desfiles-do-grupo-especial-do-rio.ghtml",
-        "data": "16/02/2026 01:16",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/EjU_2YgKqswNK5wGGXvA_3Yo83E=/1365x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/F/wofc6hQZC7Ea06sJEZZA/vanessa-rangeli-rainha-5-.jpg"
-    },
-    {
-        "titulo": "ASSISTA aos desfiles do Grupo Especial; Niterói abre a 1ª noite",
+        "titulo": "ASSISTA: Portela é a 3º a desfilar pelo Grupo Especial",
         "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/ao-vivo/apuracao-do-desfile-de-carnaval-de-2026.ghtml",
-        "data": "16/02/2026 01:12",
+        "data": "16/02/2026 04:31",
         "fonte": "G1",
         "metodo": "RSS",
         "image": "https://s2-g1.glbimg.com/x1EIZB_U9WFHiK1tWL5v8ZPaX1w=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/f/OLnEn4TCmkNhPMK3E66Q/15geral.jpeg"
     },
     {
-        "titulo": "Viviane Araújo promete brilhar em SP e Rio no Carnaval 2026: 'Minha missão é estar à altura'",
-        "link": "https://g1.globo.com/sp/santos-regiao/carnaval/carnaval-2026-em-santos/noticia/2026/02/15/viviane-araujo-promete-brilhar-em-sp-e-rio-no-carnaval-2026-minha-missao-e-estar-a-altura.ghtml",
-        "data": "16/02/2026 01:00",
+        "titulo": "Vídeos: primeira noite de desfile Carnaval Rio",
+        "link": "https://g1.globo.com/carnaval/2026/playlist/videos-primeira-noite-de-desfile.ghtml",
+        "data": "16/02/2026 03:28",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/CsI0e3q9uGwSdY_8c3jsiIaN3-U=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/J/Bl6ETrQO2EdMBUFqQb7Q/edig1-2026-02-15t171159.697.png"
+        "image": "http://s2.glbimg.com/yHDpnsqkd7uocDIwSgGHXcL7mow=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/96/99/14349996"
     },
     {
-        "titulo": "Com fantasia cavada e com luzes, Vanessa Rangeli estreia como rainha de bateria da Niterói",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/15/com-fantasia-cavada-vanessa-rangeli-estreia-como-rainha-de-bateria-da-niteroi.ghtml",
-        "data": "16/02/2026 00:54",
+        "titulo": "Iza mostra como ativa a fumaça da serpente na fantasia; entenda",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/16/iza-mostra-como-ativa-a-fumaca-da-serpente-na-fantasia-entenda.ghtml",
+        "data": "16/02/2026 03:26",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/EjU_2YgKqswNK5wGGXvA_3Yo83E=/1365x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/F/wofc6hQZC7Ea06sJEZZA/vanessa-rangeli-rainha-5-.jpg"
+        "image": "https://s2-g1.glbimg.com/3BRFRB5IjZXyJ9gjfJyA70-5x24=/1280x0/filters:format(jpeg)/https://s01.video.glbimg.com/x720/14350036.jpg"
     },
     {
-        "titulo": "FOTOS: Veja as celebridades que passaram pelos camarotes na abertura do Grupo Especial do Rio de Janeiro",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/15/fotos-veja-as-celebridades-que-passaram-pelos-camarotes-na-abertura-do-grupo-especial-do-rio-de-janeiro.ghtml",
-        "data": "16/02/2026 00:48",
+        "titulo": "Quarto dia do carnaval de Salvador tem homenagem a Preta, Brown defendendo Claudia Leitte e despedida de Carla Perez",
+        "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/noticia/2026/02/16/quarto-dia-do-carnaval-de-salvador.ghtml",
+        "data": "16/02/2026 03:24",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/lKVff5ZcTA-eTPqrYowOAKVQlqM=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/p/A9CtLVR0eBnUSKQKFiJw/erika-januza-6-.jpg"
+        "image": "https://s2-g1.glbimg.com/n9RqLYCVc7-rUj0sfXIRL0E8jKQ=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/c/lwLx6wSAOvKxzUIfemtQ/carnaval-2026-quarto-dia.jpg"
     },
     {
-        "titulo": "Ricky Martin curte camarote na Sapucaí: 'experiência de estar aqui é única'",
-        "link": "https://g1.globo.com/fantastico/noticia/2026/02/15/ricky-martin-volta-a-sapucai-depois-de-quase-30-anos-experiencia-de-estar-aqui-e-unica.ghtml",
-        "data": "16/02/2026 00:48",
+        "titulo": "DAX também é solução para cozinhas mais práticas e modernas",
+        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/02/16/dax-tambem-e-solucao-para-cozinhas-mais-praticas-e-modernas.ghtml",
+        "data": "16/02/2026 03:04",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/ShuoiErQBcOspTScdnUCQD1M7Zc=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/r/a6MPq2QNak7OkBIjh6LA/globo-canal-4-20260215-2000-frame-188339.jpeg"
+        "image": "https://s2-g1.glbimg.com/yfzxj_9mQzCmHIfnPhLpVq1lfC8=/700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/W/jPIhP5R8uFVmuE1CBfDw/texto-11-foto-1.png"
     },
     {
-        "titulo": "Paulista: Corinthians joga para o gasto, bate São Bernardo e se classifica",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulista-corinthians-joga-para-o-gasto-bate-sao-bernardo-e-se-classifica/",
-        "data": "16/02/2026 01:42",
-        "fonte": "CNN Brasil",
+        "titulo": "Segunda de carnaval em Olinda tem desfiles de Pitombeira, Boi da Macuca e Vaca Profana e shows de Lexa e Siba; veja programação",
+        "link": "https://g1.globo.com/pe/pernambuco/carnaval/2026/noticia/2026/02/16/segunda-de-carnaval-em-olinda-tem-desfiles-de-pitombeira-boi-da-macuca-e-vaca-profana-e-shows-de-lexa-e-siba-veja-programacao.ghtml",
+        "data": "16/02/2026 03:01",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/AGF20260215700.jpg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
     },
     {
-        "titulo": "Paulistão 2026: veja classificados e confrontos das quartas de final",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2026-veja-classificados-e-confrontos-das-quartas-de-final/",
-        "data": "16/02/2026 01:41",
-        "fonte": "CNN Brasil",
+        "titulo": "Segunda de carnaval no Recife tem shows de Seu Jorge, Alok, Nação Zumbi e Céu; confira programação",
+        "link": "https://g1.globo.com/pe/pernambuco/carnaval/2026/noticia/2026/02/16/segunda-de-carnaval-no-recife-tem-shows-de-seu-jorge-alok-nacao-zumbi-e-ceu-confira-programacao.ghtml",
+        "data": "16/02/2026 03:01",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/bola-paulistao-2026-e1771186753682.jpg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/sss_k1lK49mdQA4_cokJajzDuBM=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/W/6b8jk4TYmJYzjLM9TUcQ/capa-agenda-g1-2026-02-15t232328.942.jpg"
     },
     {
-        "titulo": "Palmeiras empata com Guarani e vai encarar o Capivariano no Paulistão",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/palmeiras-empata-com-guarani-e-vai-encarar-o-capivariano-no-paulistao/",
-        "data": "16/02/2026 01:40",
-        "fonte": "CNN Brasil",
+        "titulo": "Quatro escolas desfilam na 2ª noite do Grupo Especial com mais homenagens e uma viagem ao Candomblé baiano",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/16/quatro-escolas-desfilam-na-2a-noite-do-grupo-especial-com-mais-homenagens-e-uma-viagem-ao-candomble-baiano.ghtml",
+        "data": "16/02/2026 03:00",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/palmeiras-guarani-paulistao-e1771205560910.jpg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/sbE513WTtc0FM09boUgNIuNdxnc=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/e/evZsPhTiCBBQBqgHBqaA/30ju0.jpg"
     },
     {
-        "titulo": "Na volta de Neymar, Santos goleia o Velo Clube e vai às quartas do Paulista",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/na-volta-de-neymar-santos-goleia-o-velo-clube-e-vai-as-quartas-do-paulista/",
-        "data": "16/02/2026 01:38",
-        "fonte": "CNN Brasil",
+        "titulo": "Pabllo Vittar, Charanga do França, Vou de Táxi, Lua Vai: veja blocos que saem às ruas de SP nesta segunda de carnaval",
+        "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/16/pabllo-vittar-charanga-do-franca-vou-de-taxi-lua-vai-veja-blocos-que-saem-as-ruas-de-sp-nesta-segunda-de-carnaval.ghtml",
+        "data": "16/02/2026 03:00",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/CDG20260215058.jpg-e1771205882246.jpeg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/O-7Ir0Lm2QT_uwKZVihLCD0Ox6c=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Z/D/yiA8eLQWKGT8qdQqgw6A/bloco-da-pabllo-fto00293-fabio-tito.jpg"
     },
     {
-        "titulo": "São Paulo bate a Ponte Preta fora de casa e vai ao mata-mata do Paulistão",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/sao-paulo-bate-a-ponte-preta-fora-de-casa-e-vai-ao-mata-mata-do-paulistao/",
-        "data": "16/02/2026 01:34",
-        "fonte": "CNN Brasil",
+        "titulo": "Fazenda Rio Grande completa dois anos sem feminicídio e reforça rede de proteção às mulheres",
+        "link": "https://g1.globo.com/pr/parana/especial-publicitario/prefeitura-de-fazenda-rio-grande/fazenda-bem-cuidada/noticia/2026/02/16/fazenda-rio-grande-completa-dois-anos-sem-feminicidio-e-reforca-rede-de-protecao-as-mulheres.ghtml",
+        "data": "16/02/2026 03:00",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Sao-Paulo-2.jpg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/LczGSjPJCwF0ezHeLrzAMu-qs9o=/1400x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/4/CUXVz5QAaXjIxdXrcvRA/whatsa-1.jpg"
     },
     {
-        "titulo": "“Fui brasileiro em outra vida”, diz Ricky Martin no Carnaval do Rio",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/fui-brasileiro-em-outra-vida-diz-ricky-martin-no-carnaval-do-rio/",
-        "data": "16/02/2026 01:25",
+        "titulo": "Agatha Moreira e Rodrigo Simas beijam muito durante Carnaval de Salvador",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/agatha-moreira-e-rodrigo-simas-beijam-muito-durante-carnaval-de-salvador/",
+        "data": "16/02/2026 04:42",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/ricky-martin.jpeg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Agatha-Moreira-Rodrigo-Simas.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Edilson Capetinha se pronuncia pela primeira vez após deixar o BBB 26",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/bbb/edilson-capetinha-se-pronuncia-pela-primeira-vez-apos-deixar-o-bbb-26/",
-        "data": "16/02/2026 01:14",
+        "titulo": "Ney Matogrosso é homenageado pela Imperatriz Leopoldinense na Sapucaí",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/ney-matogrosso-e-homenageado-pela-imperatriz-leopoldinense-na-sapucai/",
+        "data": "16/02/2026 04:40",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/edilson-expulso-bbb26.png?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Ney-Matogrosso-5.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Juliana Paes revela medo de voltar a ser Rainha de Bateria pela idade",
-        "link": "https://www.cnnbrasil.com.br/noticias/juliana-paes-revela-medo-de-voltar-a-ser-rainha-de-bateria-pela-idade/",
-        "data": "16/02/2026 01:08",
+        "titulo": "Carnaval 2026: veja fotos do desfile da Acadêmicos de Niterói",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/carnaval-2026-veja-fotos-do-desfile-da-academicos-de-niteroi/",
+        "data": "16/02/2026 04:05",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/juliana-paes-viradouro-e1771203971517.png?w=1077&h=607&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/academicos-da-niteroi-lula-6.jpg?w=799&h=533&crop=1"
     },
     {
-        "titulo": "Foliões aproveitam o Carnaval em diversas cidades do país",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/folioes-aproveitam-o-carnaval-em-diversas-cidades-do-pais/",
-        "data": "16/02/2026 00:59",
+        "titulo": "Grazi Massafera usa look todo cravejado para curtir camarote na Sapucaí",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/grazi-massafera-usa-look-todo-cravejado-para-curtir-camarote-na-sapucai/",
+        "data": "16/02/2026 04:02",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/1-Captura-de-tela-2026-02-15-215243.jpg?w=399&h=399&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/grazi-massafera-arte.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Filho de Faustão é flagrado aos beijos com influenciadora Aninha Nóbrega",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/filho-de-faustao-e-flagrado-aos-beijos-com-influenciadora-aninha-nobrega/",
-        "data": "16/02/2026 00:57",
+        "titulo": "Janja fica no camarote e é substituída por Fafá de Belém em desfile no Rio",
+        "link": "https://www.cnnbrasil.com.br/politica/janja-fica-no-camarote-e-e-substituida-por-fafa-de-belem-em-desfile-no-rio/",
+        "data": "16/02/2026 03:56",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/joao-silva-e-aninha.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Design-sem-nome-7.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "BBB26: Gabriela ganha surpresa e escolhe Chaiany para curtir o Carnaval",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/bbb/bbb26-gabriela-ganha-surpresa-e-escolhe-chaiany-para-curtir-o-carnaval/",
+        "data": "16/02/2026 03:46",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/bbb_6705f2.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Desfile sobre Lula cita Temer e tem Bolsonaro como Bozo; oposição reage",
+        "link": "https://www.cnnbrasil.com.br/politica/desfile-sobre-lula-cita-temer-e-tem-bolsonaro-como-bozo-oposicao-reage/",
+        "data": "16/02/2026 03:34",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/55098338629_116f65a801_c.jpg?w=800&h=479&crop=1"
+    },
+    {
+        "titulo": "Família Gil se emociona com homenagem a Preta Gil no Carnaval de Salvador",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/familia-gil-se-emociona-com-homenagem-a-preta-gil-no-carnaval-de-salvador/",
+        "data": "16/02/2026 03:23",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/preta-gil-gilberto-gil_e1ff89.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Carnaval 2026: drones iluminam céu de Salvador com rosto de Preta Gil",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/carnaval-2026-drones-iluminam-ceu-de-salvador-com-rosto-de-preta-gil/",
+        "data": "16/02/2026 03:08",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/preta-gil-homenagem-salvador.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Famosos curtem desfiles da 1ª noite do grupo Especial do Rio de Janeiro",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/famosos-curtem-desfiles-da-1a-noite-do-grupo-especial-do-rio-de-janeiro/",
+        "data": "16/02/2026 03:02",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/carnaval-rio-camarotes-primeiro-dia-ricky-martin-camila-pitanga-e1771209974485.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Quais filmes concorrem com ‘O Agente Secreto’ no Oscar 2026",
+        "link": "https://jovempan.com.br/entretenimento/tv-e-cinema/quais-filmes-concorrem-com-o-agente-secreto-no-oscar-2026.html",
+        "data": "16/02/2026 04:15",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/05/imagem-jvp-78.png"
+    },
+    {
+        "titulo": "Quem é Kleber Mendonça Filho: biografia e filmografia do diretor",
+        "link": "https://jovempan.com.br/entretenimento/quem-e-kleber-mendonca-filho-biografia-e-filmografia-do-diretor.html",
+        "data": "16/02/2026 03:14",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/10/afp__20250906__2234048453__v2__highres__gettyimagesportraitstudiopresentedbyimdbandi.jpg"
+    },
+    {
+        "titulo": "Horóscopo do dia: previsão para os 12 signos em 16/02/2026",
+        "link": "https://jovempan.com.br/edicase/horoscopo-do-dia-previsao-para-os-12-signos-em-16-02-2026.html",
+        "data": "16/02/2026 03:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2026/02/horoscopo-do-dia-previsao-para-os-12-signos-em-16-02-2026-1024x683.jpg"
+    },
+    {
+        "titulo": "Janja desiste de desfilar na Sapucaí e evita desgaste com a base no governo",
+        "link": "https://jovempan.com.br/noticias/politica/janja-desiste-de-desfilar-na-sapucai-e-evita-desgaste-com-a-base-no-governo.html",
+        "data": "16/02/2026 02:37",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/06/54585219295_84caaf81e0_k.jpg"
+    },
+    {
+        "titulo": "Paulistão: São Paulo vence Ponte Preta por 2 a 1 e se confirma nas quartas",
+        "link": "https://jovempan.com.br/esportes/futebol/sao-paulo-futebol/paulistao-sao-paulo-vence-ponte-preta-por-2-a-1-e-se-confirma-nas-quartas.html",
+        "data": "16/02/2026 02:21",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2026/02/af820260215144.jpg"
+    },
+    {
+        "titulo": "Santos atropela Velo Clube por 6 a 0 e vai às quartas do Paulistão",
+        "link": "https://jovempan.com.br/esportes/futebol/santos/santos-atropela-velo-clube-por-6-a-0-e-vai-as-quartas-do-paulistao.html",
+        "data": "16/02/2026 02:06",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2026/02/agf20260215527-1024x682.jpg"
+    },
+    {
+        "titulo": "Corinthians faz jogo seguro, vence São Bernardo e encara a Portuguesa nas quartas do Paulistão",
+        "link": "https://jovempan.com.br/esportes/corinthians-faz-jogo-seguro-vence-sao-bernardo-e-encara-a-portuguesa-nas-quartas-do-paulistao.html",
+        "data": "16/02/2026 02:04",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2026/02/screenshot-2026-02-15-225909.png"
+    },
+    {
+        "titulo": "Palmeiras não transforma domínio em vitória, empata com o Guarani e vai pegar o Capivariano",
+        "link": "https://jovempan.com.br/esportes/futebol/palmeiras-nao-transforma-dominio-em-vitoria-empata-com-o-guarani-e-vai-pegar-o-capivariano.html",
+        "data": "16/02/2026 01:54",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2026/01/enq20260117063-1024x682.jpg"
     },
     {
         "titulo": "Lula acompanha desfile do Rio com ministros e autoridades; leia lista",
@@ -165,7 +229,7 @@
         "data": "16/02/2026 01:02",
         "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": null
+        "image": "https://jpimg.com.br/uploads/2026/02/age20260215084-1024x682.jpg"
     },
     {
         "titulo": "Drones fazem Aeroporto de Guarulhos ser fechado por duas horas",
@@ -176,148 +240,84 @@
         "image": "https://jpimg.com.br/uploads/2023/03/pho20230117066-1024x679.jpg"
     },
     {
-        "titulo": "Governo dos EUA reduz efetivo do ICE em Minnesota",
-        "link": "https://jovempan.com.br/noticias/mundo/governo-dos-eua-reduz-efetivo-do-ice-em-minnesota.html",
-        "data": "15/02/2026 23:35",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": null
-    },
-    {
-        "titulo": "Flamengo faz 2 a 1 no Botafogo e vai à semifinal do Carioca",
-        "link": "https://jovempan.com.br/esportes/flamengo-faz-2-a-1-no-botafogo-e-vai-a-semifinal-do-carioca.html",
-        "data": "15/02/2026 22:47",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": null
-    },
-    {
-        "titulo": "Bombeiros de SP vão até Manaus para auxiliar nas buscas de naufrágio",
-        "link": "https://jovempan.com.br/noticias/brasil/bombeiros-de-sp-vao-ate-manaus-para-auxiliar-nas-buscas-de-naufragio.html",
-        "data": "15/02/2026 22:24",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": null
-    },
-    {
-        "titulo": "Haddad e Alckmin resistem a saírem candidatos ao governo de SP",
-        "link": "https://jovempan.com.br/noticias/politica/haddad-e-alckmin-resistem-a-sairem-candidatos-ao-governo-de-sp.html",
-        "data": "15/02/2026 22:18",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": null
-    },
-    {
-        "titulo": "TRF-2 nega pedido para proibir desfile em homenagem a Lula no Rio",
-        "link": "https://jovempan.com.br/noticias/politica/trf-2-nega-pedido-para-proibir-desfile-em-homenagem-a-lula-no-rio.html",
-        "data": "15/02/2026 22:05",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": null
-    },
-    {
-        "titulo": "Deputada do Novo defende código de conduta para Judiciário",
-        "link": "https://jovempan.com.br/programas/fast-news/deputada-do-novo-defende-codigo-de-conduta-para-judiciario.html",
-        "data": "15/02/2026 22:01",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2022/02/img20220217110613971med.jpg"
-    },
-    {
-        "titulo": "Viúvo de professora que morreu após aula de natação recebe alta",
-        "link": "https://jovempan.com.br/noticias/brasil/viuvo-de-professora-que-morreu-apos-aula-de-natacao-recebe-alta.html",
-        "data": "15/02/2026 21:07",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/02/vinicius-oliveira-juliana-faustino-1024x768.jpg"
-    },
-    {
-        "titulo": "Presidente do PCdoB de 2001 a 2015, Renato Rabelo morre aos 83 anos",
-        "link": "https://jovempan.com.br/noticias/politica/presidente-do-pcdob-de-2001-a-2015-renato-rabelo-morre-aos-83-anos.html",
-        "data": "15/02/2026 19:57",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/02/renato-rabelo.png"
-    },
-    {
-        "titulo": "Acadêmicos de Niterói leva palhaço preso à Sapucaí em referência a Bolsonaro",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/02/academicos-de-niteroi-leva-palhaco-preso-a-sapucai-em-referencia-a-bolsonaro.shtml",
-        "data": "16/02/2026 01:51",
+        "titulo": "'Que lindo que existiu um desfile para o Lula e que ele estava aqui para ver', diz Humberto Carrão na Sapucaí",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/02/que-lindo-que-existiu-um-desfile-para-o-lula-e-que-ele-estava-aqui-para-ver-diz-humberto-carrao-na-sapucai.shtml",
+        "data": "16/02/2026 04:47",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/02/15/17712062516992766b58537_1771206251_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/16/17712170156992a07716aab_1771217015_3x2_rt.jpg"
     },
     {
-        "titulo": "Fafá de Belém canta em esquenta antes de início de desfile em homenagem a Lula",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/carnaval/2026/02/fafa-de-belem-canta-em-esquenta-antes-de-inicio-de-desfile-em-homenagem-a-lula.shtml",
-        "data": "16/02/2026 01:39",
+        "titulo": "É histórico, diz Gabriela Medvedovsky sobre a normalização do amor entre duas mulheres na TV",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/carnaval/2026/02/e-historico-diz-gabriela-medvedovsky-sobre-a-normalizacao-do-amor-entre-duas-mulheres-na-tv.shtml",
+        "data": "16/02/2026 04:47",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/02/15/1771205364699272f422e7a_1771205364_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/16/177121672169929f51c9fda_1771216721_3x2_lg.jpg"
     },
     {
-        "titulo": "BBB 26: Internautas reclamam de falta de informações sobre formação de paredão",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/02/bbb-26-internautas-reclamam-de-falta-de-informacoes-sobre-formacao-de-paredao.shtml",
-        "data": "16/02/2026 01:30",
+        "titulo": "Carnaval 2026: Maitê Proença negocia retorno à TV: 'Se for bom, eu volto'",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/carnaval/2026/02/carnaval-2026-maite-proenca-negocia-retorno-a-tv-se-for-bom-eu-volto.shtml",
+        "data": "16/02/2026 04:20",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/01/15/176849630169691cad4fec7_1768496301_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/16/1771215337699299e94696c_1771215337_3x2_lg.jpg"
     },
     {
-        "titulo": "Dona Marisa sofreu muito preconceito da elite brasileira, diz Juliana Baroni, intérprete da ex-primeira dama em desfile",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/02/dona-marisa-sofreu-muito-preconceito-da-elite-brasileira-diz-juliana-baroni-interprete-da-ex-primeira-dama-em-desfile.shtml",
-        "data": "16/02/2026 01:29",
+        "titulo": "Sem abrir mão de liderar frente de esquerda, PT e PDT disputam apoio de Lula no RS",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/sem-abrir-mao-de-liderar-frente-de-esquerda-pt-e-pdt-disputam-apoio-de-lula-no-rs.shtml",
+        "data": "16/02/2026 04:15",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/08/28/175639047768b0644dca6e1_1756390477_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/12/1770933834698e4e4af40ae_1770933834_3x2_xl.jpg"
     },
     {
-        "titulo": "Acadêmicos de Niterói abre Carnaval do Rio com homenagem a Lula",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/academicos-de-niteroi-abre-carnaval-do-rio-com-homenagem-a-lula.shtml",
-        "data": "16/02/2026 01:25",
+        "titulo": "Bad Bunny, Carney e Seguro entram em um bar",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mafalda-anjos/2026/02/bad-bunny-carney-e-seguro-entram-em-um-bar.shtml",
+        "data": "16/02/2026 03:59",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/08/177060519269894a88880b2_1770605192_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Jesuíta Barbosa entrega tranquilidade de Ney Matogrosso antes do desfile. \"Um 'before' na casa dele\"",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/02/jesuita-barbosa-entrega-tranquilidade-de-ney-matogrosso-antes-do-desfile-um-before-na-casa-dele.shtml",
+        "data": "16/02/2026 03:53",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/16/177121162869928b6c41b99_1771211628_3x2_xl.jpg"
+    },
+    {
+        "titulo": "BBB 26: Gabriela e Chaiany ganham convite para acompanhar desfile das escolas de samba do Rio de Janeiro",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/02/bbb-26-gabriela-e-chaiany-ganham-convite-para-acompanhar-desfile-das-escolas-de-samba-do-rio-de-janeiro.shtml",
+        "data": "16/02/2026 03:22",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/16/177121208569928d35ee86e_1771212085_3x2_lg.jpg"
+    },
+    {
+        "titulo": "Globo perde audiência com desfile de escola de samba que fez homenagem a Lula",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/02/globo-perde-audiencia-com-desfile-de-escola-de-samba-que-fez-homenagem-a-lula.shtml",
+        "data": "16/02/2026 03:10",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/15/177120986369928487e3218_1771209863_3x2_xl.jpg"
+    },
+    {
+        "titulo": "Políticos de direita criticam desfile pró-Lula no Carnaval carioca",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/politicos-de-direita-criticam-desfile-pro-lula-no-carnaval-carioca.shtml",
+        "data": "16/02/2026 02:55",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2026/02/15/177120240069926760d06c4_1771202400_3x2_xl.jpg"
     },
     {
-        "titulo": "Avião da Latam aborta decolagem em alta velocidade neste domingo (15) em Guarulhos",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/aviao-da-latam-aborta-decolagem-em-alta-velocidade-neste-domingo-15-em-guarulhos.shtml",
-        "data": "16/02/2026 01:08",
+        "titulo": "Carnaval 2026: Prefiro não falar de política agora, mas vou falar depois, diz Grazi Massafera",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/carnaval/2026/02/carnaval-2026-prefiro-nao-falar-de-politica-agora-mas-vou-falar-depois-diz-grazi-massafera.shtml",
+        "data": "16/02/2026 02:32",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2021/10/18/1634573499616d9cbb4e455_1634573499_3x2_rt.jpg"
-    },
-    {
-        "titulo": "O desperdício de energia é culpa das renováveis?",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/02/o-desperdicio-de-energia-e-culpa-das-renovaveis.shtml",
-        "data": "16/02/2026 01:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/09/10/175753791168c1e677c11e6_1757537911_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Copos descartáveis de café liberam milhares de partículas de microplásticos na bebida",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/02/copos-descartaveis-de-cafe-liberam-milhares-de-particulas-de-microplasticos-na-bebida.shtml",
-        "data": "16/02/2026 01:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2021/09/16/16318326196143ca2b2dcf3_1631832619_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Foi-se o Master, ficou o BRB",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/02/foi-se-o-master-ficou-o-brb.shtml",
-        "data": "16/02/2026 01:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/02/15/177118380169921eb9d8d5d_1771183801_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Reforma da Previdência é questão fiscal e de justiça",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/02/reforma-da-previdencia-e-questao-fiscal-e-de-justica.shtml",
-        "data": "16/02/2026 01:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/06/28/175114677168606113e3267_1751146771_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/02/15/177120856469927f741b252_1771208564_3x2_lg.jpg"
     },
     {
         "titulo": "BBB 26: quem votou em quem no Paredão?",
@@ -400,163 +400,163 @@
         "image": "https://classic.exame.com/wp-content/uploads/2026/02/img_3073.jpg"
     },
     {
-        "titulo": "Com look ousado, Sabrina Sato aposta em look vermelho na Sapucaí",
-        "link": "https://www.terra.com.br/diversao/carnaval/sabrina-sato-chega-a-sapucai-para-o-primeiro-dia-de-desfiles-do-grupo-especial-no-rio,62697295b91711e77f605f42efb14140jebh674s.html",
-        "data": "16/02/2026 01:53",
+        "titulo": "Dá tempo de namorar? Sabrina Sato revela como concilia agenda e casamento",
+        "link": "https://www.terra.com.br/diversao/carnaval/rio-de-janeiro/desfilando-em-duas-escolas-de-samba-sabrina-sato-revela-se-da-tempo-de-namorar,0eb0e3a06248af4173db0988655c53b99rxnox9j.html",
+        "data": "16/02/2026 04:56",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/16/sabrina-sato-1-1jyfzpndzzcxg.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/16/design-sem-nome-2026-02-16t000947-427-qxl0qbiu5cfl.png"
     },
     {
-        "titulo": "Quem você quer eliminar entre Marcelo, Samira ou Solange Couto? Vote",
-        "link": "https://www.terra.com.br/diversao/tv/reality-shows/enquete-bbb26-quem-voce-quer-eliminar-entre-marcelo-samira-ou-solange-couto-vote,0265bd58f030ad620ba54b35a0ad5b0b99yih8p6.html",
-        "data": "16/02/2026 01:53",
+        "titulo": "Paolla Oliveira afirma ser 'louca' por Diogo Nogueira e elogia Virginia",
+        "link": "https://www.terra.com.br/diversao/carnaval/rio-de-janeiro/paolla-oliveira-diz-ser-louca-por-diogo-nogueira-e-elogia-virginia-no-carnaval-do-rio,c5265c06d9acffad8b6e303e1356c3f3yq0ngoil.html",
+        "data": "16/02/2026 04:56",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/15/design-sem-nome-(11)-1iv6kbkrkr5mh.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/16/paolla-1iynbnvyszkfp.jpg"
     },
     {
-        "titulo": "Daniela Mercury explica ida à Justiça para mudar ordem dos trios em Salvador",
-        "link": "https://www.terra.com.br/diversao/carnaval/salvador/daniela-mercury-sobre-ordem-de-saida-dos-trios-em-salvador-desrespeitoso,08a727c019cce51d0f5e316d04c8d637hg7p6foy.html",
-        "data": "16/02/2026 01:53",
+        "titulo": "Bloco do Lulaladrão e palhaço preso: bolsonaristas reagem ao 'desfile de Lula'",
+        "link": "https://www.terra.com.br/diversao/carnaval/bloco-do-lulaladrao-bolsonaristas-criam-samba-para-responder-homenagem-a-lula-na-sapucai,c4ecfc454f1eb716ecea80976c67770fdo0dk1kt.html",
+        "data": "16/02/2026 04:56",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/15/daniela-mercury-to4jp485hppe.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/16/15022026-8x4a9551-1jy4ykd8m9204.jpg"
     },
     {
-        "titulo": "Com gol de Paquetá, Flamengo vence o Botafogo e segue vivo pelo tri",
-        "link": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-carioca/com-gol-de-paqueta-flamengo-vence-o-botafogo-e-segue-vivo-pelo-tri,587420b8c2dd631f5494f8238a4e0182t9gi43yc.html",
-        "data": "16/02/2026 01:53",
+        "titulo": "Gio Lancellotti defende Virginia: 'Deixou claro que não tinha experiência'",
+        "link": "https://www.terra.com.br/diversao/carnaval/gil-lancellotti-elogia-coragem-de-virginia-para-sambar-ela-deixou-claro-que-nao-tinha-experiencia,97d116cc1e7623dd6abfb476461f62089jcd1xdy.html",
+        "data": "16/02/2026 04:56",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/15/165662648-55097929609c0fd748a65oeasy-resizecom-610x400.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/16/inserir-um-titulo-(27)-urmb9cys2iwj.jpg"
     },
     {
-        "titulo": "Mini mestre-sala chama irmã de 'irritante' e arranca risadas",
-        "link": "https://www.terra.com.br/diversao/carnaval/sao-paulo/mini-mestre-sala-chama-irma-de-irritante-e-arranca-risadas-em-entrevista-ao-vivo-no-anhembi,38de478c91ef3f7fe4389509ffc5c3ddony6v4i1.html",
-        "data": "16/02/2026 01:53",
+        "titulo": "De Ricky Martin a astro de 'The Crown': gringos curtem folia no Brasil",
+        "link": "https://www.terra.com.br/diversao/carnaval/de-ricky-martin-a-astro-de-the-crown-famosos-gringos-curtem-carnaval-no-brasil-veja-fotos,0afa369db5321c16226a311e520bfabafnc9k8gy.html",
+        "data": "16/02/2026 04:56",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/15/irmaos-r1fl0afpzfw8.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/16/inserir-um-titulo-(25)-rh8anq2x9t0z.jpg"
     },
     {
-        "titulo": "Evaristo Costa nega contrato com emissora: 'Não foi assinado ainda'",
-        "link": "https://www.terra.com.br/diversao/carnaval/salvador/evaristo-costa-curte-o-carnaval-em-salvador-e-nega-contrato-com-emissora-nao-foi-assinado-ainda,201d8791ae91deb4e85cd53d3f6a25a939zuvi2j.html",
-        "data": "16/02/2026 01:53",
+        "titulo": "Milton Cunha gera climão após abandonar entrevista com a RedeTV!",
+        "link": "https://www.terra.com.br/diversao/carnaval/milton-cunha-gera-climao-apos-abandonar-entrevista-com-a-redetv-ao-vivo,4ba16a1d1692e038677ac4d0fac5f826lvgous2s.html",
+        "data": "16/02/2026 04:56",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/16/evaristocosta-ubu71kbzyn92.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/16/inserir-um-titulo-(29)-tol8orbik5di.jpg"
     },
     {
-        "titulo": "'O Agente Secreto' vence o Spirit Awards de Melhor Filme Internacional",
-        "link": "https://www.terra.com.br/diversao/entre-telas/o-agente-secreto-vence-o-spirit-awards-de-melhor-filme-internacional,1429df54f1215ef1329651f0086f0303q470d9ir.html",
-        "data": "16/02/2026 01:53",
+        "titulo": "Vivi Araújo detalha rotina com novela e 2ª divisão em São Paulo",
+        "link": "https://www.terra.com.br/diversao/carnaval/sao-paulo/viviane-araujo-concilia-novela-com-segunda-divisao-no-carnaval-de-sao-paulo,97244538f02398675cb972a71669da8ei66nzfwy.html",
+        "data": "16/02/2026 04:56",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/15/568477346-o-agente-secreto-vence-o-spirit-awards-de-melhor-filme-internacional.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/16/captura-de-tela-2026-02-16-000001-1ji4huic723p5.png"
     },
     {
-        "titulo": "Rick Martin curte 1ª noite de desfile no Rio; veja fotos",
-        "link": "https://www.terra.com.br/diversao/carnaval/rio-de-janeiro/famosos-lotam-sapucai-para-acompanhar-1-noite-de-desfile-no-rio-veja-fotos,bedb5764069ad37eea5386f86c484186d9dcqaes.html",
-        "data": "16/02/2026 01:53",
+        "titulo": "O que aconteceu aqui? Luísa Sonza dispara ofensa nas redes sociais'",
+        "link": "https://www.terra.com.br/diversao/carnaval/o-que-aconteceu-aqui-luisa-sonza-dispara-ofensa-nas-redes-sociais,04af7e22ce2fbd8ec9350c8add96b12dwnjiwdtw.html",
+        "data": "16/02/2026 04:56",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/16/ricky-martin-u805ezkzmb77.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/16/captura-de-tela-2026-02-16-012314-1jifjs1uy0qph.png"
     },
     {
         "titulo": "Lembra do criador da Globeleza e ex de Valeria Valenssa? Saiba por onde ele anda",
         "link": "https://www.terra.com.br/diversao/carnaval/sao-paulo/lembra-do-hans-donner-criador-da-globeleza-e-ex-de-valeria-valenssa-saiba-por-onde-ele-anda,91204df1b0f5984e0f730856da2ae9c30ojnh9v8.html",
-        "data": "16/02/2026 01:53",
+        "data": "16/02/2026 04:56",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/15/hansdonner-1ibc1l5p00vvp.jpg"
     },
     {
-        "titulo": "Lexa revela experiência frustrante com canetas emagrecedoras",
-        "link": "https://www.terra.com.br/diversao/carnaval/sao-paulo/lexa-revela-experiencia-frustrante-com-canetas-emagrecedoras-deu-tudo-errado,47ea711dd3cf685544a5553e65b0c77e63tdr45m.html",
-        "data": "16/02/2026 01:53",
+        "titulo": "Filho de Ivete quer carreira fora da música: 'Quero fazer faculdade'",
+        "link": "https://www.terra.com.br/diversao/carnaval/filho-de-ivete-sangalo-revela-interesse-em-carreira-fora-da-musica-quero-fazer-faculdade,9392beeb207ea26f29cb98e785bdaaa9kqn70bxa.html",
+        "data": "16/02/2026 04:56",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/14/img_7817-jpg-t4kml8yph1rr.jpeg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/16/screenshot_6-u8dgv44tsxmc.jpg"
     },
     {
-        "titulo": "Bandeira e camisa do Brasil chamam atenção na Sapucaí em noite de Lula",
-        "link": "https://veja.abril.com.br/brasil/bandeira-e-camisa-do-brasil-chamam-atencao-na-sapucai-em-noite-de-lula/",
-        "data": "16/02/2026 01:58",
+        "titulo": "Milton Cunha se emociona com passagem de Ney em transmissão da Globo",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/milton-cunha-se-emociona-com-passagem-de-ney-em-transmissao-da-globo/",
+        "data": "16/02/2026 04:59",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/folioes-de-costa.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/Image-3.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "A saia-justa de comentaristas da Globo com desfile sobre Lula",
-        "link": "https://veja.abril.com.br/cultura/a-saia-justa-de-comentaristas-da-globo-com-desfile-sobre-lula/",
-        "data": "16/02/2026 01:50",
+        "titulo": "‘Solte sua Janja’, pedia foliões no final do desfile de Lula",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/solte-sua-janja-pedia-folioes-no-final-do-desfile-de-lula/",
+        "data": "16/02/2026 04:49",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/VS-AssistirGrupoEspecialRJAoVivoGloboplay-12014.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/SOLTE-SUA-JANJA_ACADEMICOS.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "O que setor popular gritou quando Acadêmicos de Niterói entrou na Sapucaí",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/o-que-setor-popular-gritou-quando-academicos-de-niteroi-entrou-na-sapucai/",
-        "data": "16/02/2026 01:46",
+        "titulo": "‘Beyoncé do samba’, Bianca Monteiro retorna à Sapucaí",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/beyonce-do-samba-bianca-monteiro-retorna-a-sapucai/",
+        "data": "16/02/2026 04:36",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/GRITOS-ARQUIBANCADA-LULA.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/BIANCA-MONTEIRO_PORTELA_GIOVANNA.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "A crítica a Trump no desfile de Lula",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/a-critica-a-trump-no-desfile-de-lula/",
-        "data": "16/02/2026 01:36",
+        "titulo": "Escola de Lula solta um galo preto em ritual de ‘limpeza’ na Sapucaí",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/escola-de-lula-solta-um-galo-preto-em-ritual-de-limpeza-na-sapucai/",
+        "data": "16/02/2026 04:33",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/TRUMP_.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/carro_niteroi.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Globo é criticada pelo público por transmissão do desfile na Sapucaí",
-        "link": "https://veja.abril.com.br/cultura/globo-e-criticada-pelo-publico-por-transmissao-do-desfile-na-sapucai/",
-        "data": "16/02/2026 01:33",
+        "titulo": "O que foi servido no camarote de Lula na Sapucaí",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/o-que-foi-servido-no-camarote-de-lula-na-sapucai/",
+        "data": "16/02/2026 04:15",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/VS-AssistirGrupoEspecialRJAoVivoGloboplay-11951.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/20260215_212148.jpg.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "O esquema de segurança de Lula na Sapucaí",
-        "link": "https://veja.abril.com.br/brasil/o-esquema-de-seguranca-de-lula-na-sapucai/",
-        "data": "16/02/2026 01:25",
+        "titulo": "Juliana Baroni: ‘Marisa foi maltrata pela elite brasileira’",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/juliana-baroni-marisa-foi-maltrata-pela-elite-brasileira/",
+        "data": "16/02/2026 04:03",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/lula-segurancas.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/JULIANA-BARONI_GIOVANNA.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "O desfile que usa campanha política de Lula para conquistar Sapucaí",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/o-desfile-que-usa-campanha-politica-de-lula-para-conquistar-sapucai/",
-        "data": "16/02/2026 01:17",
+        "titulo": "Ney Matogrosso sobre ser homenageado no Carnaval: ‘coração batendo normal’",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/ney-matogrosso-sobre-ser-homenageado-no-carnaval-coracao-batendo-normal/",
+        "data": "16/02/2026 03:55",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-15-at-21.51.36.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/ney-imperatriz.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "A rainha de bateria que abre desfiles na Sapucaí unindo política e samba",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/a-rainha-de-bateria-que-abre-desfiles-na-sapucai-unindo-politica-e-samba/",
-        "data": "16/02/2026 01:09",
+        "titulo": "Os políticos que vieram assistir a homenagem a Lula na Sapucaí",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/os-politicos-que-vieram-assistir-a-homenagem-a-lula-na-sapucai/",
+        "data": "16/02/2026 03:50",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-15-at-21.39.48.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/Image-2.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "‘O Agente Secreto’ conquista mais um prêmio internacional rumo ao Oscar",
-        "link": "https://veja.abril.com.br/cultura/o-agente-secreto-conquista-mais-um-premio-internacional-rumo-ao-oscar/",
-        "data": "16/02/2026 01:09",
+        "titulo": "Lula é vaiado em Camarote da Sapucaí",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/lula-e-vaiado-em-camarote-da-sapucai/",
+        "data": "16/02/2026 03:40",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/GettyImages-2261842356.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/lula-vaiado.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Lula ignora a imprensa ao chegar para desfile em sua homenagem na Sapucaí",
-        "link": "https://veja.abril.com.br/brasil/lula-ignora-a-imprensa-ao-chegar-para-desfile-em-sua-homenagem-na-sapucai/",
-        "data": "16/02/2026 01:06",
+        "titulo": "A ‘briga’ de dois prefeitos pela atenção de Lula na Sapucaí",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/a-briga-de-dois-prefeitos-pela-atencao-de-lula-na-sapucai/",
+        "data": "16/02/2026 03:34",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/lula-ignora-imprensa.png?resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/02/briga-prefeitos-atencao-lula.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     }
 ]
