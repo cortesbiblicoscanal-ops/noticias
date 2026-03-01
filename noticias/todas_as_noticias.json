@@ -1,5 +1,61 @@
 [
     {
+        "titulo": "Cachorro some e é achado quase um ano depois em publicação de adoção no interior de SP",
+        "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/03/01/cachorro-some-e-e-achado-quase-um-ano-depois-em-publicacao-de-adocao-no-interior-de-sp.ghtml",
+        "data": "01/03/2026 06:03",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/nS4Smn_oDEcRMWfRF1pBPnZsd70=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/W/UIIGw2QNy9NegrCcpbSw/moldura-padrao-g1-3-.png"
+    },
+    {
+        "titulo": "Cachorrinha que reencontrou tutor em delegacia no RS volta para casa após 2 meses: 'Amor incondicional'; veja VÍDEO",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/01/cachorrinha-que-reencontrou-tutor-em-delegacia-no-rs-volta-para-casa-apos-2-meses-amor-incondicional-veja-video.ghtml",
+        "data": "01/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/38QpfAfqrEDm5xxXMftKdfcH2WQ=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/U/BcnLYAQzeOgABPtTIerw/g1-2026-02-26t214700.671.png"
+    },
+    {
+        "titulo": "Menor suspeito de estupro coletivo teria perguntado à vítima se a mãe a vê sem roupa, por causa das marcas das agressões",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/03/01/menor-suspeito-de-estupro-coletivo-teria-perguntado-a-vitima-se-a-mae-a-ve-sem-roupa-por-causa-das-marcas-das-agressoes.ghtml",
+        "data": "01/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Lp7qGDuhW1Dvqo-xFOaPxJSDo_Y=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/b/68pOFNQD2kZNIUesoh4w/globo-canal-4-20260228-1100-frame-118199.jpeg"
+    },
+    {
+        "titulo": "Trump fala em ataque sem precedentes caso haja retaliação do Irã",
+        "link": "https://g1.globo.com/mundo/noticia/2026/03/01/trump-ataque-sem-precedentes-retaliacao-ira.ghtml",
+        "data": "01/03/2026 05:53",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/BDdE6j1EDtIWtz84r_nFlD74UhU=/3441x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/f/B0mOwhTIGBfOcAAPLmxg/2026-01-30t002217z-761465003-rc2cbjal4wni-rtrmadp-3-usa-trump-melania.jpg"
+    },
+    {
+        "titulo": "Confira relatos de mulheres sobre estupro e outras violências que embasam denúncia contra advogado e professor de Direito no RS",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/01/confira-relatos-de-mulheres-sobre-estupro-e-outras-violencias-que-embasam-denuncia-contra-advogado-e-professor-de-direito-no-rs.ghtml",
+        "data": "01/03/2026 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/UI3OzNPbFexCsoxaMyZHXqEBqP0=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/M/X/PJBoUOSLySliQYnEy19w/g1.jpg"
+    },
+    {
+        "titulo": "Estudo da Câmara do DF indica 'dilapidação do patrimônio público' em projeto de socorro bilionário ao BRB",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/03/01/estudo-da-camara-do-df-indica-dilapidacao-do-patrimonio-publico-em-projeto-de-socorro-bilionario-ao-brb.ghtml",
+        "data": "01/03/2026 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/myXnWm4iRxLafxgLZ5tLz5M7mSI=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/T/Kn3RgES6uaBJsHhd8Jcg/globo-canal-5-20260123-2000-frame-72142.jpeg"
+    },
+    {
+        "titulo": "DER do DF faz leilão de veículos apreendidos em operações; veja como participar",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/03/01/der-do-df-faz-leilao-de-veiculos-apreendidos-em-operacoes-veja-como-participar.ghtml",
+        "data": "01/03/2026 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/6icqbVAPLEp5KOyibJ4pEJZZmU0=/2592x0/filters:format(jpeg)/http://s.glbimg.com/jo/g1/f/original/2016/09/13/img_4081.jpg"
+    },
+    {
         "titulo": "Radares que multam avanço de sinal vermelho entram em funcionamento em Porto Alegre neste domingo; veja locais",
         "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/01/radares-que-multam-avanco-de-sinal-vermelho-entram-em-funcionamento-em-porto-alegre-neste-domingo-veja-locais.ghtml",
         "data": "01/03/2026 04:00",
@@ -24,60 +80,36 @@
         "image": "https://s2-g1.glbimg.com/_egHAi3AG90rRBkvTI4QZknKaxA=/1502x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/4/Nn2Hp7QYWiwMf7hEcMXg/ira.jpg"
     },
     {
-        "titulo": "Alice Caymmi rebobina o cancioneiro do avô, Dorival Caymmi, com um 'olhar atual' em álbum programado para abril",
-        "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/03/01/alice-caymmi-rebobina-o-cancioneiro-do-avo-dorival-caymmi-com-um-olhar-atual-em-album-programado-para-abril.ghtml",
-        "data": "01/03/2026 03:25",
-        "fonte": "G1",
+        "titulo": "Trump ameaça Irã contra ataques retaliatórios: “Melhor que não façam isso”",
+        "link": "https://www.cnnbrasil.com.br/internacional/trump-ameaca-ira-contra-ataques-retaliatorios-melhor-que-nao-facam-isso/",
+        "data": "01/03/2026 06:06",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/GDCAClYhCZhMh-RjiWuS3zRhav8=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/i/oJFYMhSuSfYEFHvVE77g/alicecaymmiluqdias.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/trump-air-force-one-e1771539006537.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Obras do Píer do Emissário entram em nova fase",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/03/01/obras-do-pier-do-emissario-entram-em-nova-fase.ghtml",
-        "data": "01/03/2026 03:04",
-        "fonte": "G1",
+        "titulo": "Ataques ao Irã: Trump vai precisar dar explicações ao Congresso",
+        "link": "https://www.cnnbrasil.com.br/internacional/ataques-ao-ira-trump-vai-precisar-dar-explicacoes-ao-congresso/",
+        "data": "01/03/2026 06:05",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/-714CdechzOzGQatH7ackHxYG8I=/1050x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/r/H30J1tS5W36uHcK60gAg/pier-do-emissario-1.jpeg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/donald-trump-discurso-estado-uniao-2-e1771987621521.jpg?w=840&h=473&crop=1"
     },
     {
-        "titulo": "Rio das Ostras oferece 8% de desconto no IPTU até 27 de fevereiro",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/03/01/rio-das-ostras-oferece-8percent-de-desconto-no-iptu-ate-27-de-fevereiro.ghtml",
-        "data": "01/03/2026 03:04",
-        "fonte": "G1",
+        "titulo": "Mundo não será mais o mesmo que foi antes de Trump, diz professor",
+        "link": "https://www.cnnbrasil.com.br/internacional/mundo-nao-sera-mais-o-mesmo-que-foi-antes-de-trump-diz-professor/",
+        "data": "01/03/2026 06:03",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/Gp8kfpRcQgiJnW1LsOzHhJsad3Y=/1050x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/t/J4kWocSPWZdw3ZaEfC0g/iptu-1.jpeg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/donald-trump-discurso-estado-uniao-4-e1771988178484.jpg?w=1024&h=577&crop=1"
     },
     {
-        "titulo": "Obras de recuperação da Rodovia do Contorno visam a segurança da população",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/03/01/obras-de-recuperacao-da-rodovia-do-contorno-visam-a-seguranca-da-populacao.ghtml",
-        "data": "01/03/2026 03:03",
-        "fonte": "G1",
+        "titulo": "Israel confirma novos ataques do Irã ao país neste domingo (01)",
+        "link": "https://www.cnnbrasil.com.br/internacional/israel-confirma-novos-ataques-do-ira-ao-pais-neste-domingo-01/",
+        "data": "01/03/2026 05:13",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/oypZaq3BvhsNW-PeJ-9-6xh697g=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/Y/JTrLEwTdGAbiuZ0E8bfA/rodovia-do-contrno-1.jpeg"
-    },
-    {
-        "titulo": "Base de Segurança completa 100 dias de reforço e bons resultados",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/03/01/base-de-seguranca-completa-100-dias-de-reforco-e-bons-resultados.ghtml",
-        "data": "01/03/2026 03:02",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/iBbnrIegC90e3KqmhgjRTevf3fw=/1050x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/H/6FdF6pRb2wNMAERLBoYQ/seguranca-presente-2.jpeg"
-    },
-    {
-        "titulo": "Município implanta prontuário eletrônico e avança na Saúde Digital",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/03/01/municipio-implanta-prontuario-eletronico-e-avanca-na-saude-digital.ghtml",
-        "data": "01/03/2026 03:02",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/b1tGkFjUaYSQD2dPPYcZjfHATE0=/1050x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/0/toOkDWRj2Kf0hH6CkMSA/prontuario-eletronico-2.jpeg"
-    },
-    {
-        "titulo": "Rocha Leão avança como destino ecoturístico",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/03/01/rocha-leao-avanca-como-destino-ecoturistico.ghtml",
-        "data": "01/03/2026 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/b7AGRki0M0Qr8A7dvj_2TTxFmFo=/1050x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/q/FqFgNAQmWfmZICU0Hezw/rocha-leao.jpg.jpeg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/ataque-EUA-Iran.jpeg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "BBB 26: Breno indica Alberto Cowboy ao Paredão e deixa o Exílio",
@@ -126,38 +158,6 @@
         "fonte": "CNN Brasil",
         "metodo": "RSS",
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/12/Ali-Khamenei.jpg?w=960&h=540&crop=1"
-    },
-    {
-        "titulo": "Conflito no Oriente Médio: passageiros falam sobre voos afetados em SP",
-        "link": "https://www.cnnbrasil.com.br/nacional/brasil/conflito-no-oriente-medio-passageiros-falam-sobre-voos-afetados-em-sp/",
-        "data": "01/03/2026 01:42",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/10/GRU-AIRPORT-TERMINAL-1-e1772328145977.png?w=734&h=413&crop=1"
-    },
-    {
-        "titulo": "Novorizontino vence o Corinthians, faz história e está na final do Paulista",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/historico-novorizontino-vence-o-corinthians-e-esta-na-final-do-paulista/",
-        "data": "01/03/2026 01:34",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/novorizont1-e1772329795525.jpeg?w=1080&h=608&crop=1"
-    },
-    {
-        "titulo": "Mídia iraniana confirma morte de Ali Khamenei",
-        "link": "https://www.cnnbrasil.com.br/internacional/midia-iraniana-confirma-morte-de-ali-khamenei/",
-        "data": "01/03/2026 01:31",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/10/GettyImages-1648348814-1.jpg?w=1024&h=630&crop=1"
-    },
-    {
-        "titulo": "Trump diz que existem “alguns bons candidatos” para liderar Irã",
-        "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-existem-alguns-bons-candidatos-para-liderar-ira/",
-        "data": "01/03/2026 01:20",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/GettyImages-2257157382-e1768933091394.jpg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Iranianos comemoram anúncio da morte de Ali Khamenei",
@@ -402,7 +402,7 @@
     {
         "titulo": "Mortes no Irã já passam de 200 após ataque de EUA e Israel; veja o que se sabe",
         "link": "https://www.terra.com.br/noticias/mundo/eua-e-israel-atacam-ira-e-matam-lider-supremo-o-que-aconteceu-ate-agora,50b85a71c09cae528223a277bfb51e1c5d5samlj.html",
-        "data": "01/03/2026 04:51",
+        "data": "01/03/2026 06:41",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/01/692233291-30dff740-1505-11f1-819e-e50c457fa9e2.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Aeroporto e hotel mais famoso de Dubai são atingidos por mísseis do Irã; veja",
         "link": "https://www.terra.com.br/noticias/mundo/aeroporto-e-hotel-mais-famoso-de-dubai-sao-atingidos-por-novos-misseis-do-ira-veja,a4436731e0b52b0d83efc7b1e13650d60edw6p56.html",
-        "data": "01/03/2026 04:51",
+        "data": "01/03/2026 06:41",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/28/design-sem-nome-2026-02-28t201242-345-1ib3pvd6bwe2b.png"
@@ -418,7 +418,7 @@
     {
         "titulo": "Infográfico mostra as cidades iranianas atingidas pelo ataque dos EUA e Israel",
         "link": "https://www.terra.com.br/noticias/mundo/infografico-veja-as-cidades-iranianas-atingidas-pelo-ataque-dos-eua-e-israel,63f41a49b2601ee8b0b877f84066b333od1wx8j3.html",
-        "data": "01/03/2026 04:51",
+        "data": "01/03/2026 06:41",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
@@ -426,7 +426,7 @@
     {
         "titulo": "Simone Mendes revela que estava em hotel bombardeado em Dubai na véspera de ataque",
         "link": "https://www.terra.com.br/diversao/gente/simone-mendes-revela-que-estava-em-hotel-de-dubai-bombardeado-pelo-ira-um-dia-antes-do-ataque,8002f6ef38cbaf2ce8a716b8b025ade8ixa0tpn9.html",
-        "data": "01/03/2026 04:51",
+        "data": "01/03/2026 06:41",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/28/simone-mendes-dubai-u87yhjs98oxi.png"
@@ -434,7 +434,7 @@
     {
         "titulo": "Vereador de MT toma um 'banho de lama' durante fiscalização de obra",
         "link": "https://www.terra.com.br/noticias/brasil/vereador-de-mt-toma-um-banho-de-lama-durante-fiscalizacao-de-obra-veja,7dff6043045a8181892f930043d6bbb42bo2ktmv.html",
-        "data": "01/03/2026 04:51",
+        "data": "01/03/2026 06:41",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/01/design-sem-nome-2026-02-28t224630-444-1jeiq1x2j55x5.png"
@@ -442,7 +442,7 @@
     {
         "titulo": "Governo pede que brasileiros evitem viagens para 11 país após ataques; veja lista",
         "link": "https://www.terra.com.br/noticias/mundo/governo-pede-que-brasileiros-evitem-viagens-para-11-pais-apos-ataque-ao-ira-veja-lista,77d82390a6022481368154199a22f069qf2fw1to.html",
-        "data": "01/03/2026 04:51",
+        "data": "01/03/2026 06:41",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/28/design-sem-nome-(10)-qxns1jjhnzvl.jpg"
@@ -450,7 +450,7 @@
     {
         "titulo": "Arsenal nuclear, mísseis e aeronaves: compare o poderio militar de EUA, Israel e Irã",
         "link": "https://www.terra.com.br/noticias/mundo/arsenal-nuclear-misseis-e-aeronaves-compare-o-poderio-militar-de-estados-unidos-israel-e-ira,7ed751cde502ba73ba7f5c0fda4d41dcgxm7ou4e.html",
-        "data": "01/03/2026 04:51",
+        "data": "01/03/2026 06:41",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/28/2066770722-eua-e-israel-atacam-o-ira-o-que-se-sabe-sobre-a-operacao-militar.jpg"
@@ -458,7 +458,7 @@
     {
         "titulo": "Lanús provoca Paquetá após título da Recopa em cima do Flamengo",
         "link": "https://www.terra.com.br/esportes/flamengo/lanus-provoca-paqueta-apos-titulo-da-recopa-em-cima-do-flamengo,8306e26875e44695852cec9d84aa4b18ouuws6op.html",
-        "data": "01/03/2026 04:51",
+        "data": "01/03/2026 06:41",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/28/1899795477-hclust9wiaauu3z.jpeg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Ataques ao Irã elevam tensão entre política e futebol a três meses da Copa",
         "link": "https://www.terra.com.br/esportes/ataques-ao-ira-elevam-tensao-entre-politica-e-futebol-a-tres-meses-da-copa-do-mundo,627318f35aec4e65c9188cd77a6e8618exz5fb3m.html",
-        "data": "01/03/2026 04:51",
+        "data": "01/03/2026 06:41",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
@@ -474,7 +474,7 @@
     {
         "titulo": "Novas regras para acelerar jogos e amplia atuação do VAR a partir da Copa",
         "link": "https://www.terra.com.br/esportes/futebol/internacional/ifab-aprova-regras-para-acelerar-jogos-e-amplia-atuacao-do-var-a-partir-da-copa,cd46783da541b2a5eaa9195e50951320wp701w4k.html",
-        "data": "01/03/2026 04:51",
+        "data": "01/03/2026 06:41",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/28/1083769345-440615363119358e21618c-610x400.jpg"
