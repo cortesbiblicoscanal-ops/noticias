@@ -1,5 +1,53 @@
 [
     {
+        "titulo": "Bangladesh fecha universidades em meio à crise energética",
+        "link": "https://g1.globo.com/mundo/noticia/2026/03/09/bangladesh-fecha-universidades-em-meio-a-crise-energetica.ghtml",
+        "data": "09/03/2026 04:36",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/ujM1Jc-ELYMQ8SMqHVxJGGAU-qk=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/p/W0Pg5yRBW4ZxMpjkaA1g/2026-03-09t033901z-1379869866-rc2zyjau04cz-rtrmadp-3-iran-crisis-energy-bangladesh.jpg"
+    },
+    {
+        "titulo": "Base militar dos EUA no Iraque é atingida por drone; ACOMPANHE",
+        "link": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml",
+        "data": "09/03/2026 04:29",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Qbhp_rM9rPIBnwNsr8RBphyCREo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/1/iHKy1gSKCjBOOnUd8DBQ/incendio-deposito-combustivel-ira.png"
+    },
+    {
+        "titulo": "EUA diz ter matado seis em ataque a embarcação ligada ao narcotráfico no Pacífico",
+        "link": "https://g1.globo.com/mundo/noticia/2026/03/09/ataque-dos-eua-a-suposto-barco-do-narcotrafico-no-pacifico-oriental-deixa-seis-mortos.ghtml",
+        "data": "09/03/2026 03:50",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/HlpQwd3IvRdIFpAJ_q3hByxs5ss=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/P/LJ1qPpSWqu3BA24e2gJw/2026-03-07t145747z-744751993-rc2pzjav4kbl-rtrmadp-3-usa-trump-americas.jpg"
+    },
+    {
+        "titulo": "'Boneco do Andaraí', apontado como chefe do tráfico no Morro do Andaraí, morre em confronto com a Polícia Militar",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/03/09/chefe-do-trafico-boneco-do-andarai-morre-confronto-policia-militar.ghtml",
+        "data": "09/03/2026 03:41",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/CyE2sjdAS4VXEpdVUTqBrY9B1MU=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/D/nIz2TDQsAApRv0BRM8BA/fotojet-5-.jpg"
+    },
+    {
+        "titulo": "As armas e a nova fase da guerra no Oriente Médio - O Assunto #1675",
+        "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/03/09/as-armas-e-a-nova-fase-da-guerra-no-oriente-medio-o-assunto-1675.ghtml",
+        "data": "09/03/2026 03:30",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/-hGet3eIZyVgKEG0MoOzAWvzMeY=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/7/eWk5tST62a8inOb8f9Yg/globo-canal-4-20260305-2000-frame-62476.jpeg"
+    },
+    {
+        "titulo": "Alto Tietê: semana tem temperaturas amenas e possibilidade de chuva; veja previsão do tempo",
+        "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/03/09/alto-tiete-semana-tem-temperaturas-amenas-e-possibilidade-de-chuva-veja-previsao-do-tempo.ghtml",
+        "data": "09/03/2026 03:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/cRYL_GCA25j3Mz5R1ub99vGu-5g=/3920x0/filters:format(jpeg)/http://s.glbimg.com/jo/g1/f/original/2015/02/26/1_-_dsc_1061.jpg"
+    },
+    {
         "titulo": "Na corrida pelo Oscar, Wagner Moura vê ‘boa chance’ para ‘O Agente Secreto’ e celebra momento do cinema brasileiro",
         "link": "https://g1.globo.com/fantastico/noticia/2026/03/08/wagner-moura-agente-secreto-momento-do-cinema-brasileiro.ghtml",
         "data": "09/03/2026 01:19",
@@ -32,132 +80,92 @@
         "image": "https://s2-g1.glbimg.com/232RVWV5VYQNC7kmlU9LMwzOj-o=/1505x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/h/pINp1gTTiMZuf2pck1Kg/captura-de-tela-2026-03-08-213045.png"
     },
     {
-        "titulo": "Acidente na BR-153 deixa um morto e um ferido entre Gurupi e Cariri do Tocantins",
-        "link": "https://g1.globo.com/to/tocantins/noticia/2026/03/08/acidente-na-br-153-deixa-um-morto-e-um-ferido-entre-gurupi-e-cariri-do-tocantins.ghtml",
-        "data": "09/03/2026 00:31",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/C3nJOzFRGrYlM9QipzYH9Orubjo=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/S/3UjNUKQbmYjbJSZLIXMg/frame-acidente.jpg.jpeg"
-    },
-    {
-        "titulo": "Isso é Fantástico: de onde vem o ódio pela mulher e o que esperar do futuro neste 8 de março",
-        "link": "https://g1.globo.com/fantastico/podcast/isso-e-fantastico/noticia/2026/03/08/isso-e-fantastico-de-onde-vem-o-odio-pela-mulher-e-o-que-esperar-do-futuro-neste-8-de-marco.ghtml",
-        "data": "09/03/2026 00:23",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/JzZRA3r_6ZRZzH2Q7fBSCzmhQSI=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/08/08/14410808"
-    },
-    {
-        "titulo": "Casa de Rihanna em Beverly Hills é alvo de disparos; suspeita é detida",
-        "link": "https://g1.globo.com/pop-arte/noticia/2026/03/08/mulher-atira-contra-casa-de-rihanna-diz-site.ghtml",
-        "data": "09/03/2026 00:19",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/Wny7QhzlM6HOhFJW_IJzHZDblbY=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/T/xYD0vFQOyWRy7pCpXQvg/063-2213631574.jpg"
-    },
-    {
-        "titulo": "Casa de luxo no Ceará e pagamentos via Pix: MP investiga “vaquinha” para prefeito comprar mansão",
-        "link": "https://g1.globo.com/fantastico/noticia/2026/03/08/casa-de-luxo-no-ceara-e-pagamentos-via-pix-mp-investiga-vaquinha-para-prefeito-comprar-mansao.ghtml",
-        "data": "09/03/2026 00:12",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/DcbOQ_1Ay2vuDnCR86r-AXzscAY=/1643x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/o/mSGxMARDSPKfngccNyCw/captura-de-tela-2026-03-08-210728.png"
-    },
-    {
-        "titulo": "Estreito de Ormuz vira palco de batalha naval que preocupa mercado de petróleo",
-        "link": "https://g1.globo.com/fantastico/noticia/2026/03/08/estreito-de-ormuz-vira-palco-de-batalha-naval-que-preocupa-mercado-de-petroleo.ghtml",
-        "data": "08/03/2026 23:53",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/EV_O51qL5CwLBd-CjYt0_kStR74=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/56/06/14410656"
-    },
-    {
-        "titulo": "Ex-namorada de Vorcaro classifica exposição de mensagens nas redes como violência e estuda ir à Justiça",
-        "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/03/08/ex-namorada-de-vorcaro-classifica-exposicao-de-mensagens-nas-redes-como-violencia-e-estuda-ir-a-justica.ghtml",
-        "data": "08/03/2026 23:38",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/zIzVhD6SYmMy2jMA2I_le4N58po=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/J/tFJzSASpK9XJssD6DuMQ/vorcaro-prisao.jpg"
-    },
-    {
-        "titulo": "Mercado comenta arbitragem após vice diante do Grêmio: “Fomos roubados”",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-gaucho/mercado-comenta-arbitragem-apos-vice-diante-do-gremio-fomos-roubados/",
-        "data": "09/03/2026 01:11",
+        "titulo": "Palmeiras, Flamengo… Veja as premiações para os campeões estaduais",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras-flamengo-veja-as-premiacoes-para-os-campeoes-estaduais/",
+        "data": "09/03/2026 03:47",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/55123693684_d35b0ea05c_k.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/WhatsApp-Image-2026-03-08-at-23.35.37-e1773023827865.jpeg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "SP: temporal causa transbordamento de córregos e carros ficam submersos",
-        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sp-temporal-causa-transbordamento-de-corregos-e-carros-ficam-submersos/",
-        "data": "09/03/2026 00:34",
+        "titulo": "Saiba se jogadores serão punidos por briga na final do Campeonato Mineiro",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/saiba-se-jogadores-serao-punidos-por-briga-na-final-do-campeonato-mineiro/",
+        "data": "09/03/2026 03:28",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/x-48.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/lucas_romero_cruzeiro-e1773011685851.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Ex-Seleção Brasileira diz quais goleiros levaria para a Copa do Mundo",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ex-selecao-brasileira-diz-quais-goleiros-levaria-para-a-copa-do-mundo/",
-        "data": "09/03/2026 00:30",
+        "titulo": "Após título do Carioca, Jardim é direto sobre reencontro com Cruzeiro",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/apos-titulo-do-carioca-jardim-e-direto-sobre-reencontro-com-cruzeiro/",
+        "data": "09/03/2026 03:19",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/07/Alisson-e1753789501204.jpeg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/JARDIM-e1773006953872.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Ex-Seleção Brasileira vê Rogério Ceni com futuro na Amarelinha",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ex-selecao-brasileira-ve-rogerio-ceni-com-futuro-na-amarelinha/",
-        "data": "09/03/2026 00:25",
+        "titulo": "Enquete BBB 26: quem você quer eliminar no 8º Paredão?",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/bbb/enquete-bbb-26-quem-voce-quer-eliminar-no-8o-paredao/",
+        "data": "09/03/2026 03:19",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/11/Rogerio-Ceni-do-Bahia-nunca-venceu-o-SPFC-como-treinador.png?w=869&h=460&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/8-paredaobbb26.png?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Pedrinho reage ao título do Cruzeiro no Mineiro e é direto sobre Tite",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/pedrinho-reage-ao-titulo-do-cruzeiro-no-mineiro-e-e-direto-sobre-tite/",
-        "data": "09/03/2026 00:24",
+        "titulo": "Libertadores Sub-20: Palmeiras estreia com goleada sobre Católica-EQU",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-estreia-com-goleada-sobre-catolica-na-libertadores-sub-20/",
+        "data": "09/03/2026 03:09",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/55135462677_d159c19eb6_k-e1773015792497.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/sub20palmeiras-e1773025777105.jpg?w=537&h=303&crop=1"
     },
     {
-        "titulo": "Ex-Tottenham diz o que futebol brasileiro deveria copiar da Premier League",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/ex-tottenham-diz-o-que-futebol-brasileiro-deveria-copiar-da-premier-league/",
-        "data": "09/03/2026 00:20",
+        "titulo": "BBB 26: Babu Santana, Chaiany e Milena disputam o 8º Paredão da edição",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/bbb/bbb-26-babu-santana-chaiany-e-milena-disputam-o-8o-paredao-da-edicao/",
+        "data": "09/03/2026 03:08",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/BR_CNN_050326_SA_GOMES_CAM_CONVIDADO-1.MTS_frame_28659.jpeg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/8-paredao-bbb26.png?w=820&h=492&crop=1"
     },
     {
-        "titulo": "Gomes detalha vida de empresário e faz alerta: “Tudo muito prematuro”",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/gomes-detalha-vida-de-empresario-e-faz-alerta-tudo-muito-prematuro/",
-        "data": "09/03/2026 00:15",
+        "titulo": "Casa de Rihanna em Beverly Hills é alvo de tiros e mulher é presa",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/casa-de-rihanna-em-beverly-hills-e-alvo-de-tiros-e-mulher-e-presa/",
+        "data": "09/03/2026 02:26",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/BR_CNN_050326_SA_GOMES_CAM_CONVIDADO-1.MTS_frame_10420.jpeg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/49739_DA025F1FB66FD928-1.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Nos pênaltis, Fortaleza bate o Ceará e se torna campeão Cearense",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-cearense/nos-penaltis-fortaleza-bate-o-ceara-e-se-torna-campeao-cearense/",
-        "data": "09/03/2026 00:08",
+        "titulo": "Barra leva o Catarinense mesmo com derrota para a Chapecoense",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/chapecoense/barra-leva-o-catarinense-mesmo-com-derrota-para-a-chapecoense/",
+        "data": "09/03/2026 02:15",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/fortaleza_comemora-e1773011020500.jpeg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Barra_Campao.jpeg?w=856&h=562&crop=1"
     },
     {
-        "titulo": "Mixto bate Luverdense nos pênaltis e conquista o Campeonato Mato-Grossense",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/mixto-bate-luverdense-nos-penaltis-e-conquista-o-campeonato-mato-grossense/",
-        "data": "09/03/2026 00:00",
+        "titulo": "Atleta morre durante prova do Ironman em Curitiba",
+        "link": "https://www.cnnbrasil.com.br/esportes/atleta-morre-durante-prova-do-ironman-em-curitiba/",
+        "data": "09/03/2026 02:12",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/mixto-e1773014419977.jpg?w=645&h=363&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/atleta-em-pe-com-sua-bicicleta.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Sport bate Náutico e conquista o Pernambucano; veja ranking de campeões",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-pernambucano/sport-bate-nautico-e-conquista-o-pernambucano-veja-ranking-de-campeoes/",
-        "data": "08/03/2026 23:54",
+        "titulo": "Bap diz que Filipe Luís “merece medalha” após título do Flamengo",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/bap-diz-que-filipe-luis-merece-medalha-apos-titulo-do-flamengo/",
+        "data": "09/03/2026 02:03",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/sport_campeao-e1773013975430.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/filipe-luis-bap-flamengo-e1772808842291.webp?w=975&h=548&crop=1"
+    },
+    {
+        "titulo": "O que fazer em Balneário Camboriú além da praia: guia completo",
+        "link": "https://jovempan.com.br/noticias/brasil/o-que-fazer-em-balneario-camboriu-alem-da-praia-guia-completo.html",
+        "data": "09/03/2026 04:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2025/05/40069458082_8cec0f248c_h.jpg"
     },
     {
         "titulo": "Palmeiras volta a vencer o Novorizontino e conquista o Paulistão",
@@ -232,92 +240,116 @@
         "image": "https://jpimg.com.br/uploads/2026/03/whatsapp-image-2026-03-07-at-12.06.03-1024x576.jpeg"
     },
     {
-        "titulo": "Quem é Mojtaba Khamenei, novo líder supremo do Irã",
-        "link": "https://jovempan.com.br/noticias/mundo/quem-e-mojtaba-khamenei-novo-lider-supremo-do-ira.html",
-        "data": "08/03/2026 22:26",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/03/mojtaba-khamenei.jpg"
-    },
-    {
-        "titulo": "Confira a lista com todos os campeões do Campeonato Paulista",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/confira-a-lista-com-todos-os-campeoes-do-campeonato-paulista.shtml",
-        "data": "09/03/2026 01:42",
+        "titulo": "João Fonseca vence Tommy Paul e avança às oitavas de Indian Wells",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/joao-fonseca-vence-tommy-paul-e-avanca-as-oitavas-de-indian-wells.shtml",
+        "data": "09/03/2026 04:43",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/08/177302021569ae24378c622_1773020215_3x2_md.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/07/177292713169acb89bcecb1_1772927131_3x2_xl.jpg"
     },
     {
-        "titulo": "Com 11º título, Abel se isola como o técnico mais campeão do Palmeiras",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/com-11o-titulo-abel-se-isola-como-o-tecnico-mais-campeao-do-palmeiras.shtml",
-        "data": "09/03/2026 01:40",
+        "titulo": "Cão da raça clumber spaniel leva prêmio principal do Crufts",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/bom-pra-cachorro/2026/03/cao-da-raca-clumber-spaniel-leva-premio-principal-do-crufts.shtml",
+        "data": "09/03/2026 03:32",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/08/177301778069ae1ab42366d_1773017780_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/09/177302653369ae3ce57fef7_1773026533_3x2_rt.jpg"
     },
     {
-        "titulo": "Temporais deixam 2 mortos, pessoas ilhadas e veículos submersos no fim de semana em SP",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/temporais-deixam-2-mortos-pessoas-ilhadas-e-veiculos-submersos-no-fim-de-semana-em-sp.shtml",
-        "data": "09/03/2026 01:40",
+        "titulo": "BBB 26: Babu, Chaiany e Milena estão no paredão; vote na enquete",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/03/bbb-26-babu-chaiany-e-milena-estao-no-paredao-vote-na-enquete.shtml",
+        "data": "09/03/2026 03:06",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/08/177300272869addfe861ae1_1773002728_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/09/177302541969ae388bc70ca_1773025419_3x2_rt.jpg"
     },
     {
-        "titulo": "Baixe o pôster do Palmeiras campeão paulista de 2026",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/baixe-o-poster-do-palmeiras-campeao-paulista-de-2026.shtml",
-        "data": "09/03/2026 01:39",
+        "titulo": "Flip levará delegação de autores brasileiros ao Hay Festival, no País de Gales",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/03/flip-levara-delegacao-de-autores-brasileiros-ao-hay-festival-no-pais-de-gales.shtml",
+        "data": "09/03/2026 03:01",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/05/177274071369a9e06997afa_1772740713_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/05/177274759669a9fb4c842cf_1772747596_3x2_rt.jpg"
     },
     {
-        "titulo": "Palmeiras é campeão paulista pela 27ª vez com vitória sobre o Novorizontino",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/03/palmeiras-e-campeao-paulista-pela-27a-vez-com-vitoria-sobre-o-novorizontino.shtml",
-        "data": "09/03/2026 01:36",
+        "titulo": "Gravação indica que jovens comemoraram estupro coletivo no Rio: 'a mãe de alguém teve que chorar'",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/gravacao-indica-que-jovens-comemoraram-estupro-coletivo-no-rio-a-mae-de-alguem-teve-que-chorar.shtml",
+        "data": "09/03/2026 02:16",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/08/177301873469ae1e6e68064_1773018734_3x2_lg.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/05/177272578769a9a61b00bf8_1772725787_3x2_rt.jpg"
     },
     {
-        "titulo": "Câmeras registram roubo da Biblioteca Mário de Andrade e obras deixadas na rua",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/03/cameras-registram-ladroes-da-mario-de-andrade-que-deixaram-obras-na-rua.shtml",
-        "data": "09/03/2026 01:07",
+        "titulo": "Meryl Streep é cotada para viver francesa Gisèle Pelicot em série sobre abusos",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/03/meryl-streep-e-cotada-para-viver-francesa-gisele-pelicot-em-serie-sobre-abusos.shtml",
+        "data": "09/03/2026 02:12",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/08/177301579769ae12f569c9e_1773015797_3x2_lg.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/08/177302218569ae2be93bda9_1773022185_3x2_rt.jpg"
     },
     {
-        "titulo": "Número de mulheres que se afastam do trabalho por violência cresce 152%, diz pesquisa",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/03/numero-de-mulheres-que-se-afastam-do-trabalho-por-violencia-cresce-152-diz-pesquisa.shtml",
-        "data": "09/03/2026 01:00",
+        "titulo": "Após eleger novo líder, Irã lança mísseis contra Israel, que volta a atacar rival",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/03/ira-lanca-misseis-contra-israel-e-paises-arabes-apos-escolher-lider-supremo.shtml",
+        "data": "09/03/2026 02:09",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/12/08/176521514169370ba56df47_1765215141_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/08/177302166769ae29e35c8de_1773021667_3x2_rt.jpg"
     },
     {
-        "titulo": "Motor chinês perde potência",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/03/motor-chines-perde-potencia.shtml",
-        "data": "09/03/2026 01:00",
+        "titulo": "SUVs e picapes provocam lesões mais graves em pedestres, aponta estudo",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/suvs-e-picapes-provocam-lesoes-mais-graves-em-pedestres-aponta-estudo.shtml",
+        "data": "09/03/2026 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/08/177299805069adcda2c7c5a_1772998050_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2023/12/15/1702619902657beafe21949_1702619902_3x2_rt.jpg"
     },
     {
-        "titulo": "Folha, são os indígenas que botam ordem na nossa baderna",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/03/folha-sao-os-indigenas-que-botam-ordem-na-nossa-baderna.shtml",
-        "data": "09/03/2026 01:00",
+        "titulo": "Brasil testará sua dependência de fantasmas da China",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2026/03/brasil-testara-sua-dependencia-de-fantasmas-da-china.shtml",
+        "data": "09/03/2026 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/02/23/1771885615699cd42f646a1_1771885615_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2024/11/27/173271767267472c6871552_1732717672_3x2_rt.jpg"
     },
     {
-        "titulo": "PT x Bolsonaro, parte 3",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/03/pt-x-bolsonaro-parte-3.shtml",
-        "data": "09/03/2026 01:00",
+        "titulo": "Prefeitura de SP mantém ex-chefe da GCM um ano após acusação de violência doméstica",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/03/prefeitura-de-sp-mantem-ex-chefe-da-gcm-um-ano-apos-acusacao-de-violencia-domestica.shtml",
+        "data": "09/03/2026 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/08/177299656969adc7d9e629a_1772996569_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/05/175708179068baf0be13acd_1757081790_3x2_rt.jpg"
+    },
+    {
+        "titulo": "BBB 26: quem votou em quem?",
+        "link": "https://exame.com/pop/bbb-26-quem-votou-em-quem/",
+        "data": "09/03/2026 00:20",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2026/03/babu-bbb-26-chaiany.avif"
+    },
+    {
+        "titulo": "BBB 26: Babu, Chaiany e Milena estão no paredão",
+        "link": "https://exame.com/pop/bbb-26-babu-chaiany-e-milena-estao-no-paredao/",
+        "data": "09/03/2026 00:09",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2026/03/qwqwqw.jpg"
+    },
+    {
+        "titulo": "BBB 26: quem está no paredão?",
+        "link": "https://exame.com/pop/bbb-26-quem-esta-no-paredao-5/",
+        "data": "09/03/2026 00:00",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2025/01/bbb-25-mosntro--e1738259736285.png"
+    },
+    {
+        "titulo": "Bolsas asiáticas desabam e Coreia tem novo 'circuit braker' com Irã",
+        "link": "https://exame.com/invest/mercados/bolsas-asiaticas-desabam-e-coreia-tem-novo-circuit-braker-com-ira/",
+        "data": "08/03/2026 23:30",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2024/04/GettyImages-1893314169.jpg"
     },
     {
         "titulo": "Atleta morre após mal súbito durante prova de triathlon em Curitiba",
@@ -368,81 +400,49 @@
         "image": "https://classic.exame.com/wp-content/uploads/2024/11/Congonhas-lotado.jpg"
     },
     {
-        "titulo": "Israel amplia ofensiva em Beirute e diz ter atingido chefes iranianos",
-        "link": "https://exame.com/mundo/israel-amplia-ofensiva-em-beirute-e-diz-ter-atingido-chefes-iranianos/",
-        "data": "08/03/2026 17:03",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2024/10/000_36KF77P.jpg"
-    },
-    {
-        "titulo": "Genoa elimina Roma da Champions League com gol de brasileiro; veja o placar",
-        "link": "https://exame.com/esporte/genoa-vence-roma-com-gol-de-brasileiro-veja-o-placar/",
-        "data": "08/03/2026 16:38",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/03/Genoa-e-ROMA.jpg"
-    },
-    {
-        "titulo": "Giovanna Antonelli lança evento de empreendedorismo feminino em São Paulo",
-        "link": "https://exame.com/negocios/giovanna-antonelli-lanca-evento-de-empreendedorismo-feminino-em-sao-paulo/",
-        "data": "08/03/2026 16:09",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/03/IMG_5484.JPG.jpeg"
-    },
-    {
-        "titulo": "Conflito no Irã testa emergentes, mas gestores mantêm confiança a longo prazo",
-        "link": "https://exame.com/invest/mercados/conflito-no-ira-testa-emergentes-mas-gestores-mantem-confianca-a-longo-prazo/",
-        "data": "08/03/2026 16:06",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2023/09/b3.jpg"
-    },
-    {
-        "titulo": "Rossi brilha, Flamengo vence Fluminense nos pênaltis e é tricampeão",
-        "link": "https://www.terra.com.br/esportes/flamengo/flamengo-vence-fluminense-nos-penaltis-e-e-tricampeao-carioca,c23803bf7d2925a21649314f87afe981w22gru8p.html",
-        "data": "09/03/2026 01:52",
+        "titulo": "'Estava com abstinência de títulos', diz Leila Pereira após conquistar Paulistão",
+        "link": "https://www.terra.com.br/esportes/futebol/estava-com-abstinencia-de-titulos-diz-leila-pereira-apos-conquistar-paulistao,b1229f4346e0d1616e0cb5d0f8da7531ncs8l1es.html",
+        "data": "09/03/2026 04:49",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/08/473781573-551369342057fe4b922dekeasy-resizecom-610x400.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/09/captura-de-tela-2026-03-08-232206-uv93rl1k2ov8.png"
     },
     {
-        "titulo": "Casa de Rihanna é alvo de dez tiros, e suspeita é detida",
-        "link": "https://www.terra.com.br/diversao/musica/casa-de-rihanna-e-alvo-de-dez-tiros-e-suspeita-e-detida-diz-site,218c7420c671fbed7ac045ac5b516b76rrfm4c1w.html",
-        "data": "09/03/2026 01:52",
+        "titulo": "Vitor Roque diz que jogou no sacrifício na final do Paulistão",
+        "link": "https://www.terra.com.br/esportes/futebol/vitor-roque-diz-que-jogou-no-sacrificio-na-final-do-paulistao,b346111878a63775c6116d1fbe63e29a7777mohr.html",
+        "data": "09/03/2026 04:49",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/24/gettyimages-2224984693-1hbm2i7qv61pv.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/09/af820260308067-sl9htj3xa7ol.jpg"
+    },
+    {
+        "titulo": "Novas vítimas relatam violência sexual sofrida por grupo denunciado por estupro coletivo",
+        "link": "https://www.terra.com.br/noticias/brasil/cidades/novas-vitimas-relatam-violencia-sexual-sofrida-por-grupo-denunciado-por-estupro-coletivo-no-rj,0071fc6dfc643d68dfc6842e4fea6f60zk1du5m9.html",
+        "data": "09/03/2026 04:49",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/02/procurados-qxfger7l62jo.jpg"
+    },
+    {
+        "titulo": "Babu, Milena ou Chaiany: quem deve ser eliminado no 8º paredão? Vote!",
+        "link": "https://www.terra.com.br/diversao/tv/reality-shows/enquete-bbb-26-milena-babu-e-chaiany-formam-o-oitavo-paredao-vote-em-quem-voce-quer-eliminar,fbc26e1ac3a2ccf6b98f5bbbe2d7f59f3amhgv6y.html",
+        "data": "09/03/2026 04:49",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/09/design-sem-nome-(6)-1ib5xrsel7rz5.jpg"
     },
     {
         "titulo": "Cenas lamentáveis: Cruzeiro e Atlético-MG termina em pancadaria",
         "link": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-mineiro/cenas-lamentaveis-cruzeiro-e-atletico-mg-termina-em-pancadaria-assista,05eb4f483f20248c3dd3df1c5b3234d84pswk3jt.html",
-        "data": "09/03/2026 01:52",
+        "data": "09/03/2026 04:49",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/09/captura-de-tela-2026-03-08-as-21-24-44-t87e901osodi.png"
     },
     {
-        "titulo": "Filho de Ali Khamenei é escolhido como novo líder supremo do Irã",
-        "link": "https://www.terra.com.br/noticias/mundo/oriente-medio/filho-de-ali-khamenei-e-escolhido-como-novo-lider-supremo-do-ira,d03203b25dc636fef9784d3141350c94n23ai9ur.html",
-        "data": "09/03/2026 01:52",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/04/gettyimages-1243265839-ts588wdhwtwk.jpg"
-    },
-    {
-        "titulo": "Programa ao vivo do SBT tem queda de energia e atração fica no escuro",
-        "link": "https://www.terra.com.br/diversao/tv/programa-ao-vivo-do-sbt-tem-queda-de-energia-e-atracao-fica-no-escuro,7a79647ff11f6f7277c898b9623f292fs13x6589.html",
-        "data": "09/03/2026 01:52",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/08/captura-de-tela-2026-03-08-152614-qhsuk5h7ax5t.png"
-    },
-    {
         "titulo": "Ex-namorada de Vorcaro contrata advogado e faz questão de se desvincular do banqueiro",
         "link": "https://www.terra.com.br/noticias/brasil/politica/ex-namorada-de-vorcaro-contrata-assessoria-e-advogado-e-faz-questao-de-se-desvincular-do-banqueiro,8d1ff7bfccd2202b47fbd87e15abf1c2jvyhv9et.html",
-        "data": "09/03/2026 01:52",
+        "data": "09/03/2026 04:49",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/05/saveclip-app_623455608_18552838255047595_7206994519915780692_n-ubolxcew9zqr.jpg"
@@ -450,7 +450,7 @@
     {
         "titulo": "Terminal de aeroporto nos EUA é evacuado após ameaça",
         "link": "https://www.terra.com.br/noticias/mundo/terminal-de-aeroporto-nos-eua-e-evacuado-apos-ameaca,8090b7afb163e243572d026c55b69a6eku7jcqor.html",
-        "data": "09/03/2026 01:52",
+        "data": "09/03/2026 04:49",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/08/captura-de-tela-2026-03-08-161346-rl8ejja7buxv.png"
@@ -458,23 +458,23 @@
     {
         "titulo": "Forte chuva causa alagamentos em bairros de São Paulo",
         "link": "https://www.terra.com.br/noticias/videos/forte-chuva-causa-alagamentos-em-bairros-de-sao-paulo,4f9d250dfaf23bc426eac10e45802c62yba77u33.html",
-        "data": "09/03/2026 01:52",
+        "data": "09/03/2026 04:49",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/950/534/images.terra.com/2026/03/08/chuva-sem-txt-(1)-1iesrfnntpcfs.jpg"
     },
     {
-        "titulo": "Repórter de afiliada da Globo cai dentro de decoração em pré-jogo do Grenal; veja",
-        "link": "https://www.terra.com.br/esportes/futebol/reporter-de-afiliada-da-globo-cai-dentro-de-decoracao-em-pre-jogo-do-grenal-assista,8a710f8f7b5bf11f519d21b0b1e927adz1octjqe.html",
-        "data": "09/03/2026 01:52",
+        "titulo": "Abel Ferreira cita vices de 2025: 'Teria sido despedido em outro clube'",
+        "link": "https://www.terra.com.br/esportes/palmeiras/abel-ferreira-diz-que-carimbar-titulos-e-importante-e-cita-vices-de-2025-teria-sido-despedido-em-outro-clube,779d96062be63afb50c90b0fd75e24d7crqpo5cx.html",
+        "data": "09/03/2026 04:49",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/08/captura-de-tela-2026-03-08-165804-r1ln9hbefiut.png"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/09/captura-de-tela-2026-03-08-as-23-25-49-uruoj6aiq15u.png"
     },
     {
         "titulo": "Torcedores do Flamengo gritam nome de Filipe Luís durante entrega do troféu",
         "link": "https://www.terra.com.br/esportes/flamengo/torcedores-do-flamengo-gritam-nome-de-filipe-luis-durante-entrega-do-trofeu,59bf74a4739ebf6c77b7cad716aec75chpekkw4k.html",
-        "data": "09/03/2026 01:52",
+        "data": "09/03/2026 04:49",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/09/1331658710-captura-de-tela-2026-03-08-as-2-610x400.jpg"
@@ -485,7 +485,7 @@
         "data": "09/03/2026 01:49",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/03/20260304_SEPxNOV_4290.jpg_1_.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/03/08032026_cg_palmeiras_destaque_2713_1.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
         "titulo": "Após empate sem gols, Flamengo conquista o Campeonato Carioca 2026 nos pênaltis",
