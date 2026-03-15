@@ -1,5 +1,53 @@
 [
     {
+        "titulo": "Criança leva R$ 30 mil para escola e vira caso de polícia na Alemanha",
+        "link": "https://g1.globo.com/mundo/noticia/2026/03/15/crianca-leva-r-30-mil-para-escola-e-vira-caso-de-policia-na-alemanha.ghtml",
+        "data": "15/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/1CpHi6b_RaBOjqCyxtOgnz2gNOE=/3744x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/D/82snTkROy4oyjqJsclmA/pexels-pixabay-207697.jpg"
+    },
+    {
+        "titulo": "Samba, vinho e pisa da uva: a experiência inusitada que está atraindo turistas",
+        "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/03/15/samba-vinho-e-pisa-da-uva-a-experiencia-inusitada-que-esta-atraindo-turistas.ghtml",
+        "data": "15/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/XoR7P-OixYniGZJDHYVTDxD1MJ4=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/V/Gs005JSwSdj9EJoMGmIA/captura-de-tela-2026-02-09-141138.jpg"
+    },
+    {
+        "titulo": "Desaparecimento de família no RS chega a 50 dias: afinal, o que impede o avanço da investigação?",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/15/desaparecimento-de-familia-no-rs-chega-a-50-dias-afinal-o-que-impede-o-avanco-da-investigacao.ghtml",
+        "data": "15/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/xKGwEMNm36hGiZigYjjfsO-2B0Y=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/Y/TJ1EyGTHAkVa0gQuRCEw/g1-1-.jpg"
+    },
+    {
+        "titulo": "Guerra no Irã se expande e atinge praticamente todos os países do Oriente Médio; veja quem são os envolvidos",
+        "link": "https://g1.globo.com/mundo/noticia/2026/03/15/guerra-do-ira-se-expande-e-atinge-praticamente-todos-os-paises-do-oriente-medio-veja-quem-sao-os-envolvidos.ghtml",
+        "data": "15/03/2026 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Hl4XzlbK3GUtR9Wk_kuGKfeMBRI=/5778x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/1/5XBDzDR3KsHb9xrWTE0g/2026-03-12t232328z-505680320-rc2a3ka0jufz-rtrmadp-3-iran-crisis-lebanon.jpg"
+    },
+    {
+        "titulo": "Brasília é eleita Capital Ibero-Americana de Patrimônio Cultural; veja o que isso significa",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/03/15/brasilia-e-eleita-capital-ibero-americana-de-patrimonio-cultural-veja-o-que-isso-significa.ghtml",
+        "data": "15/03/2026 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/kQSGu7Eq3CMm2WTs4kbYg_MV-eg=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/R/A/sh44QFQEmtA3JB23djAw/brasilia-641681-1920.jpg"
+    },
+    {
+        "titulo": "BRB cobra R$ 978,3 mil em créditos consignados de ex-presidente investigado no caso Master",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/03/15/brb-cobra-r-9783-mil-em-creditos-consignados-de-ex-presidente-investigado-no-caso-master.ghtml",
+        "data": "15/03/2026 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/t1Cekqa1vgubqcXrrqyfRXzYvhI=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/m/pBkAj1SMW3EpqybvWn4g/paulo-henrique-costa-brb-divulgacao-01.jpg"
+    },
+    {
         "titulo": "Dois jovens presos e o menor apreendido por estupro coletivo em Copacabana são investigados em outros 2 inquéritos; entenda",
         "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/03/15/dois-jovens-presos-e-o-menor-apreendido-por-estupro-coletivo-em-copacabana-sao-investigados-em-outros-2-inqueritos-entenda.ghtml",
         "data": "15/03/2026 04:00",
@@ -32,52 +80,28 @@
         "image": "https://s2-g1.glbimg.com/15jauUyJEqehGBkRR01AUz3W4-Y=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/0/zV9jVmR0SpCApoFB1EPw/260310-info-quem-e-quem-o-agente-secreto.jpg"
     },
     {
-        "titulo": "'Preciso ser invisível e onipresente no set': conheça Victor Jucá, fotógrafo de 'O Agente Secreto'",
-        "link": "https://g1.globo.com/pop-arte/cinema/noticia/2026/03/15/preciso-ser-invisivel-e-onipresente-no-set-conheca-victor-juca-fotografo-de-o-agente-secreto.ghtml",
-        "data": "15/03/2026 03:01",
-        "fonte": "G1",
+        "titulo": "Espaçonave da Nasa envia imagens de busca por exoplanetas habitáveis",
+        "link": "https://www.cnnbrasil.com.br/ciencia/espaconave-da-nasa-envia-imagens-de-busca-por-exoplanetas-habitaveis/",
+        "data": "15/03/2026 06:34",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/-zDRyWYD_FeNsHiwkp9NA-WW4T8=/4000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/WgXpu3QbiCuE59cW1Hsw/52-oas030824-fotovictorjuca-vmj09939.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Imagens-.png?w=791&h=398&crop=1"
     },
     {
-        "titulo": "Tânia Maria, a garota-propaganda: como a atriz de 'O Agente Secreto' está faturando com seu carisma",
-        "link": "https://g1.globo.com/pop-arte/cinema/noticia/2026/03/15/tania-maria-a-garota-propaganda-como-a-atriz-de-o-agente-secreto-esta-faturando-com-seu-carisma.ghtml",
-        "data": "15/03/2026 03:01",
-        "fonte": "G1",
+        "titulo": "Espécie de planta que cresce em rocha acaba de ser descoberta no Brasil",
+        "link": "https://www.cnnbrasil.com.br/ciencia/especie-de-planta-que-cresce-em-rocha-acaba-de-ser-descoberta-no-brasil/",
+        "data": "15/03/2026 06:33",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/ObJ6-41dbI0aFOeznq34S4tiHZw=/1212x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/T/7gPbhXRr2uFcoAwUCYVw/thumb.webp"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/435beb05-959c-4e45-ab84-5b4d65d77bc4.jpeg?w=768&h=431&crop=1"
     },
     {
-        "titulo": "Morte da PM Gisele: polícia apura se soldado se suicidou ou foi vítima de feminicídio e aguarda laudos",
-        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/03/15/morte-da-pm-gisele-policia-apura-se-soldado-se-suicidou-ou-foi-vitima-de-feminicidio-e-aguarda-laudos.ghtml",
-        "data": "15/03/2026 03:01",
-        "fonte": "G1",
+        "titulo": "Alta do petróleo pode fazer Trump recuar na guerra do Irã?",
+        "link": "https://www.cnnbrasil.com.br/internacional/alta-do-petroleo-pode-fazer-trump-recuar-na-guerra-do-ira/",
+        "data": "15/03/2026 06:00",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/pG1l3-xe30ROkIk5WsSJdJCh0-c=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/E/3YRmfFSNWti3wtwNfhKw/gisele-alves-santana-e-geraldo-leite-rosa-neto.jpg"
-    },
-    {
-        "titulo": "Equipe de 'O Agente Secreto' revela expectativa para prêmios no Oscar; ‘Ansiedade é grande, mas a certeza é maior ainda’, diz ator",
-        "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/03/15/equipe-de-o-agente-secreto-revela-expectativa-para-premios-no-oscar-ansiedade-e-grande-mas-a-certeza-e-maior-ainda-diz-ator.ghtml",
-        "data": "15/03/2026 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/TjsCQrXPR9kLXOgj8rcaMLuBmsc=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/c/O5Y6WcR8qaQfb1lkXtbg/img-4651.jpg-1-.jpg"
-    },
-    {
-        "titulo": "Os sinais na boca, no intestino e na vagina que podem ajudar a detectar endometriose",
-        "link": "https://g1.globo.com/saude/noticia/2026/03/15/os-sinais-na-boca-no-intestino-e-na-vagina-que-podem-ajudar-a-detectar-endometriose.ghtml",
-        "data": "15/03/2026 03:01",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/DrcdxuvccIAKbT2IMjjt0fA8YpI=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/x/o/sjYZ6LTcebplCHAyOIIw/paper-ovary-held-by-woman-near-her-reproductive-system.jpg"
-    },
-    {
-        "titulo": "Força Municipal começa a atuar no Rio neste domingo; entenda como vai funcionar a nova divisão armada da GM",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/03/15/forca-municipal-comeca-a-atuar-no-rio-neste-domingo-entenda-como-vai-funcionar-a-nova-divisao-armada-da-gm.ghtml",
-        "data": "15/03/2026 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/PhtFiqIfwQC9Gv2BDWFIquXS6fk=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/d/4ns3qpSKGBN9XN1yfHOg/gm1.jpeg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/GettyImages-2265661562-e1773255525105.jpg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "Dia da Escola: o impacto da IA no ensino em meio à votação sobre o tema",
@@ -136,28 +160,20 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/anapaula-jonas-leandro-bbb26-paredao.avif?w=1000&h=562&crop=1"
     },
     {
-        "titulo": "Técnico do Atlético-MG perde a paciência e chuta garrafa após coletiva",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/tecnico-do-atletico-mg-perde-a-paciencia-e-chuta-garrafa-apos-coletiva/",
-        "data": "15/03/2026 02:11",
-        "fonte": "CNN Brasil",
+        "titulo": "Indicados a melhor direção oscar 2026: lista completa e análises",
+        "link": "https://jovempan.com.br/entretenimento/tv-e-cinema/indicados-a-melhor-direcao-oscar-2026-lista-completa-e-analises.html",
+        "data": "15/03/2026 06:19",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/eduardo-dominguez.webp?w=1000&h=563&crop=1"
+        "image": "https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-22t081824.514.png"
     },
     {
-        "titulo": "Oscar: Trajetória de “O Agente Secreto” é estrondosa, diz atriz",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/oscar-trajetoria-de-o-agente-secreto-e-estrondosa-diz-atriz/",
-        "data": "15/03/2026 02:01",
-        "fonte": "CNN Brasil",
+        "titulo": "Como funciona a votação para escolher ganhadores do Oscar",
+        "link": "https://jovempan.com.br/entretenimento/tv-e-cinema/como-funciona-a-votacao-para-escolher-ganhadores-do-oscar.html",
+        "data": "15/03/2026 05:03",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/br_cnn_140326_zoom_maria_fernanda_candido_frame_35802-e1773539865298.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Justiça recebe denúncia contra jogadores do Vasco-AC por violência sexual",
-        "link": "https://www.cnnbrasil.com.br/nacional/norte/ac/justica-recebe-denuncia-de-violencia-sexual-contra-jogadores-do-vasco-ac/",
-        "data": "15/03/2026 01:49",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Inauguracao-de-Unificacao-do-MPAC-Fotos-Vitoria-Souza-9.jpeg?w=1200&h=630&crop=1"
+        "image": "https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-22t081824.514.png"
     },
     {
         "titulo": "Filmes brasileiros indicados ao Oscar: lista completa e histórico",
@@ -166,6 +182,14 @@
         "fonte": "Jovem Pan",
         "metodo": "RSS",
         "image": "https://jpimg.com.br/uploads/2025/03/bba01a7646600fb18c85d8679280126f156cb672.jpg"
+    },
+    {
+        "titulo": "Horóscopo do dia: previsão para os 12 signos em 15/03/2026",
+        "link": "https://jovempan.com.br/edicase/horoscopo-do-dia-previsao-para-os-12-signos-em-15-03-2026.html",
+        "data": "15/03/2026 03:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2026/03/horoscopo-do-dia-previsao-para-os-12-signos-em-15-03-2026-1024x683.jpg"
     },
     {
         "titulo": "Ricardo Salles descarta migrar para PP e disputará Senado pelo Novo",
@@ -216,28 +240,12 @@
         "image": "https://jpimg.com.br/uploads/2025/12/imagem-jvp-88.png"
     },
     {
-        "titulo": "Irã mantém ‘cooperação militar’ com Rússia e China, diz chanceler",
-        "link": "https://jovempan.com.br/noticias/mundo/ira-mantem-cooperacao-militar-com-russia-e-china-diz-chanceler.html",
-        "data": "14/03/2026 22:47",
-        "fonte": "Jovem Pan",
+        "titulo": "Navio histórico tomba no porto de Santos e será retirado do local",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/navio-historico-tomba-no-porto-de-santos-e-sera-retirado-do-local.shtml",
+        "data": "15/03/2026 06:29",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/06/imagem-jvp-77.png"
-    },
-    {
-        "titulo": "Botafogo x Flamengo: confira a transmissão da Jovem Pan ao vivo",
-        "link": "https://jovempan.com.br/esportes/futebol/botafogo-x-flamengo-confira-a-transmissao-da-jovem-pan-ao-vivo-3.html",
-        "data": "14/03/2026 22:30",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/03/whatsapp-image-2026-03-14-at-12.21.57.jpg"
-    },
-    {
-        "titulo": "Guarda revolucionária iraniana diz ter atacado uma base dos EUA na Arábia Saudita",
-        "link": "https://jovempan.com.br/noticias/mundo/guarda-revolucionaria-iraniana-diz-ter-atacado-uma-base-dos-eua-na-arabia-saudita.html",
-        "data": "14/03/2026 21:49",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/03/imagem-jvp-2026-03-08t082942.862.png"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/15/177355570669b64ffa7954c_1773555706_3x2_xl.jpg"
     },
     {
         "titulo": "BBB 26: Ana Paula, Jonas e Leandro estão no paredão",
@@ -310,14 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2026/03/13/177344222969b494b5baab0_1773442229_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Datafolha: Apoio ao fim da escala 6x1 cresce e chega a 71% dos brasileiros",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/datafolha-apoio-ao-fim-da-escala-6x1-cresce-e-chega-a-71-dos-brasileiros.shtml",
-        "data": "15/03/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2023/10/10/169695210765256f2b22feb_1696952107_3x2_rt.jpg"
     },
     {
         "titulo": "Beleza infantil vira negócio de milhões para marcas de cosméticos",
@@ -402,7 +402,7 @@
     {
         "titulo": "Fórmula 1 cancela etapas do Bahrein e Arábia Saudita devido à guerra no Irã",
         "link": "https://www.terra.com.br/esportes/automobilismo/formula-1-cancela-etapas-do-bahrein-e-arabia-saudita-devido-a-guerra-no-ira,6b4cc9a91f9f6445fe9d256e56522f2bhy2tpdc4.html",
-        "data": "15/03/2026 05:02",
+        "data": "15/03/2026 06:52",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/11/russel-f1-1536x877-skxwsay8vyno.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Pedreiro e jovem morrem durante ação da PM em baile funk em SP",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/pedreiro-e-jovem-morrem-durante-acao-da-pm-em-baile-funk-em-sp-5-estao-feridos,340b03a3b67260c4e7668eefd7527f3812pg92p2.html",
-        "data": "15/03/2026 05:02",
+        "data": "15/03/2026 06:52",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/15/foto-2026-03-14t230249-739-qe3tdtpk26nn.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Lázaro Ramos e Wagner Moura têm encontro emocionado nos EUA para o Oscar",
         "link": "https://www.terra.com.br/diversao/entre-telas/oscar/lazaro-ramos-e-wagner-moura-tem-encontro-emocionado-nos-eua-para-o-oscar-meu-irmao,4b37603ae0c904405d91fc24ee37a1598cg5p2nm.html",
-        "data": "15/03/2026 05:02",
+        "data": "15/03/2026 06:52",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/15/foto-2026-03-14t214232-797-ubupqvk6o5kg.jpg"
@@ -426,23 +426,15 @@
     {
         "titulo": "Trump diz que não está pronto para negociar cessar-fogo com o Irã",
         "link": "https://www.terra.com.br/noticias/mundo/trump-diz-que-nao-esta-pronto-para-negociar-cessar-fogo-com-o-ira,5fd66ce84deb40036c4b21070bf6cd8awq4v6gbe.html",
-        "data": "15/03/2026 05:02",
+        "data": "15/03/2026 06:52",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/10/22/gettyimages-2242455264-rl2dgpxwn0on.jpg"
     },
     {
-        "titulo": "Diretor de 'O Agente Secreto', Kleber Mendonça passeia com totem de Tânia Maria",
-        "link": "https://www.terra.com.br/diversao/entre-telas/oscar/diretor-de-o-agente-secreto-kleber-mendonca-filho-passeia-com-totem-de-tania-maria-antes-do-oscar,2e4e1d153ec0662d42c756e6ac52f162nb5ttqbi.html",
-        "data": "15/03/2026 05:02",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/11/1530486523-x35mk2khdfftplytasgqnysmby.jpg"
-    },
-    {
         "titulo": "Mega-Sena: ninguém acerta e prêmio acumula em R$105 milhões; veja dezenas",
         "link": "https://www.terra.com.br/economia/loterias/mega-sena/mega-sena-ninguem-acerta-e-premio-acumula-em-r105-milhoes-veja-as-dezenas,03279e0ffb0612b1a5ef8369d7545a9e8h1n2tb3.html",
-        "data": "15/03/2026 05:02",
+        "data": "15/03/2026 06:52",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/13/mega-sena-qxr434lzcjeb.PNG"
@@ -450,7 +442,7 @@
     {
         "titulo": "Flávio afirma que Bolsonaro está com aparência abatida e voz enfraquecida",
         "link": "https://www.terra.com.br/noticias/brasil/politica/flavio-afirma-que-bolsonaro-esta-com-aparencia-abatida-e-voz-enfraquecida,027f19a7e8c4ad98b5016b488ba6c751p7444oco.html",
-        "data": "15/03/2026 05:02",
+        "data": "15/03/2026 06:52",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/14/bolsonaro-1-(1)-1jenqtmrih261.jpg"
@@ -458,7 +450,7 @@
     {
         "titulo": "PM apreende R$ 288 mil em espécie de homem com comportamento suspeito",
         "link": "https://www.terra.com.br/noticias/brasil/policia/pm-de-sao-paulo-apreende-r-288-mil-em-especie-de-homem-com-comportamento-suspeito,bee2c2f3a18f51bc4ee9c5950ce6f03f22soih6w.html",
-        "data": "15/03/2026 05:02",
+        "data": "15/03/2026 06:52",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/14/design-sem-nome-2026-03-14t194922-310-s1go9tra6eyb.png"
@@ -466,7 +458,7 @@
     {
         "titulo": "Vitória usa camisa com nomes de personagens de Wagner Moura, indicado ao Oscar",
         "link": "https://www.terra.com.br/esportes/vitoria/vitoria-usa-camisa-com-nomes-de-personagens-de-wagner-moura-indicado-ao-oscar-veja-imagens,66ceb823360b613e9572e0c3b8450c75ydktefdh.html",
-        "data": "15/03/2026 05:02",
+        "data": "15/03/2026 06:52",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/14/1006818458-gytebsac6nbphep5agkcfyikeu.jpg"
@@ -474,10 +466,18 @@
     {
         "titulo": "Denílson Neves, ex-São Paulo e Arsenal, tem prisão decretada pela Justiça do Rio",
         "link": "https://www.terra.com.br/esportes/sao-paulo/denilson-neves-ex-sao-paulo-e-arsenal-tem-prisao-decretada-pela-justica-do-rio,a90656a00a68a6b4d04e0aec1c3fe251te4vyfcu.html",
-        "data": "15/03/2026 05:02",
+        "data": "15/03/2026 06:52",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/15/design-sem-nome-2026-03-14t220421-687-ts1yjh8zzhid.png"
+    },
+    {
+        "titulo": "Manchester City cede empate ao West Ham, e líder Arsenal agradece",
+        "link": "https://www.terra.com.br/esportes/futebol/internacional/equipes/manchester-city/manchester-city-cede-empate-ao-west-ham-e-lider-arsenal-agradece,ae94c8f8187249324513fd951a3b5812wt3sajr0.html",
+        "data": "15/03/2026 06:52",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/14/1836788172-bazaart99a2dfeb-3dd2-458a-bab6-1f137c03f016easy-resizecom-610x400.jpg"
     },
     {
         "titulo": "Oscar 2026: Saiba quando e como assistir à cerimônia",
