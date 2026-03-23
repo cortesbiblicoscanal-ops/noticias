@@ -1,11 +1,59 @@
 [
     {
-        "titulo": "Avião colide com veículo em aeroporto de Nova York",
+        "titulo": "Pedologia forense: como é a disciplina da Unesp Jaboticabal que ensina a investigar o solo em contextos criminais",
+        "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/03/23/pedologia-forense-como-e-a-disciplina-da-unesp-jaboticabal-que-ensina-a-investigar-o-solo-em-contextos-criminais.ghtml",
+        "data": "23/03/2026 06:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/QeBlxfYiN0AK6pwkAXVrSWjwiwU=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/1/mXJBc9RZA1WdolGuhuuw/design-sem-nome-1-.png"
+    },
+    {
+        "titulo": "VÍDEO: Argentina relembra 50 anos de golpe militar",
+        "link": "https://g1.globo.com/mundo/noticia/2026/03/23/video-argentina-relembra-50-anos-de-golpe-militar.ghtml",
+        "data": "23/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/OwTnZrkxwMcqZKlHhOM_bbgnBJ8=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/i/Q/LSevnBRWKqewYog5npsg/jhoje-limpo-20230921-1315-frame-144624.jpeg"
+    },
+    {
+        "titulo": "Árvore 'ressuscitada' por empresária do Paraná após investimento de R$ 18 mil cresce galho de 1 metro: 'Valeu a pena'",
+        "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/03/23/arvore-ressuscitada-por-empresaria-do-parana-apos-investimento-de-r-18-mil-cresce-galho-de-1-metro-valeu-a-pena.ghtml",
+        "data": "23/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/0YIQAJebqo6qrifkM0r2ihop0vI=/1300x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/T/eWwBskR16nrAF3j1mppw/seringueira1.png"
+    },
+    {
+        "titulo": "Novas regras da CNH no RS: taxas mudam, mas segunda tentativa gratuita não é aplicada no estado",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/23/novas-regras-da-cnh-no-rs-taxas-mudam-mas-segunda-tentativa-gratuita-nao-e-aplicada-no-estado.ghtml",
+        "data": "23/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/C31enU30bjjfJuD6bDP-fPnahlw=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/1/O3zExeTD2snlwdQzfQaw/g1-10-.png"
+    },
+    {
+        "titulo": "Ceilândia, 55 anos: mostra celebra 'incansáveis' e a memória da região administrativa do DF",
+        "link": "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/03/23/ceilandia-55-anos-mostra-celebra-incansaveis-e-a-memoria-da-regiao-administrativa-do-df.ghtml",
+        "data": "23/03/2026 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/nu-VbvQRexbhIz7A_SkoFwFWhx4=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/W/jPdEAxS2WH8oSjJXR9Uw/copia-de-design-sem-nome-1-.png"
+    },
+    {
+        "titulo": "Eleições 2026: quem deve deixar cargos nos próximos dias para se candidatar ao governo do DF",
+        "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/03/23/eleicoes-2026-quem-deve-deixar-cargos-nos-proximos-dias-para-se-candidatar-ao-governo-do-df.ghtml",
+        "data": "23/03/2026 05:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/5MNKdlEHdK8M_8NVWW8UnSe1IKg=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/V/r/uIRzMORfG6OhdDf12F9Q/imagem-g1-27-.png"
+    },
+    {
+        "titulo": "Avião colide com veículo em aeroporto de Nova York; voos foram cancelados",
         "link": "https://g1.globo.com/mundo/noticia/2026/03/23/aviao-colide-com-veiculo-em-aeroporto-de-nova-york.ghtml",
         "data": "23/03/2026 04:52",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "None"
+        "image": "https://s2-g1.glbimg.com/OLU3v1uW2n-fbUtcmMpm_pT6vz0=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/W/35de57QhOu422lgVbxQQ/2026-03-23t063157z-1622574594-rc26aka6p9fy-rtrmadp-3-usa-crash-air-canada.jpg"
     },
     {
         "titulo": "Quatro ambulâncias da comunidade judaica são incendiadas em Londres",
@@ -13,7 +61,7 @@
         "data": "23/03/2026 04:41",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
+        "image": "https://s2-g1.glbimg.com/fKpLoVW8SbZrIWVn_nPG1yUo8O4=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/N/4cjgPCQBq29cnSKYkFIA/2026-03-23t053708z-612278244-rc25akaqpf3m-rtrmadp-3-britain-police.jpg"
     },
     {
         "titulo": "Contestação de provas, ‘pressão sobre testemunhas’ e saúde mental: as estratégias de Jairinho e Monique no caso Henry Borel",
@@ -32,52 +80,60 @@
         "image": "https://s2-g1.glbimg.com/AJ1l1xuBAJWEaESSX3S3Xy45qiM=/5379x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/r/u/SnGpLOSiqZaWFPyhVrMA/leniel-2.jpg"
     },
     {
-        "titulo": "Turistas são roubadas dentro de pousada em Porto de Galinhas; hóspede é preso no Aeroporto do Recife",
-        "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/03/23/turistas-sao-roubadas-dentro-de-pousada-em-porto-de-galinhas-hospede-e-preso-no-aeroporto-do-recife.ghtml",
-        "data": "23/03/2026 04:00",
-        "fonte": "G1",
+        "titulo": "Um a cada mil filhotes de tartaruga sobrevive; veja luta pela preservação",
+        "link": "https://www.cnnbrasil.com.br/ciencia/um-a-cada-mil-filhotes-de-tartaruga-sobrevive-veja-luta-pela-preservacao/",
+        "data": "23/03/2026 06:37",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/PmTB-GHPHuReAC2WM7xS35rouW0=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Q/WxRNlqRumcbUw3ysWucw/capa-agenda-g1-2026-03-22t172911.585.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/IMG_4675.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "'Biorressonância quântica': Justiça aponta exercício irregular da medicina e proíbe técnica usada por naturopata no RS",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/23/biorressonancia-quantica-justica-aponta-exercicio-irregular-da-medicina-e-proibe-tecnica-usada-por-naturopata-no-rs.ghtml",
-        "data": "23/03/2026 04:00",
-        "fonte": "G1",
+        "titulo": "Falhas na região de Cascadia (EUA) podem formar o maior terremoto de todos",
+        "link": "https://www.cnnbrasil.com.br/ciencia/falhas-na-regiao-de-cascadia-eua-podem-formar-o-maior-terremoto-de-todos/",
+        "data": "23/03/2026 06:34",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/oASznDBAY4a705I5LlsDkCmXqVk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/7/49iI5PSeCIC5x5A1GJeA/g1-1200-x-675-px-2026-03-21t102236.443.png"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/mar.png?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "ECA Digital: o que muda na proteção online de crianças e adolescentes - O Assunto #1685",
-        "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/03/23/eca-digital-o-que-muda-na-protecao-online-de-criancas-e-adolescentes-o-assunto-1685.ghtml",
-        "data": "23/03/2026 03:30",
-        "fonte": "G1",
+        "titulo": "Nasa testa jato supersônico silencioso experimental X-59",
+        "link": "https://www.cnnbrasil.com.br/ciencia/nasa-testa-jato-supersonico-silencioso-experimental-x-59/",
+        "data": "23/03/2026 06:33",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/DGe9hPTMxprFyes5P1_klnEJLZo=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/V/VKHbkxQSK6u6W2iwAX1Q/globo-canal-4-20260317-2000-frame-128738.jpeg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/voo.png?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Jovens de Cabo Frio celebram graduação em projeto social de judô da Prolagos",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prolagos/prolagos-nossa-natureza-movimenta-a-vida/noticia/2026/03/23/jovens-de-cabo-frio-celebram-graduacao-em-projeto-social-de-judo-da-prolagos.ghtml",
-        "data": "23/03/2026 03:02",
-        "fonte": "G1",
+        "titulo": "Declaração do Imposto de Renda começa hoje; veja guia e tire dúvidas",
+        "link": "https://www.cnnbrasil.com.br/economia/financas/declaracao-do-imposto-de-renda-comeca-hoje-veja-guia-e-tire-duvidas/",
+        "data": "23/03/2026 06:30",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/wjaMgGQLD_UxesPSLdMkEVc3IR0=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/L/QntIhXT2q4rqAwuR9XCg/materia-1-educando-para-a-vida.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/02/FTA20230202053-e1741804079431.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Um mês da noite em que a chuva parou a Zona da Mata: relembre a tragédia, relatos de sobreviventes e memorial às vítimas",
-        "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/03/23/um-mes-da-noite-em-que-a-chuva-parou-a-zona-da-mata-relembre-a-tragedia-relatos-de-sobreviventes-e-memorial-as-vitimas.ghtml",
-        "data": "23/03/2026 03:01",
-        "fonte": "G1",
+        "titulo": "Avião da Air Canada colide com veículo em solo em aeroporto de Nova York",
+        "link": "https://www.cnnbrasil.com.br/internacional/aviao-da-air-canada-colide-com-veiculo-em-solo-em-aeroporto-de-nova-york/",
+        "data": "23/03/2026 05:41",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/-dtaxvxWF6t_kp1GDAiQasDdYMs=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/t/Duw1f8Tb2xmq9lO7IZng/bdmg-juiz-de-fora-quinta-jardim-natal-zona-norte-3.jpeg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/image-4-1.png?w=860&h=484&crop=1"
     },
     {
-        "titulo": "Florianópolis 353 anos: do autor que popularizou as histórias de bruxa aos livros com a 'Ilha da Magia' de cenário",
-        "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/03/23/florianopolis-353-anos-livros-ilha-da-magia-inspiracao.ghtml",
-        "data": "23/03/2026 03:01",
-        "fonte": "G1",
+        "titulo": "Quatro ambulâncias de voluntários judeus são incendiadas em Londres",
+        "link": "https://www.cnnbrasil.com.br/internacional/quatro-ambulancias-de-voluntarios-judeus-sao-incendiadas-em-londres/",
+        "data": "23/03/2026 05:00",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/Wi5X4z0U6GF1OLqAUCEbinSShQk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/9/n8fmdvQQyqKdBnTILR1A/livros.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/1-image-2.png?w=688&h=387&crop=1"
+    },
+    {
+        "titulo": "Quando será a final do BBB 26? Tadeu revela contagem regressiva a brothers",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/bbb/quando-sera-a-final-do-bbb-26-tadeu-revela-contagem-regressiva-a-brothers/",
+        "data": "23/03/2026 04:19",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/tadeu-schmidt-bbb26.avif?w=1000&h=562&crop=1"
     },
     {
         "titulo": "Enquete BBB 26: quem você quer eliminar no 10º Paredão?",
@@ -104,60 +160,20 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/ozempic-neofeed.png?w=856&h=480&crop=1"
     },
     {
-        "titulo": "Choque-Rei pela liderança e saídas do Z4: o resumo da rodada do Brasileirão",
-        "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/choque-rei-pela-lideranca-e-saidas-do-z4-o-resumo-da-rodada-do-brasileirao/",
-        "data": "23/03/2026 02:08",
-        "fonte": "CNN Brasil",
+        "titulo": "Análise completa de como declarar ganhos com apostas esportivas e jogos online no imposto de renda 2026",
+        "link": "https://jovempan.com.br/noticias/brasil/analise-completa-de-como-declarar-ganhos-com-apostas-esportivas-e-jogos-online-no-imposto-de-renda-2026.html",
+        "data": "23/03/2026 06:09",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/palmeiras-sao-paulo-brasileirao-4-e1774144212554.png?w=1200&h=630&crop=1"
+        "image": "https://jpimg.com.br/uploads/2023/11/ja_7547-1024x613.jpg"
     },
     {
-        "titulo": "Ex-BBB Pizane revela se voltaria para reality: “Só fiquei 9 dias lá”",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/ex-bbb-pizane-revela-se-voltaria-para-reality-so-fiquei-9-dias-la/",
-        "data": "23/03/2026 01:41",
-        "fonte": "CNN Brasil",
+        "titulo": "O batismo de Maple, Zayu e Clutch no altar do futebol mundial",
+        "link": "https://jovempan.com.br/esportes/futebol/futebol-internacional/o-batismo-de-maple-zayu-e-clutch-no-altar-do-futebol-mundial.html",
+        "data": "23/03/2026 05:11",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/06/lucas-pizane-bbb-parintins-e1719761607959.jpg?w=1080&h=607&crop=1"
-    },
-    {
-        "titulo": "Corinthians e Flamengo empatam em jogo movimentado pelo Brasileirão",
-        "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-e-flamengo-empatam-em-jogo-movimentado-pelo-brasileirao/",
-        "data": "23/03/2026 01:37",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/corinthians-flamengo-brasileiro-2-e1774228153319.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Seleção Brasileira: jogadores começam a se apresentar para Data Fifa",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/selecao-brasileira-jogadores-comecam-a-se-apresentar-para-data-fifa/",
-        "data": "23/03/2026 01:33",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/selecao-apresentacao-data-fifa-marco-3-e1774229479355.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Nós apontamos todas as contradições do tenente-coronel, diz delegado à CNN",
-        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/nos-apontamos-todas-as-contradicoes-do-tenente-coronel-diz-delegado-a-cnn/",
-        "data": "23/03/2026 01:28",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/OPERACAO-MPAM-3.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Casal de ex-BBBs detalha namoro à distância e revela se planeja morar junto",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/casal-de-ex-bbbs-detalha-namoro-a-distancia-e-revela-se-planeja-morar-junto/",
-        "data": "23/03/2026 01:23",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Lucas-Pizane-e-Giovana-Lima-05.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Web reage à show de Lorde no Lollapalooza Brasil 2026: “Arrepiado”",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/web-reage-a-show-de-lorde-no-lollapalooza-brasil-2026-arrepiado/",
-        "data": "23/03/2026 01:00",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/lorde-lollapalooza-2026.jpg?w=1200&h=630&crop=1"
+        "image": "https://jpimg.com.br/uploads/2026/03/foto-jp-5-4.png"
     },
     {
         "titulo": "Como a herança bélica da década de 1980 define a geopolítica militar do Irã",
@@ -224,100 +240,84 @@
         "image": "https://jpimg.com.br/uploads/2023/05/fup20230510387-1024x682.jpg"
     },
     {
-        "titulo": "Corinthians x Flamengo: confira a transmissão da Jovem Pan ao vivo",
-        "link": "https://jovempan.com.br/esportes/futebol/corinthians/corinthians-x-flamengo-confira-a-transmissao-da-jovem-pan-ao-vivo-4.html",
-        "data": "22/03/2026 22:30",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/03/whatsapp-image-2026-03-21-at-12.20.27-1024x576.jpeg"
-    },
-    {
-        "titulo": "Irã ameça tornar instituições financeiras próximo alvo da guerra contra os EUA",
-        "link": "https://jovempan.com.br/noticias/mundo/ira-ameca-tornar-instituicoes-financeiras-proximo-alvo-da-guerra-contra-os-eua.html",
-        "data": "22/03/2026 22:05",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/03/design-sem-nome-54.png"
-    },
-    {
-        "titulo": "Kim Jong-un é proclamado reeleito a líder supremo da Coreia do Norte",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/03/kim-jong-un-e-proclamado-reeleito-a-lider-supremo-da-coreia-do-norte.shtml",
-        "data": "23/03/2026 04:29",
+        "titulo": "Marina Lima lança disco em que celebra liberdade e canta a morte de Antonio Cicero",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/03/marina-lima-lanca-disco-em-que-celebra-liberdade-e-canta-a-morte-de-antonio-cicero.shtml",
+        "data": "23/03/2026 07:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/23/177423986269c0c076a38a8_1774239862_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/19/177392805469bbfe7620209_1773928054_3x2_rt.jpg"
     },
     {
-        "titulo": "Desequilíbrio do clima é crescente e será sentido por séculos, aponta ONU",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/03/desequilibrio-do-clima-e-crescente-e-sera-sentido-por-seculos-aponta-onu.shtml",
-        "data": "23/03/2026 04:00",
+        "titulo": "Em meio à alta do diesel, Conab deve suspender multas e flexibilizar prazos de frete",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/em-meio-a-alta-do-diesel-conab-deve-suspender-multas-e-flexibilizar-prazos-de-frete.shtml",
+        "data": "23/03/2026 07:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/22/177421675569c06633536c5_1774216755_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2018/10/24/15404251865bd105e26ff32_1540425186_3x2_rt.jpg"
     },
     {
-        "titulo": "BBB 26: Gabriela, Jonas e Juliano estão no paredão; vote na enquete",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/03/bbb-26-gabriela-jonas-e-juliano-estao-no-paredao-vote-na-enquete.shtml",
-        "data": "23/03/2026 03:17",
+        "titulo": "Imposto de Renda 2026: quem deve declarar antes e quais as vantagens?",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/imposto-de-renda-2026-quem-deve-declarar-antes-e-quais-as-vantagens.shtml",
+        "data": "23/03/2026 07:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/23/177423584569c0b0c548d30_1774235845_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/12/177334816569b3254539076_1773348165_3x2_rt.jpg"
     },
     {
-        "titulo": "Tyler, the Creator faz de show no Lollapalooza um espetáculo de si",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/03/tyler-the-creator-faz-de-show-no-lollapalooza-um-espetaculo-de-si.shtml",
-        "data": "23/03/2026 03:02",
+        "titulo": "Metrô inicia obras de estação em Guarulhos, a primeira fora da capital paulista",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/metro-inicia-obras-de-estacao-em-guarulhos-a-primeira-fora-da-capital-paulista.shtml",
+        "data": "23/03/2026 07:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/22/177423243269c0a3701edcc_1774232432_3x2_lg.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/20/177404382769bdc2b32cbf4_1774043827_3x2_lg.jpg"
     },
     {
-        "titulo": "Grupo Katseye, com repertório curto, faz show enrolado no Lollapalooza",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/03/grupo-katseye-com-repertorio-curto-faz-show-enrolado-no-lollapalooza.shtml",
-        "data": "23/03/2026 02:31",
+        "titulo": "Câncer de colo do útero matou 20 mulheres por dia em 2025 no Brasil",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/03/cancer-de-colo-do-utero-matou-20-mulheres-por-dia-em-2025-no-brasil.shtml",
+        "data": "23/03/2026 07:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/22/177423075369c09ce154bb4_1774230753_3x2_lg.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2021/12/21/164009995861c1f076e3d2b_1640099958_3x2_rt.jpg"
     },
     {
-        "titulo": "Trem Sorocaba-São Paulo terá pré-seleção de empresas antes do leilão; entenda",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/trem-sorocaba-sao-paulo-tera-pre-selecao-de-empresas-antes-do-leilao-entenda.shtml",
-        "data": "23/03/2026 02:03",
+        "titulo": "Emagrecimento de lobista suspeito em venda de decisões judiciais gera apuração e vai parar no STF",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/03/emagrecimento-de-lobista-suspeito-em-venda-de-decisoes-judiciais-gera-apuracao-e-vai-parar-no-stf.shtml",
+        "data": "23/03/2026 07:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/07/31/1753994525688bd51d61d0e_1753994525_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2024/05/29/17170258256657bc21ecd08_1717025825_3x2_rt.jpg"
     },
     {
-        "titulo": "Ponha a culpa nos homens cis brancos heterossexuais por tudo de ruim",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2026/03/ponha-a-culpa-nos-homens-cis-brancos-heterossexuais-por-tudo-de-ruim.shtml",
-        "data": "23/03/2026 02:00",
+        "titulo": "Por que o leão é o mascote do Imposto de Renda? Veja a história e propagandas antigas",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/por-que-o-leao-e-o-mascote-do-imposto-de-renda-veja-a-historia-e-propagandas-antigas.shtml",
+        "data": "23/03/2026 07:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/20/177403062369bd8f1f0385a_1774030623_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/12/177334816569b3254539076_1773348165_3x2_rt.jpg"
     },
     {
-        "titulo": "Empresas de IA descobriram como lucrar com solidão, diz sociólogo",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/empresas-de-ia-descobriram-como-lucrar-com-solidao-diz-sociologo.shtml",
-        "data": "23/03/2026 02:00",
+        "titulo": "Alta dos combustíveis é a bomba da vez na política nacional",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/03/alta-dos-combustiveis-e-a-bomba-da-vez-na-politica-nacional.shtml",
+        "data": "23/03/2026 07:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/12/177334507169b3192fa3db8_1773345071_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/20/177404705369bdcf4d02e35_1774047053_3x2_xl.jpg"
     },
     {
-        "titulo": "Trump ataca imprensa enquanto multiplica entrevistas sobre guerra",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/03/trump-ataca-imprensa-enquanto-multiplica-entrevistas-sobre-guerra.shtml",
-        "data": "23/03/2026 02:00",
+        "titulo": "Referendo sobre Judiciário vira prévia eleitoral na Itália e pressiona governo Meloni",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/03/referendo-sobre-judiciario-vira-previa-eleitoral-na-italia-e-pressiona-governo-meloni.shtml",
+        "data": "23/03/2026 07:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/19/177397456269bcb4222109a_1773974562_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/22/177422019569c073a301379_1774220195_3x2_rt.jpg"
     },
     {
-        "titulo": "6 dos 10 ministros do STF receberam verbas acima do teto; Moraes lidera lista",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/03/6-dos-10-ministros-do-stf-receberam-verbas-acima-do-teto-moraes-lidera-lista.shtml",
-        "data": "23/03/2026 02:00",
+        "titulo": "SP-Arte vai celebrar marcos das galerias Nara Roesler e Fortes D'Aloia & Gabriel",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/plastico/2026/03/sp-arte-vai-celebrar-marcos-das-galerias-nara-roesler-e-fortes-daloia-gabriel.shtml",
+        "data": "23/03/2026 07:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2024/09/11/172607282966e1c7fd06fce_1726072829_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2024/01/08/1704744254659c553e4bddb_1704744254_3x2_rt.jpg"
     },
     {
         "titulo": "BBB 26: quem votou em quem?",
@@ -402,7 +402,7 @@
     {
         "titulo": "Europa acende alerta após Irã lançar mísseis com alcance de 4.000 km",
         "link": "https://www.terra.com.br/noticias/mundo/europa-acende-alerta-apos-ira-lancar-misseis-com-alcance-de-4000-km-contra-base-no-oceano-indico,6fe0739627218c2c570802cd5288f4f7xlfs1srv.html",
-        "data": "23/03/2026 05:00",
+        "data": "23/03/2026 07:05",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/22/gettyimages-1354445433-sobtpdk36984.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Tenente-coronel é denunciado por assédio contra outras policiais",
         "link": "https://www.terra.com.br/nos/tenente-coronel-preso-por-morte-de-esposa-pm-e-denunciado-por-assedio-contra-outras-policiais,4056ae428df92f9963e56429d4556ba8tevdt1bu.html",
-        "data": "23/03/2026 05:00",
+        "data": "23/03/2026 07:05",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/19/752059903-6rrmzckoobhb3mp7dy7vinxb74.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Goleiro do Bahia tem lesão impressionante e precisa ser substituído",
         "link": "https://www.terra.com.br/esportes/bahia/goleiro-do-bahia-tem-lesao-impressionante-e-precisa-ser-substituido-em-derrota-para-o-remo,7f6010002a38843cb589dd6e9184d9e6fgl9rnl2.html",
-        "data": "23/03/2026 05:00",
+        "data": "23/03/2026 07:05",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/22/heco8usboaaahvk-t4yzsa2uq5h3.jpg"
@@ -426,7 +426,7 @@
     {
         "titulo": "Juliano, Jonas e Gabriela estão no Paredão; vote em quem você quer eliminar",
         "link": "https://www.terra.com.br/diversao/tv/reality-shows/bbb-26-juliano-jonas-e-gabriela-estao-no-10-paredao-vote-em-quem-voce-quer-eliminar,6dc227810ee750d39c89545feaa7f6bcse2b5okj.html",
-        "data": "23/03/2026 05:00",
+        "data": "23/03/2026 07:05",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/23/design-sem-nome-(53)-qe10rcwbhiyb.png"
@@ -434,7 +434,7 @@
     {
         "titulo": "Galã da Globo fala sobre ser símbolo de beleza: 'Nunca me vi assim'",
         "link": "https://www.terra.com.br/diversao/musica/lollapalooza/gala-da-globo-filipe-braganca-sobre-ser-simbolo-de-beleza-nunca-me-vi-assim,3e479f881ed0ae4a2ac4e32404cdbfca2duc1sco.html",
-        "data": "23/03/2026 05:00",
+        "data": "23/03/2026 07:05",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/23/lolla-to53l0m4ir04.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Filha de Glória Pires reflete sobre acusações de nepotismo após show de estreia",
         "link": "https://www.terra.com.br/diversao/musica/lollapalooza/filha-de-gloria-pires-reflete-sobre-acusacoes-de-nepotismo-apos-show-de-estreia-no-lolla-estou-fazendo-o-meu,86de6c3f92f81db51f886a6ad94d4d2216671tdv.html",
-        "data": "23/03/2026 05:00",
+        "data": "23/03/2026 07:05",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/23/ana-morais-t4hu1j6a9bua.jpg"
@@ -450,7 +450,7 @@
     {
         "titulo": "João Guilherme fala sobre seguir carreira como cantor: 'Seria conveniente'",
         "link": "https://www.terra.com.br/diversao/musica/lollapalooza/joao-guilherme-fala-sobre-seguir-carreira-como-cantor-seria-muito-conveniente,cfa69046edfab20237e0954b5bec28519lf84dav.html",
-        "data": "23/03/2026 05:00",
+        "data": "23/03/2026 07:05",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/22/joao_guilherme-urmbntt9ubsg.jpg"
@@ -458,7 +458,7 @@
     {
         "titulo": "Paolla se posiciona após Diogo Nogueira desabafar sobre boatos de traição",
         "link": "https://www.terra.com.br/diversao/gente/paolla-oliveira-se-posiciona-apos-diogo-nogueira-desabafar-sobre-boatos-de-traicao,d7a284650d89037f2ae448094a53ea2d2k9336lx.html",
-        "data": "23/03/2026 05:00",
+        "data": "23/03/2026 07:05",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/22/paolla-tooie64gj8f9.png"
@@ -466,7 +466,7 @@
     {
         "titulo": "Janja faz compras em shopping center preferido do 'old money' de São Paulo",
         "link": "https://www.terra.com.br/diversao/gente/janja-faz-compras-em-shopping-center-preferido-do-old-money-de-sao-paulo,f2955dd9a28248495596d747a614556esi1z4rfh.html",
-        "data": "23/03/2026 05:00",
+        "data": "23/03/2026 07:05",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/22/primeiradamajanja-1k1wt2v4a1jco.jpg"
@@ -474,10 +474,18 @@
     {
         "titulo": "Mataram 12 anos antes, diz viúva de Chico Anysio, que morreu magoado com a Globo",
         "link": "https://www.terra.com.br/diversao/gente/mataram-o-chico-12-anos-antes-diz-viuva-do-humorista-que-morreu-magoado-com-a-globo,3aa99390882862eac728e9506db95cba7v5jwik7.html",
-        "data": "23/03/2026 05:00",
+        "data": "23/03/2026 07:05",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/22/chicomalga-1jyaihy3y4xuu.jpg"
+    },
+    {
+        "titulo": "Lorde, Tyler e Turnstile comprovam o poder da diversidade no Lollapalooza 2026",
+        "link": "https://veja.abril.com.br/cultura/lorde-tyler-e-turnstile-comprovam-o-poder-da-diversidade-no-lollapalooza-2026/",
+        "data": "23/03/2026 05:26",
+        "fonte": "Veja",
+        "metodo": "RSS",
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/03/IMG_6515.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
         "titulo": "Expulsão em Corinthians x Flamengo divide opiniões nas redes sociais: ‘Foi rigoroso’",
@@ -550,13 +558,5 @@
         "fonte": "Veja",
         "metodo": "RSS",
         "image": "https://veja.abril.com.br/wp-content/uploads/2025/06/056bc529c0e3272d2bdcaee02bcb3d65a848c28a.jpg.webp?resize=1080,565&crop=1"
-    },
-    {
-        "titulo": "Flávio Bolsonaro deve ter três vezes mais palanques que o pai nas eleições de 2026",
-        "link": "https://veja.abril.com.br/politica/flavio-bolsonaro-deve-ter-tres-vezes-mais-palanques-que-o-pai-nas-eleicoes-de-2026/",
-        "data": "22/03/2026 23:24",
-        "fonte": "Veja",
-        "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/03/Flavio-Bolsonaro-colete-balas-Av-Paulista-.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     }
 ]
