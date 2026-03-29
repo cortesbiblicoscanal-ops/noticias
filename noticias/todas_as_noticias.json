@@ -1,5 +1,53 @@
 [
     {
+        "titulo": "Incêndio de grandes proporções atinge fábrica no Brás, Centro de SP",
+        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/03/29/incendio-fabrica-bras-centro-sp.ghtml",
+        "data": "29/03/2026 06:43",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
+    },
+    {
+        "titulo": "'Metamáquinas': robôs 'diferentões' criados com IA continuam funcionando mesmo após danos",
+        "link": "https://g1.globo.com/tecnologia/noticia/2026/03/29/metamaquinas-robos-diferentoes-criados-com-ia-continuam-funcionando-mesmo-apos-danos.ghtml",
+        "data": "29/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Ko2W4_tx9vHZ8XwgCv5ZtJwrLtI=/1280x0/filters:format(jpeg)/https://s01.video.glbimg.com/x720/14472264.jpg"
+    },
+    {
+        "titulo": "Capivara de IA viraliza, prefeitura entra na onda e tapa buraco em MG; animal vira mascote de cidade",
+        "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/03/29/capivara-de-ia-viraliza-prefeitura-entra-na-onda-e-tapa-buraco-em-mg-animal-vira-mascote-de-cidade.ghtml",
+        "data": "29/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/D-IMJdCABUYHEpMYaVRLy-Cad5Q=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/z/m2fu8DRbyt4TRpvGjmBA/capivara-buraco-1.jpeg"
+    },
+    {
+        "titulo": "Você já ouviu falar em chá de cacau? g1 provou bebida que 'lembra chocolate', tem benefícios e é novidade em Gramado",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/29/cha-de-cacau-bebida-chocolate-beneficios-novidade-gramado-serra.ghtml",
+        "data": "29/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/J7ZSWpePApzufREHjejrEmmQX5Q=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/g/zDSLQyRBitTA5Os95Bkg/g1-2026-03-27t181542.111.png"
+    },
+    {
+        "titulo": "Três dias de viagem, escalas para abastecer e voo sem GPS: piloto viaja quase 4 mil km para levar monomotor dos EUA ao Brasil",
+        "link": "https://g1.globo.com/rr/roraima/noticia/2026/03/29/tres-dias-de-viagem-escalas-para-abastecer-e-voo-sem-gps-piloto-viaja-quase-4-mil-km-para-levar-monomotor-dos-eua-ao-brasil.ghtml",
+        "data": "29/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/v-pzvI8D0fFcC11MWTSCIbWevj0=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/S/YcZR44S6q13LV66DD7RA/whatsapp-image-2026-03-24-at-21.21.55.jpeg"
+    },
+    {
+        "titulo": "Como civis em Teerã estão sofrendo os impactos da guerra: 'Minha filha está sob os escombros'",
+        "link": "https://g1.globo.com/mundo/noticia/2026/03/29/como-civis-em-teera-estao-sofrendo-os-impactos-da-guerra-minha-filha-esta-sob-os-escombros.ghtml",
+        "data": "29/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+    },
+    {
         "titulo": "STF limita extras no Judiciário, prevê economia bilionária, mas mantém adicional acima do teto e com possível isenção de IR",
         "link": "https://g1.globo.com/politica/noticia/2026/03/29/stf-extras-no-judiciario-entenda.ghtml",
         "data": "29/03/2026 05:00",
@@ -32,52 +80,44 @@
         "image": "https://s2-g1.glbimg.com/yaVoaxj1Eq__ZD2sFeeBf-0WsG4=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/6/JCZpUzT5eous8QbMyTxQ/globo-canal-4-20260325-2000-frame-120243.jpeg"
     },
     {
-        "titulo": "Saiba quem é o peão vencedor do Limeira Rodeo Music que garantiu vaga na Liga Nacional em Barretos após 3 dias de montarias na arena",
-        "link": "https://g1.globo.com/sp/piracicaba-regiao/limeira-rodeo-music/noticia/2026/03/29/saiba-quem-e-o-peao-vencedor-do-limeira-rodeo-music-que-garantiu-vaga-na-liga-nacional-em-barretos-apos-3-dias-de-montarias-na-arena.ghtml",
-        "data": "29/03/2026 04:47",
-        "fonte": "G1",
+        "titulo": "Grande aposta da Amazon para IA vem sendo lapidada há 20 anos",
+        "link": "https://www.cnnbrasil.com.br/economia/negocios/grande-aposta-da-amazon-para-ia-vem-sendo-lapidada-ha-20-anos/",
+        "data": "29/03/2026 06:45",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/qiPgBWcDxSPTRDtCo7-ntrRID2k=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/UqeCa8RhCmtuQRMBz8kQ/daniel-henrique.jpeg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/ChatGPT-Image-27-de-mar.-de-2026-21_50_26.png?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Novas explosões são ouvidas em Teerã, enquanto drones são abatidos no Kuwait",
-        "link": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml",
-        "data": "29/03/2026 04:47",
-        "fonte": "G1",
+        "titulo": "Brasil na Lua: conheça nova tentativa de lançar foguete orbital",
+        "link": "https://www.cnnbrasil.com.br/ciencia/brasil-na-lua-conheca-nova-tentativa-de-lancar-foguete-orbital/",
+        "data": "29/03/2026 06:37",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/ig2Z0U8ZVDML8eZ64LNacN6K1Co=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/l/TiLln8QxCCR1pnBOWGxw/globo-canal-4-20260316-2000-frame-68474.jpeg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/WhatsApp-Image-2026-03-27-at-21.34.56.jpeg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Entenda como veterinários estão usando pele de tilápia para tratar macacos feridos no RS",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/29/entenda-como-veterinarios-estao-usando-pele-de-tilapia-para-tratar-macacos-feridos-no-rs.ghtml",
-        "data": "29/03/2026 04:00",
-        "fonte": "G1",
+        "titulo": "Quando o quebra-cabeça de placas na crosta da Terra começou a se mover?",
+        "link": "https://www.cnnbrasil.com.br/ciencia/quando-o-quebra-cabeca-de-placas-na-crosta-da-terra-comecou-a-se-mover/",
+        "data": "29/03/2026 06:33",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/GGVL_-NqzUHdkuPuYbbTUtwbowk=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/3/ZPnimuRP2mEI9IyWESpA/g1-2026-03-27t161542.149.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/03/3.webp?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Coreia do Norte realiza teste de motor para míssil capaz de atingir o território continental dos EUA",
-        "link": "https://g1.globo.com/mundo/noticia/2026/03/29/coreia-do-norte-teste-missil-capaz-atingir-eua.ghtml",
-        "data": "29/03/2026 03:40",
-        "fonte": "G1",
+        "titulo": "Com guerra, lucro de distribuidoras e postos de combustíveis cresceram 37%",
+        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/distribuidoras-e-postos-de-combustiveis-ampliaram-margem-de-lucro-em-37-desde-inicio-da-guerra/",
+        "data": "29/03/2026 06:32",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/Ym5VFcmucrKz6e2Xn9l4E51XCEw=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/74/13/14421374"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/ChatGPT-Image-27-de-mar.-de-2026-21_20_20.png?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Bailarina da ‘Onda’ é aprovada na Escola Maria Olenewa",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/03/29/bailarina-da-onda-e-aprovada-na-escola-maria-olenewa.ghtml",
-        "data": "29/03/2026 03:04",
-        "fonte": "G1",
+        "titulo": "Eleição ocorre sob desalento crescente do eleitor, diz Christopher Garman",
+        "link": "https://www.cnnbrasil.com.br/eleicoes/eleicao-ocorre-sob-desalento-crescente-do-eleitor-diz-christopher-garman/",
+        "data": "29/03/2026 06:30",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/b6SYglGcdrE35zokAKOUDxaSpk4=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/m/w15xZzSfaj8xZw4wh85g/bailarina-1.jpg"
-    },
-    {
-        "titulo": "Supersalários: oito em cada 10 magistrados do TJ do DF receberam mais de R$ 100 mil em fevereiro",
-        "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/03/29/supersalarios-oito-em-cada-10-magistrados-do-tj-do-df-receberam-mais-de-r-100-mil-em-fevereiro.ghtml",
-        "data": "29/03/2026 03:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/QDKJGZJNwXTOWzOqwrp0a794IHM=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/74/93/13339374"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/GARMAN.jpeg?w=1200&h=630&crop=1"
     },
     {
         "titulo": "6 dicas para montar um cronograma de estudos para o vestibular",
@@ -120,44 +160,20 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/inteligencia-artificial_f17109.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "“A vida real não está chata, a virtual é que está”, diz Porchat",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/a-vida-real-nao-esta-chata-a-virtual-e-que-esta-diz-porchat/",
-        "data": "29/03/2026 01:40",
-        "fonte": "CNN Brasil",
+        "titulo": "Como preservar a tradição em casa e qual o significado dos ramos de palmeira no Domingo de Ramos que antecede a Páscoa",
+        "link": "https://jovempan.com.br/noticias/brasil/como-preservar-a-tradicao-em-casa-e-qual-o-significado-dos-ramos-de-palmeira-no-domingo-de-ramos-que-antecede-a-pascoa.html",
+        "data": "29/03/2026 06:11",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/fabio-porchat-e-mari-palma.jpg?w=1200&h=630&crop=1"
+        "image": "https://jpimg.com.br/uploads/2025/04/zim20250413031-1024x546.jpg"
     },
     {
-        "titulo": "À CNN, Ronaldo exalta “Miami brasileiro”, elogia Sinner e aconselha Fonseca",
-        "link": "https://www.cnnbrasil.com.br/esportes/tenis/a-cnn-ronaldo-exalta-miami-brasileiro-elogia-sinner-e-aconselha-fonseca/",
-        "data": "29/03/2026 01:40",
-        "fonte": "CNN Brasil",
+        "titulo": "Como escolher o que dar de presente na Páscoa para crianças e adultos que não podem comer chocolate",
+        "link": "https://jovempan.com.br/noticias/brasil/como-escolher-o-que-dar-de-presente-na-pascoa-para-criancas-e-adultos-que-nao-podem-comer-chocolate.html",
+        "data": "29/03/2026 05:17",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Foto-ronaldo-e1774747771836.jpg?w=824&h=463&crop=1"
-    },
-    {
-        "titulo": "Torcedor morre no Estádio Azteca antes de México x Portugal",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/torcedor-morre-no-estadio-azteca-que-recebe-mexico-x-portugal/",
-        "data": "29/03/2026 01:05",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/estadio-azteca-e1774747475102.jpeg?w=778&h=439&crop=1"
-    },
-    {
-        "titulo": "Ana Castela posa com caminhonete rara; conheça modelo",
-        "link": "https://www.cnnbrasil.com.br/auto/ana-castela-posa-com-caminhonete-rara-conheca-modelo/",
-        "data": "29/03/2026 01:04",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/ana-castela_f4de20-e1774743663265.jpg?w=1080&h=630&crop=1"
-    },
-    {
-        "titulo": "“Eu te amo”: Sabalenka agradece a brasileiros após título do Miami Open",
-        "link": "https://www.cnnbrasil.com.br/esportes/tenis/eu-te-amo-sabalenka-agradece-a-brasileiros-apos-titulo-do-miami-open/",
-        "data": "29/03/2026 00:44",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/sabalenka-miami-open-e1774744748244.jpeg?w=1200&h=630&crop=1"
+        "image": "https://jpimg.com.br/uploads/2025/04/drf20250414020-1-1024x577.jpg"
     },
     {
         "titulo": "Como dominar a técnica de temperagem para ovos de Páscoa de colher",
@@ -224,20 +240,28 @@
         "image": "https://jpimg.com.br/uploads/2025/07/harry-potter-serie.jpg"
     },
     {
-        "titulo": "Nos EUA, Flávio Bolsonaro promete lutar contra agenda woke",
-        "link": "https://jovempan.com.br/noticias/politica/nos-eua-flavio-bolsonaro-promete-lutar-contra-agenda-woke.html",
-        "data": "28/03/2026 21:47",
-        "fonte": "Jovem Pan",
+        "titulo": "Tempos vividos e perdidos",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2026/03/tempos-vividos-e-perdidos.shtml",
+        "data": "29/03/2026 06:18",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/09/design-sem-nome-2025-09-09t185120.901.png"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/26/177455727569c5985b8d679_1774557275_3x2_rt.jpg"
     },
     {
-        "titulo": "Sabalenka derrota Gauff na decisão do Miami Open e completa o Sunshine Double",
-        "link": "https://jovempan.com.br/esportes/sabalenka-derrota-gauff-na-decisao-do-miami-open-e-completa-o-sunshine-double.html",
-        "data": "28/03/2026 21:43",
-        "fonte": "Jovem Pan",
+        "titulo": "BBB 26: Ana Paula descobre voto de Solange Couto em Milena",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/03/bbb-26-ana-paula-descobre-voto-de-solange-couto-em-milena.shtml",
+        "data": "29/03/2026 05:25",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2024/10/aryna-sabalenka.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/29/177476186969c8b78db8863_1774761869_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Gilberto Gil reúne família no palco para show de despedida da turnê 'Tempo Rei' em São Paulo",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/03/gilberto-gil-reune-familia-no-palco-para-show-de-despedida-da-turne-tempo-rei-em-sao-paulo.shtml",
+        "data": "29/03/2026 05:23",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/29/177475837769c8a9e9b5239_1774758377_3x2_rt.jpg"
     },
     {
         "titulo": "Três adolescentes são apreendidos suspeitos de estuprar menina em Manaus",
@@ -294,30 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2026/03/28/177473868569c85cfd0b625_1774738685_3x2_xl.jpg"
-    },
-    {
-        "titulo": "Governo brasileiro teme proliferação nuclear e Israel expansionista na esteira do conflito no Irã",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/03/governo-brasileiro-teme-proliferacao-nuclear-e-israel-expansionista-na-esteira-do-conflito-no-ira.shtml",
-        "data": "29/03/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/27/177461640869c67f584e402_1774616408_3x2_rt.jpg"
-    },
-    {
-        "titulo": "'O que tem pra jantar?' e a sobrecarga mental",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/giovana-madalosso/2026/03/o-que-tem-pra-jantar-e-a-sobrecarga-mental.shtml",
-        "data": "29/03/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/02/27/177223058169a217b55de73_1772230581_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Irã inunda redes sociais com propaganda e vídeos falsos como tática de guerra",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/03/ira-inunda-redes-sociais-com-propaganda-e-videos-falsos-como-tatica-de-guerra.shtml",
-        "data": "29/03/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/15/177358276469b6b9ac27889_1773582764_3x2_rt.jpg"
     },
     {
         "titulo": "'A morte do Spotify': para especialistas, streaming de música está com os dias contados",
@@ -402,7 +402,7 @@
     {
         "titulo": "As imagens dos protestos contra Donald Trump que reúnem milhares nos EUA",
         "link": "https://www.terra.com.br/noticias/mundo/estados-unidos/as-imagens-dos-protestos-contra-donald-trump-que-reunem-milhares-nos-eua,1e83b9fb5be7f0e7f01427eadce0a4750u1xang9.html",
-        "data": "29/03/2026 05:08",
+        "data": "29/03/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/28/393152628-35f30fa0-2acd-11f1-b824-0d5a31700528.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Pinta ignorada no rosto leva a diagnóstico de câncer de pele agressivo aos 21 anos",
         "link": "https://www.terra.com.br/vida-e-estilo/saude/pinta-ignorada-no-rosto-leva-jovem-a-diagnostico-de-cancer-de-pele-agressivo-aos-21-anos,86b12b32dd7454833093c33fb2a405d6wazwx8ht.html",
-        "data": "29/03/2026 05:08",
+        "data": "29/03/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/28/julia-uvbcigwelvsg.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Mega-Sena sorteia os números e pode pagar R$ 40 milhões; veja as dezenas",
         "link": "https://www.terra.com.br/economia/loterias/mega-sena/mega-sena-uma-pessoa-acerta-os-seis-numeros-e-fatura-r-37-milhoes-veja-as-dezenas,6f011a2328b1d4233f4ac400520c2f27h7g5xsqq.html",
-        "data": "29/03/2026 05:08",
+        "data": "29/03/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/22/fta20240305001-vf96fuubvj91.jpg"
@@ -426,15 +426,23 @@
     {
         "titulo": "Messi fora da Copa? Técnico da Argentina põe dúvida sobre convocação",
         "link": "https://www.terra.com.br/esportes/futebol/copa-2026/messi-fora-da-copa-tecnico-da-argentina-poe-duvida-sobre-convocacao,731de118499e6a36ef46cc1262157526rc07sei1.html",
-        "data": "29/03/2026 05:08",
+        "data": "29/03/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/27/1878419205-3wcl2kuwpbdstanizuk76vvely.jpeg"
     },
     {
+        "titulo": "BBB 26: Ana Paula se recusa a fazer Closet do Líder; Monstro é suspenso",
+        "link": "https://www.terra.com.br/diversao/tv/reality-shows/bbb-26-ana-paula-se-recusa-a-fazer-closet-do-lider-monstro-e-suspenso,b933100f04479fedcc88293ac30b03c8mhu1ybvx.html",
+        "data": "29/03/2026 06:58",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/28/anapaula-sl65s588z0aa.png"
+    },
+    {
         "titulo": "Polícia francesa impede atentado com explosivos diante do Bank of America em Paris",
         "link": "https://www.cartacapital.com.br/mundo/policia-francesa-impede-atentado-com-explosivos-diante-do-bank-of-america-em-paris/?utm_source=terra_capa&utm_medium=referral",
-        "data": "29/03/2026 05:08",
+        "data": "29/03/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://www.cartacapital.com.br/wp-content/uploads/2026/03/La-Poste-49-51-rue-La-Boétie-Paris-8e-4-2.jpg"
@@ -442,7 +450,7 @@
     {
         "titulo": "Coelho da Páscoa virou criminoso: carga de 12 toneladas de KitKat é roubada",
         "link": "https://www.terra.com.br/noticias/mundo/coelho-da-pascoa-virou-criminoso-carga-de-12-toneladas-de-kitkat-e-roubada-na-europa,1a609489eb9eee7acee828c4f6f65f923b6nwkv8.html",
-        "data": "29/03/2026 05:08",
+        "data": "29/03/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/28/gettyimages-2224894685-qeewsjux4awi.jpg"
@@ -450,7 +458,7 @@
     {
         "titulo": "Cena de filme de terror: céu vermelho e ventos extremos marcam paisagem na Austrália",
         "link": "https://www.terra.com.br/noticias/mundo/cena-de-filme-de-terror-ceu-vermelho-e-ventos-extremos-marcam-paisagem-na-australia,7e57dd8f616c89fdf4f8b03ba7cb0944qh78365e.html",
-        "data": "29/03/2026 05:08",
+        "data": "29/03/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/29/ceu-australia-1hblip9vq09bp.jpg"
@@ -458,7 +466,7 @@
     {
         "titulo": "Igor Thiago: \"Com as características que eu tenho,  caio bem na Seleção\"",
         "link": "https://www.terra.com.br/esportes/brasil/igor-thiago-com-as-caracteristicas-que-eu-tenho-caio-bem-na-selecao,4b691c313a46907bb2bd37109c22c1b5e6nwo34u.html",
-        "data": "29/03/2026 05:08",
+        "data": "29/03/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/28/330245031-coletivaigorthiagoeleopereira1-610x400.jpg"
@@ -466,18 +474,10 @@
     {
         "titulo": "São Paulo anuncia a contratação de Artur",
         "link": "https://www.terra.com.br/esportes/botafogo/sao-paulo-anuncia-a-contratacao-de-artur,5757eb0b025b04edb2df6a3c1b996fcf7yn5ruyq.html",
-        "data": "29/03/2026 05:08",
+        "data": "29/03/2026 06:58",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/28/249395039-hehxvraqaa0g9leasy-resizecom-610x400.jpg"
-    },
-    {
-        "titulo": "Torcedor morre minutos antes de amistoso entre México e Portugal",
-        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/torcedor-morre-minutos-antes-de-amistoso-entre-mexico-e-portugal,a425c9e0dc656f28ca3ed2e2c0f657a27t26633q.html",
-        "data": "29/03/2026 05:08",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/27/mexico-x-portugal-amistoso-alamy3d5pr9a-ezgif-com-resize-urjkcdwi7t5v.jpg"
     },
     {
         "titulo": "Irã ameaça atacar universidades americanas no Oriente Médio",
