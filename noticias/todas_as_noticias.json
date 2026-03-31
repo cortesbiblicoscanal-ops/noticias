@@ -1,163 +1,179 @@
 [
     {
-        "titulo": "Aplicativo falso, deepfakes e ataques a data centers: como é a 'guerra digital' entre Irã, EUA e Israel",
-        "link": "https://g1.globo.com/tecnologia/noticia/2026/03/31/aplicativo-falso-deepfakes-e-ataques-a-data-centers-como-e-a-guerra-digital-entre-ira-eua-e-israel.ghtml",
+        "titulo": "Sabe o que é 'Osterbaum'? Cidade do RS tem um dos maiores cartões-postais de Páscoa do Brasil",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/31/sabe-o-que-e-osterbaum-cidade-do-rs-tem-um-dos-maiores-cartoes-postais-de-pascoa-do-brasil.ghtml",
+        "data": "31/03/2026 07:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/JkKXXnuffW3-A_Ip76jefCr14TE=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/c/LBY4DcTNGZprAwC7YqDg/osterbaum-ap-dd.transfer-frame-2397.png"
+    },
+    {
+        "titulo": "Polícia vai apurar conduta de motorista após acidente de ônibus que matou coordenador de futebol da Tuna Luso em Goianésia do Pará",
+        "link": "https://g1.globo.com/pa/para/noticia/2026/03/31/policia-investiga-acidente-de-onibus-que-matou-coordenador-de-futebol-da-tuna-luso-em-goianesia-do-para.ghtml",
+        "data": "31/03/2026 07:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/VJVmUDhShPegKqpisJzziVnSI8U=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/58/98/14479858"
+    },
+    {
+        "titulo": "Trump divulga vídeo de explosão em depósito de munições iranianas após falar em 'negociações sérias'; Irã vê proposta 'fora da realidade' e ataca refinaria em Israel",
+        "link": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml",
+        "data": "31/03/2026 06:28",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/jJD5pUGlkBRiAssgRzBRc1QQG-M=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/c/aBBp6BRQSAM87aAcRzbA/whatsappvideo2026-03-30at22.50.29-ezgif.com-optimize.gif"
+    },
+    {
+        "titulo": "O que a psicologia diz sobre pessoas que têm pânico de dizer 'não'? Felca investiga",
+        "link": "https://g1.globo.com/fantastico/noticia/2026/03/31/o-que-a-psicologia-diz-sobre-pessoas-que-tem-panico-de-dizer-nao-felca-investiga.ghtml",
+        "data": "31/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/1HjUqbJuxF-TjUIYzXigvBuj_C8=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/35/63/14476335"
+    },
+    {
+        "titulo": "Ajudante ou espião? Repórter passa meses com aparelhos de IA que gravam 24h e até opinam na vida dela",
+        "link": "https://g1.globo.com/fantastico/noticia/2026/03/31/ajudante-ou-espiao-reporter-passa-meses-com-aparelhos-de-ia-que-gravam-24h-e-ate-opinam-na-vida-dela.ghtml",
+        "data": "31/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/_CRNyVgW8cvau1Q_jH_d2lNAiMI=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/22/61/14476122"
+    },
+    {
+        "titulo": "Bacalhau ou 'tipo bacalhau': o que saber para não errar na compra",
+        "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/31/bacalhau-ou-tipo-bacalhau-o-que-saber-para-nao-errar-na-compra.ghtml",
+        "data": "31/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/xyPJ0rDjiKF2lhNsyZQtkCPwKdo=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/h/O/H4vHECTjOukJZHGSPNCA/cod-333476-1920.jpg"
+    },
+    {
+        "titulo": "'Subestimaram minha capacidade', diz cientista brasileira que criou caneta que detecta tumor para curar câncer",
+        "link": "https://g1.globo.com/fantastico/noticia/2026/03/31/subestimaram-minha-capacidade-diz-cientista-brasileira-que-criou-caneta-que-detecta-tumor-para-curar-cancer.ghtml",
+        "data": "31/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/C832wkhUfWW2XcbdOPmWPH3tOuc=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/18/62/14476218"
+    },
+    {
+        "titulo": "Pagamento variável à União, saída da Infraero e fim da obrigação de 3ª pista: o que muda no Galeão após leilão",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/03/31/pagamento-variavel-a-uniao-saida-da-infraero-e-fim-da-obrigacao-de-3a-pista-o-que-muda-no-galeao-apos-leilao.ghtml",
+        "data": "31/03/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/zXtYtwwKTgBJr0QhqOcjtEcB3qg=/5472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/U/8WatxNSqalSQ2iLJGPQQ/mg-3973.jpg"
+    },
+    {
+        "titulo": "Vídeo mostra explosão de depósito de munições no Irã",
+        "link": "https://g1.globo.com/mundo/noticia/2026/03/31/ataque-explode-deposito-de-municoes-no-ira.ghtml",
+        "data": "31/03/2026 05:53",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/bgBQLE0KBQkSOponPBFJfNeIaP4=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/n/FgND29TWCHhUCQoQjezA/260330-info-presenca-eua-oriente-medio-v2.jpg"
+    },
+    {
+        "titulo": "Contradições, celular resetado e imagens de câmeras levaram ao indiciamento de jovem suspeita de envenenar namorado em SP",
+        "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/03/31/contradicoes-celular-resetado-e-imagens-de-cameras-levaram-ao-indiciamento-de-jovem-suspeita-de-envenenar-namorado-em-sp.ghtml",
+        "data": "31/03/2026 05:03",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/3kl5skxQAJ5dfbaXFcZbxBzauMk=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/d/MS1q0ZQ1azyI8dvfjdBw/design-sem-nome.png"
+    },
+    {
+        "titulo": "Brasil na Lua: comida lunar pode ser projetada pela Embrapa",
+        "link": "https://www.cnnbrasil.com.br/ciencia/brasil-na-lua-comida-lunar-pode-ser-projetada-pela-embrapa/",
+        "data": "31/03/2026 06:37",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Embrapa3.jpg?w=1000&h=630&crop=1"
+    },
+    {
+        "titulo": "Artemis II: Nasa levará 1ª mulher e 1º homem negro à órbita da Lua; entenda",
+        "link": "https://www.cnnbrasil.com.br/ciencia/artemis-ii-nasa-levara-1a-mulher-e-1o-homem-negro-a-orbita-da-lua-entenda/",
+        "data": "31/03/2026 06:36",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Design-sem-nome-2026-03-30T163906.258.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Tarcísio diz que ideia de subvenção do diesel é ‘razoável’ e SP deve aderir",
+        "link": "https://www.cnnbrasil.com.br/economia/tarcisio-diz-que-nova-ideia-de-subvencao-do-diesel-e-razoavel-e-sp-deve-aderir-a-proposta/",
+        "data": "31/03/2026 06:35",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/GettyImages-2110561863-e1765388243860.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Astronautas da Artemis II verão algo que a missão Apollo não conseguiu",
+        "link": "https://www.cnnbrasil.com.br/ciencia/astronautas-da-artemis-ii-verao-algo-que-a-missao-apollo-nao-conseguiu/",
+        "data": "31/03/2026 06:35",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/videoframe_4568.png?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Antimatéria é transportada com sucesso por um caminhão",
+        "link": "https://www.cnnbrasil.com.br/ciencia/antimateria-e-transportada-com-sucesso-por-um-caminhao/",
+        "data": "31/03/2026 06:34",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/202603-078-232.avif?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Missão Artemis II para a Lua: veja o que os astronautas vão comer no espaço",
+        "link": "https://www.cnnbrasil.com.br/ciencia/missao-artemis-ii-para-a-lua-veja-o-que-os-astronautas-vao-comer-no-espaco/",
+        "data": "31/03/2026 06:33",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/190717094440-history-of-space-food-cover.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Mulher trans entra em universidade federal 25 anos após deixar escola",
+        "link": "https://www.cnnbrasil.com.br/educacao/mulher-trans-entra-em-universidade-federal-25-anos-apos-deixar-escola/",
+        "data": "31/03/2026 06:33",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/1-sabriiny.jpeg?w=1024&h=576&crop=1"
+    },
+    {
+        "titulo": "Ministério do Planejamento detalha bloqueio de R$ 1,6 bilhão no Orçamento",
+        "link": "https://www.cnnbrasil.com.br/economia/mpo-detalha-bloqueio-de-r-16-bilhao-no-orcamento-de-2026/",
+        "data": "31/03/2026 06:05",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/09/Captura-de-tela-2024-09-11-175822.png?w=705&h=394&crop=1"
+    },
+    {
+        "titulo": "Explosões e bombardeios atingem cidades iranianas",
+        "link": "https://www.cnnbrasil.com.br/internacional/explosoes-e-bombardeios-atingem-cidades-iranianas/",
+        "data": "31/03/2026 05:14",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Captura-de-tela-2026-03-31-021011.png?w=366&h=173&crop=1"
+    },
+    {
+        "titulo": "Inscrições para simulado da Fuvest vão até esta terça (31)",
+        "link": "https://www.cnnbrasil.com.br/educacao/inscricoes-para-simulado-da-fuvest-vao-ate-esta-terca-31/",
         "data": "31/03/2026 05:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/o5gO4LIkpBn42_z3apjgcw4bBj8=/5212x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/N/AxIKijQtq0VceSuEVf8A/aws-us-east-1.jpg"
-    },
-    {
-        "titulo": "VÍDEOS: Ladrões quebram 3 vitrines a pedradas em 5 dias em cidade do interior de SP",
-        "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/03/31/videos-ladroes-quebram-3-vitrines-a-pedradas-em-5-dias-em-cidade-do-interior-de-sp.ghtml",
-        "data": "31/03/2026 05:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/6W6iS_hX30ZMGbqgeGkbs5bZNJw=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/W/EAfx7SStqdE7Gcq68jHA/design-sem-nome-92-.png"
-    },
-    {
-        "titulo": "Lula faz 1ª reunião ministerial de 2026 sob expectativa de saída de ministros que disputarão eleições",
-        "link": "https://g1.globo.com/politica/noticia/2026/03/31/lula-faz-1a-reuniao-ministerial-de-2026-sob-expectativa-de-saida-de-ministros-que-disputarao-eleicoes.ghtml",
-        "data": "31/03/2026 05:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/i4gYm9DYQ68VoYzqYl6pV-AC6EM=/3600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/6/RxHoR4Spend3BNEOmLBA/54988914032-304bfc341d-o.jpg"
-    },
-    {
-        "titulo": "Em 2026, ANTT aplicou mais de R$ 354 milhões em multas por não pagamento do preço mínimo da tabela de frete",
-        "link": "https://g1.globo.com/economia/noticia/2026/03/31/em-2026-antt-aplicou-mais-de-r-354-milhoes-em-multas-por-nao-pagamento-do-preco-minimo-da-tabela-de-frete.ghtml",
-        "data": "31/03/2026 05:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/ShEZ3ri1-lAfoI3ad4kMZ8OeJxI=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/B/3D5UVlRguZBvLGyq9qtQ/16316348102-f8b8e4cb53-k.jpg"
-    },
-    {
-        "titulo": "VÍDEO: Especialista em carros antigos, detento restaura conversível raro em oficina montada dentro de presídio no RS",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/31/video-especialista-em-carros-antigos-detento-restaura-conversivel-raro-em-oficina-montada-dentro-de-presidio-no-rs.ghtml",
-        "data": "31/03/2026 05:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/SwsdMVdZQp30U-z1IwqlCUlTLVQ=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/U/0UxzbCTUasld8dzntyBQ/g1-5-.jpg"
-    },
-    {
-        "titulo": "Negro e filho de imigrantes: quem é o prefeito de uma das maiores cidades da região parisiense, alvo de racismo",
-        "link": "https://g1.globo.com/mundo/noticia/2026/03/31/negro-e-filho-de-imigrantes-quem-e-o-prefeito-de-uma-das-maiores-cidades-da-regiao-parisiense-alvo-de-racismo.ghtml",
-        "data": "31/03/2026 05:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
-    },
-    {
-        "titulo": "Ovo de Páscoa: como a tradição começou com galinhas e virou chocolate?",
-        "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/31/ovo-de-pascoa-como-a-tradicao-comecou-com-galinhas-e-virou-chocolate.ghtml",
-        "data": "31/03/2026 04:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/uXjA57abUAAH7iehdPGSX8Uf66M=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/J/CHaScTSpKBqNPMKLzucA/3.jpg"
-    },
-    {
-        "titulo": "Cidadania americana: a história por trás do ‘direito de nascimento’, que Trump agora quer derrubar",
-        "link": "https://g1.globo.com/mundo/noticia/2026/03/31/cidadania-americana-a-historia-por-tras-do-direito-de-nascimento-que-trump-agora-quer-derrubar.ghtml",
-        "data": "31/03/2026 04:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/XaEeMkU9w_Y8MnZDSZSNMYSP6ec=/2016x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/kspxJeQxS7CqqXvPz4kA/2026-03-27t214708z-510462398-rc29dkar7emg-rtrmadp-3-usa-trump.jpg"
-    },
-    {
-        "titulo": "De Ormuz a Bab el-Mandeb: a expansão da guerra no Oriente Médio - O Assunto #1691",
-        "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/03/31/de-ormuz-a-bab-el-mandeb-a-expansao-da-guerra-no-oriente-medio-o-assunto-1691.ghtml",
-        "data": "31/03/2026 03:50",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/wcbazQ50rSY8A0uNHN3-jkonXQo=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/05/02/14480205"
-    },
-    {
-        "titulo": "Obra da nova ponte sobre o rio das Ostras entra em fase de licitação",
-        "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/03/31/obra-da-nova-ponte-sobre-o-rio-das-ostras-entra-em-fase-de-licitacao.ghtml",
-        "data": "31/03/2026 03:02",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/X9bg32wVJsXpyN0Qv6WHPebKJXI=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/D/HdkuYUSgWCQ6fl9Q1EkQ/ponte.jpeg"
-    },
-    {
-        "titulo": "Cão é baleado no RJ; estado registra recorde de denúncia de maus-tratos",
-        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/cao-e-baleado-no-rj-estado-registra-recorde-de-denuncia-de-maus-tratos/",
-        "data": "31/03/2026 03:42",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/cachorro.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/USP-Fuvest-vestibular.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "BBB 26 amplia prêmio e finalistas também ganharão apartamento",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/bbb/bbb-26-amplia-premio-e-finalistas-tambem-ganharao-apartamento/",
-        "data": "31/03/2026 03:16",
-        "fonte": "CNN Brasil",
+        "titulo": "Como equipes de F1 treinam para pit stops de menos de 2 segundos",
+        "link": "https://jovempan.com.br/noticias/mundo/como-equipes-de-f1-treinam-para-pit-stops-de-menos-de-2-segundos.html",
+        "data": "31/03/2026 06:22",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/tadeu-schmidt-bbb26_7b01a0.avif?w=984&h=554&crop=1"
+        "image": "https://jpimg.com.br/uploads/2026/03/heqk-h2wuaasxcr.jpg"
     },
     {
-        "titulo": "BBB 26: Solange Couto ganha apartamento em dinâmica especial",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/bbb/bbb-26-solange-couto-ganha-apartamento-em-dinamica-especial/",
-        "data": "31/03/2026 02:58",
-        "fonte": "CNN Brasil",
+        "titulo": "Roteiro de turismo nas cidades-sede da Copa: Nova York e Miami nos dias de folga",
+        "link": "https://jovempan.com.br/noticias/mundo/roteiro-de-turismo-nas-cidades-sede-da-copa-nova-york-e-miami-nos-dias-de-folga.html",
+        "data": "31/03/2026 05:10",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/solange-couto-apartamento-bbb26.avif?w=984&h=554&crop=1"
-    },
-    {
-        "titulo": "Trump está disposto a encerrar a guerra mesmo sem reabrir Ormuz, diz jornal",
-        "link": "https://www.cnnbrasil.com.br/internacional/trump-esta-disposto-a-encerrar-a-guerra-mesmo-sem-reabrir-ormuz-diz-jornal/",
-        "data": "31/03/2026 02:39",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/donald-trump-vault-e1772135056738.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "MP denuncia responsáveis por escola por tortura contra 34 crianças no RS",
-        "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/mp-denuncia-responsaveis-por-escola-por-tortura-contra-34-criancas-no-rs/",
-        "data": "31/03/2026 02:31",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/alvoradadenuncia300326.png?w=550&h=370&crop=1"
-    },
-    {
-        "titulo": "Presidente do México defende o direito de fornecer petróleo a Cuba",
-        "link": "https://www.cnnbrasil.com.br/internacional/presidente-do-mexico-defende-o-direito-de-fornecer-petroleo-a-cuba/",
-        "data": "31/03/2026 02:21",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPEL830WX-BASEIMAGE-e1771884798414.jpg?w=800&h=451&crop=1"
-    },
-    {
-        "titulo": "Análise: Trump deseja uma saída honrosa da guerra com o Irã",
-        "link": "https://www.cnnbrasil.com.br/internacional/analise-trump-deseja-uma-saida-honrosa-da-guerra-com-o-ira/",
-        "data": "31/03/2026 02:14",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/GettyImages-2268472703.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Grupo de golfinhos é visto em Ipanema no RJ",
-        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/grupo-de-golfinhos-e-visto-em-ipanema-no-rj/",
-        "data": "31/03/2026 02:07",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/golfinhos-rj.png?w=510&h=316&crop=1"
-    },
-    {
-        "titulo": "“O próximo ChatGPT”: nova ferramenta de IA autônoma vira febre na China",
-        "link": "https://www.cnnbrasil.com.br/tecnologia/o-proximo-chatgpt-nova-ferramenta-de-ia-autonoma-vira-febre-na-china/",
-        "data": "31/03/2026 02:03",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/GettyImages-2265668862.jpg?w=1024&h=630&crop=1"
-    },
-    {
-        "titulo": "Pentágono fará coletiva de imprensa sobre a guerra no Irã nesta terça-feira",
-        "link": "https://www.cnnbrasil.com.br/internacional/pentagono-fara-coletiva-de-imprensa-sobre-a-guerra-no-ira-nesta-terca-feira/",
-        "data": "31/03/2026 02:00",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/09/2024-09-19T202746Z_1_LYNXMPEK8I0SA_RTROPTP_4_USA-PENTAGON-URSA-MAJOR-e1739908889149.jpg?w=1200&h=630&crop=1"
+        "image": "https://jpimg.com.br/uploads/2026/03/foto-jp-3-10.png"
     },
     {
         "titulo": "As regras oficiais e a estrutura do calendário da Copa do Mundo 2026",
@@ -224,20 +240,60 @@
         "image": "https://jpimg.com.br/uploads/2022/12/imm20221108013-1024x684.jpg"
     },
     {
-        "titulo": "A estratégia de Kassab com Caiado",
-        "link": "https://jovempan.com.br/opiniao-jovem-pan/comentaristas/alan-ghani/a-estrategia-de-kassab-com-caiado.html",
-        "data": "30/03/2026 23:25",
-        "fonte": "Jovem Pan",
+        "titulo": "Secretário de Defesa dos EUA invoca propósito divino para justificar guerra no Irã",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/03/secretario-de-defesa-dos-eua-invoca-proposito-divino-para-justificar-guerra-no-ira.shtml",
+        "data": "31/03/2026 07:00",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/03/kassab-e-caiado.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/30/177489632969cac4c92522f_1774896329_3x2_rt.jpg"
     },
     {
-        "titulo": "Lula sancionará ampliação da licença-paternidade na terça-feira (31)",
-        "link": "https://jovempan.com.br/noticias/politica/lula-sancionara-ampliacao-da-licenca-paternidade-na-terca-feira-31.html",
-        "data": "30/03/2026 23:17",
-        "fonte": "Jovem Pan",
+        "titulo": "Papéis históricos detalham controle da Coroa portuguesa no tráfico de escravizados",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/papeis-historicos-detalham-controle-da-coroa-portuguesa-no-trafico-de-escravizados.shtml",
+        "data": "31/03/2026 07:00",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/03/foto-jp-1-13.png"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/30/177491742669cb1732d2eff_1774917426_3x2_md.jpg"
+    },
+    {
+        "titulo": "Receita paga lote residual do Imposto de Renda nesta terça (31); veja valores e quem recebe",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/receita-paga-lote-residual-do-imposto-de-renda-nesta-terca-31-veja-valores-e-quem-recebe.shtml",
+        "data": "31/03/2026 07:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/13/177341817369b436bdb0148_1773418173_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Estudo aponta para possíveis falhas na assistência em mortes de prematuros em São Paulo",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/03/estudo-aponta-para-possiveis-falhas-na-assistencia-em-mortes-de-prematuros-em-sao-paulo.shtml",
+        "data": "31/03/2026 07:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2022/11/29/166976704463869f8441617_1669767044_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Viagem de astronautas à Lua deve começar neste quarta-feira (1º)",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/03/viagem-de-astronautas-a-lua-deve-comecar-neste-quarta-feira-1o.shtml",
+        "data": "31/03/2026 07:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/30/177489835469caccb29a234_1774898354_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Filme sobre Kongjian Yu, criador das 'cidades-esponja', é retomado ao abordar o luto",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/03/filme-sobre-kongjian-yu-criador-das-cidades-esponja-e-retomado-ao-abordar-o-luto.shtml",
+        "data": "31/03/2026 07:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/24/175871696868d3e42805710_1758716968_3x2_xl.jpg"
+    },
+    {
+        "titulo": "Bob Dylan intriga fãs ao lançar série paga em plataforma de financiamento",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/03/bob-dylan-intriga-fas-ao-lancar-serie-paga-em-plataforma-de-financiamento.shtml",
+        "data": "31/03/2026 06:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/08/07/17545737796894abd34c354_1754573779_3x2_md.jpg"
     },
     {
         "titulo": "Unilever e McCormick estão perto de acordo para criar gigante alimentício, diz WSJ",
@@ -262,62 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2026/03/30/177492429569cb32077ac67_1774924295_3x2_xl.jpg"
-    },
-    {
-        "titulo": "BBB 26: Samira pega as chaves do apartamento conquistado no reality",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/03/bbb-26-samira-pega-as-chaves-do-apartamento-conquistado-no-reality.shtml",
-        "data": "31/03/2026 02:15",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/30/177492330069cb2e24532cd_1774923300_3x2_lg.jpg"
-    },
-    {
-        "titulo": "Artista volta a morar na antiga casa de Leonilson em performance-instalação",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/plastico/2026/03/artista-volta-a-morar-na-antiga-casa-de-leonilson-em-performance-instalacao.shtml",
-        "data": "31/03/2026 02:15",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2024/08/22/172433459166c741ff72d98_1724334591_3x2_xl.jpg"
-    },
-    {
-        "titulo": "Andressa Urach anuncia a criação de instituto de apoio para profissionais do sexo",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/03/andressa-urach-anuncia-a-criacao-de-instituto-de-apoio-para-profissionais-do-sexo.shtml",
-        "data": "31/03/2026 02:08",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/27/17642775856928bd51dcd09_1764277585_3x2_lg.jpg"
-    },
-    {
-        "titulo": "RS e SE confirmam adesão a subsídio para baratear importação de diesel; SP indica participação",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/estados-comecam-a-anunciar-adesao-a-subsidio-para-baratear-importacao-de-diesel-rs-e-se-confirmam.shtml",
-        "data": "31/03/2026 02:01",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/23/177430993269c1d22c8ab2a_1774309932_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Teste Folha Mauá, 30: avaliações mostram avanços dos carros chineses ao longo dos anos",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/teste-folha-maua-30-avaliacoes-mostram-avancos-dos-carros-chineses-ao-longo-dos-anos.shtml",
-        "data": "31/03/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/30/177490940969caf7e143001_1774909409_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Buser compra viações concorrentes para se adequar a regras de agência reguladora",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/buser-compra-viacoes-concorrentes-para-se-adequar-a-regras-de-agencia-reguladora.shtml",
-        "data": "31/03/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2022/05/25/1653510315628e90ab9c803_1653510315_3x2_xl.jpg"
-    },
-    {
-        "titulo": "Dois amigos de quase 100 anos me salvaram da depressão",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2026/03/dois-amigos-de-quase-100-anos-me-salvaram-da-depressao.shtml",
-        "data": "31/03/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/03/30/177489323969cab8b7a1c42_1774893239_3x2_xl.jpg"
     },
     {
         "titulo": "BBB 26: dinâmica desta segunda-feira, 30, deu apê a mais um brother",
@@ -402,7 +402,7 @@
     {
         "titulo": "Trump avalia encerrar guerra contra o Irã sem reabrir Estreito de Ormuz",
         "link": "https://www.terra.com.br/noticias/mundo/estados-unidos/trump-avalia-encerrar-guerra-contra-o-ira-sem-reabrir-estreito-de-ormuz-segundo-imprensa-americana,8e25ed9c90858c115b6aece3e3f76feff99tg29w.html",
-        "data": "31/03/2026 05:06",
+        "data": "31/03/2026 07:08",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/30/trump-(2)-1iynrn7r9zgx0.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Após mais de 30 anos, Chico Lang é demitido da Gazeta",
         "link": "https://www.terra.com.br/esportes/futebol/apos-mais-de-30-anos-chico-lang-e-demitido-da-gazeta,5aeb8128e6e5fd8e331deba236d14cc8q0ugye7m.html",
-        "data": "31/03/2026 05:06",
+        "data": "31/03/2026 07:08",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/30/captura-de-tela-2026-03-30-181922-s100wxfsjjhd.png"
@@ -418,7 +418,7 @@
     {
         "titulo": "Vinho de 1945 é vendido por R$ 4,2 milhões e se torna a mais cara da história",
         "link": "https://www.terra.com.br/noticias/mundo/garrafa-de-vinho-frances-de-1945-e-vendida-por-r-42-milhoes-e-bate-recorde-historico-em-leilao,0ba5aae57968606010de09f90acbef74n4tzinwh.html",
-        "data": "31/03/2026 05:06",
+        "data": "31/03/2026 07:08",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/31/captura-de-tela-2026-03-30-230907-1jydrfiif0i92.png"
@@ -426,23 +426,15 @@
     {
         "titulo": "Kim Jong-un vê soldados em exercício militar inusitado; vídeo",
         "link": "https://www.terra.com.br/noticias/mundo/videos/kim-jong-un-acompanha-soldados-quebrando-tijolos-com-a-cabeca-em-exercicio-militar-na-coreia-do-norte,daf1a0875315c1cf15ffb6ab095b7dcf5oxdhho5.html",
-        "data": "31/03/2026 05:06",
+        "data": "31/03/2026 07:08",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/950/534/images.terra.com/2026/03/30/kim-sem-txt-(1)-qxnsiguhuv6t.jpg"
     },
     {
-        "titulo": "Lula anuncia novo ministro da Educação; saiba quem é",
-        "link": "https://www.terra.com.br/noticias/brasil/politica/lula-anuncia-novo-ministro-da-educacao-saiba-quem-e,c78bff1f5051791c658ff7e6c63bc06cfu77f6me.html",
-        "data": "31/03/2026 05:06",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/30/leonardo-tolqoj58t73m.jpg"
-    },
-    {
         "titulo": "Influencer relata pânico em voo após explosão de turbina: 'Desesperador'",
         "link": "https://www.terra.com.br/diversao/videos/influenciadora-relata-momentos-de-panico-em-voo-apos-explosao-de-turbina-desesperador,898e95c50a9f9ee38c896422c1383a8ecejtr7jw.html",
-        "data": "31/03/2026 05:06",
+        "data": "31/03/2026 07:08",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/950/534/images.terra.com/2026/03/30/influencer-sem-txt-(1)-1iv3sux19k5yv.jpg"
@@ -450,7 +442,7 @@
     {
         "titulo": "Comissária estava consciente ao ser lançada para fora do avião em acidente",
         "link": "https://www.terra.com.br/noticias/mundo/comissaria-estava-consciente-ao-ser-lancada-para-fora-do-aviao-em-acidente-diz-filha,60a58cbe8a3c94b91914c99bcb7ce8eftqn23rim.html",
-        "data": "31/03/2026 05:06",
+        "data": "31/03/2026 07:08",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/31/design-sem-nome-(18)-u855h66nimux.png"
@@ -458,7 +450,7 @@
     {
         "titulo": "Quatro crianças são atropeladas ao brincar em condomínio residencial em SP",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/quatro-criancas-sao-atropeladas-em-condominio-residencial-em-guarulhos,aad272928edd07268e05a25fe6444cc5v37c32ic.html",
-        "data": "31/03/2026 05:06",
+        "data": "31/03/2026 07:08",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/30/captura-de-tela-2026-03-30-173925-1iuyrmtebuxra.png"
@@ -466,7 +458,7 @@
     {
         "titulo": "Seleção de Gana demite técnico a 72 dias da Copa após derrota para a Alemanha",
         "link": "https://www.terra.com.br/esportes/futebol/copa-2026/gana-demite-tecnico-apos-derrota-para-a-alemanha-a-quarta-consecutiva-a-72-dias-da-copa-do-mundo,be21c69e5a962553868e5df69c5a79a013h1pji0.html",
-        "data": "31/03/2026 05:06",
+        "data": "31/03/2026 07:08",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/31/tecnico-s0v00880dfmq.jpg"
@@ -474,10 +466,18 @@
     {
         "titulo": "Fifa vai pagar salário de Piquerez, do Palmeiras, após lesão",
         "link": "https://www.terra.com.br/esportes/palmeiras/fifa-vai-pagar-salario-de-piquerez-do-palmeiras-apos-lesao,f417c2d116a28e5930ff60cfcc2db403ru9fm3mo.html",
-        "data": "31/03/2026 05:06",
+        "data": "31/03/2026 07:08",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/30/668650641-piquerez-610x400.jpg"
+    },
+    {
+        "titulo": "Ginasta russa dá as costas para hino da Ucrânia no pódio em protesto na Copa",
+        "link": "https://www.terra.com.br/esportes/ginasta-russa-da-as-costas-para-hino-da-ucrania-no-podio-em-protesto-na-copa-do-mundo,f1dc6cf1961dd1ec45f91b8d55912087nwgaq38b.html",
+        "data": "31/03/2026 07:08",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/30/1528991028-mnhe75qdbvby7cd66c5hrw7awu.jpg"
     },
     {
         "titulo": "Lula anuncia novo ministro da Educação",
