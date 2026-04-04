@@ -1,11 +1,59 @@
 [
     {
+        "titulo": "Por que alguns partidos recebem mais dinheiro do que outros?",
+        "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/04/04/por-que-alguns-partidos-recebem-mais-dinheiro-do-que-outros.ghtml",
+        "data": "04/04/2026 03:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/wnoRdBVrgYnQOCL44n2GI7M163Y=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/81/10/14451081"
+    },
+    {
+        "titulo": "Eleições 2026: partidos e federações que vão lançar candidatos têm até este sábado para obter registro no TSE",
+        "link": "https://g1.globo.com/politica/noticia/2026/04/04/eleicoes-2026-partidos-e-federacoes-que-vao-lancar-candidatos-tem-ate-este-sabado-para-obter-registro-no-tse.ghtml",
+        "data": "04/04/2026 03:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/zP-uV_TO_gJ-MgaGLwemSyOJzc0=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/x/QDAhLsQ9uwlkRUELG48w/globo-canal-4-20260303-2000-frame-127175.jpeg"
+    },
+    {
+        "titulo": "Ao menos 17 ministros deixaram governo para concorrer às eleições; veja quem entra e quem sai",
+        "link": "https://g1.globo.com/politica/noticia/2026/04/04/ao-menos-17-ministros-deixaram-governo-para-concorrer-as-eleicoes-veja-quem-entra-e-quem-sai.ghtml",
+        "data": "04/04/2026 03:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/RKfa1jRritdA7m68bfcmCFhn7nw=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/U/Q/moQV2GQr2FP1GAm183OQ/54744700756-7377728ff5-k.jpg"
+    },
+    {
+        "titulo": "Manifestantes fazem protesto contra morte de mulher pela PM, e policiais atiram com arma de efeito moral",
+        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/04/manifestantes-fazem-protesto-contra-morte-de-mulher-pela-pm-e-policiais-atiram-com-arma-de-efeito-moral.ghtml",
+        "data": "04/04/2026 03:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/4ZQ3zEeofLiSA5MR-O2dkSCUwLc=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/e/m0jcIrTZuOHiLXU3PZ3w/fotojet-52-.jpg"
+    },
+    {
+        "titulo": "VÍDEO mostra como ficou o restaurante atingido por avião de pequeno porte no RS",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/04/04/video-mostra-como-como-ficou-o-restaurante-atingido-por-aviao-de-pequeno-porte-no-rs.ghtml",
+        "data": "04/04/2026 03:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/Rx9WMWpWwd7YfvSSIt10RNyfYAg=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/C/6dzNAAQZCpi1C8kfryIA/whatsapp-image-2026-04-03-at-20.56.36.jpeg"
+    },
+    {
+        "titulo": "Irã afirma ter abatido caça dos EUA, que fazem operação emergência para buscar pilotos",
+        "link": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml",
+        "data": "04/04/2026 01:54",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/qUDVb44dgoPrIvCUY_1sO6seZA8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/s/q5SWAfTZqyTa5LvedMDQ/design-sem-nome-5-.jpg"
+    },
+    {
         "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 3 de abril de 2026",
         "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-sexta-feira-3-de-abril-de-2026.ghtml",
         "data": "04/04/2026 01:34",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1"
+        "image": "http://s2.glbimg.com/Q96uHAICOFPclTWEtGWnDXg-mJc=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/05/43/14494305"
     },
     {
         "titulo": "Procissão do Cristo Morto em Rio Branco emociona fiéis em Rio Branco: 'Agradecer'",
@@ -32,52 +80,76 @@
         "image": "https://s2-g1.glbimg.com/J1qnuBpoIbpE3_tClH0D_qdEoNU=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/Z8Ct1ARnqrq7UzthyY7Q/acidente-candido-sales.jpg"
     },
     {
-        "titulo": "Semana Santa mobiliza fiéis e artistas em cidades históricas de Minas Gerais",
-        "link": "https://g1.globo.com/jornal-nacional/noticia/2026/04/03/semana-santa-mobiliza-fieis-e-artistas-em-cidades-historicas-de-minas-gerais.ghtml",
-        "data": "04/04/2026 01:03",
-        "fonte": "G1",
+        "titulo": "Desabamento de estrutura em estádio no Peru deixa um morto e 60 feridos",
+        "link": "https://www.cnnbrasil.com.br/esportes/incidente-em-estadio-no-peru-deixa-mortos-e-feridos/",
+        "data": "04/04/2026 04:09",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/zgkPo0gCVIZ5wOhj7eLreCj93pA=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/75/42/14494275"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/image-6.png?w=1160&h=630&crop=1"
     },
     {
-        "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de sexta-feira, 3 de abril de 2026",
-        "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-sexta-feira-3-de-abril-de-2026.ghtml",
-        "data": "04/04/2026 00:57",
-        "fonte": "G1",
+        "titulo": "Aprovação à liderança da China supera a dos EUA no mundo, aponta pesquisa",
+        "link": "https://www.cnnbrasil.com.br/internacional/aprovacao-lideranca-global-china-eua-gallup/",
+        "data": "04/04/2026 03:23",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/2026-03-17T174516Z_2_LYNXMPEM2G11X_RTROPTP_4_IRAN-CRISIS-USA-CHINA-e1775272863520.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Sexta-Feira Santa mobiliza fiéis em Aparecida em dia de oração e recolhimento",
-        "link": "https://g1.globo.com/jornal-nacional/noticia/2026/04/03/sexta-feira-santa-mobiliza-fieis-em-aparecida-em-dia-de-oracao-e-recolhimento.ghtml",
-        "data": "04/04/2026 00:56",
-        "fonte": "G1",
+        "titulo": "Enquete BBB 26: quem você quer eliminar no 13º Paredão?",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/bbb/enquete-bbb-26-quem-voce-quer-eliminar-no-13o-paredao/",
+        "data": "04/04/2026 03:15",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/8_C9U9CvNf_ksFr2R9-J3hCZAFE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/78/42/14494278"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/Captura-de-tela-2026-04-04-001240.png?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Primeiro porco clonado no Brasil nasce saudável em laboratório da USP",
-        "link": "https://g1.globo.com/jornal-nacional/noticia/2026/04/03/primeiro-porco-clonado-no-brasil-nasce-saudavel-em-laboratorio-da-usp.ghtml",
-        "data": "04/04/2026 00:47",
-        "fonte": "G1",
+        "titulo": "BBB 26: Chaiany, Juliano Floss e Marciele disputam permanência no reality",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/bbb/bbb-26-chaiany-juliano-floss-e-marciele-disputam-permanencia-no-reality/",
+        "data": "04/04/2026 02:40",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/8YnwPHSr01UDoTNXqph3kndiHx4=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/73/42/14494273"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/13-paredao-bbb26.png?w=820&h=492&crop=1"
     },
     {
-        "titulo": "VÍDEOS: Jornal Liberal 1ª Edição de sexta-feira, 3 de abril de 2026",
-        "link": "https://g1.globo.com/pa/para/edicao/2026/04/03/videos-jornal-liberal-1-edicao-de-sexta-feira-3-de-abril-de-2026.ghtml",
-        "data": "04/04/2026 00:46",
-        "fonte": "G1",
+        "titulo": "Artemis II: Astronautas chegam à metade do caminho; veja foto da lua",
+        "link": "https://www.cnnbrasil.com.br/ciencia/astronautas-chegam-a-metade-do-caminho-e-registram-imagem-da-lua/",
+        "data": "04/04/2026 02:30",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/Captura-de-tela-2026-04-03-232856.png?w=837&h=488&crop=1"
     },
     {
-        "titulo": "Vídeo: Câmera de carro flagra assalto a pedestre em rua de Fortaleza",
-        "link": "https://g1.globo.com/ce/ceara/noticia/2026/04/03/video-camera-de-carro-flagra-assalto-a-pedestre-em-rua-de-fortaleza.ghtml",
-        "data": "04/04/2026 00:43",
-        "fonte": "G1",
+        "titulo": "É difícil isolar questão de Ormuz sem tocar na guerra, diz professor",
+        "link": "https://www.cnnbrasil.com.br/internacional/e-dificil-isolar-questao-de-ormuz-sem-tocar-na-guerra-diz-professor/",
+        "data": "04/04/2026 02:13",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/IG09cE7KarzhwKox280GyzNpgf4=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/D/AzfWwMStSF3bwBGFfduQ/assalto-varjota-fortaleza-1-.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/estreito-de-ormuz.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "BBB 26: Ana Paula relembra boteco com Marília Mendonça: “Cerveja e fritura”",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/bbb/bbb-26-ana-paula-relembra-boteco-com-marilia-mendonca-cerveja-e-fritura/",
+        "data": "04/04/2026 01:45",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/FotoJet-32.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Meryl Streep cita machismo e verba baixa em “O Diabo Veste Prada”",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/meryl-streep-cita-machismo-e-verba-baixa-em-o-diabo-veste-prada/",
+        "data": "04/04/2026 01:43",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/meryl-streep-diabo-veste-prada-2.jpeg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Israel volta a atacar Beirute, no Líbano; Exército diz mirar Hezbollah",
+        "link": "https://www.cnnbrasil.com.br/internacional/israel-ataca-alvos-do-hezbollah-em-beirute-2/",
+        "data": "04/04/2026 01:30",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/2026-04-04T011249Z_1_LOP985504042026RP1_RTRMADP_BASEIMAGE-960X540_IRAN-CRISIS-LEBANON-STRIKES-e1775268061753.jpg?w=960&h=539&crop=1"
     },
     {
         "titulo": "EUA têm maior alta de empregos em 15 meses mas guerra no Irã ameaça mercado",
@@ -88,76 +160,20 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2024binary_LYNXMPEK830O6-FILEDIMAGE.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Contratações fortes nos EUA podem aliviar preocupações do Fed",
-        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/contratacoes-fortes-nos-eua-podem-aliviar-preocupacoes-do-fed/",
-        "data": "04/04/2026 00:29",
-        "fonte": "CNN Brasil",
+        "titulo": "A cadeira mais quente da TV: quem já comandou o BBB?",
+        "link": "https://jovempan.com.br/entretenimento/a-cadeira-mais-quente-da-tv-quem-ja-comandou-o-bbb.html",
+        "data": "04/04/2026 04:46",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPEL6G0K6-BASEIMAGE.jpg?w=800&h=534&crop=1"
+        "image": "https://jpimg.com.br/uploads/2026/01/bbb-26-e-saude-mental-o-que-a-exposicao-ao-vivo-revela-sobre-quem-esta-fora-da-casa-1024x683.jpg"
     },
     {
-        "titulo": "Zelensky: Posição da Ucrânia na linha de frente é a melhor em dez meses",
-        "link": "https://www.cnnbrasil.com.br/internacional/zelensky-posicao-da-ucrania-na-linha-de-frente-e-a-melhor-em-dez-meses/",
-        "data": "04/04/2026 00:25",
-        "fonte": "CNN Brasil",
+        "titulo": "Terremoto de magnitude 5,9 atinge Afeganistão e Paquistão e deixa ao menos oito mortos",
+        "link": "https://jovempan.com.br/noticias/mundo/terremoto-de-magnitude-59-atinge-e-paquistao-e-deixa-ao-menos-oito-mortos.html",
+        "data": "04/04/2026 02:00",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/volodymyr-zelensky.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Fernanda Gentil revela segredo de 10 anos de relacionamento com a esposa",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/fernanda-gentil-revela-segredo-de-10-anos-de-relacionamento-com-a-esposa/",
-        "data": "04/04/2026 00:16",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/12/Fernanda-Gentil.png?w=774&h=515&crop=1"
-    },
-    {
-        "titulo": "Nasa mostra ao vivo astronauta da Artemis durante “banho espacial”",
-        "link": "https://www.cnnbrasil.com.br/ciencia/nasa-mostra-ao-vivo-astronauta-da-artemis-durante-banho-espacial/",
-        "data": "04/04/2026 00:07",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/astronautasespaco.jpg?w=822&h=469&crop=1"
-    },
-    {
-        "titulo": "Astronautas da Artemis II “lambem até a colher” durante refeição espacial",
-        "link": "https://www.cnnbrasil.com.br/ciencia/astronautas-da-artemis-ii-lambem-ate-a-colher-durante-refeicao-espacial/",
-        "data": "03/04/2026 23:42",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/astronautascomendo.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Psiquiatra de Pedro, do BBB 26, confirma diagnóstico de transtorno bipolar",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/psiquiatra-de-ex-bbb-pedro-confirma-diagnostico-de-transtorno-bipolar/",
-        "data": "03/04/2026 23:41",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/Pedro-ex-participante-do-BBB-26-apos-apertar-o-botao-de-desistencia-e-importunar-Jordana-.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "À CNN, Ibaneis avalia como justa decisão que o liberou de ir à CPI do Crime",
-        "link": "https://www.cnnbrasil.com.br/politica/a-cnn-ibaneis-avalia-como-justa-decisao-que-o-liberou-de-ir-a-cpi-do-crime/",
-        "data": "03/04/2026 23:31",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/08/forum-governadores_mcamgo_abr_24052023-11-e1693844558355.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "“Me sinto como uma criança”: veja o que os astronautas falaram no espaço",
-        "link": "https://www.cnnbrasil.com.br/ciencia/me-sinto-como-uma-crianca-veja-o-que-os-astronautas-falaram-no-espaco/",
-        "data": "03/04/2026 23:29",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/astronautas.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Lula pretende anular leilão de gás de cozinha que teve ágio de 118%",
-        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/lula-pretende-anular-leilao-de-gas-de-cozinha-que-teve-agio-de-118/",
-        "data": "03/04/2026 23:19",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/2226_DF106010C30C67D0-4.jpg?w=1200&h=630&crop=1"
+        "image": "https://jpimg.com.br/uploads/2026/04/terremoto-no-afeganistao.jpg"
     },
     {
         "titulo": "Corpo da quarta vítima de queda de avião no RS é encontrado",
@@ -168,7 +184,7 @@
         "image": "https://jpimg.com.br/uploads/2026/04/design-sem-nome-69.png"
     },
     {
-        "titulo": "ONU adia para próxima semana votação sobre uso de força para reabrir Hormuz",
+        "titulo": "ONU adia para próxima semana votação sobre uso de força para reabrir Ormuz",
         "link": "https://jovempan.com.br/noticias/mundo/onu-adia-para-proxima-semana-votacao-sobre-uso-de-forca-para-reabrir-hormuz.html",
         "data": "04/04/2026 00:30",
         "fonte": "Jovem Pan",
@@ -224,100 +240,84 @@
         "image": "https://jpimg.com.br/uploads/2026/03/caca-f-39e-gripen-.jpg"
     },
     {
-        "titulo": "U2 lança novo EP de surpresa com músicas sobre crianças na guerra",
-        "link": "https://jovempan.com.br/entretenimento/musica/u2-lanca-novo-ep-de-surpresa-com-musicas-sobre-criancas-na-guerra.html",
-        "data": "03/04/2026 21:37",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/04/u2-easter.jpg"
-    },
-    {
-        "titulo": "Trump diz que derrubada de jato dos EUA não afetará negociações com o Irã",
-        "link": "https://jovempan.com.br/noticias/mundo/trump-diz-que-derrubada-de-jato-dos-eua-nao-afetara-negociacoes-com-o-ira.html",
-        "data": "03/04/2026 21:26",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/11/5ed2f74c9333e64d5514f77ebd5eb0067a4acdea.jpg"
-    },
-    {
-        "titulo": "Artemis 2 renova corrida espacial",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/04/artemis-2-renova-corrida-espacial.shtml",
-        "data": "04/04/2026 01:00",
+        "titulo": "BBB 26: Juliano, Chaiany e Marciele estão no paredão",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-juliano-chaiany-e-marciele-estao-no-paredao.shtml",
+        "data": "04/04/2026 02:51",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/04/03/177525173369d03115ea903_1775251733_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/04/03/177527094869d07c24ed45f_1775270948_3x2_xl.jpg"
     },
     {
-        "titulo": "O projeto de lei que regulamenta a entrega por aplicativos é adequado? SIM",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/04/o-projeto-de-lei-que-regulamenta-a-entrega-por-aplicativos-e-adequado-sim.shtml",
-        "data": "04/04/2026 01:00",
+        "titulo": "Morte de mulher por PM desencadeia protesto na zona leste de São Paulo",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/morte-de-mulher-por-pm-desencadeia-protesto-na-zona-leste-de-sao-paulo.shtml",
+        "data": "04/04/2026 02:50",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/04/04/174378305067f0048ad2fa2_1743783050_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/04/03/177526870169d0735d7b474_1775268701_3x2_lg.jpg"
     },
     {
-        "titulo": "O projeto de lei que regulamenta a entrega por aplicativos é adequado? NÃO",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/04/o-projeto-de-lei-que-regulamenta-a-entrega-por-aplicativos-e-adequado-nao.shtml",
-        "data": "04/04/2026 01:00",
+        "titulo": "Artemis 2 atinge metade do caminho para chegar à Lua",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/04/artemis-2-atinge-metade-do-caminho-para-chegar-a-lua.shtml",
+        "data": "04/04/2026 02:45",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2021/04/06/1617759164606d0bbc7a89f_1617759164_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/04/03/177527062169d07addba8b9_1775270621_3x2_rt.jpg"
     },
     {
-        "titulo": "Congresso deve acabar com aposentadoria compulsória",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/04/congresso-deve-acabar-com-aposentadoria-compulsoria.shtml",
-        "data": "04/04/2026 01:00",
+        "titulo": "Aprenda a fazer salmão agridoce de forno em apenas 15 minutos",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/comida/2026/04/aprenda-a-fazer-salmao-agridoce-de-forno-em-apenas-15-minutos.shtml",
+        "data": "04/04/2026 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2024/08/20/172419557966c522fb85780_1724195579_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/04/02/177515899569cec6d3d7558_1775158995_3x2_rt.jpg"
     },
     {
-        "titulo": "Quem é Luiza Marquesa, suposto affair de Zé Felipe, ex de Virginia",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/04/quem-e-luiza-marquesa-suposto-affair-de-ze-felipe-ex-de-virginia.shtml",
-        "data": "04/04/2026 00:30",
+        "titulo": "Entregador chinês narra exaustão física e emocional do trabalho em delivery",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/entregador-chines-narra-exaustao-fisica-e-emocional-do-trabalho-em-delivery.shtml",
+        "data": "04/04/2026 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/04/03/177526099869d05546dc31a_1775260998_3x2_lg.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/10/177313488369afe423c8e1b_1773134883_3x2_rt.jpg"
     },
     {
-        "titulo": "Adolescente foge com carro dos pais na Bahia e é resgatado pela PRF em estrada a 500 km de casa",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/adolescente-foge-com-carro-dos-pais-na-bahia-e-e-resgatado-pela-prf-em-estrada-a-500-km-de-casa.shtml",
-        "data": "04/04/2026 00:21",
+        "titulo": "Leilão disputado por livro sobre jovem lobisomem tem Arqueiro como vencedora",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2026/04/leilao-disputado-por-livro-sobre-jovem-lobisomem-tem-arqueiro-como-vencedora.shtml",
+        "data": "04/04/2026 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/04/03/177526085269d054b498d1c_1775260852_3x2_lg.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2018/09/03/15360100935b8da76dc65f0_1536010093_3x2_rt.jpg"
     },
     {
-        "titulo": "'Emprego de até dois salários mínimos é muito pouco', escreve leitor",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/04/emprego-de-ate-dois-salarios-minimos-e-muito-pouco-escreve-leitor.shtml",
-        "data": "04/04/2026 00:10",
+        "titulo": "Políticos trocam domicílio eleitoral e embaralham palanques nos estados",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/politicos-trocam-domicilio-eleitoral-e-embaralham-palanques-nos-estados.shtml",
+        "data": "04/04/2026 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2023/10/10/169695210765256f2b22feb_1696952107_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/04/03/177526452969d06311b004d_1775264529_3x2_xl.jpg"
     },
     {
-        "titulo": "Legado de Ibaneis para Brasília e o BRB é o pior possível",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/04/legado-de-ibaneis-para-brasilia-e-o-brb-e-o-pior-possivel.shtml",
-        "data": "04/04/2026 00:00",
+        "titulo": "Mendonça fragmenta apurações de grande porte para evitar interferências e vazamentos",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/mendonca-fragmenta-apuracoes-de-grande-porte-para-evitar-interferencias-e-vazamentos.shtml",
+        "data": "04/04/2026 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/04/03/177525015869d02aeed2204_1775250158_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/05/177272427069a9a02ecb818_1772724270_3x2_rt.jpg"
     },
     {
-        "titulo": "O centro está sem candidato próprio. E o centrão?",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/04/o-centro-esta-sem-candidato-proprio-e-o-centrao.shtml",
-        "data": "03/04/2026 23:20",
+        "titulo": "Setor de hidrogênio verde espera há 1 ano e meio decreto que libera R$ 25 bi em benefícios fiscais",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/setor-de-hidrogenio-verde-espera-ha-1-ano-e-meio-decreto-que-libera-r-25-bi-em-beneficios-fiscais.shtml",
+        "data": "04/04/2026 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/04/03/177525836769d04aff3a754_1775258367_3x2_lg.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/09/175743772568c05f1d2d0dd_1757437725_3x2_rt.jpg"
     },
     {
-        "titulo": "Marina Silva decide continuar na Rede, e federação com PSOL quer que ela dispute Senado",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/marina-silva-decide-continuar-na-rede-e-federacao-com-psol-quer-que-ela-dispute-senado.shtml",
-        "data": "03/04/2026 23:11",
+        "titulo": "Governo avalia incluir MEIs em negociação de endividados e restringir aposta em bets",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/governo-avalia-incluir-meis-em-negociacao-de-endividados-e-restringir-aposta-em-bets.shtml",
+        "data": "04/04/2026 02:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/04/03/177525681369d044ed4d030_1775256813_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2019/03/18/15528809055c8f1509f30b7_1552880905_3x2_rt.jpg"
     },
     {
         "titulo": "Nasa divulga imagens inéditas da Terra e missão avança em direção à Lua; veja",
@@ -402,7 +402,7 @@
     {
         "titulo": "Avião de pequeno porte cai no litoral do RS; corpo da 4ª vítima é encontrado",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/aviao-de-pequeno-porte-cai-sobre-restaurante-no-litoral-do-rs-e-mata-4-pessoas,51d6fe274c668076b1c9f6af1695a5657y3dz2ch.html",
-        "data": "04/04/2026 01:53",
+        "data": "04/04/2026 04:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/03/foto-2026-04-03t114805-821-sopq4mu7ijqa.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Morte de mulher em intervenção policial gera protestos e confronto em SP",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/morte-de-mulher-em-intervencao-policial-gera-protestos-e-confronto-na-zona-leste-de-sp,79a1a97455665e602c7fa7be10d1f202kg9rr0c5.html",
-        "data": "04/04/2026 01:53",
+        "data": "04/04/2026 04:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/03/morte-intervencao-policial-cidade-tiradentes-qe6nffeqijw3.png"
@@ -418,7 +418,7 @@
     {
         "titulo": "Duas crianças morrem atropeladas em área residencial de Diadema",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/duas-criancas-morrem-atropeladas-em-area-residencial-em-diadema-na-grande-sao-paulo,dbda8b0cc0dec30b95d0086aa3cb2be2vr3uwp3y.html",
-        "data": "04/04/2026 01:53",
+        "data": "04/04/2026 04:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/04/captura-de-tela-2026-04-03-211728-qxyudg023srl.png"
@@ -426,7 +426,7 @@
     {
         "titulo": "Quem são os 17 ministros de Lula que deixaram o governo para as eleições",
         "link": "https://www.terra.com.br/noticias/brasil/politica/quem-sao-os-17-ministros-de-lula-que-deixaram-o-governo-para-as-eleicoes-e-quem-assume-os-cargos,754be6ee7fa056a35c463538af524f49y7cft6f6.html",
-        "data": "04/04/2026 01:53",
+        "data": "04/04/2026 04:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/03/1607639757-innstmhbnjcynhxhmht27istim.jpg"
@@ -434,7 +434,7 @@
     {
         "titulo": "MP desiste de processar Monark por fala em que defendeu 'criação' de partido nazista",
         "link": "https://www.terra.com.br/noticias/brasil/politica/mp-desiste-de-processar-monark-por-fala-em-que-defendeu-permissao-para-criacao-de-partido-nazista,ed59c185d6f1124605713a0292da1154dy2ja950.html",
-        "data": "04/04/2026 01:53",
+        "data": "04/04/2026 04:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/03/820215535-lmfnltz4q5iujdtewqybhg4rcu.jpg"
@@ -442,7 +442,7 @@
     {
         "titulo": "Quem eram as vítimas de acidente aéreo que matou 4 pessoas no litoral do RS",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/quem-eram-as-vitimas-de-acidente-aereo-no-litoral-do-rs,1b15ba88d8fb8a721bb376ec974b498ddlw1z14t.html",
-        "data": "04/04/2026 01:53",
+        "data": "04/04/2026 04:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/03/acidente_aviao-ts1yx8g3d3xy.jpg"
@@ -450,7 +450,7 @@
     {
         "titulo": "Pai de argentina acusada de racismo no RJ é filmado imitando macaco",
         "link": "https://www.terra.com.br/nos/pai-de-argentina-acusada-de-racismo-no-rj-e-filmado-imitando-macaco,a8dfc29bc6cb62f09268ce0559c3717cmvzv2vg6.html",
-        "data": "04/04/2026 01:53",
+        "data": "04/04/2026 04:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/03/pai-agostina-paez-qy4f3b0420c1.png"
@@ -458,7 +458,7 @@
     {
         "titulo": "Piloto que fez pouso forçado em praia do RJ já simulou queda para escapar de sequestro",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/piloto-de-helicoptero-que-fez-pouso-forcado-em-praia-do-rj-ja-simulou-queda-para-escapar-de-sequestro-entenda,dd9f9f2a6ea3e22cca07f06309a2cda7o367y8ci.html",
-        "data": "04/04/2026 01:53",
+        "data": "04/04/2026 04:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/03/whatsapp-image-2026-04-03-at-14-41-35-u7zl542ynxb8.jpeg"
@@ -466,7 +466,7 @@
     {
         "titulo": "Flamengo multa Pulgar, e Bap cobra elenco após goleada",
         "link": "https://www.terra.com.br/esportes/flamengo/flamengo-multa-pulgar-e-bap-cobra-elenco-apos-goleada,e579e4df889ab056ad86e591c1a9f82czle7w6s9.html",
-        "data": "04/04/2026 01:53",
+        "data": "04/04/2026 04:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/04/81042381-55184737409630669e4b2ceasy-resizecom-610x400.jpg"
@@ -474,10 +474,18 @@
     {
         "titulo": "São Paulo chega a rescisão com Oscar e terá que pagar R$ 10 milhões ao jogador",
         "link": "https://www.terra.com.br/esportes/sao-paulo/sao-paulo-chega-a-rescisao-com-oscar-e-tera-que-pagar-r-10-milhoes-ao-jogador,7ae3c71fc195249ecfcb9b282c76d96efejyftnm.html",
-        "data": "04/04/2026 01:53",
+        "data": "04/04/2026 04:47",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/03/oscar1-ure34legwd2p.jpg"
+    },
+    {
+        "titulo": "Enquete BBB 26: Quem deve sair entre Chaiany, Juliano e Marciele? Vote",
+        "link": "https://veja.abril.com.br/cultura/enquete-bbb-26-quem-deve-sair-entre-chaiany-juliano-e-marciele-vote/",
+        "data": "04/04/2026 02:24",
+        "fonte": "Veja",
+        "metodo": "RSS",
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/04/globo-bbb26-chaiany-andrade-juliano-floss-marciele-albuquerque.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
         "titulo": "A reviravolta no caso da menina que sumiu em 1994 e foi encontrada viva mais de 30 anos depois",
@@ -550,13 +558,5 @@
         "fonte": "Veja",
         "metodo": "RSS",
         "image": "https://veja.abril.com.br/wp-content/uploads/2026/01/RONALDO-CAIADO-2025-54410293465.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1"
-    },
-    {
-        "titulo": "‘Super Mario Galaxy’: animação tem viagem cósmica e novos vilões",
-        "link": "https://veja.abril.com.br/coluna/veja-recomenda/super-mario-galaxy-animacao-tem-viagem-cosmica-e-novos-viloes/",
-        "data": "03/04/2026 22:00",
-        "fonte": "Veja",
-        "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/04/Filme-Super-Mario-Galaxy20260302_1304.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     }
 ]
