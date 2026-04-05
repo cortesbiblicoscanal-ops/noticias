@@ -1,5 +1,21 @@
 [
     {
+        "titulo": "Trump confirma resgate de piloto no Irã; ACOMPANHE",
+        "link": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml",
+        "data": "05/04/2026 06:18",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/qUDVb44dgoPrIvCUY_1sO6seZA8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/s/q5SWAfTZqyTa5LvedMDQ/design-sem-nome-5-.jpg"
+    },
+    {
+        "titulo": "Colapso do turismo: lojas de luxo em Dubai sentem baque da guerra no Oriente Médio",
+        "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/04/05/colapso-do-turismo-lojas-de-luxo-em-dubai-sentem-baque-da-guerra-no-oriente-medio.ghtml",
+        "data": "05/04/2026 06:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/h8jljYG_YMr7LZIqC4zVP7VlMdo=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14393963.jpg"
+    },
+    {
         "titulo": "Tempo de TV abre disputa por apoio de partidos do ‘Centrão’; veja quanto tempo cada sigla terá de propaganda para presidente",
         "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/04/05/tempo-de-tv-abre-disputa-por-apoio-de-partidos-do-centrao-veja-quanto-tempo-cada-sigla-tera-de-propaganda-para-presidente.ghtml",
         "data": "05/04/2026 05:00",
@@ -40,20 +56,12 @@
         "image": "https://s2-g1.glbimg.com/Ehe4zjrcuy5Q8GPJ__KVordZPK8=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/f/AXj8EGT322A1yB5OHLGA/fotojet-90-.jpg"
     },
     {
-        "titulo": "Trump confirma resgate de piloto no Irã; ACOMPANHE",
-        "link": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml",
-        "data": "05/04/2026 04:26",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/qUDVb44dgoPrIvCUY_1sO6seZA8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/s/q5SWAfTZqyTa5LvedMDQ/design-sem-nome-5-.jpg"
-    },
-    {
         "titulo": "Trump confirma que piloto americano foi resgatado: 'são e salvo'",
         "link": "https://g1.globo.com/mundo/noticia/2026/04/05/piloto-americano-desaparecido-no-ira-teria-sido-resgatado-afirmam-agencias.ghtml",
         "data": "05/04/2026 04:06",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/68TbPpX3gsqH85a9243nIJm-QVs=/1280x0/filters:format(jpeg)/https://s02.video.glbimg.com/x720/14496249.jpg"
+        "image": "https://s2-g1.glbimg.com/glkk6y0OSNtxmDr_p0qiOHcjEEc=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14496563.jpg"
     },
     {
         "titulo": "Quando a criança pode ir no banco da frente? Veja como evitar erros na volta do feriado",
@@ -72,12 +80,20 @@
         "image": "https://s2-g1.glbimg.com/AMOLZ-Zwr8_rskbNUSXgZhrvj9o=/628x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/J/I/FGNm09TOiKlaZVOMAfPA/volantes-dupla-sena.jpg"
     },
     {
-        "titulo": "O que se sabe sobre a queda do avião de deixou quatro mortos no RS (e o que falta saber)",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/04/05/o-que-se-sabe-sobre-a-queda-do-aviao-rs.ghtml",
-        "data": "05/04/2026 03:00",
-        "fonte": "G1",
+        "titulo": "Trump abandona liderança democrática dos EUA, diz Anne Applebaum",
+        "link": "https://www.cnnbrasil.com.br/internacional/ww-especial-anne-applebaum-lideranca-democracia-eua-trump/",
+        "data": "05/04/2026 06:00",
+        "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/7whq62BSlsZJCkC1lNhkK5TldAw=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/S/SywAxpRzC1x9CDe5C3tg/g1-2026-04-03t121934.188.jpg"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/trump-e1775336516459.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "STF decide eleição no RJ e sigilo de dados na internet em abril",
+        "link": "https://www.cnnbrasil.com.br/politica/stf-decide-eleicao-no-rj-e-sigilo-de-dados-na-internet-em-abril/",
+        "data": "05/04/2026 06:00",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/supremo_tribunal_federal250620213572-e1765402058547.png?w=1170&h=630&crop=1"
     },
     {
         "titulo": "Trump: EUA fizeram uma das operações de resgate mais ousadas da história",
@@ -144,20 +160,20 @@
         "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/ana-paula-renault-desabafa-relacao-munik-nunes-bbb-16.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Juliette é recebida por “filhos pets” e noivo em aeroporto; veja momento",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/juliette-e-recebida-por-filhos-pets-e-noivo-em-aeroporto-veja-momento/",
-        "data": "05/04/2026 01:04",
-        "fonte": "CNN Brasil",
+        "titulo": "Os boicotes da Argentina nas Copas do Mundo de 1938 e 1950",
+        "link": "https://jovempan.com.br/esportes/futebol/os-boicotes-da-argentina-nas-copas-do-mundo-de-1938-e-1950.html",
+        "data": "05/04/2026 06:10",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/juliette-e-kaique-e1750248527199.jpg?w=1077&h=607&crop=1"
+        "image": "https://jpimg.com.br/uploads/2025/10/afp__20251010__2240337819__v1__midres__argentinavvenezuelainternationalfriendly.jpg"
     },
     {
-        "titulo": "BBB 26: Samira perde milhares de seguidores em semanas; veja antes e depois",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/bbb/bbb-26-samira-perde-milhares-de-seguidores-em-semanas-veja-antes-e-depois/",
-        "data": "05/04/2026 00:36",
-        "fonte": "CNN Brasil",
+        "titulo": "Entenda qual a capacidade de destruição do drone MQ-9 Reaper usado pelos EUA no Oriente Médio",
+        "link": "https://jovempan.com.br/noticias/mundo/entenda-qual-a-capacidade-de-destruicao-do-drone-mq-9-reaper-usado-pelos-eua-no-oriente-medio.html",
+        "data": "05/04/2026 05:34",
+        "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/samira-sagr-briga-juliano-bbb-26.jpg?w=1200&h=630&crop=1"
+        "image": "https://jpimg.com.br/uploads/2026/03/imagem-jvp-2026-03-16t062546.574.png"
     },
     {
         "titulo": "A corrida mais longa e a mais curta da história da F1",
@@ -224,20 +240,52 @@
         "image": "https://jpimg.com.br/uploads/2026/04/iran-us-conflict-irgc-drills-2.jpg-1024x682.jpeg"
     },
     {
-        "titulo": "Erdogan diz que fim da guerra Irã-Israel-EUA exige esforços globais",
-        "link": "https://jovempan.com.br/noticias/mundo/erdogan-diz-que-fim-da-guerra-ira-israel-eua-exige-esforcos-globais.html",
-        "data": "04/04/2026 22:53",
-        "fonte": "Jovem Pan",
+        "titulo": "Viagem à Lua na era Trump ocorre em meio a turbulência e divisões nos EUA",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/04/viagem-a-lua-na-era-trump-ocorre-em-meio-a-turbulencia-e-divisoes-nos-eua.shtml",
+        "data": "05/04/2026 07:00",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2023/07/erdogan.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/04/01/177505461569cd2f17e5584_1775054615_3x2_rt.jpg"
     },
     {
-        "titulo": "Arboleda dá sumiço no São Paulo e viaja para Equador sem avisar",
-        "link": "https://jovempan.com.br/esportes/futebol/sao-paulo-futebol/arboleda-da-sumico-no-sao-paulo-e-viaja-para-equador-sem-avisar.html",
-        "data": "04/04/2026 22:41",
-        "fonte": "Jovem Pan",
+        "titulo": "O STF precisa de reformas, pois o rei está nu, diz José Dirceu",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/o-stf-precisa-de-reformas-pois-o-rei-esta-nu-diz-jose-dirceu.shtml",
+        "data": "05/04/2026 07:00",
+        "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2020/09/uai20210516025.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/04/03/177526557969d0672b73295_1775265579_3x2_xl.jpg"
+    },
+    {
+        "titulo": "Venda de canetas emagrecedoras cresce, mas não há orientação sobre descarte para população",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/04/venda-de-canetas-emagrecedoras-cresce-mas-nao-ha-orientacao-sobre-descarte-para-populacao.shtml",
+        "data": "05/04/2026 07:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/04/16/174482709867fff2da8a43a_1744827098_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Guerra no Irã e insultos de Trump afastam ainda mais Europa dos EUA",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/guerra-no-ira-e-insultos-de-trump-afastam-ainda-mais-europa-dos-eua.shtml",
+        "data": "05/04/2026 07:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/04/04/177530689069d1088a75786_1775306890_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Trump afirma que segundo piloto desaparecido no Irã foi resgatado",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/trump-afirma-que-segundo-piloto-desaparecido-no-ira-foi-resgatado.shtml",
+        "data": "05/04/2026 06:27",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/04/04/177530563969d103a7c6146_1775305639_3x2_rt.jpg"
+    },
+    {
+        "titulo": "BBB 26: 'Olhou no meu olho e mentiu', afirma Gabriela sobre Samira",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/bbb26/2026/04/bbb-26-olhou-no-meu-olho-e-mentiu-afirma-gabriela-sobre-samira.shtml",
+        "data": "05/04/2026 05:18",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/04/05/177536621569d1f0478e281_1775366215_3x2_lg.jpg"
     },
     {
         "titulo": "Monsters faz transição para o hard rock e aposta em shows de veteranos",
@@ -270,54 +318,6 @@
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
         "image": "https://f.i.uol.com.br/fotografia/2026/04/04/177535252269d1bacab6d1e_1775352522_3x2_lg.jpg"
-    },
-    {
-        "titulo": "Polícia Militar envia ofício a Moraes sobre expulsão de coronéis condenados por 8/1",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/policia-militar-envia-oficio-a-moraes-sobre-expulsao-de-coroneis-condenados-por-81.shtml",
-        "data": "05/04/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/02/15/173964626667b0e53ac3d63_1739646266_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Lula pensa em criar a Terrabrás, mais um mito do Eldorado e outra ilusão econômica",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/04/lula-pensa-em-criar-a-terrabras-mais-um-mito-do-eldorado-e-outra-ilusao-economica.shtml",
-        "data": "05/04/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2024/11/07/1731033795672d7ac32b33b_1731033795_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Juros altos não são destino do Brasil",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/roberto-campos-neto/2026/04/juros-altos-nao-sao-destino-do-brasil.shtml",
-        "data": "05/04/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/04/04/177534821469d1a9f6caf65_1775348214_3x2_xl.jpg"
-    },
-    {
-        "titulo": "Como Deus nasceu: catástrofes e traumas históricos fazem parte da história do monoteísmo",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/04/como-deus-nasceu-catastrofes-e-traumas-historicos-fazem-parte-da-historia-do-monoteismo.shtml",
-        "data": "05/04/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/04/02/177516560869cee0a81c15a_1775165608_3x2_md.jpg"
-    },
-    {
-        "titulo": "Veja como comprar ingressos na pré-venda para 'O Diabo Veste Prada 2'",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/04/veja-como-comprar-ingressos-na-pre-venda-para-o-diabo-veste-prada-2.shtml",
-        "data": "05/04/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/12/19/17661772866945ba0613196_1766177286_3x2_xl.jpg"
-    },
-    {
-        "titulo": "'Não falo mais com quem me critica, falo com quem me aplaude', diz Luísa Sonza",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/04/nao-falo-mais-com-quem-me-critica-falo-com-quem-me-aplaude-diz-luisa-sonza.shtml",
-        "data": "05/04/2026 02:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/04/02/177517847569cf12eb5211c_1775178475_3x2_rt.jpg"
     },
     {
         "titulo": "IAs têm emoções? Não exatamente. Mas o que a Anthropic descobriu levanta alertas que valem a atenção",
@@ -402,7 +402,7 @@
     {
         "titulo": "Com hat-trick de Ferreirinha, São Paulo goleia o Cruzeiro e abafa crise",
         "link": "https://www.terra.com.br/esportes/sao-paulo/com-hat-trick-de-ferreirinha-sao-paulo-goleia-o-cruzeiro-e-mantem-a-raposa-no-z4,0b306ac362d701ff55e85e88adf0f6ec7drdyj5j.html",
-        "data": "05/04/2026 05:09",
+        "data": "05/04/2026 07:01",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/04/565730514-bazaart37a03d65-027b-472f-90aa-e459c6619fa9easy-resizecom-610x400.jpg"
@@ -410,7 +410,7 @@
     {
         "titulo": "Michelle contradiz Carlos e diz que Bolsonaro está sem soluços",
         "link": "https://www.terra.com.br/noticias/brasil/politica/bolsonaro/michelle-contradiz-carlos-e-diz-que-bolsonaro-esta-sem-solucos,931550855dd903cfa12986db6371af9bjr35kxz4.html",
-        "data": "05/04/2026 05:09",
+        "data": "05/04/2026 07:01",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/01/1315880657-xeynu6cvobgnxkg454yynkfm74.jpg"
@@ -418,7 +418,7 @@
     {
         "titulo": "Influenciador brasileiro pró-Trump é solto após ser preso pelo ICE",
         "link": "https://www.terra.com.br/noticias/mundo/influenciador-brasileiro-trumpista-e-solto-apos-ser-preso-pelo-ice,d7aceea8f25cf92e6ebb998c3a42fec762ag7vkr.html",
-        "data": "05/04/2026 05:09",
+        "data": "05/04/2026 07:01",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/04/whatsapp-image-2026-04-04-at-17-05-01-t4f0mtx0xdtf.jpeg"
@@ -426,7 +426,7 @@
     {
         "titulo": "Casal que morreu em acidente aéreo planejava comprar aeronave, diz empresário",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/casal-que-morreu-em-acidente-aereo-planejava-comprar-aeronave-diz-empresario,ae08d3f27500a05235664e57349e817b84dsvi26.html",
-        "data": "05/04/2026 05:09",
+        "data": "05/04/2026 07:01",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/04/448656443_1003061124667309_132050248538509839_n-1iyq31ulw6bty.jpg"
@@ -434,7 +434,7 @@
     {
         "titulo": "Dupla de Páscoa tem prêmio principal de R$ 40 milhões; confira as dezenas",
         "link": "https://www.terra.com.br/economia/loterias/dupla-sena/dupla-de-pascoa-tem-premio-principal-de-r-40-milhoes-neste-sabado-confira-as-dezenas,e322d30bb9ad6384576bd9a19f36a81e8b9g6tml.html",
-        "data": "05/04/2026 05:09",
+        "data": "05/04/2026 07:01",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/05/dupla-de-pascoa-1jyd9kgd2dhyr.png"
@@ -442,7 +442,7 @@
     {
         "titulo": "Motorista bêbado em Porsche provoca acidente e deixa feridos em SP",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/motorista-bebado-em-porsche-provoca-acidente-e-deixa-feridos-em-sp,b39295c17eeb5cbc1493293bad032818de7g3fzz.html",
-        "data": "05/04/2026 05:09",
+        "data": "05/04/2026 07:01",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/04/acidente-porsche-1k1tzt9cw27uh.png"
@@ -450,7 +450,7 @@
     {
         "titulo": "Mobiliza anuncia Cabo Daciolo como pré-candidato à Presidência da República",
         "link": "https://www.terra.com.br/noticias/brasil/politica/mobiliza-anuncia-cabo-daciolo-como-pre-candidato-a-presidencia-da-republica,589565b85ed216d6ae9bd13733d3e5eb14v5dcwv.html",
-        "data": "05/04/2026 05:09",
+        "data": "05/04/2026 07:01",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/01/12/1498251969-auca6ys2ffkjdi7witdv7uqxv4.jpg"
@@ -458,7 +458,7 @@
     {
         "titulo": "Moradores protestam após crianças morrerem atropeladas por motorista bêbado",
         "link": "https://www.terra.com.br/noticias/brasil/cidades/moradores-protestam-apos-criancas-morrerem-atropeladas-por-motorista-bebado-na-grande-sp,012768437a80950834f818e82b9fc88fdsvptw2h.html",
-        "data": "05/04/2026 05:09",
+        "data": "05/04/2026 07:01",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/04/acidente-diadema-ubjn3y4v8sit.png"
@@ -466,7 +466,7 @@
     {
         "titulo": "Calleri leva 8 pontos na sobrancelha após choque em São Paulo x Cruzeiro",
         "link": "https://www.terra.com.br/esportes/sao-paulo/calleri-leva-8-pontos-na-sobrancelha-apos-choque-em-sao-paulo-x-cruzeiro,ea7214a1adebf778ca2237f943e33c7cqeq8z5k3.html",
-        "data": "05/04/2026 05:09",
+        "data": "05/04/2026 07:01",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/05/calleri-qe4c3cy11so1.png"
@@ -474,7 +474,7 @@
     {
         "titulo": "Campeão nacional terá que vender estádio em plano de recuperação judicial",
         "link": "https://www.terra.com.br/esportes/tupi/campeao-nacional-tera-que-vender-estadio-em-plano-de-recuperacao-judicial,53f79777ac4572ca8785778b317aba878pnbnkc6.html",
-        "data": "05/04/2026 05:09",
+        "data": "05/04/2026 07:01",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/04/whatsapp-image-2026-04-04-at-19-53-55-ubooc83p738y.jpeg"
