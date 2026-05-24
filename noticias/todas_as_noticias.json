@@ -1,163 +1,195 @@
 [
     {
-        "titulo": "VÍDEOS: Amazônia Agro Acre deste domingo, 24 de maio de 2026",
-        "link": "https://g1.globo.com/ac/acre/playlist/videos-amazonia-agro-acre-deste-domingo-24-de-maio-de-2026.ghtml",
-        "data": "24/05/2026 15:48",
+        "titulo": "Porsche pega fogo e é abandonado após acidente na Barra Funda, em SP",
+        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/05/24/porsche-pega-fogo-e-e-abandonado-apos-acidente-na-barra-funda-em-sp.ghtml",
+        "data": "24/05/2026 19:02",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/jOxsQ2mIVbi92Ja46WwKTtKIk8s=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/X/W7Se9iReWw59HV6o901w/avenida-antartica-proximo-ao-local-onde-porsche-pegou-fogo-e-foi-abandonado.jpg"
+    },
+    {
+        "titulo": "Polícia apreende carga irregular de vinhos importados avaliada em R$ 100 mil em rodovia de Angatuba",
+        "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/05/24/policia-apreende-carga-irregular-de-vinhos-importados-avaliada-em-r-100-mil-em-rodovia-de-angatuba.ghtml",
+        "data": "24/05/2026 19:01",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/B_aeIqqiIbcC3B_XaMAl60hM6eM=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/H/fkm653SIOnaY9s4GWp5Q/whatsapp-image-2026-05-24-at-15.50.22.jpeg"
+    },
+    {
+        "titulo": "Bingos, comidas típicas e fogueira: Veja onde aproveitar os arraiais em Rio Branco",
+        "link": "https://g1.globo.com/ac/acre/noticia/2026/05/24/bingos-comidas-tipicas-e-fogueira-veja-onde-aproveitar-os-arraiais-em-rio-branco.ghtml",
+        "data": "24/05/2026 19:00",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/sceCdZbucakeZFYZ1LEp8zKjNX8=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/j/pOvpvPRrGwV7ACQmCIeQ/midia-de-distribuicao-g1-2026-05-24t121842.661.png"
+    },
+    {
+        "titulo": "Vocalista da banda Scalene cai durante show em Brasília e leva oito pontos na cabeça",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/05/24/vocalista-da-banda-scalene-cai-durante-show-em-brasilia.ghtml",
+        "data": "24/05/2026 18:58",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/gY0VD48ZqZyrsZHDZeRkucdg4aQ=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/i/76xmJGSwWXMJdyzQw7BQ/scalene.png"
+    },
+    {
+        "titulo": "Jovem monta telescópios com materiais recicláveis, viraliza nas redes sociais e realiza sonho de observar o espaço: 'Tenho orgulho de ter feito acontecer'",
+        "link": "https://g1.globo.com/pb/paraiba/noticia/2026/05/24/jovem-monta-telescopios-caseiros-viraliza-nas-redes-e-realiza-sonho-de-observar-o-espaco.ghtml",
+        "data": "24/05/2026 18:58",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/fXZ4jnCYL2vAfeu7iUfEEMSiVF4=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/N/1yo0l6T0yuP3QmzxBAcQ/whatsapp-image-2026-05-22-at-13.05.04.jpeg"
+    },
+    {
+        "titulo": "Festival Gastronômico de Itapecerica explora tradição e sabor da região; veja a programação",
+        "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/05/24/festival-gastronomico-de-itapecerica-explora-tradicao-e-sabor-da-regiao-veja-a-programacao.ghtml",
+        "data": "24/05/2026 18:56",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/jPK8U7uIlB5dFFwWFtim20C6SNg=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/L/D/PGTZAKTMC0DNkFBbciSA/32.jpg"
+    },
+    {
+        "titulo": "Trump volta a defender acordo para barrar armas nucleares do Irã; texto prevê entrega de arsenal para reabrir Ormuz, diz jornal",
+        "link": "https://g1.globo.com/mundo/noticia/2026/05/24/trump-acordo-armas-nucleares-ira-texto-preliminar-reabrir-ormuz.ghtml",
+        "data": "24/05/2026 18:53",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/W3XyHuA3hhHwaj0wRWfeoqM9hVc=/4550x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/j/rv6BBHQUGBFqeQG5Zw8Q/ap26142800761496.jpg"
+    },
+    {
+        "titulo": "VÍDEO: Assista ao Amazônia Agro  deste domingo, 24 de maio de 2026",
+        "link": "https://g1.globo.com/am/amazonas/playlist/video-assista-ao-amazonia-agro-deste-domingo-24-de-maio-de-2026.ghtml",
+        "data": "24/05/2026 18:52",
         "fonte": "G1",
         "metodo": "RSS",
         "image": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1"
     },
     {
-        "titulo": "Casos de gripe aumentam 217% em Cuiabá e prefeitura alerta para baixa procura por vacina",
-        "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/05/24/casos-de-gripe-aumentam-217percent-em-cuiaba-e-prefeitura-alerta-para-baixa-procura-por-vacina.ghtml",
-        "data": "24/05/2026 15:47",
+        "titulo": "O que se sabe sobre o caso do pé humano encontrado às margens de rodovia no Tocantins",
+        "link": "https://g1.globo.com/to/tocantins/noticia/2026/05/24/o-que-se-sabe-sobre-o-caso-do-pe-humano-encontrado-as-margens-de-rodovia-no-tocantins.ghtml",
+        "data": "24/05/2026 18:46",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+        "image": "https://s2-g1.glbimg.com/KlXWPbPrUScPrU3VJga5P4QD-lE=/1300x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/g/E490ObT2irHrpb7jlh3g/jhenyfer.png"
     },
     {
-        "titulo": "Resultado da Mega-Sena: três apostas do interior de SP quase levam os R$ 336 milhões",
-        "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/05/24/resultado-da-mega-sena-tres-apostas-do-interior-de-sp-quase-levam-os-r-336-milhoes.ghtml",
-        "data": "24/05/2026 15:46",
+        "titulo": "Dona de bar deu a vida para salvar bebê da melhor amiga em acidente com caminhão desgovernado",
+        "link": "https://g1.globo.com/go/goias/noticia/2026/05/24/dona-de-bar-deu-a-vida-para-salvar-bebe-da-melhor-amiga-em-acidente-com-caminhao-desgovernado.ghtml",
+        "data": "24/05/2026 18:42",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/QnW9aic1L_cIt4fRaSOwF1RDk8g=/1400x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/8/k/9bOZdAT5CPTLZUmPsvTg/mega-sena-agencia-brasil-1-.png"
+        "image": "https://s2-g1.glbimg.com/tvuQjZmHYwxDtuj6hEW2CLDmxc8=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/c/sMJmCrTdaQ5YOlE0P2Mg/imagens-g1-17-.jpg"
     },
     {
-        "titulo": "Candiru: vídeo mostra peixe amazônico temido devorando frango inteiro em menos de dois minutos em RO",
-        "link": "https://g1.globo.com/ro/rondonia/noticia/2026/05/24/candiru-video-mostra-peixe-amazonico-temido-devorando-frango-inteiro-em-menos-de-dois-minutos-em-ro.ghtml",
-        "data": "24/05/2026 15:45",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/KJ_EncrZUCbkM3_mpKazzVHmzYA=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/6/jkj7ybSjWYSAtwHeWe1w/blank-3-grids-collage.jpg"
-    },
-    {
-        "titulo": "Mega-Sena de 30 anos: Cinco apostas do Vale e região 'batem na trave' e faturam, juntas, R$ 166 mil",
-        "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/05/24/mega-sena-de-30-anos-cinco-apostas-do-vale-e-regiao-batem-na-trave-e-faturam-juntas-r-166-mil.ghtml",
-        "data": "24/05/2026 15:44",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/m4wWkOGVhtfUST2Gvih8fANgDbY=/4200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/G/mB5RQHTcABM79aB8zhEw/fta20260519153.jpg"
-    },
-    {
-        "titulo": "RS tem apostas da quina da Mega-Sena especial de 30 anos com prêmios que passam de R$ 55 mil; veja cidades",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/24/rs-apostas-quina-mega-sena-especial-de-30-anos-premios-passam-de-r-55-mil-veja-cidades.ghtml",
-        "data": "24/05/2026 15:44",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/1iozz4lxd24HeAexEvfF8_MBfV0=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/Z/Bz3OQBSgu9Hg4lAz2yww/whatsapp-image-2026-05-24-at-11.11.25.jpeg"
-    },
-    {
-        "titulo": "Sorteio da Mega-Sena de 30 anos premia quatro apostas de MS; veja valores",
-        "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/05/24/sorteio-da-mega-sena-de-30-anos-premia-quatro-apostas-de-ms-veja-valores.ghtml",
-        "data": "24/05/2026 15:40",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/q4S3Eqx-451QxfU8Sz83QQ_rlMw=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg"
-    },
-    {
-        "titulo": "Jovem que morreu em acidente na zona norte de Sorocaba era estudante premiado e fazia trabalho social em escola pública",
-        "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/05/24/jovem-que-morreu-em-acidente-na-zona-norte-de-sorocaba-era-estudante-premiado-e-fazia-trabalho-social-em-escola-publica.ghtml",
-        "data": "24/05/2026 15:37",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/2yTZuc1prL4uJDrdsovSV3oSziI=/1599x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/srE4x2TRKBrdNdzUaaug/whatsapp-image-2026-05-24-at-11.47.02.jpeg"
-    },
-    {
-        "titulo": "Imposto de Renda 2026: mais de 150 mil paraibanos ainda não enviaram a declaração",
-        "link": "https://g1.globo.com/pb/paraiba/noticia/2026/05/24/imposto-de-renda-2026-mais-de-150-mil-paraibanos-ainda-nao-enviaram-a-declaracao.ghtml",
-        "data": "24/05/2026 15:36",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
-    },
-    {
-        "titulo": "Falsos QR Codes, boletins de ocorrência forjados, links por SMS: veja como evitar golpes financeiros",
-        "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/05/24/falsos-qr-codes-boletins-de-ocorrencia-forjados-links-por-sms-veja-como-evitar-golpes-financeiros.ghtml",
-        "data": "24/05/2026 15:36",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/pWkWw7b5Rq9nlhl2ZTWaewcF170=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/j/p345AOQEOtfC3L5nKKWg/molduras-g1-.png"
-    },
-    {
-        "titulo": "China realiza lançamento da missão tripulada Shenzhou-23",
-        "link": "https://www.cnnbrasil.com.br/ciencia/china-realiza-lancamento-da-missao-tripulada-shenzhou-23/",
-        "data": "24/05/2026 15:43",
+        "titulo": "MPRS avalia uso obrigatório de câmeras corporais por policiais militares",
+        "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/mprs-avalia-uso-obrigatorio-de-cameras-corporais-por-policiais-militares/",
+        "data": "24/05/2026 18:50",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/missao-china.png?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/jvhvcjcjvkb-e1760803435782.jpg?w=1024&h=512&crop=1"
     },
     {
-        "titulo": "Em meio às expectativas por acordo, relembre como começou a guerra no Irã",
-        "link": "https://www.cnnbrasil.com.br/internacional/em-meio-as-expectativas-por-acordo-relembre-como-comecou-a-guerra-no-ira/",
-        "data": "24/05/2026 15:42",
+        "titulo": "Rolex usado por Drake na capa de ‘Take Care’ é vendido por R$ 2,5 milhões",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/rolex-usado-por-drake-na-capa-de-take-care-e-vendido-por-r-25-milhoes/",
+        "data": "24/05/2026 18:50",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/ap26059256811672-e1772487765983.avif?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/drake-relogio.jpg?w=1080&h=630&crop=1"
     },
     {
-        "titulo": "NR-1: entenda o que muda e importância da nova norma, segundo especialistas",
-        "link": "https://www.cnnbrasil.com.br/saude/nr-1-entenda-o-que-muda-e-importancia-da-nova-norma-segundo-especialistas/",
-        "data": "24/05/2026 15:30",
+        "titulo": "Bahrein condena nove pessoas à prisão perpétua por apoio à Guarda do Irã",
+        "link": "https://www.cnnbrasil.com.br/internacional/bahrein-condena-nove-pessoas-a-prisao-perpetua-por-apoio-a-guarda-do-ira/",
+        "data": "24/05/2026 18:49",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Assedio-sexual-em-local-de-trabalho-cresceu-40-em-2025-segundo-TST.png?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/GettyImages-2173673774.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Caso Gabriel Ganley: atleta tomava remédios para sensibilidade à insulina",
-        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/caso-gabriel-ganley-atleta-tomava-remedios-para-sensibilidade-a-insulina/",
-        "data": "24/05/2026 15:20",
+        "titulo": "Irã não concordou em entregar urânio enriquecido, diz fonte sênior iraniana",
+        "link": "https://www.cnnbrasil.com.br/internacional/ira-nao-concordou-em-entregar-uranio-enriquecido-diz-fonte-senior-iraniana/",
+        "data": "24/05/2026 18:46",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/SENSIBILIDADE-INSULINA-GANLEY.png?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/GettyImages-52511132.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "João Fonseca encara Luka Pavlovic em Roland Garros: acompanhe ao vivo",
-        "link": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-encara-pavlovic-em-roland-garros-acompanhe-ao-vivo/",
-        "data": "24/05/2026 15:16",
+        "titulo": "Treinador de Ganley se pronuncia após morte: “Piores dias da minha vida”",
+        "link": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/treinador-de-ganley-se-pronuncia-apos-morte-piores-dias-da-minha-vida/",
+        "data": "24/05/2026 18:38",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/joao-fonseca-e1776995600849.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-de-Copia-d.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "EUA e Irã: negociações se aproximam do fim em dia simbólico para iranianos",
-        "link": "https://www.cnnbrasil.com.br/internacional/eua-e-ira-negociacoes-se-aproximam-do-fim-em-dia-simbolico-para-iranianos/",
-        "data": "24/05/2026 15:10",
+        "titulo": "“Casa do Patrão”: 3 mudanças feitas por Boninho (a última é a mais radical)",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/casa-do-patrao-3-mudancas-feitas-por-boninho-a-ultima-e-a-mais-radical/",
+        "data": "24/05/2026 18:35",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Outdoor-anti-EUA-em-Teera.jpg?w=800&h=533&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/leandro-hassum-apresentador-casa-do-patrao.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Tom King reúne equipe para criação de quadrinho que lembra “Friends”",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/tom-king-reune-equipe-para-criacao-de-quadrinho-que-lembra-friends/",
-        "data": "24/05/2026 15:01",
+        "titulo": "Brunna Gonçalves entra em trend e posta foto com Ludmilla em 2017",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/brunna-goncalves-entra-em-trend-e-posta-foto-com-ludmilla-em-2017/",
+        "data": "24/05/2026 18:33",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Sis-Of-Us.webp?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/04/brunna-e-ludmilla.png?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Bitcoin no caixa das empresas gera barulho, diz CEO da Financial Move",
-        "link": "https://www.cnnbrasil.com.br/economia/negocios/bitcoin-no-caixa-das-empresas-gera-barulho-diz-ceo-da-financial-move/",
-        "data": "24/05/2026 15:00",
+        "titulo": "Setor imobiliário volta a ser o queridinho dos investidores",
+        "link": "https://www.cnnbrasil.com.br/economia/mercado/setor-imobiliario-volta-a-ser-o-queridinho-dos-investidores/",
+        "data": "24/05/2026 18:30",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/qndo-bitcoin-pizzaday-WirestockMagnific.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/19542_702BD9CC81691B60.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Longe da TV há três anos, qual é o estado de saúde de Faustão?",
-        "link": "https://www.cnnbrasil.com.br/entretenimento/longe-da-tv-ha-tres-anos-qual-e-o-estado-de-saude-de-faustao/",
-        "data": "24/05/2026 15:00",
+        "titulo": "Protesto na Espanha condena tratamento dado a ativistas de flotilha",
+        "link": "https://www.cnnbrasil.com.br/internacional/protesto-na-espanha-condena-tratamento-dado-a-ativistas-de-flotilha/",
+        "data": "24/05/2026 18:29",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/6-Renato-Pizzutto-Band.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Agressao-a-membros-de-flotilha-que-chegaram-a-Espanha.jpg?w=960&h=540&crop=1"
     },
     {
-        "titulo": "Caso Henry Borel: saiba quem é Monique Medeiros, acusada de matar o filho",
-        "link": "https://www.cnnbrasil.com.br/noticias/caso-henry-borel-saiba-quem-e-monique-medeiros-acusada-de-matar-o-filho/",
-        "data": "24/05/2026 15:00",
+        "titulo": "Shakira relembra divórcio de Piqué: “Momento sombrio”",
+        "link": "https://www.cnnbrasil.com.br/entretenimento/shakira-relembra-divorcio-de-pique-momento-sombrio/",
+        "data": "24/05/2026 18:22",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/33009_E718ED5C6860E4E6.jpeg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/10/GettyImages-1250546129-e1696367151183.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Irã muda base, sai dos EUA e vai para Tijuana",
+        "link": "https://jovempan.com.br/opiniao-jovem-pan/comentaristas/wanderley-nogueira-comentaristas/ira-muda-base-sai-dos-eua-e-vai-para-tijuana.html",
+        "data": "24/05/2026 19:12",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2026/05/afp__20260518__b3737gj__v1__midres__fbliriwc2026-1024x683.jpg"
+    },
+    {
+        "titulo": "Líder do Hezbollah afirma ter esperança em acordo Irã-EUA que inclua o grupo",
+        "link": "https://jovempan.com.br/noticias/mundo/lider-do-hezbollah-afirma-ter-esperanca-em-acordo-ira-eua-que-inclua-o-grupo.html",
+        "data": "24/05/2026 18:16",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2026/02/imagem-jvp-2026-02-21t100013.580.png"
+    },
+    {
+        "titulo": "João Fonseca vence francês Luka Pavlovic na estreia de Roland Garros",
+        "link": "https://jovempan.com.br/esportes/outros-esportes/joao-fonseca-vence-frances-luka-pavlovic-na-estreia-de-roland-garros.html",
+        "data": "24/05/2026 17:46",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2026/05/design-sem-nome-2026-05-24t144312.794.png"
+    },
+    {
+        "titulo": "Trump modera expectativas sobre acordo iminente com o Irã para o fim da guerra",
+        "link": "https://jovempan.com.br/noticias/mundo/trump-eua-acordo-fim-guerra.html",
+        "data": "24/05/2026 17:14",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jpimg.com.br/uploads/2026/05/design-sem-nome-2026-05-24t141339.608.png"
     },
     {
         "titulo": "Colisão entre ônibus e carreta deixa oito mortos na BR-251 em MG",
@@ -189,7 +221,7 @@
         "data": "24/05/2026 13:53",
         "fonte": "Jovem Pan",
         "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/05/design-sem-nome-2026-05-24t105139.992.png"
+        "image": "https://jpimg.com.br/uploads/2026/05/design-sem-nome-2026-05-24t142456.755.png"
     },
     {
         "titulo": "Catar, Paquistão e Turquia viram peças centrais na mediação de guerras de grandes potências",
@@ -208,355 +240,323 @@
         "image": "https://jpimg.com.br/uploads/2026/05/design-sem-nome-2026-05-24t095447.253.png"
     },
     {
-        "titulo": "EUA e Irã avançam em acordo para encerrar conflito e reabrir Estreito de Ormuz",
-        "link": "https://jovempan.com.br/noticias/mundo/eua-e-ira-avancam-em-acordo-para-encerrar-conflito-e-reabrir-estreito-de-ormuz.html",
-        "data": "24/05/2026 12:22",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/05/design-sem-nome-2026-05-24t092053.442.png"
-    },
-    {
-        "titulo": "Moda em Campo",
-        "link": "https://jovempan.com.br/entretenimento/lifestyle/moda-em-campo.html",
-        "data": "24/05/2026 12:00",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/05/roupa-da-copa.jpg"
-    },
-    {
-        "titulo": "Irã executa homem acusado de espionagem para Estados Unidos e Israel",
-        "link": "https://jovempan.com.br/noticias/mundo/ira-executa-homem-acusado-de-espionagem-para-estados-unidos-e-israel.html",
-        "data": "24/05/2026 11:42",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2026/05/design-sem-nome-2026-05-24t084107.583.png"
-    },
-    {
-        "titulo": "Jovens brasileiros se preocupam mais com as mudanças climáticas, aponta estudo",
-        "link": "https://jovempan.com.br/noticias/mundo/jovens-brasileiros-se-preocupam-mais-com-as-mudancas-climaticas-aponta-estudo.html",
-        "data": "24/05/2026 11:26",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jpimg.com.br/uploads/2025/07/imagem-jvp-13-1.png"
-    },
-    {
-        "titulo": "Assembleias inflam quadro de servidores e chegam a 143 comissionados por deputado",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/assembleias-inflam-quadro-de-servidores-e-chegam-a-143-comissionados-por-deputado.shtml",
-        "data": "24/05/2026 15:57",
+        "titulo": "Mortes: Professor foi referência em demografia dos povos indígenas",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/mortes-professor-foi-referencia-em-demografia-dos-povos-indigenas.shtml",
+        "data": "24/05/2026 19:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/05/20/17793003986a0df82e96090_1779300398_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/05/05/177801243069fa510e7a80e_1778012430_3x2_lg.jpg"
     },
     {
-        "titulo": "Reforma tributária enfrenta pressão de 50 projetos no Congresso em ano eleitoral",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/reforma-tributaria-enfrenta-pressao-de-50-projetos-no-congresso-em-ano-eleitoral.shtml",
-        "data": "24/05/2026 15:49",
+        "titulo": "Porto Digital do Recife se mobiliza para sobreviver à reforma tributária",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/05/porto-digital-do-recife-se-mobiliza-para-sobreviver-a-reforma-tributaria.shtml",
+        "data": "24/05/2026 19:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/05/21/17793804726a0f30f84fda6_1779380472_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/05/15/17788778946a0785c6f12ef_1778877894_3x2_rt.jpg"
     },
     {
-        "titulo": "Polícia da Turquia invade sede de partido de oposição e expulsa presidente da sigla",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/policia-da-turquia-invade-sede-de-partido-de-oposicao-e-expulsa-presidente-da-sigla.shtml",
-        "data": "24/05/2026 15:47",
+        "titulo": "Tom Hardy está fora da terceira temporada de 'Mobland', diz site",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/05/tom-hardy-esta-fora-da-terceira-temporada-de-mobland-diz-site.shtml",
+        "data": "24/05/2026 18:51",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/05/24/17796347586a131246d03fc_1779634758_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/05/24/17796483106a134736887fa_1779648310_3x2_rt.jpg"
     },
     {
-        "titulo": "Jatinho sai da pista e quebra asa em pouso no Aeroclube de Santa Catarina",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/jatinho-sai-da-pista-e-quebra-asa-em-pouso-no-aeroclube-de-santa-catarina.shtml",
-        "data": "24/05/2026 15:46",
+        "titulo": "Por que o impacto eleitoral da economia está diminuindo?",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/05/por-que-o-impacto-eleitoral-da-economia-esta-diminuindo.shtml",
+        "data": "24/05/2026 18:45",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/05/24/17796365956a131973646a5_1779636595_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2024/10/07/17283016136703ca2d39574_1728301613_3x2_rt.jpg"
     },
     {
-        "titulo": "Acionistas pressionam big techs sobre uso de energia por IA e metas climáticas",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/acionistas-pressionam-big-techs-sobre-uso-de-energia-por-ia-e-metas-climaticas.shtml",
-        "data": "24/05/2026 15:41",
+        "titulo": "Brasileiros voltam ao Largados e Pelados para disputa de campeões: 'Não é por nós, é pelo país'",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/05/brasileiros-voltam-ao-largados-e-pelados-para-disputa-de-campeoes-nao-e-por-nos-e-pelo-pais.shtml",
+        "data": "24/05/2026 18:30",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/05/24/17796367576a131a1566989_1779636757_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/05/21/17794068596a0f980b8267d_1779406859_3x2_rt.jpg"
     },
     {
-        "titulo": "Trump desafia limites da comunicação política com fluxo crescente de imagens de IA",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/trump-desafia-limites-da-comunicacao-politica-com-fluxo-crescente-de-imagens-de-ia.shtml",
-        "data": "24/05/2026 15:40",
+        "titulo": "Arlindinho agita público pequeno com hits de Arlindo Cruz na Virada Cultural",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/arlindinho-agita-publico-pequeno-com-hits-de-arlindo-cruz-na-virada-cultural.shtml",
+        "data": "24/05/2026 18:13",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/05/24/17796308646a130310c81ae_1779630864_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/05/24/17796459706a133e12452e3_1779645970_3x2_rt.jpg"
     },
     {
-        "titulo": "Trump diz que que manterá bloqueio em Hormuz e pede que negociadores de acordo não se precipitem",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/trump-diz-que-que-mantera-bloqueio-em-hormuz-e-pede-que-negociadores-de-acordo-nao-se-precipitem.shtml",
-        "data": "24/05/2026 15:15",
+        "titulo": "Titular absoluto no gol da seleção, Alisson chega à Copa do Mundo atormentado por lesões",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/05/titular-absoluto-no-gol-da-selecao-alisson-chega-a-copa-do-mundo-atormentado-por-lesoes.shtml",
+        "data": "24/05/2026 18:03",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/05/24/17796349506a1313061599f_1779634950_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/05/24/17796488416a1349493fac9_1779648841_3x2_rt.jpg"
     },
     {
-        "titulo": "Quanto vale o culto Bolsonaro?",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mafalda-anjos/2026/05/quanto-vale-o-culto-bolsonaro.shtml",
+        "titulo": "Jairinho e Monique voltam a júri por morte de Henry Borel nesta segunda (25)",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/jairinho-e-monique-voltam-a-juri-por-morte-de-henry-borel-nesta-segunda-25.shtml",
+        "data": "24/05/2026 18:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/03/25/177447414369c4539fad887_1774474143_3x2_xl.jpg"
+    },
+    {
+        "titulo": "Estou solteira e infeliz, preciso ir ao casamento da minha amiga? Terapeuta responde",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/05/estou-solteira-e-infeliz-preciso-ir-ao-casamento-da-minha-amiga-terapeuta-responde.shtml",
+        "data": "24/05/2026 18:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2021/04/17/1618709033607b8a2971aed_1618709033_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Estimulação elétrica cerebral é aprovada nos EUA para tratar depressão",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/05/estimulacao-eletrica-cerebral-e-aprovada-nos-eua-para-tratar-depressao.shtml",
+        "data": "24/05/2026 18:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/05/21/17793792896a0f2c59a55bf_1779379289_3x2_xl.jpg"
+    },
+    {
+        "titulo": "Milan x Cagliari: horário, onde assistir e cenário do jogo",
+        "link": "https://exame.com/esporte/milan-x-cagliari-horario-onde-assistir-e-cenario-do-jogo/",
+        "data": "24/05/2026 16:00",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2022/05/fbl-eur-uefa-super-c1-3.jpg"
+    },
+    {
+        "titulo": "Nova temporada do The Best Speaker Brasil abre inscrições em junho com prêmio de R$ 1 milhão",
+        "link": "https://exame.com/negocios/nova-temporada-do-the-best-speaker-brasil-abre-inscricoes-em-junho-com-premio-de-r-1-milhao/",
+        "data": "24/05/2026 15:07",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2026/05/unnamed_4619c2.jpg"
+    },
+    {
+        "titulo": "Lucro das empresas do S&P 500 cresce dois dígitos por seis trimestres seguidos",
+        "link": "https://exame.com/invest/mercados/lucro-das-empresas-do-sp-500-cresce-dois-digitos-por-seis-trimestres-seguidos/",
         "data": "24/05/2026 15:00",
-        "fonte": "Folha de S.Paulo",
+        "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/05/24/17796264806a12f1f00f288_1779626480_3x2_rt.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2025/09/nyse-payroll-eua.jpg"
     },
     {
-        "titulo": "A potência do VAAR",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2026/05/a-potencia-do-vaar.shtml",
+        "titulo": "Em meio à crise no Oriente Médio, EUA reforçam aproximação com Índia em energia e segurança",
+        "link": "https://exame.com/mundo/em-meio-a-crise-no-oriente-medio-eua-reforcam-aproximacao-com-india-em-energia-e-seguranca/",
         "data": "24/05/2026 15:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/02/12/173939147267ad01f03182d_1739391472_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Privatização da Eletrobras tem R$ 3,7 bi encalhados em fundos para rios e saneamento",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/privatizacao-da-eletrobras-tem-r-37-bi-encalhados-em-fundos-para-rios-e-saneamento.shtml",
-        "data": "24/05/2026 15:00",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/03/14/174199182767d4af932725e_1741991827_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Décimo terceiro: beneficiários do INSS já podem consultar se parcela está disponível",
-        "link": "https://exame.com/invest/minhas-financas/decimo-terceiro-beneficiarios-do-inss-ja-podem-consultar-se-parcela-esta-disponivel/",
-        "data": "24/05/2026 12:31",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2024/01/20231102_131516-e1710341870633.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/05/AFP__20260520__B3G43NQ__v1__HighRes__UsCubaTensions.jpg"
     },
     {
-        "titulo": "Turismo do café: 5 fazendas para visitar em diferentes regiões do Brasil",
-        "link": "https://exame.com/casual/turismo-do-cafe-5-fazendas-para-visitar-em-diferentes-regioes-do-brasil/",
-        "data": "24/05/2026 12:04",
+        "titulo": "João Fonseca em Roland Garros: brasileiro ganha na estreia e avança à 2ª rodada",
+        "link": "https://exame.com/esporte/joao-fonseca-em-roland-garros-brasileiro-ganha-na-estreia-e-avanca-a-2a-rodada/",
+        "data": "24/05/2026 14:47",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/05/cafe.png"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/05/AFP__20260524__B3WK39N__v1__HighRes__TennisFraOpen2026.jpg"
     },
     {
-        "titulo": "iFood e Rappi podem levar multa de R$ 14 mi por não mostrarem quanto pagam a entregadores",
-        "link": "https://exame.com/brasil/ifood-e-rappi-podem-levar-multa-de-r-14-mi-por-nao-mostrarem-quanto-pagam-a-entregadores/",
-        "data": "24/05/2026 12:00",
+        "titulo": "Primeiro teste nuclear da história criou material nunca visto, diz estudo",
+        "link": "https://exame.com/ciencia/primeiro-teste-nuclear-da-historia-criou-material-nunca-visto-diz-estudo/",
+        "data": "24/05/2026 14:23",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2025/08/ifood-mottu.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_energia_nuclear5.jpg"
     },
     {
-        "titulo": "Resultado da Mega-Sena 30 anos: os números sorteados do prêmio de R$ 336 milhões",
-        "link": "https://exame.com/invest/minhas-financas/resultado-da-mega-sena-30-anos-os-numeros-sorteados-do-premio-de-r-336-milhoes/",
-        "data": "24/05/2026 11:44",
+        "titulo": "Enquanto Trump esfria expectativa de acordo com Irã, Israel intensifica ataques no Líbano",
+        "link": "https://exame.com/mundo/enquanto-trump-esfria-expectativa-de-acordo-com-ira-israel-intensifica-ataques-no-libano/",
+        "data": "24/05/2026 14:15",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/05/mega-sena-30-anos-mc_abr_23052026-3-1.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/05/AFP__20260524__B3WL664__v1__HighRes__LebanonIsraelIranUsWar.jpg"
     },
     {
-        "titulo": "A 18 dias da Copa, o recorde 'inalcançável' de Brasil e Alemanha",
-        "link": "https://exame.com/esporte/a-18-dias-da-copa-o-recorde-inalcancavel-de-brasil-e-alemanha/",
-        "data": "24/05/2026 11:39",
+        "titulo": "Astronautas envelhecem mais rápido no espaço? Ciência vê ligação com vida na Terra",
+        "link": "https://exame.com/ciencia/astronautas-envelhecem-mais-rapido-no-espaco-ciencia-ve-ligacao-com-vida-na-terra/",
+        "data": "24/05/2026 14:05",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/05/Captura-de-tela-2026-05-24-113624.png"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/02/beautiful-planets-space.jpg"
     },
     {
-        "titulo": "Irã diz que será o responsável pela segurança de Ormuz sob 'nova ordem e sem estrangeiros'",
-        "link": "https://exame.com/mundo/ira-diz-que-sera-o-responsavel-pela-seguranca-de-ormuz-sob-nova-ordem-e-sem-estrangeiros/",
-        "data": "24/05/2026 11:15",
+        "titulo": "Como a borracha apaga o lápis? Como a ciência explica uma ação tão comum",
+        "link": "https://exame.com/ciencia/como-a-borracha-apaga-o-lapis-como-a-ciencia-explica-uma-acao-tao-comum/",
+        "data": "24/05/2026 13:50",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/04/navios-estreito-de-ormuz.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2017/08/lapis-borracha.jpg"
     },
     {
-        "titulo": "Imposto de Renda 2026: mais de 13 milhões ainda não declararam",
-        "link": "https://exame.com/invest/minhas-financas/imposto-de-renda-2026-mais-de-13-milhoes-ainda-nao-declararam/",
-        "data": "24/05/2026 11:07",
+        "titulo": "Asteroides destruíram dinossauros, mas podem ter ajudado a criar a vida na Terra",
+        "link": "https://exame.com/ciencia/asteroides-destruiram-dinossauros-mas-podem-ter-ajudado-a-criar-a-vida-na-terra/",
+        "data": "24/05/2026 13:39",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/05/mg_6798.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/05/cratera.webp"
     },
     {
-        "titulo": "Vancouver na Copa 2026: turismo na cidade mais europeia do Canadá",
-        "link": "https://exame.com/casual/vancouver-na-copa-2026-turismo-na-cidade-mais-europeia-do-canada/",
-        "data": "24/05/2026 11:03",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/05/vancouver-copa-do-mundo.jpg"
-    },
-    {
-        "titulo": "O fim das senhas: como as passkeys funcionam? Vale a pena usar?",
-        "link": "https://exame.com/tecnologia/examelab/o-fim-das-senhas-como-as-passkeys-funcionam-vale-a-pena-usar/",
-        "data": "24/05/2026 11:00",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2023/02/GettyImages-672196575.jpg"
-    },
-    {
-        "titulo": "Pílula da dona do Mounjaro mantém perda de peso com caneta emagrecedora",
-        "link": "https://exame.com/invest/mercados/pilula-da-dona-do-mounjaro-mantem-perda-de-peso-com-caneta-emagrecedora/",
-        "data": "24/05/2026 11:00",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2021/01/GettyImages-865564894.jpg"
-    },
-    {
-        "titulo": "'Assumiu o risco': ouça o áudio do VAR sobre expulsão de Carrascal",
-        "link": "https://www.terra.com.br/esportes/futebol/assumiu-o-risco-ouca-o-audio-do-var-sobre-expulsao-de-carrascal-em-flamengo-e-palmeiras,467b99acf5f9e00bab30b34286174361gfq0gdge.html",
-        "data": "24/05/2026 15:59",
+        "titulo": "Cruzeiro encara a Chapecoense pelo Brasileirão; siga lances",
+        "link": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/ao-vivo/cruzeiro-x-chapecoense/95487/",
+        "data": "24/05/2026 19:12",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/24/lance-var-s4sdoad5twz6.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/628/s1.trrsf.com/live/thumbs/cruzeiro-x-chapecoense-95487.png"
+    },
+    {
+        "titulo": "De olho no G-4, Athletico-PR visita Remo; acompanhe",
+        "link": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/ao-vivo/remo-x-athletico-pr/95488/",
+        "data": "24/05/2026 19:12",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/628/s1.trrsf.com/live/thumbs/remo-x-athletico-pr-95488.png"
     },
     {
         "titulo": "Deolane tem pedido de prisão domiciliar negado por Flávio Dino",
-        "link": "https://www.terra.com.br/diversao/gente/deolane-tem-pedido-de-prisao-domiciliar-negado-por-flavio-dino-em-investigacao-sobre-lavagem-de-dinheiro-ligada-ao-pcc,c9880bdce2e13d72008f37f7309adca8oin6llaf.html",
-        "data": "24/05/2026 15:59",
+        "link": "https://www.terra.com.br/noticias/brasil/deolane-tem-pedido-de-prisao-domiciliar-negado-por-flavio-dino-em-investigacao-sobre-lavagem-de-dinheiro-ligada-ao-pcc,c9880bdce2e13d72008f37f7309adca8oin6llaf.html",
+        "data": "24/05/2026 19:12",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/22/123650296-o6yos344wzh7bj6nu2ikd223si.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/245297739-v24dcs43cnccjfgb2rv6jevena.jpg"
     },
     {
-        "titulo": "O que se sabe e o que falta descobrir sobre morte do fisiculturista Gabriel Ganley",
-        "link": "https://www.terra.com.br/esportes/o-que-se-sabe-e-o-que-falta-descobrir-sobre-morte-do-fisiculturista-gabriel-ganley-aos-22-anos,6c24f15c3659f2d0c96c0bf8133a341424ct6sim.html",
-        "data": "24/05/2026 15:59",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/23/1788373101-5ejpwv4avba5dexk62cq2sdtty.jpg"
-    },
-    {
-        "titulo": "Trump publica imagem de bombardeio no Estreito de Ormuz em meio a negociações",
-        "link": "https://www.terra.com.br/noticias/mundo/trump-publica-imagem-de-bombardeio-no-estreito-de-ormuz-em-meio-a-avanco-de-negociacoes-com-ira,3047e665140f3b7dceb404fe83186c542dys4kvm.html",
-        "data": "24/05/2026 15:59",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/24/58fed296233af5b7-1jeadvl20mjhw.jpg"
-    },
-    {
-        "titulo": "Globo não vai transmitir Brasileirão neste domingo; entenda",
-        "link": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/globo-nao-vai-transmitir-brasileirao-neste-domingo-entenda,82cfc0572b63a378cc840fd1727bdc5c9zsbp9zo.html",
-        "data": "24/05/2026 15:59",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/03/204759892-itusyrrzazcptc4ke2k7iyyjty.jpg"
-    },
-    {
-        "titulo": "Rafa Silva comemora 'alto nível' uma década após ouro e projeta última Olimpíada",
-        "link": "https://www.terra.com.br/esportes/lutas/rafa-silva-comemora-alto-nivel-uma-decada-apos-ouro-e-projeta-la-28-como-ultima-olimpiada,5945deee96e2b505e5a1a670c53d714d209dvquf.html",
-        "data": "24/05/2026 15:59",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/22/20260521_pinguim+spaten_spf2740-to4l94bl91yu.jpg"
-    },
-    {
-        "titulo": "Quem vai vencer a Copa do Mundo? Dê o seu chute para os jogos do Mundial",
-        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/bolao/bolao-dos-jogos/",
-        "data": "24/05/2026 15:59",
+        "titulo": "Tottenham vence o Everton e escapa do rebaixamento; veja os resultados do Inglês",
+        "link": "https://www.terra.com.br/esportes/futebol/tottenham-vence-o-everton-e-escapa-do-rebaixamento-na-premier-league-veja-todos-os-resultados,54aa3182e532b3830cdb19511f8a4c68jgjs0rm0.html",
+        "data": "24/05/2026 19:12",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
     },
     {
-        "titulo": "Trump diz que atirador tinha 'possível obsessão' pela Casa Branca",
+        "titulo": "'Assumiu o risco': ouça o áudio do VAR sobre expulsão de Carrascal",
+        "link": "https://www.terra.com.br/esportes/futebol/assumiu-o-risco-ouca-o-audio-do-var-sobre-expulsao-de-carrascal-em-flamengo-e-palmeiras,467b99acf5f9e00bab30b34286174361gfq0gdge.html",
+        "data": "24/05/2026 19:12",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/24/lance-var-s4sdoad5twz6.jpg"
+    },
+    {
+        "titulo": "O que se sabe e o que falta descobrir sobre morte do fisiculturista Gabriel Ganley",
+        "link": "https://www.terra.com.br/esportes/o-que-se-sabe-e-o-que-falta-descobrir-sobre-morte-do-fisiculturista-gabriel-ganley-aos-22-anos,6c24f15c3659f2d0c96c0bf8133a341424ct6sim.html",
+        "data": "24/05/2026 19:12",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/23/1788373101-5ejpwv4avba5dexk62cq2sdtty.jpg"
+    },
+    {
+        "titulo": "Sósia de Hugo Souza trabalha como entregador e teve ideia após parada em posto",
+        "link": "https://www.terra.com.br/esportes/corinthians/sosia-de-hugo-souza-trabalha-como-entregador-e-teve-ideia-de-personagem-apos-parada-em-posto-de-gasolina,a329e512637772d16acc45449ec2d91fazqb53hs.html",
+        "data": "24/05/2026 19:12",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/22/sosias-do-ronaldo-fenomeno-e-hugo-souza-se-encontram-na-neo-quimica-arena-fabio-shimab-terra-ubgvnf4z1lit.jpg"
+    },
+    {
+        "titulo": "Quem vai vencer a Copa do Mundo? Dê o seu chute para os jogos do Mundial",
+        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/bolao/bolao-dos-jogos/",
+        "data": "24/05/2026 19:12",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    },
+    {
+        "titulo": "Oito morrem em acidente entre ônibus e caminhão em rodovia em MG",
+        "link": "https://www.terra.com.br/noticias/brasil/cidades/oito-morrem-em-acidente-entre-onibus-e-caminhao-em-rodovia-em-mg,92b1f9e61e9a4f84f3fbb64653ac1df3tw5ruyjg.html",
+        "data": "24/05/2026 19:12",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/24/untitled-design-2026-05-24t120715-879-qe6ntaxrn1gy.png"
+    },
+    {
+        "titulo": "Trump diz que atirador tinha 'possível obsessão' pela Casa Branca após ataque",
         "link": "https://www.terra.com.br/noticias/mundo/trump-diz-que-atirador-tinha-possivel-obsessao-pela-casa-branca-apos-ataque-proximo-ao-predio,781596f0cccc6948550f8a3cfea4aa149ab2qd53.html",
-        "data": "24/05/2026 15:59",
+        "data": "24/05/2026 19:12",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/22/donald_trump_jr-trtm1wqlmmhx.jpg"
     },
     {
-        "titulo": "Rússia lança contra a Ucrânia míssil com capacidade nuclear",
-        "link": "https://www.terra.com.br/noticias/mundo/russia-lanca-contra-a-ucrania-missil-com-capacidade-nuclear,d615c49fe5d3776876478ce51cfbe8f1u09smekg.html",
-        "data": "24/05/2026 15:59",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/24/1316883181-77278653354.jpg"
-    },
-    {
-        "titulo": "Renovação e honestidade: o que o eleitor cobra de Lula e Flávio em 2026",
-        "link": "https://www.terra.com.br/noticias/brasil/politica/renovacao-moderacao-e-honestidade-o-que-o-eleitor-independente-cobra-de-lula-e-flavio-em-2026,30563f8daaa318ae05abc5b4b5ca3f03004b9dmh.html",
-        "data": "24/05/2026 15:59",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/24/1198638845-yfghg4c7pvas5bagaxor7yxp2u.jpg"
-    },
-    {
-        "titulo": "A segunda mulher trans a participar de um concurso de Miss Brasil",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/a-segunda-mulher-trans-a-participar-de-um-concurso-de-miss-brasil/",
-        "data": "24/05/2026 16:00",
+        "titulo": "Psicóloga de Rebeca Andrade explica como saúde mental é base de atletas",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/psicologa-de-rebeca-andrade-explica-como-saude-mental-e-base-de-atletas/",
+        "data": "24/05/2026 19:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-22-at-18.18.07.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2024/08/000_36AT68F.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "O que as publicações de Ganley dizem sobre sua morte",
-        "link": "https://veja.abril.com.br/esporte/o-que-as-publicacoes-de-ganley-dizem-sobre-sua-morte/",
-        "data": "24/05/2026 15:45",
+        "titulo": "Após sofrer virada, Bia Haddad cai na estreia em Roland Garros",
+        "link": "https://veja.abril.com.br/esporte/apos-sofrer-virada-bia-haddad-cai-na-estreia-em-roland-garros/",
+        "data": "24/05/2026 18:23",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/bbzinho.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/AFP__20260524__B3WB4N6__v1__HighRes__TennisFraOpen2026.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Flávio Bolsonaro mantém força nas redes mesmo após repercussão do caso Master",
-        "link": "https://veja.abril.com.br/brasil/flavio-bolsonaro-mantem-forca-nas-redes-mesmo-apos-repercussao-do-caso-master/",
-        "data": "24/05/2026 15:20",
+        "titulo": "Batida frontal entre ônibus e caminhão deixa pelo menos 8 mortos em MG",
+        "link": "https://veja.abril.com.br/brasil/batida-frontal-entre-onibus-e-caminhao-deixa-pelo-menos-8-mortos-em-mg/",
+        "data": "24/05/2026 18:15",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/cropped-55239954032_6fbb126643_o.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/acidente-onibus-mg-foto-corpo-de-bombeiros_widexl.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Surpresa e atritos internos: os bastidores da entrada de Joaquim Barbosa na cena eleitoral",
-        "link": "https://veja.abril.com.br/brasil/surpresa-e-atritos-internos-os-bastidores-da-entrada-de-joaquim-barbosa-na-cena-eleitoral/",
-        "data": "24/05/2026 15:07",
+        "titulo": "Erling Haaland, o craque do Manchester City que fará as vezes de viking",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/erling-haaland-o-craque-do-manchester-city-que-fara-as-vezes-de-viking/",
+        "data": "24/05/2026 18:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/joaquim-barbosa-aldo-rebelo.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/GettyImages-2272083677.jpg_f5d2fa.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Petrobras tenta reverter decisão de Toffoli que beneficiou ex-gerente delator",
-        "link": "https://veja.abril.com.br/brasil/petrobras-tenta-reverter-decisao-que-toffoli-que-beneficiou-ex-gerente-delator/",
-        "data": "24/05/2026 15:01",
+        "titulo": "Mega-Sena de 30 anos tem dois ganhadores e prêmio de R$ 336 milhões",
+        "link": "https://veja.abril.com.br/economia/mega-sena-de-30-anos-tem-dois-ganhadores-e-premio-de-r-336-milhoes/",
+        "data": "24/05/2026 17:49",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/mg_1419_0.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2023/12/mega_sena_mcajr_abr_2904223679.webp?resize=1080,565&crop=1"
     },
     {
-        "titulo": "Vasco x Bragantino no Brasileirão: onde assistir ao vivo, horário e escalações",
-        "link": "https://veja.abril.com.br/esporte/vasco-x-bragantino-no-brasileirao-onde-assistir-ao-vivo-horario-e-escalacoes/",
-        "data": "24/05/2026 15:00",
+        "titulo": "Trump diz que EUA não vão ‘se precipitar’ em acordo com Irã, enquanto bloqueio segue em Ormuz",
+        "link": "https://veja.abril.com.br/mundo/trump-diz-que-eua-nao-vao-se-precipitar-em-acordo-com-ira-enquanto-bloqueio-segue-em-ormuz/",
+        "data": "24/05/2026 17:29",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/08/GettyImages-2167843598.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2024/08/GettyImages-2274660236-e1778024192291.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Corinthians x Atlético-MG no Brasileirão: onde assistir, horário e escalações",
-        "link": "https://veja.abril.com.br/esporte/corinthians-x-atletico-mg-no-brasileirao-onde-assistir-horario-e-escalacoes/",
-        "data": "24/05/2026 15:00",
+        "titulo": "Ex-ministro do TST cobra CNJ combate a ativismo político em tribunais",
+        "link": "https://veja.abril.com.br/politica/ex-ministro-do-tst-cobra-cnj-combate-a-ativismo-politico-em-tribunais/",
+        "data": "24/05/2026 17:12",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-1393890565.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/exministrotst.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Lisbô aposta em apartamentos sem obra para disputar comprador de Pinheiros",
-        "link": "https://veja.abril.com.br/coluna/radar-economico/lisbo-aposta-em-apartamentos-sem-obra-para-disputar-comprador-de-pinheiros/",
-        "data": "24/05/2026 15:00",
+        "titulo": "MPF investiga a Azul por mudar assento de passageiro que pagou pelo lugar",
+        "link": "https://veja.abril.com.br/brasil/mpf-investiga-a-azul-por-mudar-assento-de-passageiro-que-pagou-pelo-lugar/",
+        "data": "24/05/2026 17:01",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-19-at-15.12.53-1.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2020/07/Hangar-Azul-_50.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "A romancista espanhola que defende pena de morte em casos de feminicídio",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/a-romancista-espanhola-que-defende-pena-de-morte-em-casos-de-feminicidio/",
-        "data": "24/05/2026 15:00",
+        "titulo": "Dez atrações imperdíveis de Nova York na alta primavera 2026",
+        "link": "https://veja.abril.com.br/mundo/dez-atracoes-imperdiveis-de-nova-york-na-alta-primavera-2026/",
+        "data": "24/05/2026 17:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/16577981448160.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-03-at-22.26.58-7.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "O que se sabe, até o momento, sobre a possibilidade de um acordo entre EUA e Irã?",
-        "link": "https://veja.abril.com.br/mundo/o-que-se-sabe-ate-o-momento-sobre-a-possibilidade-de-um-acordo-entre-eua-e-ira/",
-        "data": "24/05/2026 14:49",
+        "titulo": "Fazenda Nacional cobra dívida de candidato a presidente da República",
+        "link": "https://veja.abril.com.br/politica/fazenda-nacional-cobra-divida-de-candidato-a-presidente-da-republica/",
+        "data": "24/05/2026 16:56",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/GettyImages-1094870946.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2016/06/alx_brasil-livre-20150526-01_original.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     }
 ]
