@@ -1,163 +1,227 @@
 [
     {
-        "titulo": "Corretor desaparece após sair de casa para tomar sopa em Porto de Galinhas",
-        "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/06/10/corretor-desaparece-porto-de-galinhas.ghtml",
-        "data": "10/06/2026 20:19",
+        "titulo": "Resultados das Loterias Caixa",
+        "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+        "data": "10/06/2026 22:40",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/FsGsOLOCY35E9KwiIv1lEJfmO-Y=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/8/KlQgXGRAa0HfTAuoZYAw/capa-agenda-g1-2026-06-10t152050.624.jpg"
+        "image": "https://s2-g1.glbimg.com/62Mm_N_g1RO88J8zyn3nHJfHA6U=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/e/HOxCZpTEOcnOumJ4V1RQ/captura-de-tela-2026-04-30-205329.png"
     },
     {
-        "titulo": "Preso em Manaus, homem promovido à cúpula de facção do Pará era responsável por rota estratégica do tráfico, diz polícia",
-        "link": "https://g1.globo.com/pa/para/noticia/2026/06/10/preso-em-manaus-homem-promovido-a-cupula-de-faccao-do-para-era-responsavel-por-rota-estrategica-do-trafico-diz-policia.ghtml",
-        "data": "10/06/2026 20:19",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/QS_Xnh_lo2NZWZY9RKUov1_CXNk=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/A/OjJmBvQY6lMHub7SvPoA/whatsapp-image-2026-06-10-at-11.50.23.jpeg"
-    },
-    {
-        "titulo": "Artesão de AL faz miniatura em cerâmica do tamanho de grão de arroz",
-        "link": "https://g1.globo.com/al/alagoas/noticia/2026/06/10/artesao-de-al-faz-miniatura-em-ceramica-do-tamanho-de-grao-de-arroz.ghtml",
-        "data": "10/06/2026 20:12",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/_1RUEZigyhsE6sbqbiPOEbBlwcc=/1902x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/I/jyl5HlQwAfEn4iukVR3g/captura-de-tela-2026-06-10-170640.png"
-    },
-    {
-        "titulo": "Zema diz que eleitor está 'mais conectado à Copa do que à eleição' ao comentar pesquisa Quaest",
-        "link": "https://g1.globo.com/sp/sorocaba-jundiai/eleicoes/2026/noticia/2026/06/10/zema-copa-quaest.ghtml",
-        "data": "10/06/2026 20:11",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/jorDP7C_MI5DNPXFmRJtEc5FmvA=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/B/3HXXPhS8SuCe6hSPHDww/1141en.new.01-frame-4007.jpeg"
-    },
-    {
-        "titulo": "Ator de 'X-Men' revela diagnóstico de câncer de mama: 'Super raro'",
-        "link": "https://g1.globo.com/pop-arte/noticia/2026/06/10/ator-de-x-men-revela-diagnostico-de-cancer-de-mama-super-raro.ghtml",
-        "data": "10/06/2026 20:10",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/hekMkyZV294jGdPmi4DKpaqMsXA=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/u/f2VyCgTwGErmVe9nrECQ/fotos-g1-1920-x-1080-px-.png"
-    },
-    {
-        "titulo": "Ministério Público denuncia Deolane Bezerra à Justiça",
-        "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/06/10/ministerio-publico-denuncia-deolane-bezerra-a-justica.ghtml",
-        "data": "10/06/2026 20:08",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/_gQxLSMQmsVRmxDaFIfhN22vLrg=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/g/YHxRLaTHufqTw7IqWeSA/1200-x-800-px-2-2026-05-25t142429.211.png"
-    },
-    {
-        "titulo": "Rio Innovation Week 2026 abre venda de ingressos; veja atrações já confirmadas para evento de tecnologia",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/10/rio-innovation-week-2026-abre-venda-de-ingressos-veja-atracoes-ja-confirmadas-para-evento-de-tecnologia.ghtml",
-        "data": "10/06/2026 20:02",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/iGoikTa0dGn6RHKSWSV9eCB1Ff8=/4000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/R/GfwscOTOyA9skPPBhHPw/13082025-por-do-sol-rafa7543.jpg"
-    },
-    {
-        "titulo": "Soldado Sampaio, candidato do Republicanos ao governo de Roraima na eleição suplementar, é entrevistado pelo g1",
-        "link": "https://g1.globo.com/rr/roraima/ao-vivo/soldado-sampaio-candidato-do-republlicanos-ao-governo-de-roraima-na-eleicao-suplementar-e-entrevistado-pelo-g1.ghtml",
-        "data": "10/06/2026 20:02",
+        "titulo": "Assista aos telejornais da TV Liberal",
+        "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+        "data": "10/06/2026 22:40",
         "fonte": "G1",
         "metodo": "RSS",
         "image": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
     },
     {
-        "titulo": "Após adolescente ser flagrado conduzindo moto em Bocaiuva, pais são levados à delegacia",
-        "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/10/apos-adolescente-ser-flagrado-conduzindo-moto-em-bocaiuva-pais-sao-levados-a-delegacia.ghtml",
-        "data": "10/06/2026 19:57",
+        "titulo": "Sob pressão de investigações, Alerj desiste de ampliar verba de emendas parlamentares para R$ 1,5 bilhão",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/10/alerj-emendas-parlamentares.ghtml",
+        "data": "10/06/2026 22:40",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/s_g-WlmrvTcAAm2ZdAw3A4E0kZA=/1250x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/G/Le6ABpR8WPYTbBcqbAdg/whatsapp-image-2026-06-10-at-11.59.11-1-1-.jpeg"
+        "image": "https://s2-g1.glbimg.com/nlMAgSkhXNknEXtL3nVe4yAfWtM=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/Y/IBKqcnSKyBOcLp4oyToA/rj2-limpo-20260610-1830-frame-100101.jpeg"
     },
     {
-        "titulo": "UFJF abre inscrições para mais de 1.400 vagas ociosas em Juiz de Fora e Governador Valadares; veja cursos",
-        "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/10/ufjf-abre-inscricoes-para-mais-de-1400-vagas-ociosas-em-juiz-de-fora-e-governador-valadares-veja-cursos.ghtml",
-        "data": "10/06/2026 19:55",
+        "titulo": "Após agressões a estudantes, MP-RO abre procedimento para acompanhar segurança nos jogos escolares",
+        "link": "https://g1.globo.com/ro/rondonia/noticia/2026/06/10/apos-agressoes-a-estudantes-mp-ro-abre-procedimento-para-acompanhar-seguranca-nos-jogos-escolares.ghtml",
+        "data": "10/06/2026 22:39",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/E7n4c_2ungn3G1izjVYky2nG8mg=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/p/VNbwrBS7yzdhkCvfhmwg/foto-ufjf-portico-sul-ufjf.jpg"
+        "image": "https://s2-g1.glbimg.com/5Pt3nxu1ACumYU-kC9tMbaR_j1E=/1280x0/filters:format(jpeg)/https://s02.video.glbimg.com/x720/14688177.jpg"
     },
     {
-        "titulo": "Camex reconhece dumping, mas adia aplicação de tarifas sobre leite em pó",
-        "link": "https://www.cnnbrasil.com.br/agro/camex-reconhece-dumping-mas-adia-aplicacao-de-tarifas-sobre-leite-em-po/",
-        "data": "10/06/2026 20:20",
-        "fonte": "CNN Brasil",
+        "titulo": "MP aciona Saae de Salto por transporte de água potável à população em caminhões irregulares",
+        "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/10/mp-saae-salto.ghtml",
+        "data": "10/06/2026 22:39",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/leite-em-po-5.jpg?w=800&h=533&crop=1"
+        "image": "https://s2-g1.glbimg.com/2yj1gdY9o2MGVqLD-seTT0RVupA=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/J/G/vCRVxMRNmrru9UGQ58Yg/g1-59-.jpg"
     },
     {
-        "titulo": "PT pede que STF apure se “Dark Horse” virou caixa 2 para campanha de Flávio",
-        "link": "https://www.cnnbrasil.com.br/politica/pt-pede-que-stf-apure-se-dark-horse-virou-caixa-2-para-campanha-de-flavio/",
-        "data": "10/06/2026 20:15",
-        "fonte": "CNN Brasil",
+        "titulo": "Obra atinge tubulação e provoca vazamento de gás no litoral de SP",
+        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/10/obra-atinge-tubulacao-e-provoca-vazamento-de-gas-no-litoral-de-sp.ghtml",
+        "data": "10/06/2026 22:38",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/fachada-stf.jpg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/gQeD8HbKufyTqCBEMRTeAegPRi8=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/R/2ncoEpR2AfiB0dYYHIjA/vazamento-de-gas.jpg"
     },
     {
-        "titulo": "Tony Ramos diz já saber quem matou Arthur Brandão em “Quem Ama Cuida”",
-        "link": "https://www.cnnbrasil.com.br/pop/tv/tony-ramos-diz-ja-saber-quem-matou-arthur-brandao-em-quem-ama-cuida/",
-        "data": "10/06/2026 20:13",
-        "fonte": "CNN Brasil",
+        "titulo": "VÍDEOS: JL2 de quarta-feira, 10 de junho de 2026",
+        "link": "https://g1.globo.com/pa/para/edicao/2026/06/10/videos-jl2-de-quarta-feira-10-de-junho-de-2026.ghtml",
+        "data": "10/06/2026 22:38",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/04/tony-ramos-2-e1745519484453.jpg?w=1200&h=630&crop=1"
+        "image": "http://s2.glbimg.com/sZvX4HiSJn7xF-OyKfbTqBdKPBg=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/50/98/14689850"
     },
     {
-        "titulo": "Papa Leão XIV abençoa e inaugura torre da Sagrada Família",
-        "link": "https://www.cnnbrasil.com.br/internacional/papa-leao-xiv-abencoa-e-inaugura-torre-da-sagrada-familia/",
-        "data": "10/06/2026 20:11",
-        "fonte": "CNN Brasil",
+        "titulo": "Trump reage a alta de preços nos EUA: 'Eu amo a inflação'",
+        "link": "https://g1.globo.com/economia/noticia/2026/06/10/trump-inflacao-eua.ghtml",
+        "data": "10/06/2026 22:37",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/BR_CNN_100626_RTR4_1500_1800_frame_195541.jpeg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/UQRxQxNujtBDr3jZHn6f6E8MRvA=/3683x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/Q/L4eLHCSP2dwnniTGO35g/2026-06-10t152151z-1882616195-rc23rlahlfz5-rtrmadp-3-usa-trump.jpg"
     },
     {
-        "titulo": "Ponte metálica de 20 metros é roubada de cidade no interior de Minas Gerais",
-        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/ponte-metalica-de-20-metros-e-roubada-de-cidade-no-interior-de-minas-gerais/",
-        "data": "10/06/2026 20:09",
-        "fonte": "CNN Brasil",
+        "titulo": "Durigan diz que governo avalia vetar renegociação de dívidas rurais caso projeto passe na Câmara; Senado aprovou proposta",
+        "link": "https://g1.globo.com/politica/noticia/2026/06/10/durigan-diz-que-governo-avalia-vetar-renegociacao-de-dividas-rurais-caso-projeto-passe-na-camara-senado-aprovou-proposta.ghtml",
+        "data": "10/06/2026 22:36",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/ponte-1-.png?w=622&h=396&crop=1"
+        "image": "https://s2-g1.glbimg.com/ZSxWBJys9oYk9ZBMUHE2yQv6uhs=/2040x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/s/eXwLJ2QmWVeFtDivEA8w/55199249110-8d099d956c-o.jpg"
     },
     {
-        "titulo": "Tabata propõe ajustes no PL da Misoginia e prevê votação na próxima semana",
-        "link": "https://www.cnnbrasil.com.br/politica/tabata-propoe-ajustes-no-pl-da-misoginia-e-preve-votacao-na-proxima-semana/",
-        "data": "10/06/2026 20:07",
-        "fonte": "CNN Brasil",
+        "titulo": "Chegada de Lô Borges ao fim do caminho com álbum póstumo 'A estrada' soa coerente com a trajetória do artista",
+        "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/06/10/chegada-de-lo-borges-ao-fim-do-caminho-com-album-postumo-a-estrada-soa-coerente-com-a-trajetoria-do-artista.ghtml",
+        "data": "10/06/2026 22:34",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/TABATA-AMARAL-03-06-26.jpg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/BKAs6ujIt1HEbxxLkuXQvVcHlaw=/1400x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/n/BtUemqRzSpBhG2Jemrhg/loborgesaestradacapa.jpg"
     },
     {
-        "titulo": "Ex de Bella Longuinho dá versão sobre agressão: “Fui ríspido”",
-        "link": "https://www.cnnbrasil.com.br/pop/ex-de-bella-longuinho-da-versao-sobre-agressao-fui-rispido/",
-        "data": "10/06/2026 20:06",
+        "titulo": "Raphinha não vê TV nem olha redes sociais e tenta blindar jovens da Seleção",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/raphinha-nao-ve-tv-nem-olha-redes-sociais-e-tenta-blindar-jovens-da-selecao/",
+        "data": "10/06/2026 22:20",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/bella-e-will.png?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/coletiva-raphinha-10062026.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Soja avança em Chicago com clima nos EUA e expectativa pelo USDA",
-        "link": "https://www.cnnbrasil.com.br/agro/soja-avanca-em-chicago-com-clima-nos-eua-e-expectativa-pelo-usda/",
-        "data": "10/06/2026 20:05",
+        "titulo": "Alison dos Santos supera rival na casa dele e ganha ouro na Diamond League",
+        "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/alison-dos-santos-supera-rival-na-casa-dele-e-ganha-ouro-na-diamond-league/",
+        "data": "10/06/2026 22:18",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportAgribusinessNews/tagreuters.com2025binary_LYNXNPEL8P0EY-BASEIMAGE.jpg?w=800&h=533&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/alison-dos-santos-vence-diamond-league-noruega-e1781129561615.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Correios e gastos tributários; as ressalvas do TCU às contas do governo",
-        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/correios-e-gastos-tributarios-as-ressalvas-do-tcu-as-contas-do-governo/",
-        "data": "10/06/2026 19:55",
+        "titulo": "Fuvest abre inscrições para segundo simulado do vestibular com duas fases",
+        "link": "https://www.cnnbrasil.com.br/educacao/fuvest-abre-inscricoes-para-segundo-simulado-do-vestibular-com-duas-fases/",
+        "data": "10/06/2026 22:17",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/04/tcu_vac_abr_1407220735.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/fuvest-redacao.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Ancelotti indica trio do Flamengo titular na estreia do Brasil na Copa",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/ancelotti-indica-trio-do-flamengo-titular-na-estreia-do-brasil-na-copa/",
-        "data": "10/06/2026 19:54",
+        "titulo": "Análise: Maioridade penal é problema mais profundo do que solução proposta",
+        "link": "https://www.cnnbrasil.com.br/politica/analise-maioridade-penal-e-problema-mais-profundo-do-que-solucao-proposta/",
+        "data": "10/06/2026 22:16",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/treino-selecao-brasileira-masculino-08062026_19ea14-e1781043778257.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/09/GettyImages-121586241.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Monsta X fala português e emociona público durante show em São Paulo",
+        "link": "https://www.cnnbrasil.com.br/pop/musica/monsta-x-fala-portugues-e-emociona-publico-durante-show-em-sao-paulo/",
+        "data": "10/06/2026 22:15",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Monsta-X.png?w=515&h=299&crop=1"
+    },
+    {
+        "titulo": "“Casa do Patrão”: parcial de enquete mostra favoritismo do público",
+        "link": "https://www.cnnbrasil.com.br/pop/realities/casa-do-patrao-parcial-de-enquete-mostra-favoritismo-do-publico/",
+        "data": "10/06/2026 22:13",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/casa-do-patrao-4.png?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Vídeo: Veja como ficou a Sagrada Família depois da inauguração de torre",
+        "link": "https://www.cnnbrasil.com.br/internacional/video-veja-como-ficou-a-sagrada-familia-depois-da-inauguracao-de-torre/",
+        "data": "10/06/2026 22:12",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/sagrada-familia-6_4cd858.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Portal Regularize: Pessoa física deve elevar conta a partir de segunda (15)",
+        "link": "https://www.cnnbrasil.com.br/economia/financas/portal-regularize-pessoa-fisica-deve-elevar-conta-a-partir-de-segunda-15/",
+        "data": "10/06/2026 22:03",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Captura-de-tela-2026-03-16-202811.webp?w=661&h=506&crop=1"
+    },
+    {
+        "titulo": "Bitcoin ronda estabilidade com geopolítica, boom de IA e juros altos",
+        "link": "https://www.cnnbrasil.com.br/economia/mercado/criptomoedas-bitcoin-ronda-estabilidade-com-geopolitica-boom-de-ia-e-juros-altos/",
+        "data": "10/06/2026 22:01",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/bitcoin-e1764615069276.jpg?w=800&h=451&crop=1"
+    },
+    {
+        "titulo": "Situação de goleiro da Holanda liga alerta antes da estreia na Copa",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/situacao-de-goleiro-da-holanda-liga-alerta-antes-da-estreia-na-copa/",
+        "data": "10/06/2026 22:00",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/holanda_time-e1781128434139.jpeg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "O erro de questionar judicialmente pesquisa Atlas/Bloomberg",
+        "link": "https://jovempan.com.br/colunistas/alan-ghani/o-erro-de-questionar-judicialmente-pesquisa-atlas-bloomberg/",
+        "data": "10/06/2026 22:34",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/05/flavio-bolsonaro-2.jpg?w=1000&h=600&crop=1"
+    },
+    {
+        "titulo": "Quem são as vítimas de acidente de avião em Marília (SP)",
+        "link": "https://jovempan.com.br/brasil/quem-sao-as-vitimas-de-acidente-de-aviao-em-marilia-sp/",
+        "data": "10/06/2026 22:30",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/b1434ae2-a88f-4f55-bf8f-99b0ddf997e1.jpg?w=1000&h=562&crop=1"
+    },
+    {
+        "titulo": "EUA lançam nova onda de ‘ataques defensivos’ contra o Irã",
+        "link": "https://jovempan.com.br/mundo/eua-lancam-nova-onda-de-ataques-defensivos-contra-o-ira/",
+        "data": "10/06/2026 22:04",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2025/05/000_46mk9m3.jpg?w=1024&h=630&crop=1"
+    },
+    {
+        "titulo": "Torre da Sagrada Família é abençoada pelo papa Leão XIV no centenário da morte de Gaudí",
+        "link": "https://jovempan.com.br/mundo/torre-da-sagrada-familia-e-abencoada-pelo-papa-leao-xiv-no-centenario-da-morte-de-gaudi/",
+        "data": "10/06/2026 21:51",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/sagrada-familia.jpg?w=1000&h=600&crop=1"
+    },
+    {
+        "titulo": "Condomínio do Minha Casa, Minha Vida é dominado pelo CV na zona norte do Rio",
+        "link": "https://jovempan.com.br/brasil/condominio-do-minha-casa-minha-vida-e-dominado-pelo-cv-na-zona-norte-do-rio/",
+        "data": "10/06/2026 21:33",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/whatsapp_image_2025_10_27_at_10_.png?w=1000&h=630&crop=1"
+    },
+    {
+        "titulo": "Defesa diz ser ‘inviável’ participação de Marcola em esquema que prendeu Deolane",
+        "link": "https://jovempan.com.br/brasil/defesa-diz-ser-inviavel-participacao-de-marcola-em-esquema-que-prendeu-deolane/",
+        "data": "10/06/2026 21:14",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/04/2901365982-marcola-ae.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "5 séries imperdíveis do Apple TV+",
+        "link": "https://jovempan.com.br/entretenimento/tv-e-cinema/5-series-imperdiveis-do-apple-tv/",
+        "data": "10/06/2026 20:56",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/apple-tv.jpg?w=1000&h=600&crop=1"
+    },
+    {
+        "titulo": "Adversário do Brasil, Marrocos tem três desfalques antes de estreia na Copa",
+        "link": "https://jovempan.com.br/esportes/futebol/futebol-internacional/adversario-do-brasil-marrocos-tem-tres-desfalques-antes-de-estreia-na-copa/",
+        "data": "10/06/2026 20:36",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/SnapInsta.to_719598883_18155372431484892_6009240202315917000_n.jpg?w=1000&h=630&crop=1"
     },
     {
         "titulo": "Além de Deolane: conheça os outros denunciados por suposto envolvimento com o PCC",
@@ -176,148 +240,156 @@
         "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/02/age20241006126.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "PM publica decreto que aposenta tenente-coronel acusado de matar esposa",
-        "link": "https://jovempan.com.br/brasil/pm-publica-decreto-que-aposenta-tenente-coronel-acusado-de-matar-esposa/",
-        "data": "10/06/2026 20:00",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/04/design-sem-nome-58.png?w=1000&h=600&crop=1"
-    },
-    {
-        "titulo": "Ministro do STJ que recebeu R$ 141 mil diz que ‘não recebe remuneração à altura’",
-        "link": "https://jovempan.com.br/politica/ministro-do-stj-que-recebeu-r-141-mil-diz-que-nao-recebe-remuneracao-a-altura/",
-        "data": "10/06/2026 19:50",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/Padrao-Site-24.jpg?w=1000&h=600&crop=1"
-    },
-    {
-        "titulo": "Deolane é denunciada pelo MP-SP por suposta ligação com o PCC",
-        "link": "https://jovempan.com.br/colunistas/david-de-tarso/deolane-e-denunciada-pelo-mp-sp-por-suposta-ligacao-com-o-pcc/",
-        "data": "10/06/2026 18:20",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/05/design-sem-nome-2023-05-19t154105.421.png?w=850&h=490&crop=1"
-    },
-    {
-        "titulo": "Portugal x Nigéria: onde assistir ao vivo, horário e transmissão",
-        "link": "https://jovempan.com.br/esportes/futebol/futebol-internacional/portugal-x-nigeria-onde-assistir-ao-vivo-horario-e-transmissao/",
-        "data": "10/06/2026 17:44",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/AFP__20260606__B6928RP__v1__MidRes__FblFriendlyPorChi.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "FIFA muda cerimônia pré-jogo histórica para a Copa do Mundo 2026; entenda",
-        "link": "https://jovempan.com.br/esportes/futebol/futebol-internacional/fifa-muda-cerimonia-pre-jogo-historica-para-a-copa-do-mundo-2026-entenda/",
-        "data": "10/06/2026 17:39",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/Padrao-Site-22.jpg?w=1000&h=600&crop=1"
-    },
-    {
-        "titulo": "Avião de pequeno porte cai em Marília (SP) e deixa pelo menos dois mortos",
-        "link": "https://jovempan.com.br/brasil/aviao-de-pequeno-porte-cai-em-marilia-sp/",
-        "data": "10/06/2026 17:07",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/WhatsApp-Image-2026-06-10-at-13.43.52.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "CCJ aprova PEC que reduz maioridade penal de 18 para 16 anos",
-        "link": "https://jovempan.com.br/politica/ccj-aprova-pec-da-reducao-da-maioridade-penal/",
-        "data": "10/06/2026 17:00",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/img_5844_0.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Governo de São Paulo investiga novo caso suspeito de ebola",
-        "link": "https://jovempan.com.br/saude/governo-de-sao-paulo-investiga-novo-caso-suspeito-de-ebola/",
-        "data": "10/06/2026 16:58",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/05/H_20110509_090504.jpg?w=400&h=301&crop=1"
-    },
-    {
-        "titulo": "Dona Rosinha, morta aos 67, foi referência de luta da mulher quilombola",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tom-farias/2026/06/dona-rosinha-morta-aos-67-foi-referencia-de-luta-da-mulher-quilombola.shtml",
-        "data": "10/06/2026 20:21",
+        "titulo": "Promotor pede arquivamento do caso Ryan, 4, sem punição contra PMs",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/promotor-pede-arquivamento-do-caso-ryan-4-sem-punicao-contra-pms.shtml",
+        "data": "10/06/2026 22:42",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/06/10/17811139616a29a46947f8e_1781113961_3x2_lg.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2025/11/04/1762271359690a207f818b0_1762271359_3x2_lg.jpg"
     },
     {
-        "titulo": "Raphinha revela rotina de videogames, truco e torneio de pingue-pongue na seleção",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/raphinha-revela-rotina-de-videogames-truco-e-torneio-de-pingue-pongue-na-selecao.shtml",
-        "data": "10/06/2026 20:19",
+        "titulo": "Chefe do Pentágono visita Guantánamo e alerta Cuba contra compra de armas",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/chefe-do-pentagono-visita-guantanamo-e-alerta-cuba-contra-compra-de-armas.shtml",
+        "data": "10/06/2026 22:40",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/06/10/17811216266a29c25a8eb12_1781121626_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/06/10/17811304566a29e4d829a0a_1781130456_3x2_xl.jpg"
     },
     {
-        "titulo": "Google recria com IA o 'gol mais bonito' de Pelé, na Javari, que não foi filmado",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/google-recria-com-ia-o-gol-mais-bonito-de-pele-na-javari-que-nao-foi-filmado.shtml",
-        "data": "10/06/2026 20:13",
+        "titulo": "Projeto que cria 'Pix Pensão' entra na pauta de comissão do Senado e pode ir a plenário",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/projeto-que-cria-pix-pensao-entra-na-pauta-de-comissao-do-senado-e-pode-ir-a-plenario.shtml",
+        "data": "10/06/2026 22:40",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2024/04/18/1713448625662126b1b9cf9_1713448625_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/05/26/17798182146a15dee621e21_1779818214_3x2_rt.jpg"
     },
     {
-        "titulo": "MP-SP cobra informações sobre políticas públicas ligadas à Copa do Mundo Feminina de 2027",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/06/mp-sp-cobra-informacoes-sobre-politicas-publicas-ligadas-a-copa-do-mundo-feminina-de-2027.shtml",
-        "data": "10/06/2026 20:12",
+        "titulo": "Número de mortos no terremoto das Filipinas sobe para 46; há 17 desaparecidos",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/numero-de-mortos-no-terremoto-das-filipinas-sobe-para-46-ha-17-desaparecidos.shtml",
+        "data": "10/06/2026 22:31",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2022/12/28/167223902563ac57b158747_1672239025_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/06/10/17811090436a2991334b4a3_1781109043_3x2_rt.jpg"
     },
     {
-        "titulo": "Tela Brasil deve trazer avanços ao PL do streaming, diz secretária do Audiovisual",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/06/tela-brasil-deve-trazer-avancos-ao-pl-do-streaming-diz-secretaria-do-audiovisual.shtml",
-        "data": "10/06/2026 20:06",
+        "titulo": "Spike Lee, Lewis Hamilton e J-Lo: celebridades internacionais manifestam apoio ao Brasil na Copa",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/06/spike-lee-lewis-hamilton-e-j-lo-celebridades-internacionais-manifestam-apoio-ao-brasil-na-copa.shtml",
+        "data": "10/06/2026 22:29",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/06/10/17811026296a2978256bd05_1781102629_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/06/10/17811305196a29e51700de2_1781130519_3x2_lg.jpg"
     },
     {
-        "titulo": "Quadrilha usava gaiola eletromagnética para impedir rastreamento de celulares roubados em SP",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/quadrilha-usava-gaiola-eletromagnetica-para-impedir-rastreamento-de-celulares-roubados-em-sp.shtml",
-        "data": "10/06/2026 20:00",
+        "titulo": "Haverá estadistas no Estádio Azteca?",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/06/havera-estadistas-no-estadio-azteca.shtml",
+        "data": "10/06/2026 22:27",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/06/10/17811125586a299eee9d1ee_1781112558_3x2_lg.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/06/10/17811278406a29daa02b7e9_1781127840_3x2_lg.jpg"
     },
     {
-        "titulo": "Tabata redefine conceito de misoginia em análise na Câmara e propõe punição maior a crime na internet",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/tabata-redefine-conceito-de-misoginia-em-analise-na-camara-e-propoe-punicao-maior-a-crime-na-internet.shtml",
-        "data": "10/06/2026 20:00",
+        "titulo": "Senado aprova pauta-bomba e autoriza renegociação de dívidas rurais sem acordo com governo",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/senado-aprova-pauta-bomba-e-autoriza-renegociacao-de-dividas-rurais-sem-acordo-com-governo.shtml",
+        "data": "10/06/2026 22:25",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/04/25/177715052569ed2a3d91a94_1777150525_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/04/08/177568328569d6c6d5bab6d_1775683285_3x2_rt.jpg"
     },
     {
-        "titulo": "Prefeitura de São Paulo faz distribuição gratuita de álbuns e figurinhas da Copa",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/06/prefeitura-de-sao-paulo-faz-distribuicao-gratuita-de-albuns-e-figurinhas-da-copa.shtml",
-        "data": "10/06/2026 20:00",
+        "titulo": "Em Lisboa há um projeto de Brasil",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/06/em-lisboa-ha-um-projeto-de-brasil.shtml",
+        "data": "10/06/2026 22:09",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/04/25/177712687769eccddd047bd_1777126877_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/06/10/17811233176a29c8f52e0da_1781123317_3x2_xl.jpg"
     },
     {
-        "titulo": "1926: Brasil desiste de ser integrante do conselho da Liga das Nações",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/06/1926-brasil-desiste-de-ser-integrante-do-conselho-da-liga-das-nacoes.shtml",
-        "data": "10/06/2026 20:00",
+        "titulo": "Estudantes alemães sepultam esqueleto",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/06/estudantes-alemaes-sepultam-esqueleto.shtml",
+        "data": "10/06/2026 21:58",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/05/14/17787797776a060681cebe1_1778779777_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2024/10/01/172780369866fc3132a15fe_1727803698_3x2_xl.jpg"
     },
     {
-        "titulo": "Tributar aviação é a coisa mais burra que se pode fazer, diz CEO da Azul",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/tributar-aviacao-e-a-coisa-mais-burra-que-se-pode-fazer-diz-ceo-da-azul.shtml",
-        "data": "10/06/2026 20:00",
+        "titulo": "Fogo de Chão promove concurso de sósias de Ronaldo e aula de pilates em Miami durante Copa",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/06/fogo-de-chao-promove-concurso-de-sosias-de-ronaldo-e-aula-de-pilates-em-miami-durante-copa.shtml",
+        "data": "10/06/2026 21:52",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/06/10/17811150636a29a8b7c08f9_1781115063_3x2_lg.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2024/05/13/17156524916642c78b3454f_1715652491_3x2_xl.jpg"
+    },
+    {
+        "titulo": "'Pauta-Bomba': Comissão do Senado aprova aumento do piso salarial para médicos e dentistas",
+        "link": "https://exame.com/brasil/pauta-bomba-comissao-do-senado-aprova-aumento-do-piso-salarial-para-medicos-e-dentistas/",
+        "data": "10/06/2026 19:26",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2023/09/GettyImages-1424868032-e1694531516832.jpg"
+    },
+    {
+        "titulo": "EUA lançam novos ataques contra o Irã, tensionando ainda mais a trégua",
+        "link": "https://exame.com/mundo/eua-lancam-novos-ataques-contra-o-ira-tensionando-ainda-mais-a-tregua/",
+        "data": "10/06/2026 19:09",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2026/05/AFP__20260528__B4996WK__v5__MidRes__TopshotLebanonIsraelIranWar.jpg"
+    },
+    {
+        "titulo": "PlayStation Plus anuncia novos jogos para junho - e o destaque é o Final Fantasy XVI",
+        "link": "https://exame.com/pop/playstation-plus-anuncia-novos-jogos-para-junho-com-destaque-para-final-fantasy-xvi/",
+        "data": "10/06/2026 18:40",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2020/09/ps5-playstation5.jpg"
+    },
+    {
+        "titulo": "Para criador do Web Summit, mercado saturado exige eventos com visão de futuro",
+        "link": "https://exame.com/marketing/para-criador-do-web-summit-mercado-saturado-exige-eventos-com-visao-de-futuro/",
+        "data": "10/06/2026 18:22",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2026/06/Paddy-Cosgrave.jpg"
+    },
+    {
+        "titulo": "O chefe bilionário que usou IA para parar de incomodar a equipe no meio da noite",
+        "link": "https://exame.com/carreira/o-chefe-bilionario-que-usou-ia-para-parar-de-incomodar-a-equipe-no-meio-da-noite/",
+        "data": "10/06/2026 18:01",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2026/06/messi_7a0af2.png"
+    },
+    {
+        "titulo": "‘Foi como aprender uma nova língua’: executiva mostra por que compliance precisa de finanças",
+        "link": "https://exame.com/carreira/foi-como-aprender-uma-nova-lingua-executiva-mostra-por-que-compliance-precisa-de-financas/",
+        "data": "10/06/2026 18:00",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-09-at-16.05.57.jpeg"
+    },
+    {
+        "titulo": "Santos lança minissérie sobre ídolos do clube em Copas do Mundo",
+        "link": "https://exame.com/esporte/santos-lanca-minisserie-sobre-idolos-do-clube-em-copas-do-mundo/",
+        "data": "10/06/2026 17:57",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2026/06/Captura-de-tela-2026-06-10-175605.png"
+    },
+    {
+        "titulo": "Ibovespa acompanha perdas de NY com escalada da guerra no Irã e inflação nos EUA",
+        "link": "https://exame.com/invest/mercados/ibovespa-acompanha-perdas-de-ny-com-escalada-da-guerra-no-ira-e-inflacao-nos-eua/",
+        "data": "10/06/2026 17:43",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2021/03/DSC2684bx-1.jpg"
+    },
+    {
+        "titulo": "Investidor lucra US$ 1,2 milhão com criptomoeda em 2 horas",
+        "link": "https://exame.com/future-of-money/investidor-lucra-us-12-milhao-com-criptomoeda-em-2-horas/",
+        "data": "10/06/2026 17:34",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2023/02/ehter.png"
     },
     {
         "titulo": "Copa do Mundo 2026: veja a programação dos jogos do primeiro dia do torneio",
@@ -328,235 +400,163 @@
         "image": "https://classic.exame.com/wp-content/uploads/2026/06/copa_a7a554.png"
     },
     {
-        "titulo": "Governo avalia envio de alertas para celulares roubados, diz Lula",
-        "link": "https://exame.com/brasil/governo-avalia-envio-de-alertas-para-celulares-roubados-diz-lula/",
-        "data": "10/06/2026 17:02",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/06/Lula_celulares.jpg"
-    },
-    {
-        "titulo": "Como o QI da geração Z está desafiando o mercado de trabalho",
-        "link": "https://exame.com/bussola/como-a-geracao-z-esta-desafiando-os-testes-de-qi-e-o-mercado-de-trabalho/",
-        "data": "10/06/2026 17:00",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/06/QI-da-geracao-Z-Raushan_films.jpg"
-    },
-    {
-        "titulo": "20 restaurantes para o Dia dos Namorados",
-        "link": "https://exame.com/casual/20-restaurantes-para-o-dia-dos-namorados/",
-        "data": "10/06/2026 16:57",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/06/Rosewood_Blaise_Dia-dos-Namorados_Divulgacao-Rosewood1.png"
-    },
-    {
-        "titulo": "Paraná Pesquisas: Alvaro Dias lidera disputa ao Senado no Paraná",
-        "link": "https://exame.com/brasil/parana-pesquisas-alvaro-dias-lidera-disputa-ao-senado-no-parana/",
-        "data": "10/06/2026 16:57",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2020/11/Alvaro-Dias-agencia-senado-2.jpg"
-    },
-    {
-        "titulo": "Mercado Livre investe US$ 4,6 bilhões e mira expansão no México",
-        "link": "https://exame.com/invest/mercados/mercado-livre-investe-us-46-bilhoes-e-mira-expansao-no-mexico/",
-        "data": "10/06/2026 16:51",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2022/11/Chanceler-mexicano-Marcelo-Ebrard.jpg"
-    },
-    {
-        "titulo": "'Bets' disputam renda e freiam crescimento da aviação, avalia CEO da Gol",
-        "link": "https://exame.com/invest/minhas-financas/bets-disputam-renda-e-freiam-crescimento-da-aviacao-avalia-ceo-da-gol/",
-        "data": "10/06/2026 16:16",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/06/CEO-DA-GOL-CELSO-FERRER.jpg"
-    },
-    {
-        "titulo": "Trump diz não saber se renovará tratado de livre-comércio com Canadá e México",
-        "link": "https://exame.com/mundo/trump-diz-nao-saber-se-renovara-tratado-de-livre-comercio-com-canada-e-mexico/",
-        "data": "10/06/2026 16:12",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/05/AFP__20260515__B2ZD837__v1__HighRes__UsPresidentDonaldTrumpReturnsFromChina.jpg"
-    },
-    {
-        "titulo": "Genial/Quaest: 47% concordam que Flávio pediu a Trump para aplicar tarifas ao Brasil",
-        "link": "https://exame.com/brasil/genial-quaest-47-concordam-que-flavio-pediu-a-trump-para-aplicar-tarifas-ao-brasil/",
-        "data": "10/06/2026 16:08",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/06/FlavioBolsonaro_EUA.jpg"
-    },
-    {
-        "titulo": "A liderança do futuro não nasce da experiência acumulada, mas da disposição contínua de reaprender",
-        "link": "https://exame.com/lideres-extraordinarios/a-lideranca-do-futuro-nao-nasce-da-experiencia-acumulada-mas-da-disposicao-continua-de-reaprender/",
-        "data": "10/06/2026 16:00",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2020/11/reuniao-trabalho.jpg"
-    },
-    {
         "titulo": "Raphinha revela blindagem aos mais jovens e se vê pronto para decidir a Copa",
         "link": "https://www.terra.com.br/esportes/futebol/copa-2026/raphinha-revela-blindagem-aos-mais-jovens-da-selecao-e-se-ve-pronto-para-decidir-a-copa,644b45b85819065bd624d70685fe11d3am5betzz.html",
-        "data": "10/06/2026 20:24",
+        "data": "10/06/2026 22:50",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/design-sem-nome-(35)-urmviwluhn3o.jpg"
     },
     {
-        "titulo": "Nem Endrick, nem Igor Thiago: Pato faz previsão sobre o ataque da Seleção",
-        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/nem-endrick-nem-igor-thiago-pato-faz-previsao-sobre-o-ataque-titular-da-selecao,4b03aa5936ee0a3bd280705da941ddc0cxdn8qxd.html",
-        "data": "10/06/2026 20:24",
+        "titulo": "Saiba quais são os próximos passos após aprovação na CCJ da Câmara",
+        "link": "https://www.terra.com.br/noticias/brasil/politica/pec-da-maioridade-penal-saiba-quais-sao-os-proximos-passos-apos-aprovacao-na-ccj-da-camara,2767bed1ad93cb9d3fe47829959a55314xh2ea5m.html",
+        "data": "10/06/2026 22:50",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/midia-(16)-1hr5ffbcmseur.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/img20260610110657463med-1iv9ty4ll85kj.jpg"
     },
     {
-        "titulo": "Comissão da Câmara aprova PEC que reduz maioridade penal para 16 anos",
-        "link": "https://www.terra.com.br/noticias/brasil/politica/comissao-da-camara-aprova-pec-que-reduz-maioridade-penal-para-16-anos,740e31b43e48d7f531f0bc3c5211d645yvcs7vfx.html",
-        "data": "10/06/2026 20:24",
+        "titulo": "Ex-zagueiro da Seleção tem prisão revogada após ser detido por pagamento de pensão",
+        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/tetracampeao-com-a-selecao-ricardo-rocha-tem-prisao-revogada-e-segue-aos-eua-para-cobrir-a-copa-do-mundo,5dd77d7590ffe3c9e00ff172b23c9a77kttilrmw.html",
+        "data": "10/06/2026 22:50",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/img20260519172627988-768x473-vbsg9ml0fmg4.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/ricardo-rocha-instagram-@ricardorocha94-1iaux0dez4s3a.JPG"
     },
     {
-        "titulo": "Fã de futebol, Spike Lee visita treino da Seleção e conversa com jogadores",
-        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/fa-de-futebol-spike-lee-visita-treino-da-selecao-gera-tumulto-na-imprensa-e-conversa-com-jogadores,4b5e4b6f7d42dcda8e5df68cc7cd10aclbf2q4kz.html",
-        "data": "10/06/2026 20:24",
+        "titulo": "Por que amigas que tiravam fotos em ciclovia são investigadas por homicídio culposo",
+        "link": "https://www.terra.com.br/noticias/brasil/cidades/amigas-que-tiravam-foto-em-ciclovia-sao-investigadas-por-homicidio-culposo-apos-morte-de-ciclista,eb944146641e07c5a0a40d465bfbfb00eh6z0z0z.html",
+        "data": "10/06/2026 22:50",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/design-sem-nome-(34)-t843g0dfn3uc.jpg"
-    },
-    {
-        "titulo": "Jogador manda recado à Seleção antes de confronto: 'Não temos medo'",
-        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/jogador-do-marrocos-manda-recado-a-selecao-brasileira-antes-de-estreia-nao-temos-medo-de-ninguem,2e0d427075e75e4e1e3cd88ae2d74c0027d36lrm.html",
-        "data": "10/06/2026 20:24",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/gettyimages-2256571123-s1649gz5n0wx.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/amigas-ciclovia-ubgdbx1ilp2r.jpg"
     },
     {
         "titulo": "EUA gasta R$ 133 milhões para construir prisão para a Copa, mas obra não fica pronta",
-        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/cidade-sede-constroi-prisao-de-r-133-milhoes-para-a-copa-do-mundo-mas-nao-ficou-pronta,fddeec6e358624ae3a12420ccc4fe4e1jy0xzrec.html",
-        "data": "10/06/2026 20:24",
+        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/eua-gasta-r-133-milhoes-para-construir-prisao-para-a-copa-mas-obra-nao-fica-pronta,fddeec6e358624ae3a12420ccc4fe4e1jy0xzrec.html",
+        "data": "10/06/2026 22:50",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/placa-construcao-da-prisao-em-kansas-getty-images-u82cisvgfhb9.JPG"
     },
     {
-        "titulo": "Neymar dá 'palhinha' em roda de altinha, e evolução em tratamento anima torcedores",
-        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/neymar-da-palhinha-em-roda-de-altinha-e-evolucao-em-tratamento-anima-torcedores,c916df7245b3f90a728a390485cdc694xtl95i3p.html",
-        "data": "10/06/2026 20:24",
+        "titulo": "'Parças' de Neymar viajam para Copa uniformizados e preparam presente para o craque",
+        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/parcas-de-neymar-viajam-para-copa-uniformizados-e-preparam-presente-especial-para-o-craque,65cf31b11517c741af63427d54d4da9203uc0e82.html",
+        "data": "10/06/2026 22:50",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/neymar-altinha-1hvbkes5ndb38.png"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/foto-2026-06-10t164707-258-qhsuvtdqxwkz.jpg"
     },
     {
-        "titulo": "Capitão do Irã critica postura dos EUA e diz que política causou tensão no mundial",
-        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/capitao-do-ira-critica-postura-dos-eua-na-copa-e-diz-que-politica-causou-tensao-no-torneio,963c819a9b3011a3220e3b3a1c920629kstndzkl.html",
-        "data": "10/06/2026 20:24",
+        "titulo": "Prefeito de Nova York aposta em eliminação do Brasil no primeiro mata-mata da Copa",
+        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/prefeito-de-nova-york-aposta-em-eliminacao-do-brasil-no-primeiro-mata-mata-e-ve-marrocos-campeao-da-copa-do-mundo,b63398bc16013783a300effeb288d922elfdmgnd.html",
+        "data": "10/06/2026 22:50",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/capitao-time-vbmxhx6creck.png"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/mamdani-s18dc9rwvgx2.jpeg"
     },
     {
-        "titulo": "Ex-chefe da Anvisa defende vacina do Butantan: \"Aprovada em qualquer lugar\"",
-        "link": "https://www.terra.com.br/noticias/brasil/vacina-do-butantan-contra-dengue-seria-aprovada-em-qualquer-lugar-do-mundo-diz-ex-diretor-da-anvisa,42074f1a340261f601a7b9a867177a87yar3tzbt.html",
-        "data": "10/06/2026 20:24",
+        "titulo": "Comissão da Câmara aprova PEC que reduz maioridade penal para 16 anos",
+        "link": "https://www.terra.com.br/noticias/brasil/politica/comissao-da-camara-aprova-pec-que-reduz-maioridade-penal-para-16-anos,740e31b43e48d7f531f0bc3c5211d645yvcs7vfx.html",
+        "data": "10/06/2026 22:50",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/1858757050-a5d1ecd0-64e6-11f1-a1ac-711fb29896f6.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/img20260519172627988-768x473-vbsg9ml0fmg4.jpg"
     },
     {
-        "titulo": "Avião de pequeno porte cai no interior de SP; duas pessoas morrem",
-        "link": "https://www.terra.com.br/noticias/brasil/cidades/aviao-de-pequeno-porte-cai-no-interior-de-sp-duas-pessoas-morreram,616189839d14c749ec47768665a3d7fek8iksjyc.html",
-        "data": "10/06/2026 20:24",
+        "titulo": "Cão comunitário é encontrado morto com galho na garganta; polícia investiga",
+        "link": "https://www.terra.com.br/noticias/brasil/cidades/cao-comunitario-e-encontrado-morto-com-galho-na-garganta-e-caso-e-investigado-pela-policia-como-maus-tratos-em-sp,2205983ef692f34dee4696758696d465wx74ul0v.html",
+        "data": "10/06/2026 22:50",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/foto-2026-06-10t134242-164-1hrgzaakt5o4h.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/gettyimages-2270456073-r1fl046xabmq.jpg"
     },
     {
-        "titulo": "Nattan comenta sobre crise no casamento com Rafa Kalimann",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/nattan-comenta-sobre-crise-no-casamento-com-rafa-kalimann/",
-        "data": "10/06/2026 20:26",
-        "fonte": "Veja",
-        "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-12-at-19.15.56.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "titulo": "Funcionário da Marinha dos EUA é atacado por tubarão na Flórida; veja o momento",
+        "link": "https://www.terra.com.br/noticias/mundo/funcionario-da-marinha-dos-eua-e-atacado-por-tubarao-na-florida-veja-o-momento,b4986c4346c3cf1079b15b6d921c5553oyu5re6j.html",
+        "data": "10/06/2026 22:50",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/10/shark_attack-1iuy9b3goxmcm.jpeg"
     },
     {
-        "titulo": "O dado que mais animou equipe de Lula em nova pesquisa da corrida presidencial",
-        "link": "https://veja.abril.com.br/politica/o-dado-que-mais-animou-equipe-de-lula-em-nova-pesquisa-da-corrida-presidencial/",
-        "data": "10/06/2026 20:19",
+        "titulo": "Wesley Safadão em propaganda eleitoral antecipada: ‘referência a foguete’",
+        "link": "https://veja.abril.com.br/brasil/wesley-safadao-em-propaganda-eleitoral-antecipada-referencia-a-foguete/",
+        "data": "10/06/2026 22:30",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/55299230392_851c5e5a93_k.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2019/02/safadao-1.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "A resposta do presidente da Fifa ao caso de árbitro da Copa barrado nos EUA",
-        "link": "https://veja.abril.com.br/mundo/a-resposta-do-presidente-da-fifa-ao-caso-de-arbitro-da-copa-barrado-nos-eua/",
-        "data": "10/06/2026 20:16",
+        "titulo": "Alckmin entra na briga das patentes a favor dos laboratórios",
+        "link": "https://veja.abril.com.br/coluna/radar-economico/alckmin-entra-na-briga-das-patentes-a-favor-dos-laboratorios/",
+        "data": "10/06/2026 22:12",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-2271524899.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/Alckmin.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "FIA recalcula a rota: F1 terá reequilíbrio nos motores para 2027 e 2028",
-        "link": "https://veja.abril.com.br/esporte/fia-recalcula-a-rota-f1-tera-reequilibrio-nos-motores-para-2027-e-2028/",
-        "data": "10/06/2026 20:11",
+        "titulo": "Jennifer Lopez revela como o filme ‘Ainda Estou Aqui’ mudou sua vida",
+        "link": "https://veja.abril.com.br/cultura/jennifer-lopez-revela-como-o-filme-ainda-estou-aqui-mudou-sua-vida/",
+        "data": "10/06/2026 22:03",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-2270726772.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/09/GettyImages-2233784912.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Pix de R$ 7 mil: funcionário de IML é preso por usar celular de morto",
-        "link": "https://veja.abril.com.br/brasil/pix-de-r-7-mil-funcionario-de-iml-e-preso-por-usar-celular-de-morto/",
-        "data": "10/06/2026 20:05",
+        "titulo": "Estados Unidos lançam nova onda de ataques contra o Irã após promessa de Trump",
+        "link": "https://veja.abril.com.br/mundo/estados-unidos-lancam-nova-onda-de-ataques-contra-o-ira-apos-promessa-de-trump/",
+        "data": "10/06/2026 22:02",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/IML-de-Santos.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/03/GettyImages-2268041457.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "‘Depois Daquele Ano’: conheça a nova adaptação que chega ao Prime Video",
-        "link": "https://veja.abril.com.br/cultura/depois-daquele-ano-conheca-a-nova-adaptacao-que-chega-ao-prime-video/",
-        "data": "10/06/2026 20:03",
+        "titulo": "Enel e Correios fecham parceria para economia de energia",
+        "link": "https://veja.abril.com.br/coluna/radar-economico/enel-e-correios-fecham-parceria-para-economia-de-energia/",
+        "data": "10/06/2026 21:52",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/depois-daquele-ano-serie-prime-video.png?resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/Enel-Correios.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Às vésperas da Copa, Selton Mello alfineta a Seleção Brasileira atual: ‘Não há amor pela camisa’",
-        "link": "https://veja.abril.com.br/cultura/as-vesperas-da-copa-selton-mello-alfineta-a-selecao-brasileira-atual-nao-ha-amor-pela-camisa/",
-        "data": "10/06/2026 20:01",
+        "titulo": "Ator de ‘X-Men’ revela diagnóstico raro de câncer de mama",
+        "link": "https://veja.abril.com.br/cultura/ator-de-x-men-revela-diagnostico-raro-de-cancer-de-mama/",
+        "data": "10/06/2026 21:40",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/01/GettyImages-2170386484.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/tyler-mane-xmen.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Previsão do tempo nesta quinta, 11: virada em São Paulo traz chuva e frio; veja estados afetados",
-        "link": "https://veja.abril.com.br/agenda-verde/previsao-do-tempo-nesta-quinta-11-virada-em-sao-paulo-traz-chuva-e-frio-veja-estados-afetados/",
-        "data": "10/06/2026 20:00",
+        "titulo": "Canadá avança com projeto para proibir menores de 16 anos de usar redes sociais",
+        "link": "https://veja.abril.com.br/tecnologia/canada-avanca-com-projeto-para-proibir-menores-de-16-anos-de-usar-redes-sociais/",
+        "data": "10/06/2026 21:37",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2019/09/frio-em-sao-paulo.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2258961455.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Neymar pode passar Rivaldo e tem disputa acirrada com Cristiano Ronaldo",
-        "link": "https://veja.abril.com.br/esporte/neymar-pode-passar-rivaldo-e-tem-disputa-acirrada-com-cristiano-ronaldo/",
-        "data": "10/06/2026 20:00",
+        "titulo": "Conheça o hotel luxuoso da Serra Gaúcha eleito segundo melhor do mundo no Tripadvisor",
+        "link": "https://veja.abril.com.br/economia/conheca-o-hotel-luxuoso-da-serra-gaucha-eleito-segundo-melhor-do-mundo-no-tripadvisor/",
+        "data": "10/06/2026 21:34",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/05/GettyImages-1446999010.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/Colline1.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Não podemos crucificar a vacina: a ameaça da dengue é muito maior",
-        "link": "https://veja.abril.com.br/saude/nao-vamos-crucificar-a-vacina-a-ameaca-da-dengue-e-muito-maior/",
-        "data": "10/06/2026 20:00",
+        "titulo": "Novo Paraná Pesquisas mostra como está a disputa para o Senado no Paraná",
+        "link": "https://veja.abril.com.br/politica/novo-parana-pesquisas-mostra-como-esta-a-disputa-para-o-senado-no-parana/",
+        "data": "10/06/2026 21:34",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/03/523-medicina-vacina-dengue.png?resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/04/alvaro-dias-deltan-dallagnol-gleisi-hoffmann.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+    },
+    {
+        "titulo": "O desabafo sincero de Marta após derrota do Brasil para os Estados Unidos",
+        "link": "https://veja.abril.com.br/esporte/o-desabafo-sincero-de-marta-apos-derrota-do-brasil-para-os-estados-unidos/",
+        "data": "10/06/2026 21:31",
+        "fonte": "Veja",
+        "metodo": "RSS",
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-10-at-18.16.01.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
     }
 ]
