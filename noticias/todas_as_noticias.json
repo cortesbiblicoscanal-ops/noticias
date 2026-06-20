@@ -1,163 +1,203 @@
 [
     {
-        "titulo": "Presidente da Bolívia decreta estado de emergência após 50 dias de protestos",
-        "link": "https://g1.globo.com/mundo/noticia/2026/06/20/presidente-da-bolivia-decreta-estado-de-emergencia-apos-50-dias-de-protestos.ghtml",
-        "data": "20/06/2026 06:40",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/VOwhwCmmyd1RxHzwB_YAeX2ZJuE=/5359x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/o/o/QLu6dzSrmalVFxBMioiQ/afp-20251108-83gn3zr-v3-highres-boliviainaugurationceremony.jpg"
-    },
-    {
-        "titulo": "Hospital italiano testa robô que conversa com pacientes e auxilia equipes de saúde",
-        "link": "https://g1.globo.com/inovacao/noticia/2026/06/20/hospital-italiano-testa-robo-que-conversa-com-pacientes-e-auxilia-equipes-de-saude.ghtml",
-        "data": "20/06/2026 06:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/ZUteOwVDUwG4we-mGUMj3EqWJqw=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/t/y3DIVYRy2pmyaVhNZiow/afp-20260619-b6w69px-v1-midres-italysciencetechnologyhealthrobotai.jpg"
-    },
-    {
-        "titulo": "‘Domador de jacarés’ ganha fama no Recife ao capturar animais que chegam a invadir casas; VÍDEO",
-        "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/06/20/domador-de-jacares-ganha-fama-no-recife-ao-capturar-animais-que-chegam-a-invadir-casas-video.ghtml",
-        "data": "20/06/2026 06:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/wtQ_BQ31zKoPP6leUrY_VsUJVCI=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/D/tO2f5LTpqyqrMYnYwAOQ/artes-g1-2026-06-19t121324.989.jpg"
-    },
-    {
-        "titulo": "O que as pessoas realmente querem no trabalho está mudando — e a geração Z ajuda a explicar por quê",
-        "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/20/o-que-as-pessoas-realmente-querem-no-trabalho-esta-mudando-e-a-geracao-z-ajuda-a-explicar-por-que.ghtml",
-        "data": "20/06/2026 06:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/qH5AGj7Dq90ycmQb57JaHOmAnl4=/1280x0/filters:format(jpeg)/https://s03.video.glbimg.com/x720/13836482.jpg"
-    },
-    {
-        "titulo": "Advogado de ultradireita e senador de esquerda disputam 2º turno na Colômbia: saiba quem são",
-        "link": "https://g1.globo.com/mundo/noticia/2026/06/20/advogado-de-ultradireita-e-senador-de-esquerda-disputam-2o-turno-na-colombia-saiba-quem-sao.ghtml",
-        "data": "20/06/2026 06:00",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/swLNkwQbMrD-0YzTeIGuyKwiyvo=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/K/P8XzBbT9WavFLR47U91w/fotojet-2026-06-19t161530.807.jpg"
-    },
-    {
-        "titulo": "Misantropia: sistema da Defesa Civil é tirado do ar após invasão e envio de alerta a celulares",
-        "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/20/misantropia-sistema-da-defesa-civil-e-tirado-do-ar-apos-invasao-e-envio-de-alerta-a-celulares.ghtml",
-        "data": "20/06/2026 05:50",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/vMPI2dyuR5J7HSuGwcAu9FlnQXA=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/m/b1wNX2RoGBIoU1eevzOQ/misantropia-g1.jpg"
-    },
-    {
-        "titulo": "O que é misantropia? Entenda o significado da palavra que apareceu em falso alerta da Defesa Civil",
-        "link": "https://g1.globo.com/educacao/noticia/2026/06/20/o-que-e-misantropia-entenda-o-significado-da-palavra-que-apareceu-em-falso-alerta-da-defesa-civil.ghtml",
-        "data": "20/06/2026 05:46",
+        "titulo": "Por que o alerta da Defesa Civil tocou alto de madrugada mesmo com o celular no silencioso?",
+        "link": "https://g1.globo.com/tecnologia/noticia/2026/06/20/por-que-o-alerta-da-defesa-civil-tocou-alto-de-madrugada-mesmo-com-o-celular-no-silencioso.ghtml",
+        "data": "20/06/2026 11:07",
         "fonte": "G1",
         "metodo": "RSS",
         "image": "https://s2-g1.glbimg.com/sGOztzFQe6THEW4VEEUfYnGUMwI=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/f/3rZMc9QAaXbJ4icChHSw/misantropia.jpg"
     },
     {
-        "titulo": "Defesa Civil Nacional diz que sistema foi invadido e disparou alerta falso; veja o que se sabe",
-        "link": "https://g1.globo.com/tecnologia/noticia/2026/06/20/falso-alerta-da-defesa-civil-o-que-se-sabe-sobre-mensagem-enviada-a-celulares-em-varias-cidades.ghtml",
-        "data": "20/06/2026 05:19",
+        "titulo": "De ônibus a R$ 1,25, celular por menos de R$ 400 e gasolina a R$ 1,60 o litro: como era Uberlândia na Copa de 2002",
+        "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/20/de-onibus-a-r-125-celular-por-menos-de-r-400-e-gasolina-a-r-160-o-litro-como-era-uberlandia-na-copa-de-2002.ghtml",
+        "data": "20/06/2026 11:00",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/_PGvrqTZQdVyUl0p4yoDmM0_Edc=/1290x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/U/bBATRFTFOEAzG0sqRd8Q/e9d02f57-285f-4413-9226-7ec9076e2c3f.jpeg"
+        "image": "https://s2-g1.glbimg.com/KfwXuzeqAIYtQH0D_3yKj4Mn4RM=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/W/kGDCjbT2q8zpPh6ANSaQ/design-sem-nome-6-.png"
     },
     {
-        "titulo": "Morte em rope jump completa 1 semana: o que ainda falta saber sobre tragédia de jovem lançada sem cordas",
-        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/20/morte-em-rope-jump-completa-1-semana-o-que-ainda-falta-saber-sobre-tragedia-de-jovem-lancada-sem-cordas.ghtml",
-        "data": "20/06/2026 05:00",
+        "titulo": "A Santarém que desapareceu: o avanço urbano sobre a memória da cidade",
+        "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/20/a-santarem-que-desapareceu-o-avanco-urbano-sobre-a-memoria-da-cidade.ghtml",
+        "data": "20/06/2026 11:00",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/ku3i7B_d8Vh2K7heu7-znduuBsU=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/Vl0zbzQVO2fSJdSHEN5w/design-sem-nome-2-.png"
+        "image": "https://s2-g1.glbimg.com/U8Qx9mBGjPiM6HNYHdooyZ76_nc=/1599x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/x/HkbskdSja4DrUhxFocmA/whatsapp-image-2026-06-16-at-11.08.21.jpeg"
     },
     {
-        "titulo": "Projeto da UnB oferece atendimento odontológico gratuito a pessoas em vulnerabilidade social",
-        "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/20/projeto-da-unb-oferece-atendimento-odontologico-gratuito-a-pessoas-em-vulnerabilidade-social.ghtml",
-        "data": "20/06/2026 05:00",
+        "titulo": "Internado há 5 meses na UTI, paciente com doença que paralisa o corpo realiza desejo de voltar a ver o sol e tomar sorvete",
+        "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/20/internado-ha-5-meses-na-uti-paciente-com-doenca-que-paralisa-o-corpo-realiza-desejo-de-voltar-a-ver-o-sol-e-tomar-sorvete.ghtml",
+        "data": "20/06/2026 11:00",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/TFspYHuTrX0oCKbV-N3YJ-0E8xg=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/m/SQ4OBlRDmBXc2jCmzrCw/whatsapp-image-2026-06-19-at-16.29.41-1-.jpeg"
+        "image": "https://s2-g1.glbimg.com/xCad6az47-F0WYFsVBHj_UnIgaA=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/U/MjEtpjRka6wqbU5VzFAw/foto-g1-2026-06-18t084034.218.png"
     },
     {
-        "titulo": "Presidente da Bolívia declara estado de emergência por bloqueios",
-        "link": "https://www.cnnbrasil.com.br/internacional/presidente-da-bolivia-declara-estado-de-emergencia-por-bloqueios/",
-        "data": "20/06/2026 06:36",
-        "fonte": "CNN Brasil",
+        "titulo": "Casal adapta van dos anos 1980 e percorre oito estados em 16 dias: 'Nos chamam de loucos'",
+        "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/20/casal-adapta-van-dos-anos-1980-e-percorre-oito-estados-em-16-dias-nos-chamam-de-loucos.ghtml",
+        "data": "20/06/2026 11:00",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Tiros-ferem-policiais-em-operacao-para-reabrir-rodovia-na-Bolivia.jpg?w=960&h=540&crop=1"
+        "image": "https://s2-g1.glbimg.com/Hh3uVisbDs8q9T7l_Ub-x8X27pI=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/g/ZlER96STKidmzVDF6vvg/whatsapp-image-2026-06-16-at-10.41.16.jpeg"
     },
     {
-        "titulo": "Farta de ser o sangue do jantar, comunidade luta para exterminar mosquitos",
-        "link": "https://www.cnnbrasil.com.br/ciencia/farta-de-ser-o-sangue-do-jantar-comunidade-luta-para-exterminar-mosquitos/",
-        "data": "20/06/2026 06:34",
-        "fonte": "CNN Brasil",
+        "titulo": "Casos de descumprimento de medidas protetivas crescem, e Patrulha Maria da Penha já acompanha 227 mulheres no interior de SP",
+        "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/06/20/casos-de-descumprimento-de-medidas-protetivas-crescem-e-patrulha-maria-da-penha-ja-acompanha-227-mulheres-no-interior-de-sp.ghtml",
+        "data": "20/06/2026 11:00",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/mosquitos.webp?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/yATiNJjWDIYZyyi-IB6mHJvp634=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/z/PT6fTbRIOlDSSt1YjIKg/g1-2026-06-19t140940.964.png"
     },
     {
-        "titulo": "Pais usam mais dispositivos eletrônicos do que filhos durante as refeições",
-        "link": "https://www.cnnbrasil.com.br/saude/pais-usam-mais-dispositivos-eletronicos-do-que-filhos-durante-as-refeicoes/",
-        "data": "20/06/2026 06:33",
-        "fonte": "CNN Brasil",
+        "titulo": "Após filha ser diagnosticada com Down ainda no útero, pai cria fundação de apoio a pessoas com síndrome no interior de SP",
+        "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/20/apos-filha-ser-diagnosticada-com-down-ainda-no-utero-pai-cria-fundacao-de-apoio-a-pessoas-com-sindrome-no-interior-de-sp.ghtml",
+        "data": "20/06/2026 11:00",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/c-gettyimages-1959258391.avif?w=860&h=573&crop=1"
+        "image": "https://s2-g1.glbimg.com/Mpft8dloQ2pRSDRg1nUrqwwRj2Y=/6048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/7/7q2yEcQ5qT9YHLOEGtSA/dsc-2582.jpg-1-.jpeg"
     },
     {
-        "titulo": "Relativizar garantias para salvar a democracia é um engano, diz Schüler",
-        "link": "https://www.cnnbrasil.com.br/politica/relativizar-garantias-para-salvar-a-democracia-e-um-engano-diz-schuler/",
-        "data": "20/06/2026 06:33",
-        "fonte": "CNN Brasil",
+        "titulo": "Jovem que fez montanha-russa no quintal é contratado para montar atração gigante do Cacau Park",
+        "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/20/jovem-que-fez-montanha-russa-no-quintal-e-contratado-para-montar-atracao-gigante-do-cacau-park.ghtml",
+        "data": "20/06/2026 11:00",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/FERNANDO.jpeg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/Apuf-pXL5eUzCPW7q1m3L49Cz6Y=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/A/dZljIvQcOC0jEtzflfqw/montanharussa.gif"
     },
     {
-        "titulo": "IA reduz em 90% tempo de análise de histórico de pacientes no HC",
-        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ia-reduz-em-90-tempo-de-analise-de-historico-de-pacientes-no-hc/",
-        "data": "20/06/2026 06:32",
-        "fonte": "CNN Brasil",
+        "titulo": "Casal fala da luta pela sobrevivência da filha com anemia falciforme no Acre: 'Tudo pode gerar uma crise'",
+        "link": "https://g1.globo.com/ac/acre/noticia/2026/06/20/casal-fala-da-luta-pela-sobrevivencia-da-filha-com-anemia-falciforme-no-acre-tudo-pode-gerar-uma-crise.ghtml",
+        "data": "20/06/2026 11:00",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/hospital-das-clinicas.webp?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/rQBLkcASmWBchW89uj_znXyaU_E=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/S/KGXCrFRWyDCY2p5F9FRQ/midia-de-distribuicao-g1-2026-06-19t171329.421.jpg"
     },
     {
-        "titulo": "Jaques Wagner busca sobrevida na liderança do governo de olho nas eleições",
-        "link": "https://www.cnnbrasil.com.br/politica/jaques-wagner-busca-sobrevida-na-lideranca-do-governo-de-olho-nas-eleicoes/",
-        "data": "20/06/2026 06:30",
-        "fonte": "CNN Brasil",
+        "titulo": "Advogado é morto a tiros enquanto assistia a jogo do Brasil em Santa Luzia do Paruá",
+        "link": "https://g1.globo.com/ma/maranhao/noticia/2026/06/20/advogado-e-morto-a-tiros-enquanto-assistia-a-jogo-do-brasil-em-santa-luzia-do-parua.ghtml",
+        "data": "20/06/2026 10:57",
+        "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/55116010280_ea42058878_o.jpg?w=1200&h=630&crop=1"
+        "image": "https://s2-g1.glbimg.com/v1q3gA_Zwj_20C0XfobvBGIKD4M=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/P/BryyYsScGbYiivxXx0vg/montagens-1920-x-1080-px-.png"
     },
     {
-        "titulo": "Mega-Sena 3021: sorteio deste sábado (20) pode pagar R$ 42 milhões",
-        "link": "https://www.cnnbrasil.com.br/economia/loterias/mega-sena-3021/",
-        "data": "20/06/2026 06:00",
+        "titulo": "Tunísia estreia novo técnico contra Japão desfalcado da sua maior estrela",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tunisia-estreia-novo-tecnico-contra-japao-desfalcado-da-sua-maior-estrela/",
+        "data": "20/06/2026 10:30",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/09/como-jogar-na-mega-sena-online-e1740011781792.jpg?w=1024&h=577&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/tunisia_japao.png?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "O que é misantropia, palavra citada em alerta falso a celulares pelo Brasil",
-        "link": "https://www.cnnbrasil.com.br/nacional/o-que-e-misantropia-palavra-citada-em-alerta-falso-a-celulares-pelo-brasil/",
-        "data": "20/06/2026 05:50",
+        "titulo": "Adiamento do acordo EUA-Irã atrasa retomada de Ormuz, diz professor",
+        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/adiamento-do-acordo-eua-ira-atrasa-retomada-de-ormuz-diz-professor/",
+        "data": "20/06/2026 10:30",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/dee89865-d7c1-4a6a-9c31-5584a09732ef-e1781930489666.jpg?w=589&h=220&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/2026-05-20T120817Z_1_LYNXMPEM4J13A_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.jpg?w=1200&h=630&crop=1"
     },
     {
-        "titulo": "Turquia 0 x 1 Paraguai: veja os melhores momentos do jogo da Copa",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/turquia-0-x-1-paraguai-veja-os-melhores-momentos-do-jogo-da-copa/",
-        "data": "20/06/2026 05:28",
+        "titulo": "Cirurgia na base do crânio: o que mudou e por que hoje é muito mais segura",
+        "link": "https://www.cnnbrasil.com.br/saude/cirurgia-na-base-do-cranio-o-que-mudou-e-por-que-hoje-e-muito-mais-segura/",
+        "data": "20/06/2026 10:30",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/GettyImages-2282439196.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
     },
     {
-        "titulo": "Com gol relâmpago, Paraguai elimina a Turquia e vence 1ª na Copa em 16 anos",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-gol-relampago-paraguai-elimina-a-turquia-e-vence-1a-na-copa-em-16-anos/",
-        "data": "20/06/2026 05:05",
+        "titulo": "Vale do Lítio completa três anos com desenvolvimento e gargalos em MG",
+        "link": "https://www.cnnbrasil.com.br/infra/vale-do-litio-completa-tres-anos-com-desenvolvimento-e-gargalos-em-mg/",
+        "data": "20/06/2026 10:15",
         "fonte": "CNN Brasil",
         "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/paraguai_gol-e1781924898562.jpg?w=1200&h=630&crop=1"
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/06/GettyImages-869037462-1-e1686838411532.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Suécia: Isak já brilhou na Holanda e hoje é um dos mais caros do mundo",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/suecia-isak-ja-brilhou-na-holanda-e-hoje-e-um-dos-mais-caros-do-mundo/",
+        "data": "20/06/2026 10:00",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/alexander-isak-willem-ii-e1781889015995.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "EUA destinam US$ 800 milhões à agência alimentar da ONU após cortes",
+        "link": "https://www.cnnbrasil.com.br/internacional/eua-destinam-us-800-milhoes-a-agencia-alimentar-da-onu-apos-cortes/",
+        "data": "20/06/2026 10:00",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/ONU.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Militares patrulham ruas na Bolívia após declaração de estado de emergência",
+        "link": "https://www.cnnbrasil.com.br/internacional/militares-patrulham-ruas-na-bolivia-apos-declaracao-de-estado-de-emergencia/",
+        "data": "20/06/2026 09:57",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Militares-patrulham-ruas-na-Bolivia-apos-declaracao-de-estado-de-emergencia.jpg?w=960&h=540&crop=1"
+    },
+    {
+        "titulo": "Ataque da Rússia atinge área residencial de Kharkiv e deixa um morto",
+        "link": "https://www.cnnbrasil.com.br/internacional/ataque-da-russia-atinge-area-residencial-de-kharkiv/",
+        "data": "20/06/2026 09:39",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Ataque-da-Russia-atinge-casa-em-Kharkiv.jpeg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Itaú vê espaço para mais corte nos juros no próximo Copom",
+        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/itau-ve-espaco-para-mais-corte-nos-juros-no-proximo-copom/",
+        "data": "20/06/2026 09:30",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/significado-de-selic.webp?w=876&h=484&crop=1"
+    },
+    {
+        "titulo": "Ministro do Interior do Paquistão chega ao Irã em meio a negociações",
+        "link": "https://www.cnnbrasil.com.br/internacional/ministro-do-interior-do-paquistao-chega-ao-ira-em-meio-a-negociacoes/",
+        "data": "20/06/2026 09:20",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/GettyImages-1763143360.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Acidente com Esportes Radicais: Fiscalizar por denúncia é o mesmo que não fiscalizar",
+        "link": "https://jovempan.com.br/colunistas/ricardo-motta/acidente-com-esportes-radicais-fiscalizar-por-denuncia-e-o-mesmo-que-nao-fiscalizar/",
+        "data": "20/06/2026 11:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/Mulher-e-lancada-de-40-metros-de-altura-sem-cordas-durante-salto-de-rope-jump.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Mostra dá destaque à campanha de SP de vacinação contra febre amarela",
+        "link": "https://jovempan.com.br/noticias/mostra-da-destaque-a-campanha-de-sp-de-vacinacao-contra-febre-amarela/",
+        "data": "20/06/2026 11:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2025/02/febre_ama1-1-1.jpg?w=750&h=499&crop=1"
+    },
+    {
+        "titulo": "Defesa Civil desmente alerta, fala em ataque hacker e tira plataforma do ar",
+        "link": "https://jovempan.com.br/brasil/defesa-civil-desmente-alerta-fala-em-ataque-hacker-e-tira-plataforma-do-ar/",
+        "data": "20/06/2026 10:39",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/WhatsApp-Image-2026-06-20-at-07.27.49-1.jpg?w=1200&h=402&crop=1"
+    },
+    {
+        "titulo": "Sintomas de desidratação e como lembrar de beber mais água no inverno quando o corpo não sente tanta sede",
+        "link": "https://jovempan.com.br/saude/sintomas-de-desidratacao-e-como-lembrar-de-beber-mais-agua-no-inverno-quando-o-corpo-nao-sente-tanta-sede/",
+        "data": "20/06/2026 09:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2030/06/wal_172619-hotel-4857711_1280.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Quais seleções liberam visita íntima e sexo na concentração da Copa do Mundo",
+        "link": "https://jovempan.com.br/esportes/futebol/copa-do-mundo/quais-selecoes-liberam-visita-intima-e-sexo-na-concentracao-da-copa-do-mundo/",
+        "data": "20/06/2026 08:00",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2025/04/20180118154154_2.jpeg?w=974&h=630&crop=1"
     },
     {
         "titulo": "Equador x Curaçao: onde assistir ao vivo, horário e transmissão",
@@ -200,363 +240,323 @@
         "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2025/07/fotografia-36.png?w=1000&h=600&crop=1"
     },
     {
-        "titulo": "Matheus Cunha e Vini Jr. comandam 1ª vitória da Copa, Brasil respira e assume liderança",
-        "link": "https://jovempan.com.br/esportes/futebol/copa-do-mundo/matheus-cunha-e-vini-jr-comandam-1a-vitoria-da-copa-brasil-respira-e-assume-lideranca/",
-        "data": "20/06/2026 02:31",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/7928.png?w=1000&h=600&crop=1"
-    },
-    {
-        "titulo": "Por que uniforme da Seleção tem logo da marca de Michael Jordan?",
-        "link": "https://jovempan.com.br/esportes/futebol/copa-do-mundo/por-que-uniforme-da-selecao-tem-logo-da-marca-de-michael-jordan/",
-        "data": "20/06/2026 01:26",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/Camiseta-da-Selecao-brasileira-com-o-jumpman-logo-da-marca-do-Michael-Jordan.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Copa do Mundo: acompanhe e Turquia e Paraguai ao vivo",
-        "link": "https://jovempan.com.br/esportes/futebol/copa-do-mundo/copa-do-mundo-acompanhe-e-turquia-e-paraguai-ao-vivo/",
-        "data": "20/06/2026 00:00",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/turquia-selecao.jpg?w=1000&h=600&crop=1"
-    },
-    {
-        "titulo": "Davi Lucca surpreende influenciador ao revelar ser filho de Neymar em desafio; veja vídeo",
-        "link": "https://jovempan.com.br/esportes/futebol/davi-lucca-surpreende-influenciador-ao-revelar-ser-filho-de-neymar-em-desafio-veja-video/",
-        "data": "19/06/2026 23:58",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/futcrunch-davi-lucca.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Preço do etanol cai em 16 Estados, mostra ANP",
-        "link": "https://jovempan.com.br/economia/preco-do-etanol-cai-em-16-estados-mostra-anp/",
-        "data": "19/06/2026 23:36",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2025/01/img2620963.113701.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Desapontados com derrota, haitianos declaram torcida para o Brasil; exceto um",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/desapontados-com-derrota-haitianos-declaram-torcida-para-o-brasil-exceto-um.shtml",
-        "data": "20/06/2026 06:23",
+        "titulo": "De Mauro Shampoo a Pelé, futebol rende boas histórias; veja lista de filmes e séries",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/06/de-mauro-shampoo-a-pele-futebol-rende-boas-historias-veja-lista-de-filmes-e-series.shtml",
+        "data": "20/06/2026 11:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/06/20/17819327216a3622b1b927c_1781932721_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2019/02/05/15493665915c59753fdbcfb_1549366591_3x2_rt.jpg"
     },
     {
-        "titulo": "Com máscaras de Vini Jr., torcedores comemoram entrada de Endrick no jogo contra Haiti na Copa",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/com-mascaras-de-vini-jr-torcedores-comemoram-entrada-de-endrick-no-jogo-contra-haiti-na-copa.shtml",
-        "data": "20/06/2026 05:44",
+        "titulo": "Cinema &/vs. pipoca",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/06/cinema-vs-pipoca.shtml",
+        "data": "20/06/2026 11:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/06/19/17819205066a35f2fa4d4e8_1781920506_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/05/08/177825006769fdf153c1cf5_1778250067_3x2_rt.jpg"
     },
     {
-        "titulo": "Gol do Paraguai com um minuto de jogo elimina a Turquia da Copa do Mundo; veja os melhores momentos",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/gol-do-paraguai-com-um-minuto-de-jogo-elimina-a-turquia-da-copa-do-mundo.shtml",
-        "data": "20/06/2026 05:15",
+        "titulo": "Busca pelo gramado perfeito para a Copa do Mundo envolve ciência",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/busca-pelo-gramado-perfeito-para-a-copa-do-mundo-envolve-ciencia.shtml",
+        "data": "20/06/2026 11:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/06/20/17819303966a36199cd8f5b_1781930396_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/06/19/17818808296a3557fd0d8be_1781880829_3x2_rt.jpg"
     },
     {
-        "titulo": "Moradores recebem alerta falso da Defesa Civil: evento extremo de 'misantropia'",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/moradores-recebem-alerta-falso-da-defesa-civil-evento-extremo-de-misantropia.shtml",
-        "data": "20/06/2026 04:49",
+        "titulo": "Cristiano Ronaldo e a gramática",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ricardo-araujo-pereira/2026/06/cristiano-ronaldo-e-a-gramatica.shtml",
+        "data": "20/06/2026 11:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/06/20/17819313196a361d37e28f4_1781931319_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/06/19/17819045336a35b49520bff_1781904533_3x2_rt.jpg"
     },
     {
-        "titulo": "'Estou em êxtase', diz Matheus Cunha após dois gols contra Haiti na Copa",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/estou-em-extase-diz-matheus-cunha-apos-dois-gols-contra-haiti-na-copa.shtml",
-        "data": "20/06/2026 04:36",
+        "titulo": "Explosões à beira de estrada deixam sete mortos no Paquistão",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/explosoes-a-beira-de-estrada-deixam-sete-mortos-no-paquistao.shtml",
+        "data": "20/06/2026 10:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/06/20/17819285446a361260a3027_1781928544_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/06/20/17819494296a3663f57149d_1781949429_3x2_rt.jpg"
     },
     {
-        "titulo": "Ancelotti vê queda normal na etapa final e diz que Brasil pode encarar qualquer rival",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/ancelotti-ve-queda-normal-na-etapa-final-e-diz-que-brasil-pode-encarar-qualquer-rival.shtml",
-        "data": "20/06/2026 04:28",
+        "titulo": "Brasil é mais preciso contra o Haiti, mas ainda chuta pouco; veja análise de dados",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/brasil-e-mais-preciso-contra-o-haiti-mas-ainda-chuta-pouco-veja-analise-de-dados.shtml",
+        "data": "20/06/2026 10:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/06/20/17819294856a36160d71436_1781929485_3x2_xl.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/06/19/17819227956a35fbeb06e64_1781922795_3x2_rt.jpg"
     },
     {
-        "titulo": "Imprensa internacional destaca atuações de Matheus Cunha e Vinicius Jr. contra o Haiti",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/imprensa-internacional-destaca-atuacoes-de-matheus-cunha-e-vinicius-jr-contra-o-haiti.shtml",
-        "data": "20/06/2026 04:16",
+        "titulo": "Estrada de ferro apelidou clube que revelou três jogadores do Brasil em Copas",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/06/estrada-de-ferro-apelidou-clube-que-revelou-tres-jogadores-do-brasil-em-copas.shtml",
+        "data": "20/06/2026 10:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/06/19/17819213106a35f61e91291_1781921310_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/06/19/17818466866a34d29e6ef12_1781846686_3x2_rt.jpg"
     },
     {
-        "titulo": "Lei Vini Jr. é aplicada na Copa: paraguaio é expulso por cobrir a boca em jogo contra a Turquia",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/paraguaio-almiron-e-expulso-por-cobrir-a-boca-em-jogo-contra-a-turquia-na-copa.shtml",
-        "data": "20/06/2026 03:58",
+        "titulo": "Herbívoros domésticos não substituem megafauna, afirma pesquisa",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2026/06/herbivoros-domesticos-nao-substituem-megafauna-afirma-pesquisa.shtml",
+        "data": "20/06/2026 10:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/06/20/17819275706a360e92505d7_1781927570_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/06/19/17818832366a35616496f1c_1781883236_3x2_lg.jpg"
     },
     {
-        "titulo": "Ancelotti põe trio contra Haiti, e Neymar é único atacante do Brasil que não foi a campo na Copa",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/ancelotti-poe-trio-contra-haiti-e-neymar-e-unico-atacante-do-brasil-que-nao-foi-a-campo-na-copa.shtml",
-        "data": "20/06/2026 03:44",
+        "titulo": "Contra calor, arena com jogos da Argentina tem ar condicionado e teto retrátil",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/contra-calor-arena-com-jogos-da-argentina-tem-ar-condicionado-e-teto-retratil.shtml",
+        "data": "20/06/2026 09:01",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/06/19/17819107256a35ccc549fef_1781910725_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/06/19/17819001476a35a3737e30e_1781900147_3x2_rt.jpg"
     },
     {
-        "titulo": "Haiti é a primeira seleção eliminada da Copa do Mundo de 2026",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/haiti-e-a-primeira-selecao-eliminada-da-copa-do-mundo-de-2026.shtml",
-        "data": "20/06/2026 03:42",
+        "titulo": "Radiotelescópio Bingo não serve a interesses chineses, diz um dos líderes do projeto",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/06/radiotelescopio-bingo-nao-serve-a-interesses-chineses-diz-um-dos-lideres-do-projeto.shtml",
+        "data": "20/06/2026 09:00",
         "fonte": "Folha de S.Paulo",
         "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/06/20/17819265256a360a7d2dbd3_1781926525_3x2_rt.jpg"
+        "image": "https://f.i.uol.com.br/fotografia/2026/06/19/17818883826a35757e97244_1781888382_3x2_rt.jpg"
     },
     {
-        "titulo": "Veja os resultados inusitados que aconteceram até aqui na Copa do Mundo",
-        "link": "https://exame.com/esporte/veja-os-resultados-inusitados-que-aconteceram-ate-aqui-na-copa-do-mundo/",
-        "data": "20/06/2026 00:01",
+        "titulo": "Entenda a polêmica envolvendo estilista brasileira e o figurino de Shakira na Copa",
+        "link": "https://exame.com/pop/entenda-a-polemica-envolvendo-estilista-brasileira-e-o-figurino-de-shakira-na-copa/",
+        "data": "20/06/2026 08:09",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260614__B72M3XG__v1__HighRes__FblWc2026Match10GerCuw.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260611__B6T97ZT__v1__HighRes__FblWc2026Match01MexRsa.jpg"
     },
     {
-        "titulo": "Com 'surfista' Matheus Cunha, Brasil bate frágil Haiti pela Copa do Mundo",
-        "link": "https://exame.com/esporte/com-surfista-matheus-cunha-brasil-bate-fragil-haiti-pela-copa-do-mundo/",
-        "data": "19/06/2026 23:31",
+        "titulo": "De Lisboa ao Rio: veja os nomes que estarão nas duas edições do Rock in Rio em 2026",
+        "link": "https://exame.com/pop/de-lisboa-ao-rio-veja-os-nomes-que-estarao-nas-duas-edicoes-do-rock-in-rio-em-2026/",
+        "data": "20/06/2026 08:07",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260620__2282426368__v1__HighRes__BrazilVHaitiGroupCFifaWorldCup2026.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2024/08/alok4.jpg"
     },
     {
-        "titulo": "Quando é o próximo jogo do Brasil na Copa 2026? Veja data e horário",
-        "link": "https://exame.com/esporte/quando-e-o-proximo-jogo-do-brasil-na-copa-2026-veja-data-e-horario/",
-        "data": "19/06/2026 23:29",
+        "titulo": "Direto de Hitchcock? Mistério dos bandos de pássaros ganha explicação da física",
+        "link": "https://exame.com/ciencia/direto-de-hitchcock-misterio-dos-bandos-de-passaros-ganha-explicacao-da-fisica/",
+        "data": "20/06/2026 08:06",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/06/marquinhos-copa-2026-brasil-x-haiti-selecao-brasileira-2.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/06/passaro-lei-de-newton.png"
     },
     {
-        "titulo": "Brasil x Haiti: entenda o impedimento semiautomático que anulou gol de Endrick",
-        "link": "https://exame.com/esporte/brasil-x-haiti-entenda-o-impedimento-semiautomatico-que-anulou-gol-de-endrick/",
-        "data": "19/06/2026 23:21",
+        "titulo": "Copa do Mundo de 2026 promete sustentabilidade, mas pode bater recorde de emissões",
+        "link": "https://exame.com/esg/copa-do-mundo-de-2026-promete-sustentabilidade-mas-pode-bater-recorde-de-emissoes/",
+        "data": "20/06/2026 08:06",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/06/endrick-jogo.avif"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/06/ChatGPT-Image-19-de-jun.-de-2026-16_11_12.png"
     },
     {
-        "titulo": "Matheus Cunha é o segundo paraibano a marcar em Copas do Mundo; o 1º é ídolo do Flamengo",
-        "link": "https://exame.com/esporte/matheus-cunha-e-o-segundo-paraibano-a-marcar-em-copas-do-mundo-o-1o-e-idolo-do-flamengo/",
-        "data": "19/06/2026 22:18",
+        "titulo": "Por que o Japão joga de azul se a bandeira do país é vermelha e branca?",
+        "link": "https://exame.com/esporte/por-que-o-japao-joga-de-azul-se-a-bandeira-do-pais-e-vermelha-e-branca/",
+        "data": "20/06/2026 08:05",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/06/AFP__20260620__B7PJ2ZP__v1__HighRes__FblWc2026Match29BraHai.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/06/camiseta-da-selecao-do-Japao.png"
     },
     {
-        "titulo": "Rayan entra em campo e é o jogador mais novo na Seleção de Ancelotti",
-        "link": "https://exame.com/esporte/rayan-entra-em-campo-e-e-o-jogador-mais-novo-na-selecao-de-ancelotti/",
-        "data": "19/06/2026 22:16",
+        "titulo": "A inteligência artificial pode evitar apagões? A tecnologia que está reinventando as redes elétricas",
+        "link": "https://exame.com/inteligencia-artificial/a-inteligencia-artificial-pode-evitar-apagoes-a-tecnologia-que-esta-reinventando-as-redes-eletricas/",
+        "data": "20/06/2026 08:02",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/06/coletiva-rayan.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2025/10/GettyImages-1410891100.jpg"
     },
     {
-        "titulo": "Brasil x Haiti: entenda o impedimento semiautomático que anulou gol de Raphinha",
-        "link": "https://exame.com/esporte/brasil-x-haiti-entenda-o-impedimento-semiautomatico-e-a-tecnologia-do-var/",
-        "data": "19/06/2026 22:03",
+        "titulo": "'Fallout': 3ª temporada ganha reforços no elenco; veja os novos nomes confirmados",
+        "link": "https://exame.com/pop/fallout-3a-temporada-ganha-reforcos-no-elenco-veja-os-novos-nomes-confirmados/",
+        "data": "20/06/2026 08:01",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/04/freepik_conceptual-flat-design-pl_2783849416.jpeg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/06/fallout.png"
     },
     {
-        "titulo": "Brasil x Haiti: veja a escalação confirmada da seleção haitiana para o jogo hoje",
-        "link": "https://exame.com/esporte/brasil-x-haiti-veja-a-escalacao-confirmada-da-selecao-haitiana-para-o-jogo-hoje/",
-        "data": "19/06/2026 20:38",
+        "titulo": "'Velocidade sem estratégia leva ao acidente': as 7 lições que o CEO da Vulcabras trouxe das pistas",
+        "link": "https://exame.com/carreira/velocidade-sem-estrategia-leva-ao-acidente-as-7-licoes-que-o-ceo-da-vulcabras-trouxe-das-pistas/",
+        "data": "20/06/2026 08:01",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/06/haiti-amistoso-pre-copa-2026-grupo-c-3.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/05/MG_5803.jpg"
     },
     {
-        "titulo": "Brasil x Haiti: veja a escalação confirmada da Seleção Brasileira para o jogo hoje",
-        "link": "https://exame.com/esporte/brasil-x-haiti-veja-a-escalacao-confirmada-da-selecao-na-copa-do-mundo/",
-        "data": "19/06/2026 20:31",
+        "titulo": "Por que jogadores cospem durante as partidas? A ciência tem uma explicação",
+        "link": "https://exame.com/esporte/por-que-jogadores-cospem-durante-as-partidas-a-ciencia-tem-uma-explicacao/",
+        "data": "20/06/2026 08:01",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/06/matheus_cunha.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/06/Mbappe-cuspindo-em-campo.png"
     },
     {
-        "titulo": "Quem é Danilo, defensor que virou referência da Seleção Brasileira na Copa 2026",
-        "link": "https://exame.com/esporte/quem-e-danilo-lider-da-selecao-brasileira-na-copa-do-mundo-de-2026/",
-        "data": "19/06/2026 20:14",
+        "titulo": "O que deve colocar a produção de alimentos em risco? A FAO tem uma tese",
+        "link": "https://exame.com/agro/o-que-deve-colocar-a-producao-de-alimentos-em-risco-a-fao-tem-uma-tese/",
+        "data": "20/06/2026 08:00",
         "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/06/selecao-brasileira-copa-do-mundo-2026-brasil-vini-jr-marrocos-jogo-25.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/04/IMG_7897.jpg"
+    },
+    {
+        "titulo": "O que o Brasil precisa fazer para se classificar no 1º lugar do Grupo C",
+        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/o-que-o-brasil-precisa-fazer-para-se-classificar-no-1-lugar-do-grupo-c-da-copa-do-mundo,5b35143048bfa29339678c715d895b4awcglix1r.html",
+        "data": "20/06/2026 11:14",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/20/gettyimages-2282422774-1jy27y6y7iq1y.jpg"
+    },
+    {
+        "titulo": "Brasil assusta com defesa problemática e chance de novo 7 a 1 passa a ser real",
+        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/opiniao-brasil-assusta-com-sistema-defensivo-problematico-e-chance-de-novo-7-a-1-passa-a-ser-real,cafe7845bf689e6fe0268e1d0d0dd2778ey0r6bm.html",
+        "data": "20/06/2026 11:14",
+        "fonte": "Terra",
+        "metodo": "Web Scraping",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/20/odr20260620030-qxzdjd6q0vol.jpg"
     },
     {
         "titulo": "Ancelotti elogia atuação contra o Haiti, mas cobra Seleção: 'Temos que melhorar'",
         "link": "https://www.terra.com.br/esportes/futebol/copa-2026/ancelotti-comemora-3-a-0-do-brasil-contra-haiti-mas-ve-espaco-para-evolucao-da-equipe-temos-que-melhorar,12e65920ec083564fd68739b171bf885om1i4f79.html",
-        "data": "20/06/2026 07:00",
+        "data": "20/06/2026 11:14",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/20/captura-de-tela-2026-06-19-234741-1jyaz9jmhfos6.png"
     },
     {
-        "titulo": "Vini Jr dá pista sobre lesão de Raphinha e evitar falar em dedicatória após gol",
-        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/vini-jr-da-pista-sobre-lesao-de-raphinha-e-evitar-falar-em-dedicatoria-apos-gol-sobre-o-haiti-para-as-pessoas-especiais,a1d68787ddb32bee74023d253934bb39shucp1uw.html",
-        "data": "20/06/2026 07:00",
+        "titulo": "Alemanha entra em campo em busca de recorde de gols na primeira fase de Copa",
+        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/alemanha-entra-em-campo-em-busca-de-recorde-de-gols-em-uma-primeira-fase-de-copa-conheca-top-5,8fdcb38ab4c44dac2a8bae22571acccayiw5ozhy.html",
+        "data": "20/06/2026 11:14",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/20/vini-jr-pos-jogo-qe9eex6zw0gz.png"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/19/alemanha-costa-do-marfim-soen3w5xugqa.jpg"
     },
     {
-        "titulo": "Opinião: Denilson tenta levar energia CazéTV para a Globo, mas esbarra no \"gesso\"",
-        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/opiniao-denilson-tenta-levar-a-energia-da-cazetv-para-a-globo-mas-esbarra-no-gesso-da-emissora,982650fe035ee13e1164f87ad51510fcqtygx1pi.html",
-        "data": "20/06/2026 07:00",
+        "titulo": "Defesa Civil Nacional confirma que sistema foi invadido e caso será investigado",
+        "link": "https://www.terra.com.br/noticias/brasil/cidades/defesa-civil-nacional-confirma-que-sistema-foi-invadido-e-diz-que-caso-sera-investigado,476de3d1fa1c2671c4cb7f7c64016d8e27f4lwww.html",
+        "data": "20/06/2026 11:14",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/20/captura-de-tela-2026-06-19-233458-skvmy5lkk5er.png"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/20/inserir-um-titulo-(28)-u87yhhts19h2.jpg"
     },
     {
-        "titulo": "Raphinha inicia tratamento após ser substituído por dores da coxa",
-        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/raphinha-inicia-tratamento-apos-ser-substituido-por-dores-da-coxa-em-vitoria-sobre-o-haiti,86c47ddcaf5411a6f772e66e3f62198dj5kjibcz.html",
-        "data": "20/06/2026 07:00",
+        "titulo": "Mega-Sena pode pagar R$ 42 milhões neste sábado; saiba como jogar",
+        "link": "https://www.terra.com.br/economia/mega-sena-pode-pagar-r-42-milhoes-neste-sabado-saiba-como-jogar,8acac2930254f0f5d08633cd1979979ejhaj9rta.html",
+        "data": "20/06/2026 11:14",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/20/gettyimages-2281864925-t8cdlmhfh6wh.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/22/fta20240305001-vf96fuubvj91.jpg"
     },
     {
-        "titulo": "Alerta da Defesa Civil dispara e assusta pessoas de madrugada",
-        "link": "https://www.terra.com.br/noticias/alerta-da-defesa-civil-dispara-e-assusta-pessoas-de-madrugada,af51b6501fe4ea460d58aa7cfbaed079oxpng8tm.html",
-        "data": "20/06/2026 07:00",
+        "titulo": "Ataques de Israel no Líbano deixam mortos e feridos e ameaçam trégua com Hezbollah",
+        "link": "https://www.terra.com.br/noticias/mundo/ataques-de-israel-no-sul-do-libano-deixam-mortos-e-feridos-e-ameacam-tregua-com-o-hezbollah,5ef6397938a3af49e84d72f594144d81hf0fvur6.html",
+        "data": "20/06/2026 11:14",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/20/captura-de-tela-2026-06-20-013210-urrx847imo1k.png"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/20/831462393-2026-06-20t085155z-2109075645-rc2jxla4flax-rtrmadp-3-iran-crisis-israel-lebanon.jpg"
     },
     {
-        "titulo": "Pais de atirador que matou 10 colegas em escola são condenados por negligência",
-        "link": "https://www.terra.com.br/noticias/mundo/pais-de-atirador-de-escola-na-servia-sao-condenados-por-negligencia-em-novo-julgamento,a5b924fa47dd0c6b951544f8f6582205r3pthv6t.html",
-        "data": "20/06/2026 07:00",
+        "titulo": "Ancelotti e jogadores destacam volta de Neymar, lesão de Raphinha e sucesso coletivo",
+        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/brasil-x-haiti-ancelotti-e-jogadores-destacam-volta-de-neymar-lesao-de-raphinha-e-sucesso-coletivo-no-pos-jogo,289530f2ac920635910cf9653b7663b1vrfan2li.html",
+        "data": "20/06/2026 11:14",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/19/gettyimages-2150668418-1k1rr217jmsdx.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/20/gettyimages-2282427637-1h7infg3pffhz.jpg"
     },
     {
-        "titulo": "Funkeiro foragido lança música que alcança 12º lugar entre mais ouvidas no Brasil",
-        "link": "https://www.terra.com.br/diversao/musica/funkeiro-foragido-mc-negao-original-lanca-musica-que-alcanca-12-lugar-entre-mais-ouvidas-no-brasil,eddd73be880da85e74108360cc9d097a2al7sdt3.html",
-        "data": "20/06/2026 07:00",
+        "titulo": "Ancelotti diz não se importar com saldo e resultados de outros times",
+        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/ancelotti-admite-pe-no-freio-no-2-tempo-contra-o-haiti-e-diz-nao-se-importar-com-saldo-e-resultados-de-outros-times,cc4c313b87fdc5ddb96685bd6302d9fajz3tcclo.html",
+        "data": "20/06/2026 11:14",
         "fonte": "Terra",
         "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/19/mc_negao_original-s4rv18azv7eh.PNG"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/20/ancelotti-1iaxn5g4t5ttl.jpg"
     },
     {
         "titulo": "Paraguaio é expulso de maneira inusitada na Copa; entenda nova regra",
         "link": "https://www.terra.com.br/esportes/futebol/copa-2026/paraguaio-e-expulso-de-maneira-inusitada-na-copa-entenda-nova-regra,cf8f15a5105c26036b651c2dd20c72048noubvpc.html",
-        "data": "20/06/2026 07:00",
+        "data": "20/06/2026 11:14",
         "fonte": "Terra",
         "metodo": "Web Scraping",
         "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/20/captura-de-tela-2026-06-20-004940-1jy4zc1n01zxz.png"
     },
     {
-        "titulo": "Site oficial rebate Lula e manda indireta após crítica: 'No day off'",
-        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/site-oficial-rebate-lula-e-manda-indireta-no-day-off,088224f6ee96fbb892a57f92c80f6045bvwffoa0.html",
-        "data": "20/06/2026 07:00",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/18/fct20260618001-1hre6qc8dyvxu.jpg"
-    },
-    {
-        "titulo": "Torcida sonha com hexa após obrigação cumprida: 'A soberba voltou, entreguem a taça'",
-        "link": "https://www.terra.com.br/esportes/futebol/copa-2026/brasil-faz-obrigacao-contra-haiti-e-torcedores-na-web-voltam-a-falar-em-hexa-a-soberba-voltou,965280d6883ca7c21c33e61057ac1ffc97tarv7s.html",
-        "data": "20/06/2026 07:00",
-        "fonte": "Terra",
-        "metodo": "Web Scraping",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/20/1229035906-3glx7jhpbzhozjqgrbhu625d6m.jpg"
-    },
-    {
-        "titulo": "O que se sabe sobre a lesão de Raphinha no jogo contra o Haiti",
-        "link": "https://veja.abril.com.br/esporte/o-que-se-sabe-sobre-a-lesao-de-raphinha-no-jogo-contra-o-haiti/",
-        "data": "20/06/2026 03:50",
+        "titulo": "Estatais: Razões da ineficiência",
+        "link": "https://veja.abril.com.br/coluna/mailson-da-nobrega/estatais-razoes-da-ineficiencia/",
+        "data": "20/06/2026 11:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/BAT7438.jpg.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2024/08/20240802_105535.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Rayan entra para a história da seleção brasileira",
-        "link": "https://veja.abril.com.br/esporte/rayan-entra-para-a-historia-da-selecao-brasileira/",
-        "data": "20/06/2026 03:49",
+        "titulo": "Daniel Ervér, CEO global da H&M: “Fast fashion significa democratizar a moda”",
+        "link": "https://veja.abril.com.br/comportamento/daniel-erver-ceo-global-da-hm-fast-fashion-significa-democratizar-a-moda/",
+        "data": "20/06/2026 11:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2281871637.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/Daniel-Erver-CEO-Global-da-HM-Foto-Bruno-Ryfer-1.jpg-1.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "O que Chico Moedas fez para virar queridinho da torcida na Copa",
-        "link": "https://veja.abril.com.br/esporte/o-que-chico-moedas-fez-para-virar-queridinho-da-torcida-na-copa/",
-        "data": "20/06/2026 02:57",
+        "titulo": "“Roubaram um pedaço da minha vida”",
+        "link": "https://veja.abril.com.br/brasil/roubaram-um-pedaco-da-minha-vida/",
+        "data": "20/06/2026 11:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-19-at-23.55.45.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/Pimeira-Pessoa3000.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Globo lidera audiência no jogo do Brasil, mas segundo lugar surpreende",
-        "link": "https://veja.abril.com.br/esporte/globo-lidera-audiencia-no-jogo-do-brasil-mas-segundo-lugar-surpreende/",
-        "data": "20/06/2026 02:45",
+        "titulo": "Melhor da semana: os personagens improváveis da Copa do Mundo",
+        "link": "https://veja.abril.com.br/coluna/veja-gente/melhor-da-semana-os-personagens-improvaveis-da-copa-do-mundo/",
+        "data": "20/06/2026 11:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/transmissaoglobo.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2281749789.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "O Brasil goleou o Haiti por 3 a 0 – o que a vitória elástica representa para o futuro da seleção na Copa",
-        "link": "https://veja.abril.com.br/esporte/o-brasil-goleou-o-haiti-por-3-a-0-o-que-a-vitoria-elastica-representa-para-o-futuro-da-selecao-na-copa/",
-        "data": "20/06/2026 02:31",
+        "titulo": "Série ‘Alice e Steve’, do Disney+, reforça a onda do humor constrangedor",
+        "link": "https://veja.abril.com.br/cultura/serie-alice-e-steve-do-disney-reforca-a-onda-do-humor-constrangedor/",
+        "data": "20/06/2026 11:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/BAT7346.jpg.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/SERIE-ALICE-AND-STEVE-05.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "A indireta de Neymar após piada de Lula sobre home office",
-        "link": "https://veja.abril.com.br/esporte/a-indireta-de-neymar-apos-piada-de-lula-sobre-home-office/",
-        "data": "20/06/2026 02:28",
+        "titulo": "Onda de furtos de smartphones no Brasil populariza o ‘celular do Pix’",
+        "link": "https://veja.abril.com.br/brasil/onda-de-furtos-de-smartphones-no-brasil-populariza-o-celular-do-pix/",
+        "data": "20/06/2026 11:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2279117765-e1781817029287.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-1368457493.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "A torcida inesperada pelo Brasil nos telejornais de Bangladesh",
-        "link": "https://veja.abril.com.br/esporte/a-torcida-inesperada-pelo-brasil-nos-telejornais-de-bangladesh/",
-        "data": "20/06/2026 02:21",
+        "titulo": "O resgate de um mestre do estilo: exposição em Paris faz justiça a Pierre Balmain",
+        "link": "https://veja.abril.com.br/comportamento/o-resgate-de-um-mestre-do-estilo-exposicao-em-paris-faz-justica-a-pierre-balmain/",
+        "data": "20/06/2026 11:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/HLLrwf0W8AAdDYr.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/PIERRE-BALMAIN-BRIGITTE-BARDOT-1956.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "O home office de Neymar durante jogo do Brasil na Copa",
-        "link": "https://veja.abril.com.br/esporte/o-home-office-de-neymar-durante-jogo-do-brasil-na-copa/",
-        "data": "20/06/2026 02:11",
+        "titulo": "A eleição de R$ 56 bilhões: por que políticos têm volume recorde de dinheiro neste ano",
+        "link": "https://veja.abril.com.br/politica/a-eleicao-de-r-56-bilhoes-por-que-politicos-tem-volume-recorde-de-dinheiro-neste-ano/",
+        "data": "20/06/2026 11:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/16JUN2026TREINOREDBULL18NEYMAR-e1781645482162.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/PLENARIO-DA-CAMARA-19-maio-2026-d.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "O aceno de Vini Jr. para Virginia antes de gol do Brasil",
-        "link": "https://veja.abril.com.br/esporte/o-aceno-de-vini-jr-para-virginia-antes-de-gol-do-brasil/",
-        "data": "20/06/2026 02:05",
+        "titulo": "Maior cena aberta de uso de drogas do país por anos, cracolândia de SP passa por transformação",
+        "link": "https://veja.abril.com.br/brasil/maior-cena-aberta-de-uso-de-drogas-do-pais-por-anos-cracolandia-de-sp-passa-por-transformacao/",
+        "data": "20/06/2026 11:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-19-at-23.00.23.jpeg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/1-A63A4662.JPG-1.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     },
     {
-        "titulo": "Moraes autoriza depoimento de Bolsonaro sobre arma apreendida",
-        "link": "https://veja.abril.com.br/brasil/moraes-autoriza-depoimento-de-bolsonaro-sobre-arma-apreendida/",
-        "data": "20/06/2026 01:55",
+        "titulo": "Café ganha aplauso da ciência e agora mostra seu valor contra o Alzheimer",
+        "link": "https://veja.abril.com.br/saude/cafe-ganha-aplauso-da-ciencia-e-agora-mostra-seu-valor-contra-o-alzheimer/",
+        "data": "20/06/2026 11:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/09/000_74GJ72F-e1764017954414.jpg?quality=70&strip=info&resize=1080,565&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-1445784861.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1"
     }
 ]
