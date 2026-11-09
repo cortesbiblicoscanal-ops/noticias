@@ -1,323 +1,387 @@
 [
     {
-        "titulo": "Mega-Sena: aposta feita em Pernambuco ganha mais de R$ 23 mil na quina",
-        "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/08/mega-sena-aposta-feita-em-pernambuco-ganha-mais-de-r-23-mil-na-quina.ghtml",
-        "data": "08/11/2026 19:13",
+        "titulo": "Lula diz que reforma política e do Judiciário é urgente: 'Hora da Justiça brasileira recuperar a sua credibilidade'",
+        "link": "https://g1.globo.com/politica/noticia/2026/11/08/lula-diz-que-reforma-politica-e-do-judiciario-e-urgente-hora-da-justica-brasileira-recuperar-a-sua-credibilidade.ghtml",
+        "data": "09/11/2026 00:07",
         "fonte": "G1",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/ZSEM8YoPXRY5KVz6AkzEKWSSjJc=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/n/hYlvhFRMWHYN7QY4XkQg/edicao-imagens-g1-45-.png"
+        "image": "https://s2-g1.glbimg.com/Oa4jskWlnTeoIFZB-I_g5Mr3cFw=/3600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/p/iMC9ctQlqq6SkXVYRBxg/55636960030-d229c48702-o.jpg"
     },
     {
-        "titulo": "Polícia Civil confirma que dez vítimas de acidente em lago de Barra Mansa morreram afogadas",
-        "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/08/policia-civil-confirma-que-dez-vitimas-de-acidente-em-lago-de-barra-mansa-morreram-afogadas.ghtml",
+        "titulo": "VÍDEOS: Correção do Enem 2026 - Redação, Inglês, Espanhol, História, Filosofia, Sociologia, Geografia",
+        "link": "https://g1.globo.com/educacao/enem/2026/playlist/videos-correcao-do-enem-2026-redacao-ingles-espanhol-historia-filosofia-sociologia-geografia.ghtml",
+        "data": "09/11/2026 00:02",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1"
+    },
+    {
+        "titulo": "Veja a íntegra do pronunciamento de Lula em rede nacional de rádio e TV neste domingo",
+        "link": "https://g1.globo.com/politica/noticia/2026/11/08/leia-a-integra-do-pronunciamento-de-lula-em-rede-nacional-de-radio-e-tv.ghtml",
+        "data": "08/11/2026 23:50",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/2LQNUs1Rs9hCNRpyYUY76qnxUSU=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/80/05/15170580"
+    },
+    {
+        "titulo": "Candidatos do Enem em Manaus relatam nervosismo, estudos em jornadas noturnas e sonho de ingressar em curso superior",
+        "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/08/candidatos-do-enem-em-manaus-relatam-nervosismo-estudos-em-jornadas-noturnas-e-sonho-de-ingressar-em-curso-superior.ghtml",
+        "data": "08/11/2026 23:47",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/jroO_WDbAvu959ub-7_mDjV_BRE=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/O/8ykTpARM274kHgNvfbqQ/candidatos-deixam-local-de-prova-apos-1deg-dia-do-enem-em-manaus.jpg"
+    },
+    {
+        "titulo": "'Eu estava só brincando', diz Trump sobre convite a presidente do UFC para cargo na Casa Branca",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/08/trump-estava-brincando-convite-presidente-ufc-dana-white-cargo-casa-branca.ghtml",
+        "data": "08/11/2026 23:33",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/e_SjdE9phWLOhDga-84ZEh4svr4=/4320x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/K/3PaCZsTiA5vq4lH6JDQA/2026-11-08t233902z-130459125-rc2zjoak0enk-rtrmadp-3-usa-trump.jpg"
+    },
+    {
+        "titulo": "Lula diz que se preocupa com dívida pública e juros e reafirma responsabilidade fiscal",
+        "link": "https://g1.globo.com/politica/noticia/2026/11/08/lula-fala-em-pronunciamento-em-rede-nacional-de-radio-e-tv.ghtml",
+        "data": "08/11/2026 23:30",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/iFuQ0O5ChSEVgd-sxoHwGJeYM6o=/2047x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/l/rhPFr0R5qST1qItLpJdg/55635257264-51a2569622-k.jpg"
+    },
+    {
+        "titulo": "Isso é Fantástico — Manila Norte: o cemitério dos vivos",
+        "link": "https://g1.globo.com/fantastico/podcast/isso-e-fantastico/noticia/2026/11/08/isso-e-fantastico-manila-norte-o-cemiterio-dos-vivos.ghtml",
+        "data": "08/11/2026 23:18",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/v9uvQNgIsDVZ9PE-p2-XQaofc20=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/B/Bvv2pSRoKDIHBc8kHnhA/fant-filipinas-cemiterio-novo-hd-fant-manila-norte-final-08-11-26.mp4-frame-24607.jpeg"
+    },
+    {
+        "titulo": "'Povo começou a se desesperar', diz candidato do Enem após interrupção de prova por risco de incêndio no Amapá",
+        "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/08/povo-comecou-a-se-desesperar-diz-candidato-do-enem-apos-interrupcao-de-prova-por-risco-de-incendio-no-amapa.ghtml",
+        "data": "08/11/2026 23:08",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/RTDmunb1XDKw2MOIO4_Y6g1JQ7E=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/K/WUenRyS56XZZUPXRH4Yw/copia-de-aleixo-g1.jpg"
+    },
+    {
+        "titulo": "Enem 2026: reaplicação é prevista em 39 locais após falta de luz",
+        "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/08/enem-2026-balanco-primeiro-dia.ghtml",
+        "data": "08/11/2026 23:08",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/XcPKPfIo-KAkv2bwXdya5iqS1fI=/4032x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/o/O/xhyInlQv6jptCeTMr1FA/fta20231026131.jpg"
+    },
+    {
+        "titulo": "'Não me lembro de nada', diz PM que atirou contra grupo de amigos e matou mulher no DF; veja VÍDEO",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/08/nao-me-lembro-de-nada-diz-pm-que-atirou-contra-grupo-de-amigos-e-matou-mulher-veja-video.ghtml",
+        "data": "08/11/2026 23:03",
+        "fonte": "G1",
+        "metodo": "RSS",
+        "image": "https://s2-g1.glbimg.com/EVABIDiYtlqXLJpuFJriXDnOhZc=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/E/d16KLkTHyyXJ04FgYBEg/design-sem-nome-2026-11-08t143738.333.png"
+    },
+    {
+        "titulo": "Após polêmica, Defesa Civil diz que kit de emergência é medida preventiva",
+        "link": "https://www.cnnbrasil.com.br/nacional/brasil/apos-polemica-defesa-civil-diz-que-kit-de-emergencia-e-medida-preventiva/",
+        "data": "08/11/2026 23:48",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/gettyimages-1345507654.avif?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Lula diz que Justiça brasileira precisa “recuperar sua credibilidade”",
+        "link": "https://www.cnnbrasil.com.br/politica/lula-diz-que-justica-brasileira-precisa-recuperar-sua-credibilidade/",
+        "data": "08/11/2026 23:47",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/presidente-lula_0ed7d4-e1792755501895.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Na TV, Lula diz que se preocupa com dívida pública e taxa de juros",
+        "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/na-tv-lula-diz-que-se-preocupa-com-divida-publica-e-taxa-de-juros/",
+        "data": "08/11/2026 23:42",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/55587352288_05563a2307_o.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Enem 2026: saiba quando o gabarito oficial será divulgado",
+        "link": "https://www.cnnbrasil.com.br/educacao/enem-2026-saiba-quando-o-gabarito-oficial-sera-divulgado/",
+        "data": "08/11/2026 23:40",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/enem-2026-1.jpeg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Na Argentina, papa pede defesa da democracia e que líderes saibam limites",
+        "link": "https://www.cnnbrasil.com.br/internacional/na-argentina-papa-pede-defesa-da-democracia-e-que-lideres-saibam-limites/",
+        "data": "08/11/2026 23:38",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/papa-leao-xiv-discurso-argentina-e1794181116852.jpg?w=1190&h=630&crop=1"
+    },
+    {
+        "titulo": "Enem 2026: abstenção cresce para 32% no 1º dia, diz ministro da Educação",
+        "link": "https://www.cnnbrasil.com.br/educacao/enem-2026-abstencao-cresce-para-32-no-1o-dia-diz-ministro-da-educacao/",
+        "data": "08/11/2026 23:35",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/ministro-da-educacao-leonardo-barchini.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "MP do Paraguai faz busca e apreensão em residência do ex-presidente Peña",
+        "link": "https://www.cnnbrasil.com.br/internacional/mp-do-paraguai-faz-busca-e-apreensao-em-residencia-do-ex-presidente-pena/",
+        "data": "08/11/2026 23:18",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/MP-Paraguai.jpeg?w=1116&h=630&crop=1"
+    },
+    {
+        "titulo": "Reaplicação de provas do Enem 2026: veja quem tem direito e como solicitar",
+        "link": "https://www.cnnbrasil.com.br/educacao/reaplicacao-de-provas-do-enem-2026-veja-quem-tem-direito-e-como-solicitar/",
+        "data": "08/11/2026 23:11",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/enem-2026-4.webp?w=1024&h=630&crop=1"
+    },
+    {
+        "titulo": "Palmeiras fatura prêmio milionário com vaga final da Copa do Brasil; veja",
+        "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/palmeiras-fatura-premio-milionario-com-vaga-final-da-copa-do-brasil-veja/",
+        "data": "08/11/2026 23:02",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/08112026_cg_palmeiras_gol_1417_3.png?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Enem: entenda o que é a TRI e como ela molda sua nota final",
+        "link": "https://www.cnnbrasil.com.br/educacao/enem-entenda-o-que-e-a-tri-e-como-ela-molda-sua-nota-final-2/",
+        "data": "08/11/2026 23:00",
+        "fonte": "CNN Brasil",
+        "metodo": "RSS",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/TRI-Enem.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Lula afirma preocupação com dívida pública e volta a falar sobre responsabilidade fiscal",
+        "link": "https://jovempan.com.br/politica/em-pronunciamento-lula-cita-divida-publica-e-volta-a-falar-sobre-responsabilidade-fiscal/",
+        "data": "08/11/2026 23:52",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2025/12/design-sem-nome-17.png?w=1000&h=600&crop=1"
+    },
+    {
+        "titulo": "Homem agride namorada em saída de bar e é imobilizado por prefeito em Itaquaquecetuba",
+        "link": "https://jovempan.com.br/brasil/homem-agride-namorada-em-saida-bar-e-e-imobilizado-por-prefeito-em-itaquaquecetuba/",
+        "data": "08/11/2026 23:25",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/11/Prefeito-de-Itaquaquecetuba-imobiliza-homem-que-agrediu-namorada.jpg?w=1000&h=600&crop=1"
+    },
+    {
+        "titulo": "Na Argentina, papa lembra a Milei o valor de pesar as palavras e buscar acordos",
+        "link": "https://jovempan.com.br/mundo/na-argentina-papa-lembra-a-milei-o-valor-de-pesar-as-palavras-e-buscar-acordos/",
+        "data": "08/11/2026 23:07",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/05/design-sem-nome-1-5.png?w=1000&h=600&crop=1"
+    },
+    {
+        "titulo": "Palmeiras bate Vasco, vai à final da Copa do Brasil e mantém sonho da tríplice coroa",
+        "link": "https://jovempan.com.br/esportes/futebol/palmeiras/palmeiras-bate-vasco-vai-a-final-da-copa-do-brasil-e-mantem-sonho-da-triplice-coroa/",
+        "data": "08/11/2026 22:51",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/11/PEP20261108025.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Ministério informa ter adquirido 25 mil doses de vacina contra mpox",
+        "link": "https://jovempan.com.br/saude/ministerio-informa-ter-adquirido-25-mil-doses-de-vacina-contra-mpox/",
+        "data": "08/11/2026 22:28",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2025/04/vacinacao.png?w=1000&h=630&crop=1"
+    },
+    {
+        "titulo": "Magdeburg vence em casa e bate St Pauli por 4 a 1 na Bundesliga 2",
+        "link": "https://jovempan.com.br/esportes/futebol/futebol-internacional/magdeburg-vence-em-casa-e-bate-st-pauli-por-4-a-1-na-bundesliga-2/",
+        "data": "08/11/2026 21:48",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/11/WhatsApp-Image-2026-11-05-at-20.45.53.jpeg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "Trump considera ‘altamente improvável’ novos ataques contra Irã durante negociações",
+        "link": "https://jovempan.com.br/mundo/trump-considera-altamente-improvavel-novos-ataques-contra-ira-durante-negociacoes/",
+        "data": "08/11/2026 20:53",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/11/AFP__20261104__D6FU998__v1__HighRes__776589022.jpg?w=1200&h=630&crop=1"
+    },
+    {
+        "titulo": "‘Rei da Sucata’, suspeito de lavagem de dinheiro para o tráfico, é preso em shopping de SP",
+        "link": "https://jovempan.com.br/brasil/rei-da-sucata-suspeito-de-lavagem-de-dinheiro-para-o-trafico-e-preso-em-shopping-de-sp/",
+        "data": "08/11/2026 20:15",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/11/Rei-da-Sucata-Rodrigo-Leonardo-Alcantara.jpg?w=1000&h=600&crop=1"
+    },
+    {
+        "titulo": "Aposta de Goiânia leva prêmio da Mega-Sena; veja dezenas sorteadas",
+        "link": "https://jovempan.com.br/economia/aposta-de-goiania-leva-premio-da-mega-sena-veja-dezenas-sorteadas/",
+        "data": "08/11/2026 20:02",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2025/02/mega-sena.jpg?w=1170&h=630&crop=1"
+    },
+    {
+        "titulo": "Terras raras, Lei Rouanet, Guerra no Irã e SUS na redação: o que caiu no 1º dia do Enem",
+        "link": "https://jovempan.com.br/educacao/terras-raras-lei-rouanet-guerra-no-ira-e-sus-na-redacao-o-que-caiu-no-1o-dia-do-enem/",
+        "data": "08/11/2026 19:42",
+        "fonte": "Jovem Pan",
+        "metodo": "RSS",
+        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2024/11/ish20241103013.jpg?w=1000&h=610&crop=1"
+    },
+    {
+        "titulo": "Bianca Andrade e Lucas Guedez são eliminados da Dança dos Famosos",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/11/bianca-andrade-e-lucas-guedez-sao-eliminados-da-danca-dos-famosos.shtml",
+        "data": "09/11/2026 00:23",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/11/08/17941837026af1121639d93_1794183702_3x2_lg.jpg"
+    },
+    {
+        "titulo": "Em perfil, The Economist define Janones como 'herói' da esquerda brasileira",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/em-perfil-the-economist-define-janones-como-heroi-da-esquerda-brasileira.shtml",
+        "data": "09/11/2026 00:20",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/10/29/17932877706ae3665ae24f2_1793287770_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Na TV, Lula promete responsabilidade fiscal, manda indireta a Flávio e cobra Judiciário ético e isento",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/na-tv-lula-promete-responsabilidade-fiscal-manda-recado-a-flavio-e-cobra-judiciario-etico-e-isento.shtml",
+        "data": "09/11/2026 00:05",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/09/04/17885677776a9b60e182acc_1788567777_3x2_xl.jpg"
+    },
+    {
+        "titulo": "Todos Pela Educação reúne autoridades e lideranças para celebrar seus 20 anos",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/todos-pela-educacao-reune-autoridades-e-liderancas-para-celebrar-seus-20-anos.shtml",
+        "data": "09/11/2026 00:00",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/11/06/17939958986aee347a4535d_1793995898_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Gleisi acusa Folha de 'terrorismo fiscal' e de querer recessão ao criticar reportagem",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/gleisi-acusa-folha-de-terrorismo-fiscal-e-de-querer-recessao-ao-criticar-reportagem.shtml",
+        "data": "08/11/2026 23:57",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2025/09/03/175694146068b8cc942ceab_1756941460_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Proposta da redação do Enem rompe com formato recente sobre minorias sociais, dizem professores",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/proposta-da-redacao-do-enem-rompe-com-formato-recente-sobre-minorias-sociais-dizem-professores.shtml",
+        "data": "08/11/2026 23:52",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/11/08/17941653786af0ca82c2819_1794165378_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Ida do Palmeiras à final da Copa do Brasil abre vaga para Libertadores via Brasileiro",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/ida-do-palmeiras-a-final-da-copa-do-brasil-abre-vaga-para-libertadores-via-brasileiro.shtml",
+        "data": "08/11/2026 23:35",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/11/08/17941814156af10927797f3_1794181415_3x2_lg.jpg"
+    },
+    {
+        "titulo": "Cotação do petróleo reabre em leve queda mesmo com ataques a navios perto de Hormuz",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/cotacao-do-petroleo-reabre-em-leve-queda-mesmo-com-ataques-a-navios-perto-de-hormuz.shtml",
+        "data": "08/11/2026 23:32",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/11/08/17941780426af0fbfa247d9_1794178042_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Receitas inusitadas, debate sobre gastronomia e André Frateschi marcam segundo dia de festival da Folha",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/11/receitas-inusitadas-debate-sobre-gastronomia-e-andre-frateschi-marcam-segundo-dia-de-festival-da-folha.shtml",
+        "data": "08/11/2026 23:29",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/11/08/17941799296af1035979dda_1794179929_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Candidatos têm impressões distintas sobre o primeiro dia do Enem 2026",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/candidatos-tem-impressoes-distintas-sobre-o-primeiro-dia-do-enem-2026.shtml",
+        "data": "08/11/2026 23:26",
+        "fonte": "Folha de S.Paulo",
+        "metodo": "RSS",
+        "image": "https://f.i.uol.com.br/fotografia/2026/11/08/17941793556af1011b7f0a5_1794179355_3x2_rt.jpg"
+    },
+    {
+        "titulo": "Em pronunciamento, Lula promete criar condições para reduzir taxa de juros",
+        "link": "https://exame.com/brasil/em-pronunciamento-lula-promete-criar-condicoes-para-reduzir-taxa-de-juros/",
+        "data": "08/11/2026 20:57",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2026/11/lula-pronunciamento-08-11_3eb250.jpg"
+    },
+    {
+        "titulo": "Ex-presidente da Colômbia, Gustavo Petro, é investigado por 'escândalo sexual'",
+        "link": "https://exame.com/mundo/ex-presidente-da-colombia-gustavo-petro-e-investigado-por-escandalo-sexual/",
+        "data": "08/11/2026 20:38",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2025/11/GettyImages-2239505758.jpg"
+    },
+    {
+        "titulo": "Partido de Mandela registra 'pior resultado da história' em eleições na Africa do Sul",
+        "link": "https://exame.com/mundo/partido-de-mandela-registra-pior-resultado-da-historia-em-eleicoes-na-africa-do-sul/",
+        "data": "08/11/2026 20:09",
+        "fonte": "Exame",
+        "metodo": "RSS",
+        "image": "https://classic.exame.com/wp-content/uploads/2026/11/AFP__20261105__D6GT6LZ__v1__HighRes__SafricaVote.jpg"
+    },
+    {
+        "titulo": "CSN assina contrato de venda da CSN Cimentos à chinesa Huaxin em negócio de R$ 12,7 bi",
+        "link": "https://exame.com/invest/mercados/csn-assina-contrato-de-venda-da-csn-cimentos-a-chinesa-huaxin-em-negocio-de-r-127-bi/",
         "data": "08/11/2026 19:10",
-        "fonte": "G1",
+        "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/Z8bkb5hYF0i4r5uVM4146U2MYtI=/1320x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/g/fglmtASNuIPdmbCB8GJA/whatsapp-image-2026-11-08-at-11.38.38.jpeg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/08/csn-cimentos.webp"
     },
     {
-        "titulo": "Enem 2026 cita Lei Rouanet, a importância do voto e terras raras; g1 terá programa ao vivo e gabarito",
-        "link": "https://g1.globo.com/educacao/enem/2026/ao-vivo/enem-2026-gabarito-correcao-das-questoes-videos-cadernos-prova.ghtml",
-        "data": "08/11/2026 19:05",
-        "fonte": "G1",
+        "titulo": "Trump admite que deportação em massa de imigrantes foi 'dura demais'",
+        "link": "https://exame.com/mundo/trump-admite-que-deportacao-em-massa-de-imigrantes-foi-dura-demais/",
+        "data": "08/11/2026 18:48",
+        "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/sTPO356AGZtgHWLH1qBTufq1Q7M=/smart/filters:strip_icc()/s2-g1.glbimg.com/dhRkXJnvfks7VwVKhZ6IOkV2gys%3D/1280x0/filters%3Aformat%28jpeg%29/https%3A//thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/60/72/8427260"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/11/AFP__20261105__D6L34C8__v1__HighRes__UsPoliticsTrump.jpg"
     },
     {
-        "titulo": "Homem morre após ser atacado com tacos de sinuca em bar de Uberaba",
-        "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/08/homem-morre-apos-ser-atacado-com-tacos-de-sinuca-em-bar-de-uberaba.ghtml",
-        "data": "08/11/2026 18:59",
-        "fonte": "G1",
+        "titulo": "Conselho da Nvidia investiga espionagem chinesa após CEO admitir caso extraconjugal",
+        "link": "https://exame.com/mundo/conselho-da-nvidia-investiga-espionagem-chinesa-apos-ceo-admitir-caso-extraconjugal/",
+        "data": "08/11/2026 17:32",
+        "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/TkOEyu9wESvk8GyrVBZkqAEZB8Y=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/o/q2XGB8SteSNAMtijaT8A/viatura-pmmg.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2025/01/GettyImages-2192215403.jpg"
     },
     {
-        "titulo": "Vendaval destrói estufas e causa prejuízo de até R$ 50 mil em Taiúva, SP",
-        "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/08/vendaval-destroi-estufas-e-causa-prejuizo-de-ate-r-50-mil-em-taiuva-sp.ghtml",
-        "data": "08/11/2026 18:49",
-        "fonte": "G1",
+        "titulo": "Novo filme de Kleber Mendonça Filho vai retratar propaganda nazista no Recife",
+        "link": "https://exame.com/pop/novo-filme-de-kleber-mendonca-filho-vai-retratar-propaganda-nazista-no-recife/",
+        "data": "08/11/2026 17:24",
+        "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/uLSbq4fXu4YU7l5-jDkO0tap688=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/9/EVlB0RSK63CplzgynrfA/molduras-g1-rp-1-.png"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/03/AFP__20260314__2266389263__v2__HighRes__TheAcademyMuseumPresents98thOscarsNomineeSpo.jpg"
     },
     {
-        "titulo": "Candidato chama moto por aplicativo, chega atrasado ao Enem e encontra portão fechado no AC: 'Pedi 30 minutos antes'",
-        "link": "https://g1.globo.com/ac/acre/noticia/2026/11/08/candidato-chama-moto-por-aplicativo-chega-atrasado-ao-enem-e-encontra-portao-fechado-no-ac-pedi-30-minutos-antes.ghtml",
-        "data": "08/11/2026 18:45",
-        "fonte": "G1",
+        "titulo": "Trump diz que novos ataques contra Irã são 'altamente improváveis'",
+        "link": "https://exame.com/mundo/trump-diz-que-novos-ataques-contra-ira-sao-altamente-improvaveis/",
+        "data": "08/11/2026 17:15",
+        "fonte": "Exame",
         "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/ax-6aIhgfkP-xwQkh-vT41VUVEc=/3264x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/Y/zi2VApQ8ezHwXlb5kKag/befunky-collage-2026-11-08t134257.728.jpg"
-    },
-    {
-        "titulo": "Vereador é preso suspeito de manter mulher em cárcere privado e ameaça-la de morte; ela conseguiu fugir e foi perseguida, diz polícia",
-        "link": "https://g1.globo.com/go/goias/noticia/2026/11/08/vereador-e-preso-suspeito-de-manter-mulher-em-carcere-privado-e-ameaca-la-de-morte.ghtml",
-        "data": "08/11/2026 18:40",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/MuXdGgeq5IF4c-3DlFctUI0Z_z0=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/A/Bw3EKHT9upHugjkwz01A/padrao-foto-g1-goias-2-.png"
-    },
-    {
-        "titulo": "Pai norte-americano é preso em pousada de Florianópolis suspeito de levar filha de 3 anos ilegalmente ao Brasil",
-        "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/08/pai-norte-americano-preso-pousada-florianopolis-filha.ghtml",
-        "data": "08/11/2026 18:40",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/3Um1-e7BgmgAXkZ3zxJCpRHI1IE=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/n/kRkF31QM6Y554oVECCdg/lagoa-da-conceicao-florianopolis.jpg"
-    },
-    {
-        "titulo": "Corpo de jovem que desapareceu após acidente com moto aquática é encontrado em MT",
-        "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/08/corpo-de-jovem-que-desapareceu-apos-acidente-com-moto-aquatica-e-encontrado-em-mt.ghtml",
-        "data": "08/11/2026 18:37",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/UmZDUEoAPrin8NZN1kwyiWs9NSo=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/J/FvWsAUSPeLvxkjqsFtBQ/videos-g1-15-.png"
-    },
-    {
-        "titulo": "VÍDEO mostra golfinhos saltando entre surfistas na Praia do Francês, em AL",
-        "link": "https://g1.globo.com/al/alagoas/noticia/2026/11/08/video-mostra-golfinhos-saltando-entre-surfistas-na-praia-do-frances-em-al.ghtml",
-        "data": "08/11/2026 18:37",
-        "fonte": "G1",
-        "metodo": "RSS",
-        "image": "https://s2-g1.glbimg.com/AqZ5Jg2A9z9_I4G0Co9HkpBGNi4=/1599x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/j/AldzX1SbqyxBbNk5Rg9Q/whatsapp-image-2026-11-08-at-15.28.14.jpeg"
-    },
-    {
-        "titulo": "Vasco x Palmeiras: escalações e onde assistir à semifinal da Copa do Brasil",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/vasco-x-palmeiras-escalacoes-e-onde-assistir-a-semifinal-da-copa-do-brasil/",
-        "data": "08/11/2026 19:01",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/sao-januario-estadio-vasco-e1776205400609.jpeg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Melania assume papel diplomático em meio a impasse de Trump na Ucrânia",
-        "link": "https://www.cnnbrasil.com.br/internacional/melania-assume-papel-diplomatico-em-meio-a-impasse-de-trump-na-ucrania/",
-        "data": "08/11/2026 19:00",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXczc3RsbzcwMDAxM2I2dGMybzBuZHNp-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdzNuanMwYTAwMXgyY3A2OXhqODZoYmo.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Após enchentes no RS, empreendedores ensinam negócios a enfrentar desastres",
-        "link": "https://www.cnnbrasil.com.br/economia/money/negocios/apos-enchentes-no-rs-empreendedores-ensinam-negocios-a-enfrentar-desastres/",
-        "data": "08/11/2026 18:58",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/05/ENQ20240513029.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Após gafe e passeio no paddock, Neymar dá bandeirada no GP de São Paulo",
-        "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/apos-gafe-e-passeio-no-paddock-neymar-da-bandeirada-no-gp-de-sao-paulo/",
-        "data": "08/11/2026 18:53",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/neymar-bandeirada-e1794163997749.png?w=385&h=217&crop=1"
-    },
-    {
-        "titulo": "Copa do Brasil Feminina: veja quem está na disputa pelo título",
-        "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/copa-do-brasil-feminina-veja-quem-esta-na-disputa-pelo-titulo/",
-        "data": "08/11/2026 18:52",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/IMG_1014.JPG-e1794163632889.jpeg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Mercedes conquista 9º título de Construtores da F1 no GP de São Paulo",
-        "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/mercedes-conquista-mundial-de-construtores-da-f1-no-gp-de-sao-paulo/",
-        "data": "08/11/2026 18:46",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Mercedes-e1793711375448.avif?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Norris brilha na chuva e vence GP de São Paulo; brasileiros decepcionam",
-        "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/norris-brilha-na-chuva-e-vence-gp-de-sao-paulo-brasileiros-decepcionam/",
-        "data": "08/11/2026 18:39",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/norris-mclaren-e1794159444637.jpeg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Enem 2026: saiba quando sai a nota da redação",
-        "link": "https://www.cnnbrasil.com.br/educacao/enem-2026-saiba-quando-sai-a-nota-da-redacao/",
-        "data": "08/11/2026 18:30",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/correcao-redacao.webp?w=984&h=630&crop=1"
-    },
-    {
-        "titulo": "Xuxa defende João Lucas após genro ser chamado de “afeminado”",
-        "link": "https://www.cnnbrasil.com.br/pop/celebridades/xuxa-defende-joao-lucas-apos-genro-ser-chamado-de-afeminado/",
-        "data": "08/11/2026 18:22",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/xuxa-defende-joao-lucas-e1794161631258.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Mudanças climáticas contribuem para fortes tempestades, diz meteorologista",
-        "link": "https://www.cnnbrasil.com.br/nacional/mudancas-climaticas-favorecem-fortes-tempestades-explica-meteorologista/",
-        "data": "08/11/2026 18:16",
-        "fonte": "CNN Brasil",
-        "metodo": "RSS",
-        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/APURACAO-CNN-9-1.png?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Britânico Lando Norris vence GP de São Paulo, em Interlagos",
-        "link": "https://jovempan.com.br/esportes/britanico-lando-norris-vence-gp-de-sao-paulo-em-interlagos/",
-        "data": "08/11/2026 19:01",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2025/03/lando-norris.jpg?w=1000&h=630&crop=1"
-    },
-    {
-        "titulo": "Sobe para 7 número de mortos em colisão entre trens no Egito; mais de 100 estão feridos",
-        "link": "https://jovempan.com.br/mundo/sobe-para-7-numero-de-mortos-em-colisao-entre-trens-no-egito-mais-de-100-estao-feridos/",
-        "data": "08/11/2026 18:37",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/11/AFP__20261108__D6U76NW__v3__HighRes__EgyptTransportRailwayAccident.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Alcaraz vence Shelton e é campeão do Masters 1000 de Paris pela primeira vez",
-        "link": "https://jovempan.com.br/esportes/alcaraz-vence-shelton-e-e-campeao-do-masters-1000-de-paris-pela-primeira-vez/",
-        "data": "08/11/2026 18:26",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2025/02/5e531921c2771dbc7c84f59e1964af6032708bf5.jpg?w=1000&h=630&crop=1"
-    },
-    {
-        "titulo": "Tema da redação do Enem 2026 é ‘Valorização do SUS como direito universal’",
-        "link": "https://jovempan.com.br/educacao/tema-da-redacao-do-enem-2026-e-valorizacao-do-sus-como-direito-universal/",
-        "data": "08/11/2026 18:18",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/04/isencao-da-taxa-de-inscricao-do-enem-2025-ja-pode-ser-solicitada.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Gadi Eisenkot convida partido de Netanyahu a formar coalizão de governo",
-        "link": "https://jovempan.com.br/mundo/gadi-eisenkot-convida-partido-de-netanyahu-a-formar-coalizao-de-governo/",
-        "data": "08/11/2026 18:00",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/11/AFP__20261108__D6U96RP__v1__HighRes__IsraelPoliticsMandate.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Homem desaparece após ser arrastado pela chuvas no Capão Redondo",
-        "link": "https://jovempan.com.br/brasil/homem-desaparece-apos-ser-arrastado-pela-chuvas-no-capao-redondo/",
-        "data": "08/11/2026 17:19",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/11/HOMEM-DESAPARECIDO.jpg?w=1000&h=600&crop=1"
-    },
-    {
-        "titulo": "Rival de Netanyahu recebe oficialmente o mandato para formar governo em Israel",
-        "link": "https://jovempan.com.br/mundo/rival-de-netanyahu-recebe-oficialmente-o-mandato-para-formar-governo-em-israel/",
-        "data": "08/11/2026 16:40",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/11/AFP__20261108__D6U96BH__v1__HighRes__IsraelPoliticsMandate.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Colisão de trens no Egito deixa pelo menos quatro mortos e dezenas de feridos",
-        "link": "https://jovempan.com.br/mundo/colisao-de-trens-no-egito-deixa-pelo-menos-quatro-mortos-e-dezenas-de-feridos/",
-        "data": "08/11/2026 15:49",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/11/AFP__20261108__D6U97CQ__v2__HighRes__EgyptTransportRailwayAccident.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Seleção brasileira desembarca na Ásia para amistosos contra Japão e Singapura",
-        "link": "https://jovempan.com.br/esportes/futebol/selecao-brasileira-desembarca-na-asia-para-amistosos-contra-japao-e-singapura/",
-        "data": "08/11/2026 15:22",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/07/Ancelotti.jpg?w=1000&h=600&crop=1"
-    },
-    {
-        "titulo": "AtlasIntel: Brasileiros nos EUA rechaçam Trump e votam nos democratas nas midterms",
-        "link": "https://jovempan.com.br/mundo/atlasintel-brasileiros-nos-eua-rechacam-trump-e-votam-nos-democratas-nas-midterms/",
-        "data": "08/11/2026 14:58",
-        "fonte": "Jovem Pan",
-        "metodo": "RSS",
-        "image": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/11/AFP__20261107__D6QA2CC__v1__HighRes__UsPoliticsTrump.jpg?w=1200&h=630&crop=1"
-    },
-    {
-        "titulo": "Estamos vivendo uma epidemia de falta de tempo",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/11/estamos-vivendo-uma-epidemia-de-falta-de-tempo.shtml",
-        "data": "08/11/2026 19:13",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/08/04/17858765566a72504cca146_1785876556_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Jordana rebate críticas após comentário sobre Ana Paula Renault: 'Quem tem que superar são vocês'",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/jordana-rebate-criticas-apos-comentario-sobre-ana-paula-renault-quem-tem-que-superar-sao-voces.shtml",
-        "data": "08/11/2026 19:07",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/11/08/17941647566af0c81458fdf_1794164756_3x2_rt.jpg"
-    },
-    {
-        "titulo": "TRE-MG suspende investigação da PF contra deputada eleita após denúncia de Flávio Bolsonaro",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/tre-mg-suspende-investigacao-da-pf-contra-deputada-eleita-apos-denuncia-de-flavio-bolsonaro.shtml",
-        "data": "08/11/2026 19:01",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/11/08/17941636266af0c3aa568f5_1794163626_3x2_lg.jpg"
-    },
-    {
-        "titulo": "Mercedes consolida domínio na temporada e vence título de construtores da F1",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/mercedes-consolida-dominio-na-temporada-e-vence-titulo-de-construtores-da-f1.shtml",
-        "data": "08/11/2026 18:57",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/11/08/17941635356af0c34f527c3_1794163535_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Kleber Mendonça Filho anuncia filme sobre anos 1930 e diz querer Wagner Moura",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/kleber-mendonca-filho-anuncia-filme-sobre-anos-1930-e-diz-querer-wagner-moura.shtml",
-        "data": "08/11/2026 18:44",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2025/11/01/176201717269063f94ed530_1762017172_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Norris vence em Interlagos, Verstappen escala até o pódio e Câmara é último",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/norris-vence-em-interlagos-verstappen-escala-ate-o-podio-e-camara-e-ultimo.shtml",
-        "data": "08/11/2026 18:43",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/11/07/17940864656aef9641dc139_1794086465_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Pesquisadores de Alzheimer analisam um dado incomum: o formato da cabeça",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/pesquisadores-de-alzheimer-analisam-um-dado-incomum-o-formato-da-cabeca.shtml",
-        "data": "08/11/2026 18:30",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/11/06/17939914886aee2340a1ed4_1793991488_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Tudo pode ser aproveitado, diz Marcelo Adnet sobre Algoritmo, novo projeto do Porta dos Fundos",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/11/tudo-pode-ser-aproveitado-diz-marcelo-adnet-sobre-algoritmo-novo-projeto-do-porta-dos-fundos.shtml",
-        "data": "08/11/2026 18:30",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/11/06/17939833206aee03581d2b8_1793983320_3x2_lg.jpg"
-    },
-    {
-        "titulo": "Pipoca de pão de queijo e pato com molho de refrigerante mostram criatividade de chefs em festival da Folha",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/11/pipoca-de-pao-de-queijo-e-pato-com-molho-de-refrigerante-mostram-criatividade-de-chefs-em-festival-da-folha.shtml",
-        "data": "08/11/2026 18:26",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17939122036aeced8b19861_1793912203_3x2_rt.jpg"
-    },
-    {
-        "titulo": "Famosos comparecem ao GP Brasil de Fórmula 1, em São Paulo",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/famosos-comparecem-ao-gp-brasil-de-formula-1-em-sao-paulo.shtml",
-        "data": "08/11/2026 18:12",
-        "fonte": "Folha de S.Paulo",
-        "metodo": "RSS",
-        "image": "https://f.i.uol.com.br/fotografia/2026/11/08/17941597606af0b49049e46_1794159760_3x2_rt.jpg"
+        "image": "https://classic.exame.com/wp-content/uploads/2026/07/AFP__20260709__B9PC7HT__v1__HighRes__UsPresidentTrumpReturnsFromNatoSummitInTurkey.jpg"
     },
     {
         "titulo": "Mercedes é campeã mundial de construtores da Fórmula 1 em 2026",
@@ -336,227 +400,163 @@
         "image": "https://classic.exame.com/wp-content/uploads/2026/11/MoetChandon_Divulgacao_3.jpg"
     },
     {
-        "titulo": "Eisenkot alerta para 'crise histórica' em Israel e cobra coalizão ampla contra Netanyahu",
-        "link": "https://exame.com/mundo/eisenkot-alerta-para-crise-historica-em-israel-e-cobra-coalizao-ampla-contra-netanyahu/",
-        "data": "08/11/2026 15:38",
-        "fonte": "Exame",
+        "titulo": "Benfica supera Estrela da Amadora com gol nos acréscimos pelo Português",
+        "link": "https://www.terra.com.br/esportes/futebol/internacional/equipes/benfica/benfica-supera-estrela-da-amadora-com-gol-nos-acrescimos-pelo-portugues,1b796f31e5226b458f00c0f3180447eeu5oul9sd.html",
+        "data": "09/11/2026 00:19",
+        "fonte": "Terra",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/10/Gadi_Eisenkot_2-e1794083279474.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/09/527595111-hwocwxsxgaa9nld-610x400.jpg"
     },
     {
-        "titulo": "Tempestades com raios: o que evitar dentro de casa para reduzir riscos",
-        "link": "https://exame.com/brasil/tempestades-com-raios-o-que-evitar-dentro-de-casa-para-reduzir-riscos/",
-        "data": "08/11/2026 15:07",
-        "fonte": "Exame",
+        "titulo": "Lula aparece sem aliança em pronunciamento em rede nacional",
+        "link": "https://www.terra.com.br/noticias/brasil/politica/lula/lula-aparece-sem-alianca-em-pronunciamento-em-rede-nacional,a6a569588805f05a63cb9ca260092dc5r4wta61s.html",
+        "data": "09/11/2026 00:18",
+        "fonte": "Terra",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_raios1.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/09/captura-de-tela-2026-11-08-as-21-01-35-u82evfohpw6x.png"
     },
     {
-        "titulo": "Rio registra ventos de quase 60 km/h neste domingo; veja áreas afetadas",
-        "link": "https://exame.com/brasil/rio-registra-ventos-de-quase-60-km-h-neste-domingo-veja-areas-afetadas/",
-        "data": "08/11/2026 14:59",
-        "fonte": "Exame",
+        "titulo": "Mulher agredida por lutador em elevador de condomínio no Rio desabafa: 'Muito medo'",
+        "link": "https://www.terra.com.br/noticias/brasil/policia/mulher-agredida-por-lutador-em-elevador-de-condominio-no-rio-desabafa-muito-medo,9f54eb2829d956c2a10c8e8bcc4988e0v2avxqmv.html",
+        "data": "09/11/2026 00:14",
+        "fonte": "Terra",
         "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/09/IMG_8941.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/09/captura-de-tela-2026-11-08-164122-t4sxui0107cj.png"
     },
     {
-        "titulo": "Alcaraz vence Shelton e conquista título inédito no Masters 1000 de Paris",
-        "link": "https://exame.com/esporte/alcaraz-vence-shelton-e-conquista-titulo-inedito-no-masters-1000-de-paris/",
-        "data": "08/11/2026 14:55",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/11/AFP__20261108__D6UH9DD__v1__HighRes__TennisFraAtpMasters.jpg"
-    },
-    {
-        "titulo": "Trufa branca é vendida por mais de meio milhão de reais em leilão na Itália",
-        "link": "https://exame.com/mundo/trufa-branca-e-vendida-por-mais-de-meio-milhao-de-reais-em-leilao-na-italia/",
-        "data": "08/11/2026 14:30",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/11/AFP__20261108__D6U694Y__v1__HighRes__AlbaWhiteTruffleWorldAuction.jpg"
-    },
-    {
-        "titulo": "Irã executa três homens acusados de atuar para Israel e EUA durante protestos",
-        "link": "https://exame.com/mundo/ira-executa-tres-homens-acusados-de-atuar-para-israel-e-eua-durante-protestos/",
-        "data": "08/11/2026 14:20",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/01/ira-protestos-rial.jpg"
-    },
-    {
-        "titulo": "Gabarito extraoficial do Enem 2026: veja sites que realizam a correção da prova",
-        "link": "https://exame.com/brasil/gabarito-extraoficial-do-enem-2026-veja-sites-que-realizam-a-correcao-da-prova/",
-        "data": "08/11/2026 14:00",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2026/01/5d1059d7-6b4f-4382-9b7e-1660bbd36945.png"
-    },
-    {
-        "titulo": "Tema da redação do Enem é revelado pelo Inep; veja qual",
-        "link": "https://exame.com/brasil/sus-e-o-tema-da-redacao-do-enem-2026-entenda-como-a-nota-e-calculada/",
-        "data": "08/11/2026 13:55",
-        "fonte": "Exame",
-        "metodo": "RSS",
-        "image": "https://classic.exame.com/wp-content/uploads/2024/06/Enem2024.jpg"
-    },
-    {
-        "titulo": "EUA pedem ao Iraque que feche maioria de postos de fronteira com o Irã, diz ministro iraquiano",
-        "link": "https://www.terra.com.br/noticias/mundo/eua-pedem-ao-iraque-que-feche-maioria-de-postos-de-fronteira-com-o-ira-diz-ministro-iraquiano,472f1fc2984d94d01a0c7ff92ddf61e0gsm5d3d0.html",
-        "data": "08/11/2026 19:16",
+        "titulo": "Lula diz que governo atuará para reduzir juros e viabilizar investimentos",
+        "link": "https://www.terra.com.br/noticias/brasil/lula-diz-que-governo-atuara-para-reduzir-juros-e-viabilizar-investimentos,fa70b62fe5b5338d99d8728d5b549bb0xajxtw7s.html",
+        "data": "09/11/2026 00:14",
         "fonte": "Terra",
         "metodo": "RSS",
         "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
     },
     {
-        "titulo": "Luciano anuncia morte do pai: 'Tudo que sei sobre futebol começou com você'",
-        "link": "https://www.terra.com.br/esportes/sao-paulo/luciano-anuncia-morte-do-pai-tudo-que-sei-sobre-futebol-comecou-com-voce,ead8d7ac040a267919a1b19e204dad3bvf1pnp11.html",
-        "data": "08/11/2026 19:16",
+        "titulo": "Luciano, do São Paulo, anuncia morte do pai: \"Meu maior herói\"",
+        "link": "https://www.terra.com.br/esportes/sao-paulo/luciano-do-sao-paulo-anuncia-morte-do-pai-meu-maior-heroi,16362edeaa139189265c3993268b5441lsac2oc1.html",
+        "data": "09/11/2026 00:14",
+        "fonte": "Terra",
+        "metodo": "RSS",
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/09/875327056-luciano01-610x400.jpg"
+    },
+    {
+        "titulo": "Em discurso, Lula critica fuga de Flávio e promete responsabilidade fiscal",
+        "link": "https://www.terra.com.br/noticias/brasil/em-discurso-lula-critica-fuga-de-flavio-e-promete-responsabilidade-fiscal,342d887c42d9c7202374bbf974a8d831m1mx5py9.html",
+        "data": "09/11/2026 00:13",
         "fonte": "Terra",
         "metodo": "RSS",
         "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
     },
     {
-        "titulo": "MotoGP: Veja o que Marc Márquez precisa para ser campeão já no GP de Portugal",
-        "link": "https://www.terra.com.br/esportes/automobilismo/motogp-veja-o-que-marc-marquez-precisa-para-ser-campeao-ja-no-gp-de-portugal,65ba1f5e9fb30242bc1a7624d3fcfe5ba7u7mlq2.html",
-        "data": "08/11/2026 19:14",
-        "fonte": "Terra",
-        "metodo": "RSS",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/08/whatsapp-image-2026-11-08-at-19-07-06-rhow7lztt17m.jpeg"
-    },
-    {
-        "titulo": "Sony revive os fones de ouvido do Walkman de 1979 com os novos MDR-3R e se junta ao retorno do áudio com fio",
-        "link": "https://www.terra.com.br/byte/sony-revive-os-fones-de-ouvido-do-walkman-de-1979-com-os-novos-mdr-3r-e-se-junta-ao-retorno-do-audio-com-fio,497279fc3e94cb657459f7faba733c02m0o7hj4t.html",
-        "data": "08/11/2026 19:13",
-        "fonte": "Terra",
-        "metodo": "RSS",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/08/2027534040-13662000.jpeg"
-    },
-    {
-        "titulo": "Estudantes que perderem Enem por questões climáticas terão nova oportunidade em dezembro, diz ministro",
-        "link": "https://www.terra.com.br/noticias/educacao/estudantes-que-perderem-enem-por-questoes-climaticas-terao-nova-oportunidade-em-dezembro-diz-ministro,2e5ff550154ed23be0913ab8f68fae55ylnuolxw.html",
-        "data": "08/11/2026 19:11",
-        "fonte": "Terra",
-        "metodo": "RSS",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/30/leonardo-tolqoj58t73m.jpg"
-    },
-    {
-        "titulo": "Norris vence GP de São Paulo e Mercedes conquista o título de construtores da F1",
-        "link": "https://www.terra.com.br/esportes/norris-vence-gp-de-sao-paulo-e-mercedes-conquista-o-titulo-de-construtores-da-f1,d651cd7254e1f9a9fb6feabfb584b91b7exjwuhb.html",
-        "data": "08/11/2026 19:09",
+        "titulo": "Abel pede que entrada em Arias receba tanta 'atenção' quanto a mão de Barboza",
+        "link": "https://www.terra.com.br/esportes/palmeiras/abel-pede-que-entrada-em-arias-receba-tanta-atencao-quanto-a-mao-de-barboza,fa9fbc36376553df7234987c85cf2b93euzdjq9l.html",
+        "data": "09/11/2026 00:13",
         "fonte": "Terra",
         "metodo": "RSS",
         "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
     },
     {
-        "titulo": "Jogador Luciano Neves lamenta morte do pai e relembra apoio na carreira no futebol",
-        "link": "https://www.terra.com.br/diversao/gente/jogador-luciano-neves-lamenta-morte-do-pai-e-relembra-apoio-na-carreira-no-futebol,71f76e651b779593b20b6c7a56baecc1s5plw37z.html",
-        "data": "08/11/2026 19:09",
+        "titulo": "Eliminação expõe jogadores que não podem seguir no Vasco",
+        "link": "https://www.terra.com.br/esportes/futebol/eliminacao-expoe-jogadores-que-nao-podem-seguir-no-vasco,5f62c73dc84185d721ce7c529a520738qv4ubvhv.html",
+        "data": "09/11/2026 00:12",
         "fonte": "Terra",
         "metodo": "RSS",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/08/1847391909-jogador-luciano-neves-lamenta-morte-do-pai-e-relembra-apoio-na-carreira-no-futebol.png"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/09/1824684334-agencia-rti-esporte-wilson-pimentel-jornalista-colunista.jpg"
     },
     {
-        "titulo": "Deu ruim! Lando Norris quebra garrafa de champagne durante pódio do GP de São Paulo",
-        "link": "https://www.terra.com.br/esportes/automobilismo/formula1/deu-ruim-lando-norris-quebra-garrafa-de-champagne-durante-podio-do-gp-de-sao-paulo,5559cc06722605e949ab80ff0017245a8s478u4y.html",
-        "data": "08/11/2026 19:08",
+        "titulo": "As disputas internas no Partido Republicano após a derrota de Trump nas eleições de meio de mandato",
+        "link": "https://www.terra.com.br/noticias/mundo/as-disputas-internas-no-partido-republicano-apos-a-derrota-de-trump-nas-eleicoes-de-meio-de-mandato,84a5de1d0c7031d39b64f69f053ebb59nth4wadj.html",
+        "data": "09/11/2026 00:19",
         "fonte": "Terra",
         "metodo": "RSS",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/08/captura-de-tela-2026-11-08-as-16-04-15-1iv3tbkvhlyzo.png"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/09/841237796-89099350-dae8-11f1-b441-2b33b063138f.jpg"
     },
     {
-        "titulo": "Monaco de Filipe Luís cede empate no fim e amplia jejum no Francês",
-        "link": "https://www.terra.com.br/esportes/futebol/internacional/equipes/monaco/monaco-de-filipe-luis-cede-empate-no-fim-e-amplia-jejum-no-frances,a0c373404a731c33a509f84ec4c088aalv28s6ly.html",
-        "data": "08/11/2026 19:12",
+        "titulo": "Pedro Emanuel vê bom caminho no Vasco apesar de eliminação",
+        "link": "https://www.terra.com.br/esportes/vasco/pedro-emanuel-ve-bom-caminho-no-vasco-apesar-de-eliminacao,f6f7c3f67990b9dcae1fd7de7a83c515agysylxc.html",
+        "data": "09/11/2026 00:06",
         "fonte": "Terra",
         "metodo": "RSS",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/08/1662679630-le-mans-x-monaco-3-610x400.jpg"
+        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/09/817936879-55477687549ff6ac42b57h-1-1-610x400.jpg"
     },
     {
-        "titulo": "As aves comedoras de crianças que moldaram nossa evolução na Idade da Pedra",
-        "link": "https://www.terra.com.br/byte/ciencia/as-aves-comedoras-de-criancas-que-moldaram-nossa-evolucao-na-idade-da-pedra,43886fd97530e05c8a78691e193143526uy26jp2.html",
-        "data": "08/11/2026 19:13",
-        "fonte": "Terra",
-        "metodo": "RSS",
-        "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/08/1280568377-d4983b20-d7a8-11f1-84dd-e55f4bec0ecd.jpg"
-    },
-    {
-        "titulo": "Livro narra a trajetória de Jair Candor na defesa de indígenas isolados no Brasil",
-        "link": "https://veja.abril.com.br/brasil/livro-narra-a-trajetoria-de-jair-candor-na-defesa-de-indigenas-isolados-no-brasil/",
-        "data": "08/11/2026 19:01",
+        "titulo": "Lula acena ao mercado, promete responsabilidade fiscal e alfineta Flávio Bolsonaro em pronunciamento",
+        "link": "https://veja.abril.com.br/brasil/lula-acena-ao-mercado-promete-responsabilidade-fiscal-e-alfineta-flavio-bolsonaro-em-pronunciamento/",
+        "data": "08/11/2026 23:45",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/11/1-un-768x509-1.jpg?quality=70&strip=info&resize=1200,630&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/11/d6a6722_1.jpg?quality=70&strip=info&resize=1200,630&crop=1"
     },
     {
-        "titulo": "Vhils inaugura exposição com labirinto de metal em São Paulo",
-        "link": "https://veja.abril.com.br/cultura/vhils-inaugura-exposicao-com-labirinto-de-metal-em-sao-paulo/",
-        "data": "08/11/2026 19:00",
+        "titulo": "Flamengo e Internacional disputam título da Copa do Brasil Feminina 2026",
+        "link": "https://veja.abril.com.br/coluna/linha-de-frente/flamengo-e-internacional-disputam-titulo-da-copa-do-brasil-feminina-2026/",
+        "data": "08/11/2026 23:06",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/11/AlexandreFarto_MetalAssembly_Lindoservico_022016_CreditJosePandoLucas_18.jpg?quality=70&strip=info&resize=1200,630&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/11/1794179002730787.jpg?quality=70&strip=info&resize=1200,630&crop=1"
     },
     {
-        "titulo": "F1: Mercedes conquista campeonato de construtores em Interlagos",
-        "link": "https://veja.abril.com.br/esporte/f1-mercedes-conquista-campeonato-de-construtores-em-interlagos/",
-        "data": "08/11/2026 18:46",
+        "titulo": "De Jack Nicholson a Lídia Brondi, os atores que optaram por fugir dos holofotes",
+        "link": "https://veja.abril.com.br/cultura/de-jack-nicholson-a-lidia-brondi-os-atores-que-optaram-por-fugir-dos-holofotes/",
+        "data": "08/11/2026 23:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/11/GettyImages-2304156603.jpg?quality=70&strip=info&resize=1200,630&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/11/jacklidia.jpg?quality=70&strip=info&resize=1200,630&crop=1"
     },
     {
-        "titulo": "Como surgiu e funciona o SUS, tema da redação do Enem 2026",
-        "link": "https://veja.abril.com.br/brasil/como-surgiu-e-funciona-o-sus-tema-da-redacao-do-enem-2026/",
-        "data": "08/11/2026 18:45",
+        "titulo": "Papa Leão XIV chega à Argentina em viagem dedicada a Francisco, alvo de insultos de Milei",
+        "link": "https://veja.abril.com.br/mundo/papa-leao-xiv-chega-a-argentina-em-viagem-dedicada-a-francisco-alvo-de-insultos-de-milei/",
+        "data": "08/11/2026 21:54",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/09/d6a1662-2-e1758761509147.webp?quality=70&strip=info&resize=1200,630&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/11/GettyImages-2304176571.jpg?quality=70&strip=info&resize=1200,630&crop=1"
     },
     {
-        "titulo": "Formula 1: Norris vence com Verstappen indo de 21º ao pódio em Interlagos",
-        "link": "https://veja.abril.com.br/esporte/formula-1-norris-vence-com-verstappen-indo-de-21o-ao-podio-em-interlagos/",
-        "data": "08/11/2026 18:44",
+        "titulo": "F1: como fica a classificação dos pilotos e construtores após o GP de Interlagos?",
+        "link": "https://veja.abril.com.br/esporte/f1-como-fica-a-classificacao-dos-pilotos-e-construtores-apos-o-gp-de-interlagos/",
+        "data": "08/11/2026 21:21",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/11/GettyImages-2304145940.jpg?quality=70&strip=info&resize=1200,630&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/11/GettyImages-2304169672.jpg?quality=70&strip=info&resize=1200,630&crop=1"
     },
     {
-        "titulo": "A posição contrária do chefe de comunicação do PT à redução da maioridade penal",
-        "link": "https://veja.abril.com.br/politica/a-posicao-contraria-do-chefe-de-comunicacao-do-pt-a-reducao-da-maioridade-penal/",
-        "data": "08/11/2026 18:32",
+        "titulo": "O feito marcante celebrado por Hamilton no GP de SP da Formula 1",
+        "link": "https://veja.abril.com.br/esporte/o-feito-marcante-celebrado-por-hamilton-no-gp-de-sp-da-formula-1/",
+        "data": "08/11/2026 21:07",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-14-at-16.33.34.jpeg?quality=70&strip=info&resize=1200,630&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/11/GettyImages-2304148982.jpg?quality=70&strip=info&resize=1200,630&crop=1"
     },
     {
-        "titulo": "Com pai preso, Meghan Markle volta à TV em reality de gastronomia para crianças",
-        "link": "https://veja.abril.com.br/coluna/veja-gente/com-pai-preso-meghan-markle-volta-a-tv-em-reality-de-gastronomia-para-criancas/",
-        "data": "08/11/2026 18:00",
+        "titulo": "A decisão do STJ que envolveu apartamento de Sabrina Sato",
+        "link": "https://veja.abril.com.br/brasil/a-decisao-do-stj-que-envolveu-apartamento-de-sabrina-sato/",
+        "data": "08/11/2026 21:01",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/11/WLM_240612_Unit_00057RC.jpg.jpg?quality=70&strip=info&resize=1200,630&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/08/55045039149_f43272d0de_c.jpg?quality=70&strip=info&resize=1200,630&crop=1"
     },
     {
-        "titulo": "‘Rei da Sucata’: empresário suspeito de lavar dinheiro para o CV é preso em joalheria em SP",
-        "link": "https://veja.abril.com.br/brasil/rei-da-sucata-empresario-suspeito-de-lavar-dinheiro-para-o-cv-e-preso-em-joalheria-em-sp/",
-        "data": "08/11/2026 17:43",
+        "titulo": "Escritora argentina critica apagamento indígena e governo de Javier Milei",
+        "link": "https://veja.abril.com.br/cultura/escritora-argentina-critica-apagamento-indigena-e-governo-de-javier-milei/",
+        "data": "08/11/2026 21:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/11/Rei-da-Sucata.jpg?quality=70&strip=info&resize=1200,630&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-16.18.24.jpeg?quality=70&strip=info&resize=1200,630&crop=1"
     },
     {
-        "titulo": "Valorização do SUS é tema da redação do Enem 2026",
-        "link": "https://veja.abril.com.br/brasil/a-valorizacao-do-sistema-unico-de-saude-sus-como-direito-universal-e-tema-da-redacao-do-enem/",
-        "data": "08/11/2026 17:25",
+        "titulo": "São Paulo terá mais um dia frio nesta segunda-feira; veja até quanto cai a temperatura",
+        "link": "https://veja.abril.com.br/agenda-verde/sao-paulo-tera-mais-um-dia-frio-nesta-segunda-feira-veja-ate-quanto-cai-a-temperatura/",
+        "data": "08/11/2026 21:00",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2025/11/folha-de-redacao-baixar-enem.jpg?quality=70&strip=info&resize=1200,630&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2017/07/frio-sp-temperaturas-20170718-0002.jpg?quality=70&strip=info&resize=1200,630&crop=1"
     },
     {
-        "titulo": "O recado do Papa Leão XIV em sua última agenda no Uruguai",
-        "link": "https://veja.abril.com.br/brasil/o-recado-do-papa-leao-xiv-em-sua-ultima-agenda-no-uruguai/",
-        "data": "08/11/2026 17:18",
+        "titulo": "Alvo de operação da PF contra CV, mãe de Oruam passa a cumprir prisão domiciliar",
+        "link": "https://veja.abril.com.br/brasil/alvo-de-operacao-da-pf-contra-cv-mae-de-oruam-passa-a-cumprir-prisao-domiciliar/",
+        "data": "08/11/2026 20:56",
         "fonte": "Veja",
         "metodo": "RSS",
-        "image": "https://veja.abril.com.br/wp-content/uploads/2026/10/AFP__20261025__D4CV2NR__v1__HighRes__VaticanReligionPopeAngelus.jpg?quality=70&strip=info&resize=1200,630&crop=1"
+        "image": "https://veja.abril.com.br/wp-content/uploads/2025/07/Captura-de-tela-2025-07-25-155755-e1775596462212.png?quality=70&strip=info&resize=1200,630&crop=1"
     }
 ]
